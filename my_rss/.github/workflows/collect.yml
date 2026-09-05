@@ -1,0 +1,42 @@
+name: RSS 수집 (2시간마다)
+
+on:
+  schedule:
+    - cron: '0 */2 * * *'
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: my_rss-collect
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: my_rss
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - run: npm ci
+
+      - run: npm run collect
+
+      - name: Commit and push updated data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/news.json
+          if git diff --cached --quiet; then
+            echo "변경 사항 없음"
+          else
+            git commit -m "chore: RSS 뉴스 자동 수집 [skip ci]"
+            git push
+          fi

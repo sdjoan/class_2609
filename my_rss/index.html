@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>RSS 뉴스 대시보드</title>
+<link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header class="topbar">
+    <h1>📰 RSS 뉴스 대시보드</h1>
+    <div class="meta">
+      <span id="updated">불러오는 중...</span>
+      <button id="refresh" title="새로고침">↻</button>
+    </div>
+  </header>
+
+  <nav id="tabs" class="tabs"></nav>
+
+  <main id="content" class="content">
+    <p class="empty">뉴스를 불러오는 중입니다...</p>
+  </main>
+
+  <footer class="footer">
+    2시간마다 자동 수집 · 매일 오전 9시 디스코드로 요약 전송
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>

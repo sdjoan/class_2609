@@ -1,0 +1,25 @@
+name: 디스코드 일일 요약 (매일 오전 9시 KST)
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch: {}
+
+jobs:
+  digest:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: my_rss
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - run: npm ci
+
+      - run: npm run digest
+        env:
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
