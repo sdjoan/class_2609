@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-09-06T16:46:40.502Z",
-  "count": 276,
+  "lastUpdated": "2026-09-06T20:11:53.820Z",
+  "count": 277,
   "items": [
     {
       "title": "MS, AI 개발자 전용 윈도우 11 ‘프로젝트 제니스’ 공개… \"30B 모델 로컬 실행\"",
@@ -154,6 +154,13 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=214898",
       "pubDate": "2026-09-06T09:04:44.000Z",
       "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "An Alien Mind",
+      "link": "https://openai.com/index/an-alien-mind",
+      "pubDate": "2026-09-06T09:00:00.000Z",
+      "source": "OpenAI",
       "category": "AI"
     },
     {
