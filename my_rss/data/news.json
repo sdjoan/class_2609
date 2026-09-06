@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-09-06T13:28:19.635Z",
-  "count": 272,
+  "lastUpdated": "2026-09-06T16:46:40.502Z",
+  "count": 276,
   "items": [
     {
       "title": "MS, AI 개발자 전용 윈도우 11 ‘프로젝트 제니스’ 공개… \"30B 모델 로컬 실행\"",
@@ -15,6 +15,20 @@
       "pubDate": "2026-09-06T15:25:24.000Z",
       "source": "AI타임스",
       "category": "AI"
+    },
+    {
+      "title": "이란유조선 타격, 미군함에 보복공격…미궁속 전쟁, 끝이 안보인다",
+      "link": "https://www.mk.co.kr/news/economy/12145635",
+      "pubDate": "2026-09-06T14:34:40.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "양구군, 접경지역 소상공인 시설현대화 지원사업 2차 모집 - 아시아뉴스통신",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1FSjFxMjZkYlNUbHRzTEhaaUpQMHNLMUtKczdBRVBaZl9SbG83V2VNMHYzV2VPWkR0S0ZCWElGRlBrMGZNekEwc21TSU9ZUmdGSmpJc1F5TzJ6QWoz?oc=5",
+      "pubDate": "2026-09-06T14:09:14.000Z",
+      "source": "Google 뉴스: 지원사업 공고/모집",
+      "category": "정부지원정책"
     },
     {
       "title": "머스크, 미네소타 ‘AI 딥페이크 누드 금지법’ 저지 실패",
@@ -71,6 +85,13 @@
       "pubDate": "2026-09-06T10:35:35.000Z",
       "source": "AI타임스",
       "category": "AI"
+    },
+    {
+      "title": "양구군, 접경지역 소상공인 시설현대화 지원사업 2차 모집 - 웹이코노미",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5wZ1hidlBzV2JTaTYtQVJyYTB0V3lnSGxWLXprcEQxVmtRbzMxQnFLR09Nc2UyVVFLRHFndm53UFBVUkQ3b3RVelcwNWJnRGlWMmxISGViMDRzUTdpX043UHRPT2Vtd05LSTAwRDJLNmFsdw?oc=5",
+      "pubDate": "2026-09-06T10:22:21.000Z",
+      "source": "Google 뉴스: 지원사업 공고/모집",
+      "category": "정부지원정책"
     },
     {
       "title": "양구군, 접경지역 소상공인 시설현대화 지원사업 2차 모집 - fnewstv.com",
@@ -245,6 +266,13 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=214896",
       "pubDate": "2026-09-06T08:00:01.000Z",
       "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "Research acceleration: The view inside OpenAI",
+      "link": "https://openai.com/index/research-acceleration-view-inside-openai",
+      "pubDate": "2026-09-06T08:00:00.000Z",
+      "source": "OpenAI",
       "category": "AI"
     },
     {
