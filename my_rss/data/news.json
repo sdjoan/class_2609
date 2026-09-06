@@ -1,13 +1,139 @@
 {
-  "lastUpdated": "2026-09-05T23:46:39.837Z",
-  "count": 221,
+  "lastUpdated": "2026-09-06T03:44:10.600Z",
+  "count": 241,
   "items": [
+    {
+      "title": "머스크, 미네소타 ‘AI 딥페이크 누드 금지법’ 저지 실패",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214908",
+      "pubDate": "2026-09-06T11:51:02.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "엔비디아·크라우드스트라이크, '공격·방어 동시 수행' 사이버 보안 AI '세이프마인드' 공개",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214905",
+      "pubDate": "2026-09-06T11:42:24.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "오픈AI, 에이전트 '위키 사건' 인정...\"AI 정렬 실패 공개 기준 만들 것\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214900",
+      "pubDate": "2026-09-06T11:37:36.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "'알트먼 축출 사태' 다룬 영화 '아티피셜', 10월 뉴욕 영화제서 최초 공개",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214907",
+      "pubDate": "2026-09-06T11:29:59.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "알트먼 \"AI 혜택 홍보 미흡했다\" 자성… 대중 설득 나선 빅테크",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214906",
+      "pubDate": "2026-09-06T11:09:28.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "\"메모리 400% 폭등에 '아이폰 18 프로' 20% 올려 178만원 육박할 것\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214903",
+      "pubDate": "2026-09-06T10:35:35.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "순천서 조각보·전통자수 만난다…김영복 작가 초대전",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214862",
+      "pubDate": "2026-09-06T09:45:00.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "전남도서관, 9월 한 달 도서 대출 확대…전시·공연·강연 풍성",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214855",
+      "pubDate": "2026-09-06T09:40:00.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "일레븐랩스, 한국 시장 공략 본격화…\"초저지연 음성 AI로 AICC 혁신\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214895",
+      "pubDate": "2026-09-06T09:35:00.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "오픈AI, '코드 아레나'서 앤트로픽 처음 제쳐…'아스트라' 웹개발 1위 기염",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214899",
+      "pubDate": "2026-09-06T09:32:50.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "영국 태양광 설치, 7개월간 17만건…7월 10건 중 7건이 옥상형",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214831",
+      "pubDate": "2026-09-06T09:25:00.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "목포, 무인수상정 자율운항 거점 추진…해상실증·R&D 연계",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214860",
+      "pubDate": "2026-09-06T09:20:00.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "태양광 오염방지 코팅, 로봇청소 조건 따라 수명 최대 82배 차이",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214837",
+      "pubDate": "2026-09-06T09:15:00.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "앤트로픽, '클로드 맥스' 주간 사용량 초기화…'아스트라' 돌풍에 맞불",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214898",
+      "pubDate": "2026-09-06T09:04:44.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
     {
       "title": "GPT-6 아스트라, AI 최초 수능 '완전 만점'...탐구 4과목까지 석권",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=214896",
       "pubDate": "2026-09-06T08:00:01.000Z",
       "source": "AI타임스",
       "category": "AI"
+    },
+    {
+      "title": "年8.29% 적금 재미보더니…이번엔 아시안게임 특판 7.5% 적금 내놓은 은행",
+      "link": "https://www.mk.co.kr/news/economy/12145242",
+      "pubDate": "2026-09-06T01:43:00.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "“달러·엔 나중에 쓰면 되니까, 쌀 때 일단 사둬”…환율 급락에 외화예금 역대 최대",
+      "link": "https://www.mk.co.kr/news/economy/12145235",
+      "pubDate": "2026-09-06T01:31:07.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "국민 혈세로 갚아야 할 나랏빚 무려 1300조…이자만 53조 ‘비상등’",
+      "link": "https://www.mk.co.kr/news/economy/12145226",
+      "pubDate": "2026-09-06T01:10:10.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "혼자 살아도 10명 중 7명 “만족해요”…800만 싱글 최대 고민은 ‘이것’",
+      "link": "https://www.mk.co.kr/news/economy/12145221",
+      "pubDate": "2026-09-06T00:51:38.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
     },
     {
       "title": "하나은행, ‘소상공인 경쟁력 강화 지원 사업’ 3차 모집…사업장 환경 개선 지원 - thepublic.kr",
@@ -239,6 +365,13 @@
       "pubDate": "2026-09-05T01:06:04.000Z",
       "source": "매일경제 경제",
       "category": "경제"
+    },
+    {
+      "title": "YouTube’s new public viewcounts over-report actual engagement by 40%",
+      "link": "https://www.tubefilter.com/2026/09/04/youtubes-new-public-viewcounts-over-report-actual-engagement-by-40/",
+      "pubDate": "2026-09-04T23:43:35.000Z",
+      "source": "Tubefilter",
+      "category": "수익화/크리에이터 이코노미"
     },
     {
       "title": "Have you heard? Another YouTuber on Netflix, Dude Perfect’s CEO shuffle, and a cow gamer.",
@@ -1384,6 +1517,13 @@
     {
       "title": "사상여성인력개발센터, ‘든든 채움 대체인력 지원사업’ 참여기업 모집 - busan.com",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1sY3hnMm9rb1hWMU9za2xwc3pFX1doS1pGeUJpZ00zS1N0VE5DWEhUdUsxTFdVa0tUdFg4YVdKSklFa184VjlLV3FDYWx4b05aZkM0OGsxNHhnbFdfaTROVnJaTTFuRW5lRXNRSEQ5dnhuVzZ0Y0xRYXprX0I?oc=5",
+      "pubDate": "2026-09-02T05:53:23.000Z",
+      "source": "Google 뉴스: 지원사업 공고/모집",
+      "category": "정부지원정책"
+    },
+    {
+      "title": "사상여성인력개발센터, ‘든든 채움 대체인력 지원사업’ 참여기업 모집 - 부산일보",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE52dEVHU0dYaF9mZ1VmYThCdF9wVnNpVkFqRDBpR1o3TEZNSDJra0J3RXh5Mzd5UmxoY0ZzWWExWHc2cGdYSGJoeXp4eDRDb1FGTWYtYmF1cXNLRkx4anRZeEg3bE80bTZHTTdrY1pIWjJmdXhU?oc=5",
       "pubDate": "2026-09-02T05:53:23.000Z",
       "source": "Google 뉴스: 지원사업 공고/모집",
       "category": "정부지원정책"
