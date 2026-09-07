@@ -1,7 +1,35 @@
 {
-  "lastUpdated": "2026-09-07T09:07:27.374Z",
-  "count": 364,
+  "lastUpdated": "2026-09-07T15:37:10.574Z",
+  "count": 402,
   "items": [
+    {
+      "title": "[9월7일] 순천 AI 영상 뉴스 - 순천서 ‘2026 다문화 한마음축제’ 등",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214950",
+      "pubDate": "2026-09-07T18:13:18.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "앤트로픽, '클로드' 수요 폭증에 11개월간 695조 인프라 확보",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214933",
+      "pubDate": "2026-09-07T18:12:43.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "챗GPT,'개인 문체' 학습 기능 테스트...\"AI가 쓴 티 벗어난다\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214961",
+      "pubDate": "2026-09-07T18:05:18.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "'제미나이' 말 믿고 산에 올랐다가 고립...등산객 일행, 다음날 구조",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214962",
+      "pubDate": "2026-09-07T17:59:13.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
     {
       "title": "\"끝없이 펼쳐지는 가상세계\"...런웨이, 실시간 조작 가능한 'GWM 월드 2' 선보여",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=214952",
@@ -185,11 +213,25 @@
       "category": "AI"
     },
     {
+      "title": "우리금융 외국인 지분율, 사상 첫 50% 돌파…꾸준히 사들이는 이유는",
+      "link": "https://www.mk.co.kr/news/economy/12146570",
+      "pubDate": "2026-09-07T13:19:28.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
       "title": "메가존클라우드, 업스테이지 '솔라'로 한미약품 품질관리 AI 에이전트 구축",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=214930",
       "pubDate": "2026-09-07T12:51:30.000Z",
       "source": "AI타임스",
       "category": "AI"
+    },
+    {
+      "title": "경상원, 2026년 푸드트레일러 임대지원 참여자 모집 - 모닝투데이",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE16LXYtVHRBLThVMmNIU2VuYzlOX29yRHFZWHBQVGljVWNXSXNYMDlKS1ZtSzJqZUh6ai1yV2RZOWpwWms3Z0xTZnBJSGM?oc=5",
+      "pubDate": "2026-09-07T12:47:00.000Z",
+      "source": "Google 뉴스: 지원사업 공고/모집",
+      "category": "정부지원정책"
     },
     {
       "title": "\"인류 멸망 이미 시작됐다\"...'AI 종말'의 진짜 위협은 인간성 양도",
@@ -255,11 +297,32 @@
       "category": "AI"
     },
     {
+      "title": "“중소기업 ESG 경쟁력 강화”···수자원공사, 지원사업 참여기업 모집 - 이뉴스투데이",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA4NUJJZ1hCS3BlcEJIQ3dXMzM4OTVqU0lqSjR3Q29tLVVMSlNwMjlMTllMVk1SX2Zod1lkTFFOTHVMZ3YtX0hHeEFwSW5TaE9sbkRpSWRuTXZ0c0F1bXkwZVZEMlVSYWE2Z1Y3NHlwSkbSAXRBVV95cUxPRHZoQlByNGw0Q1ZuRlVxVjJ4QU9mYUdtZ0xSdWxXLWRxTk5xTFlaTVRXbnhJaDY1Unk4SF9zSERGUVFEb1VqbDR3NGFfak5rR3BKdV9HSHlQUFRxb3dEOHJHaXpZVXdHem5wR0NqWU5sSUxPMA?oc=5",
+      "pubDate": "2026-09-07T11:00:27.000Z",
+      "source": "Google 뉴스: 지원사업 공고/모집",
+      "category": "정부지원정책"
+    },
+    {
+      "title": "한미 '원전동맹' 업그레이드 … 대미펀드 70% 발전사업 투자",
+      "link": "https://www.mk.co.kr/news/economy/12146530",
+      "pubDate": "2026-09-07T10:55:51.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
       "title": "태양광 인버터 늦게 켜졌더니…연간 발전량 1.88% 손실",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=214913",
       "pubDate": "2026-09-07T10:55:00.000Z",
       "source": "AI타임스",
       "category": "AI"
+    },
+    {
+      "title": "수자원공사, 중소기업 ESG 지원사업 참여기업 모집 - 금강일보",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE55bkQtWmZhZVRLQml4Y0V4aEk3cWdLSE1Ed0ZNMWFsMzRJSDRLblNLbF9ZejRTbWJqclhnazE5SlRmV2FyLTltRGFmSnp6SDlKcmpSRV93ZlpHR29wMnZ5ZUVDTUVjMDd1?oc=5",
+      "pubDate": "2026-09-07T09:37:59.000Z",
+      "source": "Google 뉴스: 지원사업 공고/모집",
+      "category": "정부지원정책"
     },
     {
       "title": "'대미투자 1호' 텍사스 복합화력발전소 확정",
@@ -395,11 +458,67 @@
       "category": "경제"
     },
     {
+      "title": "수자원공사, 중소기업 ESG 경쟁력 강화 지원사업 참여기업 모집 - 매일일보",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5sUF9OUjVoN09sc0h5b25RUnhVOVFGM3hEcW03Z0NXUDFZUVdpVTVZRE5DaENValBSdnM0dkZ0cm84eDRRUEUzOGZ2cGdoRWN2Tk4xbUNuSnZuNnhaMDhNeW9wY9IBaEFVX3lxTFBSRTBZLTNqM3U5RW1feWUtNmw5MU9JWFZFSXlfeFRrUGQ0c1BMMHZoZ1Rya3pBZTBha1dhUkFpM293TUZBU2pnVVd2eUhCSWxFM21wQUNzRTlJN3JjSFBSb0dFa1laRE1G?oc=5",
+      "pubDate": "2026-09-07T08:16:23.000Z",
+      "source": "Google 뉴스: 지원사업 공고/모집",
+      "category": "정부지원정책"
+    },
+    {
+      "title": "한국수자원공사, 중소기업 ESG 지원사업 참여기업 모집 - v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1XVGg2dl9DUnNpS0RMYnVyR2hlNGtPWFFTZjhmN1NRQ1JIWEZQVy1IMTh1T2xvTElaZ09lTVRZN3FleXNPSW1HYVpDQ0dua0E?oc=5",
+      "pubDate": "2026-09-07T07:54:21.000Z",
+      "source": "Google 뉴스: 지원사업 공고/모집",
+      "category": "정부지원정책"
+    },
+    {
+      "title": "K-water, 중소기업 ESG 경쟁력 키운다…18일까지 20개사 모집 - 건설이코노미뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9BaXNMYmVwMi1rb2tEQzBOdzVEZHc2SkRSU2VOZ2QteEZhTmNQOEhzTEYxT3ZCWl9fS0NRMnZOWXE3ZlZ3WGlxMkplQmI1MGdHZjdLczllV25QMlpVb0lIX0JKYm1jQQ?oc=5",
+      "pubDate": "2026-09-07T07:53:16.000Z",
+      "source": "Google 뉴스: 지원사업 공고/모집",
+      "category": "정부지원정책"
+    },
+    {
+      "title": "수자원공사, K-water 중소기업 ESG 지원사업 참여 기업 모집 - 네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1jWHlkd3o3TFVrSUNSZXNnRnp6bEJLdllCMEdETS15OG9WMmZUMDU2dDJ0azRPQjBETFRnVGh6WDVadHNLanFSa1V4NGlqOVpNWXZR?oc=5",
+      "pubDate": "2026-09-07T07:51:00.000Z",
+      "source": "Google 뉴스: 지원사업 공고/모집",
+      "category": "정부지원정책"
+    },
+    {
+      "title": "한국수자원공사, 중소기업 ESG 지원사업 참여기업 모집 - cctoday.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5hNjlrUWtsWVpnZ1c2U3Q1U2lGd19DUEZtWWlZZFpnc0xsVERCMVRvbXk4b0JpZ1NsdmQ4RnIzQ3B5b3BIcjR4a2lKSzdPdGx6QlZ0ZDFzYlFJdU9TMUoyd3VNSFFIYm82elJUcE5n?oc=5",
+      "pubDate": "2026-09-07T07:47:58.000Z",
+      "source": "Google 뉴스: 지원사업 공고/모집",
+      "category": "정부지원정책"
+    },
+    {
+      "title": "경상원, ‘푸드트레일러 임대지원’ 참여자 모집 - 이코노뉴스",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB3YU5BWkUyWVhJc2U3M05GbXRwbnJVdU4zSGxzMFRmNUQtb21xSklpS3k3aUV1NmM4cmNYWFFOMzdObWtTazkxWXVrN0N6ejk1WlZfZ2MtWVEzZzdFWk5IbWZHbmxmWER1RVpDQXdDdw?oc=5",
+      "pubDate": "2026-09-07T07:46:47.000Z",
+      "source": "Google 뉴스: 지원사업 공고/모집",
+      "category": "정부지원정책"
+    },
+    {
+      "title": "경상원, '푸드 트레일러 1년간 임대 지원사업' 참여자 모집 - 프레시안",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5MWTJYY0IwcGNJT09xZWNNZ1hPWDZXNFNManU5R3VhdmJsenRfM3Y1MS14cGN3aEVfZVlHSzZXT2dWNDJHVEw1UDJhVGRJcHJCZUhDeG44YjBKWk5JWm1xalNaWFF3MVNyNWJR?oc=5",
+      "pubDate": "2026-09-07T07:40:25.000Z",
+      "source": "Google 뉴스: 지원사업 공고/모집",
+      "category": "정부지원정책"
+    },
+    {
       "title": "카드론 조았더니, 현금서비스·리볼빙 늘어…63%는 50대 이상",
       "link": "https://www.mk.co.kr/news/economy/12146226",
       "pubDate": "2026-09-07T07:39:25.000Z",
       "source": "매일경제 경제",
       "category": "경제"
+    },
+    {
+      "title": "경상원, 소자본 창업 지원을 위한 ‘2026년 푸드트레일러 임대지원’ 사업 신청자 모집 - 경기평화신문",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9RSS0ydzAzS1h3UGpmbFpMLWhDQjlrMnp4TGdabGJtZWNodEhIQ2JvaERMVXlycWpFcWF5WFZIQ1hNYy1rUmFrVkt3?oc=5",
+      "pubDate": "2026-09-07T07:39:00.000Z",
+      "source": "Google 뉴스: 지원사업 공고/모집",
+      "category": "정부지원정책"
     },
     {
       "title": "매일 납입하면 MMA 티켓이…카카오뱅크, ‘한달적금 위드 MMA2026’ 출시",
@@ -423,6 +542,13 @@
       "category": "경제"
     },
     {
+      "title": "수자원공사, ‘ESG 경쟁력 강화 지원사업’ 中企 모집 - 매일건설신문",
+      "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBPc2lTamJVTXQ4aHU1RGtHZF85ZDlwUW53Q3huMF9JRUszNE1GRzFaVFJjaW5kdVFJb0N4MGdGc2c3N0U?oc=5",
+      "pubDate": "2026-09-07T06:08:00.000Z",
+      "source": "Google 뉴스: 지원사업 공고/모집",
+      "category": "정부지원정책"
+    },
+    {
       "title": "“추가 세수 늘어난 지금이 적기인데”…기초연금 앞에서 멈춘 ‘용두미완’ 재정개혁 [기자24시]",
       "link": "https://www.mk.co.kr/news/economy/12146085",
       "pubDate": "2026-09-07T06:06:49.000Z",
@@ -437,11 +563,81 @@
       "category": "경제"
     },
     {
+      "title": "경기TP,‘ K-Food 비관세장벽 해소지원사업’ 참여 기업 모집…350만 원 지원 - 서울신문",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPWUh6Z0kzN1lZUHZrTVVoOEV2cG9KQnJkeGpqdURQWnVnRVJFc3c5M0tzMC1kR0NLc3M1TWRZZFFMdzc3QUVIU2U2N2FZUkt6clAwRjBTdFdEWHlQc0tFOTlCdnZNTlRORVNlaS0wdWpKVnpmT2cxWW90WEhaYVB4ZC1RTURUb2xpd0phMjNPcnA4OHc?oc=5",
+      "pubDate": "2026-09-07T05:39:54.000Z",
+      "source": "Google 뉴스: 지원사업 공고/모집",
+      "category": "정부지원정책"
+    },
+    {
+      "title": "동해시, 슬레이트 철거 지원사업 추가 모집 - 네이트",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBiOXEyR2tLc0FhRTZ0eVpUVGU4Z01aY3VSUGpZX1E5a3ZvUThnemdoN1lCbE1DODc0Xy0zYVA5ekhhVWd4NnRKRnBQQUhoRUxvRl9zMl9nY18yZmJIQnB1UmYyZmRiMWlvdFBSZ1U3eFdWLXJGOVdiSA?oc=5",
+      "pubDate": "2026-09-07T05:38:00.000Z",
+      "source": "Google 뉴스: 지원사업 공고/모집",
+      "category": "정부지원정책"
+    },
+    {
       "title": "이형일 부총리 후보자 “이번주에 ‘추석 민생안정대책’ 보완해 발표”",
       "link": "https://www.mk.co.kr/news/economy/12145973",
       "pubDate": "2026-09-07T05:07:32.000Z",
       "source": "매일경제 경제",
       "category": "경제"
+    },
+    {
+      "title": "한국수자원공사, 중소기업 ESG 지원사업 모집... 18일까지 접수 - 뉴스락",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9TaC16cm1NZUtQeFgzamMzS01tY0pjQzl1WkJkRmtHZ3VMTXRpWmRUVkNhcVQwa2MxOGh4XzhVRFpMZGRXNWtVd2dUdTVBNkh0aG9aN0JyQmdQdXZsd3duMkFINVdKRG5DdE1nVQ?oc=5",
+      "pubDate": "2026-09-07T04:52:50.000Z",
+      "source": "Google 뉴스: 지원사업 공고/모집",
+      "category": "정부지원정책"
+    },
+    {
+      "title": "순천시, ‘2026년 신혼부부·다자녀가정 보금자리 지원사업’ 대상자 모집 - 호남타임즈",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5rTmlWUVRsTkM2MmhVYk1qbkd4Q0tPd0puWWxzWHRFc2IxUWJJZE56RHphRnppQXRpbGhOVEctQ1ZkZHVCWFZQY1dQal9RTV9ZamU4MWlDTllOMEYzY0IybHVPV2FKZEZIdTVVSw?oc=5",
+      "pubDate": "2026-09-07T04:41:09.000Z",
+      "source": "Google 뉴스: 지원사업 공고/모집",
+      "category": "정부지원정책"
+    },
+    {
+      "title": "동해시, 슬레이트 철거 추가 지원…주택·창고 등 18동 모집 - 네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1ka0VyNkotMmxqSmpHZ2Noc2czR21JTFNfelZDNk95b08yUWhNR3V3dlFrR25jT2F2UndsclBYQ2lBcDZXRkF4azdJdWZsUVRFRzVR?oc=5",
+      "pubDate": "2026-09-07T03:57:00.000Z",
+      "source": "Google 뉴스: 지원사업 공고/모집",
+      "category": "정부지원정책"
+    },
+    {
+      "title": "수자원공사, 중소기업 ESG 지원사업 참여기업 모집 - 국토교통신문",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE40c3hab19XOWdnUnVyeFp6b0RGMWZlLWI5a1VwanBxNk14Y0NuQlY2b2VTenFwLUk1S3JoU1NSaExFNmlUSlU0MzZUaG9uWVJBNFlOeHY5UEhMQVRBR1NGY2l3WDlSN0U?oc=5",
+      "pubDate": "2026-09-07T03:50:46.000Z",
+      "source": "Google 뉴스: 지원사업 공고/모집",
+      "category": "정부지원정책"
+    },
+    {
+      "title": "경기테크노파크,‘ K-Food 비관세장벽 해소지원사업’ 참여기업 모집 - 경기종합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9UM2R0dXZhblhNN0hVYzdmX2lwc2hTeTZYYWN2eDRwOWhEUllhcG1pSmRLYjBqRkxUWFJobGUyTjQtS2JJSlRTYXVPX3V3eFl0d3dUREZMb3NkR212TnN0c0J4N3M5MzJxcktuSjcwcE8zVGZp?oc=5",
+      "pubDate": "2026-09-07T03:49:01.000Z",
+      "source": "Google 뉴스: 지원사업 공고/모집",
+      "category": "정부지원정책"
+    },
+    {
+      "title": "수자원공사, 중소기업 ESG 역량 강화 지원...18일까지 참여기업 모집 - 디트NEWS24",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1tTy1mcmp5SGZwOThHR2J3eDJkTnBzZlVSbEJDVXVTSlFwd0haREh1QnBhc3JhckZGVnIyaS1nR042N2FJNWd4aGdMSjY4QWlreUV6dVJSOTNCVDU5c0xiN1M0M2ZJU195aWVF?oc=5",
+      "pubDate": "2026-09-07T03:38:42.000Z",
+      "source": "Google 뉴스: 지원사업 공고/모집",
+      "category": "정부지원정책"
+    },
+    {
+      "title": "경기테크노파크,‘ K-Food 비관세장벽 해소지원사업’ 참여기업 모집 - 이뉴스투데이",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1hUzlBaTNzTnk0V3Mwa1diamNGaWxUa0JrQUFaUVJiSXVZMURJaHZ4ZU5IbF9MLVgwclo3bE1VVWx5TUlxajZOZ0tLRTBaWTN2MGNkMEE5TUU2VVUwRURkdmtCTW10UzQ4dENOZHdWZEfSAXRBVV95cUxOdU9BUVlqcjduTkV5NzV1RGd2V1pIaXI4Q2R4WXVUbHRtM0JkNWZoXzlzYUlkWlVPNlJidVhHWU1ibF9SME5ycW5yQnl6Qnl4OHZpVnlqUUtZYWtqNmtpQ0xETEVDMFRIY1hyb0EtSVpIdDloNw?oc=5",
+      "pubDate": "2026-09-07T03:30:00.000Z",
+      "source": "Google 뉴스: 지원사업 공고/모집",
+      "category": "정부지원정책"
+    },
+    {
+      "title": "한국수자원공사, 중소기업 ESG 경쟁력 강화 지원사업 참여기업 모집 - 세계환경신문",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9kbzhwbC1NSUdfY3VITlFHR01IQXJIM3Y0SG9zNG9tcm01Ty1ZWjlraGRtNks4Z1VCVFZYVVRIaV9lOVVnUXlSc0lIOWV0OEFyQzNaQ012d1ZGTGZrYmY0?oc=5",
+      "pubDate": "2026-09-07T03:02:14.000Z",
+      "source": "Google 뉴스: 지원사업 공고/모집",
+      "category": "정부지원정책"
     },
     {
       "title": "1530원까지 갔던 원화값, 두 달 만에 1330원대…원화 강세 어디까지",
@@ -472,6 +668,13 @@
       "category": "경제"
     },
     {
+      "title": "수자원공사, 중소기업 ESG 지원사업 참여기업 모집 - 일간투데이",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9SbllaR2lUQzRvTkJUNGdxU2ZmYU5XekdhRkJUN1NBUUFjT2hJVnB2eVdSTHZUY0twSC0tSExfWXBmOURGQndHR3ZVb1E5cXJ4VGN5WFRwa1pQTU51U1hPaXNDSTFNZjdVb0pF?oc=5",
+      "pubDate": "2026-09-07T01:54:04.000Z",
+      "source": "Google 뉴스: 지원사업 공고/모집",
+      "category": "정부지원정책"
+    },
+    {
       "title": "“엄카도 이제 승인받고 쓴다”…BC카드 ‘가족페이’ 출시",
       "link": "https://www.mk.co.kr/news/economy/12145861",
       "pubDate": "2026-09-07T01:52:22.000Z",
@@ -486,11 +689,74 @@
       "category": "경제"
     },
     {
+      "title": "K-water, 18일까지 중소기업 ESG 경쟁력 강화 지원사업 참가기업 모집 - 한국건설신문",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBucnpjdEZYcVVVRWdqM3RrRkNjU0RMWnowOWgtS2RRbVFZV0VKanVwUEpLc2l0X3lteTRBTUJudVlWLS1kV1JWRHdMb0xReVREMFJLOFFQR1RnZ3pyd0VjTnlrUy1WWWpfdHJz?oc=5",
+      "pubDate": "2026-09-07T01:44:00.000Z",
+      "source": "Google 뉴스: 지원사업 공고/모집",
+      "category": "정부지원정책"
+    },
+    {
+      "title": "K-water, 중소기업 ESG 역량 강화 지원…참여기업 20개사 모집 - 뷰티경제",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9DTDdrb09SZUJ5TVBqT0lQdWx6NExyeHpNUWlpWVVLdVJ2SE9SdlNsNXdreHZhZ3NEd1lOOWpJTFV2ZTNVZVlmTzdNdWZqY2NmdmRDVktQMWIxWm1xbWJxa1lpR0pobmhGd0E?oc=5",
+      "pubDate": "2026-09-07T01:37:53.000Z",
+      "source": "Google 뉴스: 지원사업 공고/모집",
+      "category": "정부지원정책"
+    },
+    {
+      "title": "동해시, 슬레이트 철거 지원사업 추가 모집 - reporternside.com",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE8xWXhMVjhfbzdobVZsaWpTNmcxbmotN1RXcHJsQzk2Yjc5VW02MnNSS0pNQzJrMjBVNkFudEloYUxNbVdqUlFBdHNaRUh0YTR2a1NCcmNWNUJTMWZTWlczLURlV0V1WVdjVVh2Vjh5REFhZw?oc=5",
+      "pubDate": "2026-09-07T01:33:55.000Z",
+      "source": "Google 뉴스: 지원사업 공고/모집",
+      "category": "정부지원정책"
+    },
+    {
+      "title": "한국수자원공사, 중소기업 ESG 지원사업 참여기업 모집 - 유교신문",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9Oa2lRQ1NxNU5IS3o5ZGtxc1hlNFB0VmZTRXFtaV9SRG5zZlBqZjNVYUFWenIwMTVIOHRpM0VqTXNHdHJDbXNOUjMzY0FBYlh2SEhMZ3RVak1yNS1kS0pteg?oc=5",
+      "pubDate": "2026-09-07T01:29:30.000Z",
+      "source": "Google 뉴스: 지원사업 공고/모집",
+      "category": "정부지원정책"
+    },
+    {
+      "title": "수자원공사, 중소기업 ESG 경쟁력 강화 지원사업 참여기업 모집 - 네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1oc2pLOVdmejdVV1dBZmNOdjFabUNRY3lHcEVaZXQ3bUVRTmxveVM3X1ZwSUFySnBfRG5qRDd5TTFoY25McE11dzMwTGw1QVJsNjJJ?oc=5",
+      "pubDate": "2026-09-07T01:29:00.000Z",
+      "source": "Google 뉴스: 지원사업 공고/모집",
+      "category": "정부지원정책"
+    },
+    {
+      "title": "「K-MediST 지원 사업」 운영 협의체 출범…'27년도 전기 신입생 모집 시작 - 사이언스엠디뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBaeWctdFR6RnhLdkgwVFFuSzRrZVlxM0lON3dTcDgyX2N4aGRDR0h5dTFYVVE2blZCczIwMm0wY3N4c3BsTlpFbkRGVmw1Tl9XVHJFM3d4blNzSlE?oc=5",
+      "pubDate": "2026-09-07T01:24:00.000Z",
+      "source": "Google 뉴스: 지원사업 공고/모집",
+      "category": "정부지원정책"
+    },
+    {
+      "title": "동해시, ‘2026년도 슬레이트 철거 지원사업’ 추가 모집 - 시사줌뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5TTzREa25vS1YtVVB5eHdUS2o1UHNZUlJYUjlxLUxqQmJSVHIzdlFXR1NhNjZ5NWctLVZLclg5UGVIaEwxblhN?oc=5",
+      "pubDate": "2026-09-07T01:19:00.000Z",
+      "source": "Google 뉴스: 지원사업 공고/모집",
+      "category": "정부지원정책"
+    },
+    {
+      "title": "서울 영등포구, 청년 운동 지원사업 참여자 모집…최대 10만원 지원 - 데일리안",
+      "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNd2tpVDhDNlUwWlZYMzM5c2lCOVZDZVhTWUxXcUhVNVN1b2xLWlB3ckpIdDV0dE5BVjkzT2NCa0NHQ2RtVEsxU3dWQTk3QlMtVTRwbkIxNWE4Y2VITFNsSVZXTWU1VVFkQ21UUVhkUl9OUTE2ejdRaE9RUEJWa3JIVHNtV0Q0UHEtbVNDdlB1RUk2OF91Z2dDTmN5U2FzUk9jdGZzUzlaV2RBSTdwVWFjZTNKUm1Md0JFLWlyRVZJc295STF0cWdSSUxoekpIOXZucnI2UTNoTjJKV0N6U1BIdm0zcXZzeUc2aDdGVHRzNXl0MlRhZUk5MVBtZDZnRVRyNzJRaEVUeUVHVFZjUU9Zc0RoWnhNV3Q2?oc=5",
+      "pubDate": "2026-09-07T00:42:00.000Z",
+      "source": "Google 뉴스: 지원사업 공고/모집",
+      "category": "정부지원정책"
+    },
+    {
       "title": "[속보] 달러당 원화값 1330원대로…1년 11개월만",
       "link": "https://www.mk.co.kr/news/economy/12145776",
       "pubDate": "2026-09-07T00:37:16.000Z",
       "source": "매일경제 경제",
       "category": "경제"
+    },
+    {
+      "title": "중기부, 스마트서비스 'A/S지원' 기업 모집…최대 1500만원 - 동행일보",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE41bTVaLW1XazRocWgxemlMNDNTNG85V3NWM3NhQ1RkYW1wWmRtLXcwT2tINmJnRm9FNUN4cTlIUXdXTFpRUnhYTXFHQzM1YTB4TnQtemRMcHM1U1l1aDBXUU5zVjNNOE5n?oc=5",
+      "pubDate": "2026-09-07T00:33:00.000Z",
+      "source": "Google 뉴스: 지원사업 공고/모집",
+      "category": "정부지원정책"
     },
     {
       "title": "애니모프, AI 검색 화면에 뜬 답변과 출처 모아주는 API 내놨다",
@@ -972,6 +1238,13 @@
       "title": "구로구, 1인가구 안심장비 지원…30일까지 54가구 모집 - fnewstv.com",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB6U0pyZXczME5aeGFmbHlEclJXTWJRMFhwUUs4ZVZIUmlobzkyTnlVd1dCWmxKQ20xZ2FMcEZSYVpvb1pUdlZtN1UySU5vQXQzOF9PcG9NUmZpSG5KZ241VDFTQWN3R2xZS29XVjBxMEk?oc=5",
       "pubDate": "2026-09-06T05:00:36.000Z",
+      "source": "Google 뉴스: 지원사업 공고/모집",
+      "category": "정부지원정책"
+    },
+    {
+      "title": "구로구, 1인가구 안심장비 지원…30일까지 54가구 모집 - 산경일보",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4tRWNsNjBYenc3NVZWcG9qNTc2Q29XRnRmR1VsQ1NDb1Bjd3JocUJidUdINE5HV0NOU21QYVBnN1V3NjM1RGVtMTdJR2hQcXlsRDVGQXc5ZUlNXzR6dFBlNGRiTjd4czluRERJQ0NtRWM?oc=5",
+      "pubDate": "2026-09-06T02:59:14.000Z",
       "source": "Google 뉴스: 지원사업 공고/모집",
       "category": "정부지원정책"
     },
@@ -2530,23 +2803,16 @@
       "category": "AI"
     },
     {
+      "title": "화성시 '2026 신중년 고용지원사업' 9월 참여기업 모집 - 경인미래신문",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBFTm1obURQWWo2YS1LR2h6d0lvellOUzB5dlh5dEFQRnp6Q28yRHRMRFN1VUQ2OUtSckFoOW5mV3c1WDFYRkgtSUcyVE1XOTBxQmZhWXgtSWtPUUFPMkdqeUdB?oc=5",
+      "pubDate": "2026-08-31T22:32:53.000Z",
+      "source": "Google 뉴스: 지원사업 공고/모집",
+      "category": "정부지원정책"
+    },
+    {
       "title": "화성시, ‘2026 신중년 고용지원사업’ 참여기업 모집 - 중앙신문",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ucHhDZ2IydUtveUJXUm12YWlBaTRlYkNQcmlKcWlMcTU1dG5zWmtKU0lLNndEVm1LNzZyZGZuRGNZS0RPRWZSNUxkR3ozd3dneWRpMWR3aTczUVFLUXMzVmJ5eHdZNTly?oc=5",
       "pubDate": "2026-08-31T22:27:06.000Z",
-      "source": "Google 뉴스: 지원사업 공고/모집",
-      "category": "정부지원정책"
-    },
-    {
-      "title": "콘진원, 지원사업 패션 브랜드 모집 - 패션포스트",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQm0yRnhQVDhVZF9SZ3ZZSVhULUJqTTJHWkxhT2hQbUJMLXNkS0wwc3lNdWVJRTVYUE1VdVRVYmJJSXJhUzlLSlJ2ZHE0YzJhOTdKQzZhYldlQkZiV0xEZHFjek01VGFRcktmX1hZRV91b2NjVWVtZ2tZZFQxblNfSlZLQmhDUnZnMnNqdUh2NjY5M1AycktINmNRTUFFdzBlLWxQcEhnSm5LTlE2bmhjTWdJZ2xkQmEtRmlyNUZJanBvRUE?oc=5",
-      "pubDate": "2026-08-31T14:51:15.000Z",
-      "source": "Google 뉴스: 지원사업 공고/모집",
-      "category": "정부지원정책"
-    },
-    {
-      "title": "중소기업 정책자금 신규공고 8/28 - 브런치",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9haGFCTHdJdjU5SXVFa0d1T2Q2cDFxOE9lUWI5em9zZS04YVlQRlBuVVBUeW40NS0wRlNpMk56U1otT3ZPSHhFcjVON29QcGRqOXc?oc=5",
-      "pubDate": "2026-08-31T09:31:39.000Z",
       "source": "Google 뉴스: 지원사업 공고/모집",
       "category": "정부지원정책"
     }
