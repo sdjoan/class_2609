@@ -1,7 +1,133 @@
 {
-  "lastUpdated": "2026-09-06T23:37:01.102Z",
-  "count": 282,
+  "lastUpdated": "2026-09-07T03:43:49.183Z",
+  "count": 300,
   "items": [
+    {
+      "title": "\"인류 멸망 이미 시작됐다\"...'AI 종말'의 진짜 위협은 인간성 양도",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214931",
+      "pubDate": "2026-09-07T12:00:00.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "이스트시큐리티, 네이버클라우드와 '보안 특화 AI 모델' 개발 나선다",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214927",
+      "pubDate": "2026-09-07T11:57:33.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "카카오, 10월 ‘이프카카오 26’ 컨퍼런스 개최…“모든 연결에 지능을”",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214929",
+      "pubDate": "2026-09-07T11:30:35.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "오픈AI 'GPT-6 아스트라', 사람 개입 없이 3D 게임 '포털' 공략 성공",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214922",
+      "pubDate": "2026-09-07T11:27:17.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "엑스와이지, 로봇 '빨래 개기' 속도 2배 빨라졌다...성공률 96% 달성",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214923",
+      "pubDate": "2026-09-07T11:17:14.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "NIA, ‘AI 3대 강국’ 도약 위한 조직개편 단행",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214926",
+      "pubDate": "2026-09-07T11:16:32.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "라이드플럭스,타타대우와 '레벨2+ 자율주행 트럭' 양산 추진한다",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214920",
+      "pubDate": "2026-09-07T11:15:18.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "[AI리더의 서가] 현장에서 픽하는 AI 서비스 기획을 위한 필수 지식",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214849",
+      "pubDate": "2026-09-07T09:00:00.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "[AI리더의 서가] AI는 세상을 어떻게 바꾸는가",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214848",
+      "pubDate": "2026-09-07T09:00:00.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "[AI리더의 서가] AI와 일하는 기술",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214845",
+      "pubDate": "2026-09-07T09:00:00.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "1530원까지 갔던 원화값, 두 달 만에 1330원대…원화 강세 어디까지",
+      "link": "https://www.mk.co.kr/news/economy/12145891",
+      "pubDate": "2026-09-07T02:10:56.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "DB그룹 오너家 김병은, DB손보 부사장 승진…핵심 경영기획 맡는다",
+      "link": "https://www.mk.co.kr/news/economy/12145875",
+      "pubDate": "2026-09-07T01:58:02.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "“그래서 얼마 내란 건가요?”…종부세 재손질에 집주인도 세무사도 ‘혼란’",
+      "link": "https://www.mk.co.kr/news/economy/12145870",
+      "pubDate": "2026-09-07T01:55:18.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "사장님 모시는 인터넷은행…가계대출 막히자 사업자대출로",
+      "link": "https://www.mk.co.kr/news/economy/12145867",
+      "pubDate": "2026-09-07T01:54:20.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "“엄카도 이제 승인받고 쓴다”…BC카드 ‘가족페이’ 출시",
+      "link": "https://www.mk.co.kr/news/economy/12145861",
+      "pubDate": "2026-09-07T01:52:22.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "“개인대출 넘어 기업금융까지”…롯데카드 베트남 법인, 현지 첫 종합금융사 전환",
+      "link": "https://www.mk.co.kr/news/economy/12145859",
+      "pubDate": "2026-09-07T01:50:50.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "[속보] 달러당 원화값 1330원대로…1년 11개월만",
+      "link": "https://www.mk.co.kr/news/economy/12145776",
+      "pubDate": "2026-09-07T00:37:16.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "“평생 해외 살다 귀국해도 기초연금 월 34만원”…복수국적 ‘연금 쇼핑’ 손보나",
+      "link": "https://www.mk.co.kr/news/economy/12145689",
+      "pubDate": "2026-09-06T23:41:16.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
     {
       "title": "국책사업 속도전에 예타면제 벌써 13.5조…‘행정부 마음대로’ 우려",
       "link": "https://www.mk.co.kr/news/economy/12145672",
