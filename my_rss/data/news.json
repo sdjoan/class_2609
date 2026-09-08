@@ -1,7 +1,28 @@
 {
-  "lastUpdated": "2026-09-08T08:44:07.641Z",
-  "count": 496,
+  "lastUpdated": "2026-09-08T14:15:45.052Z",
+  "count": 500,
   "items": [
+    {
+      "title": "아이렌 \"AI 컴퓨팅 수요 무한 확장...공급이 수요 못 따라가\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214985",
+      "pubDate": "2026-09-08T18:11:23.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "앤트로픽, 'AI 인프라 최적화' 데카르트 인수 포기…8조 대형 거래 무산",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214998",
+      "pubDate": "2026-09-08T18:01:55.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "중국 인민해방군, '휴머노이드 로봇 병사' 실전 투입 속도",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=214981",
+      "pubDate": "2026-09-08T17:47:42.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
     {
       "title": "바이트댄스, '월드 모델' 출시 임박...장이밍 창업자 직접 진두지휘",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=214982",
@@ -26,6 +47,13 @@
     {
       "title": "[게시판] 베스핀글로벌, 한국농수산식품유통공사 AI 챗봇 구축 등 단신",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=214983",
+      "pubDate": "2026-09-08T17:00:00.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "[게시판] 카카오, '카나나 인 카카오톡' 가입자에게 이모티콘 선물 등 단신",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215011",
       "pubDate": "2026-09-08T17:00:00.000Z",
       "source": "AI타임스",
       "category": "AI"
@@ -171,6 +199,13 @@
       "category": "AI"
     },
     {
+      "title": "The Work Now Within Reach",
+      "link": "https://openai.com/index/the-work-now-within-reach",
+      "pubDate": "2026-09-08T13:00:00.000Z",
+      "source": "OpenAI",
+      "category": "AI"
+    },
+    {
       "title": "오픈AI, 29일 데브데이서 인프라 구축 없는 '관리형 에이전트' 공개 유력",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=214976",
       "pubDate": "2026-09-08T12:50:05.000Z",
@@ -183,6 +218,13 @@
       "pubDate": "2026-09-08T12:32:57.000Z",
       "source": "AI타임스",
       "category": "AI"
+    },
+    {
+      "title": "김영훈 노동장관 “N% 성과급 파업, 노란봉투법 새 지침대로면 불법”",
+      "link": "https://www.mk.co.kr/news/economy/12147581",
+      "pubDate": "2026-09-08T12:24:22.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
     },
     {
       "title": "\"로봇이 단열재 시공도 척척\"...빅웨이브, 주택 현장에 휴머노이드 투입",
@@ -241,6 +283,13 @@
       "category": "AI"
     },
     {
+      "title": "원화값 어디까지 올라가요?…美중간선거까진 봐야하는 이유 [백석현의 환율노트]",
+      "link": "https://www.mk.co.kr/news/economy/12147525",
+      "pubDate": "2026-09-08T11:10:52.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
       "title": "유럽, 폐태양광서 62.9GW분 실리콘 회수 가능…문제는 제조기반",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=214967",
       "pubDate": "2026-09-08T11:05:00.000Z",
@@ -248,11 +297,88 @@
       "category": "AI"
     },
     {
+      "title": "국민소득 4만달러 고지 보인다…명목GDP 47년만에 최고 상승률",
+      "link": "https://www.mk.co.kr/news/economy/12147459",
+      "pubDate": "2026-09-08T10:03:16.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "'한국판 미토스' 개발社 설립에 미래기금 4.7조",
+      "link": "https://www.mk.co.kr/news/economy/12147422",
+      "pubDate": "2026-09-08T09:05:23.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "'K원전 르네상스' 막 오른다",
+      "link": "https://www.mk.co.kr/news/economy/12147423",
+      "pubDate": "2026-09-08T09:05:23.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "막오른 4대 은행장 선임 절차… 금융사 지배구조 변화에 촉각",
+      "link": "https://www.mk.co.kr/news/economy/12147406",
+      "pubDate": "2026-09-08T09:04:07.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "\"나눠먹기식 지원땐 최상위 AI모델 못 만들어\"",
+      "link": "https://www.mk.co.kr/news/economy/12147407",
+      "pubDate": "2026-09-08T09:04:07.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "유재훈 보험개발원장 취임… \"보험 산업 미래 제시할 것\"",
+      "link": "https://www.mk.co.kr/news/economy/12147402",
+      "pubDate": "2026-09-08T09:04:06.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "\"영업이익 N% 요구 파업 노동부 지침대로면 불법\" 김영훈 고용노동부 장관",
+      "link": "https://www.mk.co.kr/news/economy/12147403",
+      "pubDate": "2026-09-08T09:04:06.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "2분기 명목 GDP 26.4% 쑥 … 47년來 최고",
+      "link": "https://www.mk.co.kr/news/economy/12147405",
+      "pubDate": "2026-09-08T09:04:06.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "[표] 외국환율고시표",
+      "link": "https://www.mk.co.kr/news/economy/12147400",
+      "pubDate": "2026-09-08T09:04:05.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "[포토] 韓·日, 시니어 주거 새 기준 위해 맞손",
+      "link": "https://www.mk.co.kr/news/economy/12147401",
+      "pubDate": "2026-09-08T09:04:05.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
       "title": "삼성SDS, '다차원 AI 풀스택' 공개…AI 보안·피지컬 AI로 영역 확장",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=214966",
       "pubDate": "2026-09-08T09:00:00.000Z",
       "source": "AI타임스",
       "category": "AI"
+    },
+    {
+      "title": "30% 이익 남는 '한국형 원전'… 대미투자 펀드로 교두보 확보",
+      "link": "https://www.mk.co.kr/news/economy/12147372",
+      "pubDate": "2026-09-08T08:52:20.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
     },
     {
       "title": "2차 '국민성장펀드' 30일부터 판매…6천억 중 절반은 서민에 우선 공급",
@@ -554,6 +680,13 @@
       "pubDate": "2026-09-08T00:04:23.000Z",
       "source": "Google 뉴스: 지원사업 공고/모집",
       "category": "정부지원정책"
+    },
+    {
+      "title": "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
+      "link": "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms",
+      "pubDate": "2026-09-08T00:00:00.000Z",
+      "source": "OpenAI",
+      "category": "AI"
     },
     {
       "title": "부산교육청, 학부모 학교참여 확대…씨앗동아리 220팀 모집 - 네이트",
@@ -3366,111 +3499,6 @@
       "title": "영광군 미니태양광 보급사업 참여세대 추가 모집 > 뉴스 - thekorea.kr",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE82Ty02RFdHS3pLaUVQdW0zRmZZVlV3T0U0SDFwQkktMG5oUFJGSVhROXhCSkJ5ZDcxLVQyTlBtdFVtbW8xcUxReXFwYVBwQ3F5UWhTVVdZcFQyR3lXLVZpTEpnUmdNcHc1cFdSaktTRzA?oc=5",
       "pubDate": "2026-09-02T18:38:00.000Z",
-      "source": "Google 뉴스: 지원사업 공고/모집",
-      "category": "정부지원정책"
-    },
-    {
-      "title": "목포시, 무주택 신혼부부 및 다자녀가정 주택구입 대출이자 지원사업 대상자 모집 > 뉴스 - thekorea.kr",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1uWmtTS3lzcHIyU2l5eGNQRk9XVFZjNm4wNS1NdnFHN0xjYUVUaGhPZENEZzFQakFJRDF0eXpaWGdyMGEtWXYzcFRyUnNhenpHSS1aeG9zTFg4c29sdHF4UFlkMDVmY2NPMDZnaFZjQnE?oc=5",
-      "pubDate": "2026-09-02T12:05:00.000Z",
-      "source": "Google 뉴스: 지원사업 공고/모집",
-      "category": "정부지원정책"
-    },
-    {
-      "title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
-      "link": "https://openai.com/index/atv-big-air-tour",
-      "pubDate": "2026-09-02T12:00:00.000Z",
-      "source": "OpenAI",
-      "category": "AI"
-    },
-    {
-      "title": "사상여성인력개발센터, ‘든든 채움 대체인력 지원사업’ 참여기업 모집 - busan.com",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1sY3hnMm9rb1hWMU9za2xwc3pFX1doS1pGeUJpZ00zS1N0VE5DWEhUdUsxTFdVa0tUdFg4YVdKSklFa184VjlLV3FDYWx4b05aZkM0OGsxNHhnbFdfaTROVnJaTTFuRW5lRXNRSEQ5dnhuVzZ0Y0xRYXprX0I?oc=5",
-      "pubDate": "2026-09-02T05:53:23.000Z",
-      "source": "Google 뉴스: 지원사업 공고/모집",
-      "category": "정부지원정책"
-    },
-    {
-      "title": "사상여성인력개발센터, ‘든든 채움 대체인력 지원사업’ 참여기업 모집 - 부산일보",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE52dEVHU0dYaF9mZ1VmYThCdF9wVnNpVkFqRDBpR1o3TEZNSDJra0J3RXh5Mzd5UmxoY0ZzWWExWHc2cGdYSGJoeXp4eDRDb1FGTWYtYmF1cXNLRkx4anRZeEg3bE80bTZHTTdrY1pIWjJmdXhU?oc=5",
-      "pubDate": "2026-09-02T05:53:23.000Z",
-      "source": "Google 뉴스: 지원사업 공고/모집",
-      "category": "정부지원정책"
-    },
-    {
-      "title": "나주시, '보금자리 지원사업' 신규 모집…신혼부부·다자녀가정 대상 주택대출 이자 지원 - news.nate.com",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9nZUx5X2FETkZJdFVtVHYtWDM3U05wOGVBYXR1b0x3bUxIUUpmUzZrc05KMlJxRTZpZXN1Y0kxWmd0aDFlTVJuNTdtMWhqZnBOSWtr?oc=5",
-      "pubDate": "2026-09-02T03:15:00.000Z",
-      "source": "Google 뉴스: 지원사업 공고/모집",
-      "category": "정부지원정책"
-    },
-    {
-      "title": "대출이자 최대 900만원 지원…무안군, 보금자리 사업 대상자 모집 > 뉴스 - thekorea.kr",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9xZG9hU2o5RDZ0eVJndThsd0wwcE1sbTdMNkFZVW1ZNGtIZXNZTWUxazlNQjJ4dTNlMlVuQUx4Q3AzbjNDU3pFQ2lvMlV5MTZGX29hV2hrRDBpUUwwT0FaLVRvT2ZrTDRKVWpfR2FseWU?oc=5",
-      "pubDate": "2026-09-02T02:45:00.000Z",
-      "source": "Google 뉴스: 지원사업 공고/모집",
-      "category": "정부지원정책"
-    },
-    {
-      "title": "제천시, 2026년 청년 주택자금 대출이자 지원사업 신청자 모집 - yna.co.kr",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAwem0wNEpMSUFJaVRiRmhza3hrdjZPXzY3ZmM1NWNLc3hZTDVhV1BTWXdoMXlQaWt1aGd4UXVQbEJmYkJzd1pTelNKUGtndHk4UkhVa3pheFk4T2c?oc=5",
-      "pubDate": "2026-09-02T01:28:23.000Z",
-      "source": "Google 뉴스: 지원사업 공고/모집",
-      "category": "정부지원정책"
-    },
-    {
-      "title": "'다자녀 가정 큰 집 마련 지원 사업' 대상자 모집 - 데일리대구경북뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9RWE1oV0paTWNRdjM1TWg2QnJEcDgtRzNMVzhRMmtQLUhIVkpzLWtybWJoaTRkNmxDbi1ZakQweDdIVmt2TTJJYnNnWWxYNGhTdGkyNXAwV2o0a0xUX3J4a21hU3pBUQ?oc=5",
-      "pubDate": "2026-09-02T00:50:12.000Z",
-      "source": "Google 뉴스: 지원사업 공고/모집",
-      "category": "정부지원정책"
-    },
-    {
-      "title": "제천시, 청년 주택자금 대출이자 지원사업 신청자 200명 모집 - gukjenews.com",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBmQTJoWEpLdzA1SEpIV3M2blVucmJ6UW9LdC1yWThpdTlDbFV0WkpqZ203OVUxaGptdjRGNkl4TlVEX2FmREpMLW5wMEpreVFOMi1BUU1RaGVIdG4xRTdMUHhHbVNGQktCZUtxY3pR?oc=5",
-      "pubDate": "2026-09-01T23:48:32.000Z",
-      "source": "Google 뉴스: 지원사업 공고/모집",
-      "category": "정부지원정책"
-    },
-    {
-      "title": "장애인기업종합지원센터, 익산서 발달장애인 가족 ‘딸기 창업’ 교육 참가자 모집 - 웰페어뉴스",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1KQzFwdm5Ic3d4UzN1a3dmbkFxYmcwSnFyRGhPSnZTOWV0ZUJyaUwtd2h1Y016UzNzQjdNaW16OHZQNzlhcXplS2RiSGt6aDd6dGF4Nk9tLTR2YkhWNThQaWFyT0RDVFRsNnVWcjluSQ?oc=5",
-      "pubDate": "2026-09-01T23:16:59.000Z",
-      "source": "Google 뉴스: 지원사업 공고/모집",
-      "category": "정부지원정책"
-    },
-    {
-      "title": "함평군, ‘2026년 전남형 청년마을 만들기 지원사업’ 모집 - 브릿지경제",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1KU1ZuRDJkTzRUMmIyV2tuYjZ0Q1pVOVFCY1hpeFlsSEVzRWVkQjd0azhfTkkxd3BLQXFGUnFrRTNrY09KcjdBbmpvVkZmZFpjZGJUUw?oc=5",
-      "pubDate": "2026-09-01T19:05:51.000Z",
-      "source": "Google 뉴스: 지원사업 공고/모집",
-      "category": "정부지원정책"
-    },
-    {
-      "title": "How AI-native companies turn workflows into operating capability",
-      "link": "https://openai.com/index/ai-native-company-workflows",
-      "pubDate": "2026-09-01T17:00:00.000Z",
-      "source": "OpenAI",
-      "category": "AI"
-    },
-    {
-      "title": "Path to Astra: critical capabilities and frontier safeguards",
-      "link": "https://openai.com/index/path-to-astra",
-      "pubDate": "2026-09-01T13:00:00.000Z",
-      "source": "OpenAI",
-      "category": "AI"
-    },
-    {
-      "title": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
-      "link": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
-      "pubDate": "2026-09-01T12:00:00.000Z",
-      "source": "OpenAI",
-      "category": "AI"
-    },
-    {
-      "title": "화성특례시 2026 신중년 고용지원사업 참여기업 모집 > 뉴스 - thekorea.kr",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9Td1VzNXN6ZjBkdFRUQ2FSQW1XQkdOd1duQ19zMEZOWjY3S1lyRFlyMUo2VUYxeDB0aVdVTEJaTHpiQnduUzlMLV9KVUMwSzBWV1k2WFY1ekRFUFVxYVNsU0QxMEJveWxwaUgzbFJGZVE?oc=5",
-      "pubDate": "2026-09-01T11:14:00.000Z",
       "source": "Google 뉴스: 지원사업 공고/모집",
       "category": "정부지원정책"
     }
