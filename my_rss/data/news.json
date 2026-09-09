@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-09T14:16:00.502Z",
+  "lastUpdated": "2026-09-09T19:09:20.300Z",
   "count": 500,
   "items": [
     {
@@ -84,6 +84,13 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=215066",
       "pubDate": "2026-09-09T17:00:00.000Z",
       "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "Paul Christiano joins OpenAI Foundation Board",
+      "link": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
+      "pubDate": "2026-09-09T17:00:00.000Z",
+      "source": "OpenAI",
       "category": "AI"
     },
     {
@@ -827,6 +834,13 @@
       "pubDate": "2026-09-08T21:24:21.000Z",
       "source": "Tubefilter",
       "category": "수익화/크리에이터 이코노미"
+    },
+    {
+      "title": "[공고] 『 2026년 GHKOL 해외진출 실무특화 컨설팅 지원사업 』공고 - kueherald.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE96Ym43Z3FCb3VoRTdITHEwbi12ekF2dGJsQXptWnprd1AzcTVoVkxfdm82SDlnTC1pUExhcEtCVGpVb1BJZVh2ZVVHMnk4dEp2TGxhSkNwNDh3a3BsNlRMZFV5V1ZocjNaTnpnZtIBcEFVX3lxTE44RV92bVZWU00zWGFiNTdDV24xTldyZUh1RFFxdmxlcEloQ1ZCS1FXQ3lOY2JfRWFqU2w4UWIyM0N5eWR6Q1FOZkZobVpJQ0l2QmpCOWM3Z2szUEtkQW5xbFdzUDZfZUZ4akF6X25tWTg?oc=5",
+      "pubDate": "2026-09-08T21:00:00.000Z",
+      "source": "Google 뉴스: 지원사업 공고/모집",
+      "category": "정부지원정책"
     },
     {
       "title": "Top 5 Branded Videos of the Week: The big dogs",
@@ -3485,20 +3499,6 @@
       "title": "MS, 음성 모델 'MAI-트랜스크라이브-2' 공개...속도·정확도·가격 다 잡아",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=214858",
       "pubDate": "2026-09-04T16:15:59.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "[게시판] 워크데이, 2분기 AI 신규 연간계약 급증 등 단신",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=214873",
-      "pubDate": "2026-09-04T16:00:00.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "[게시판] 코난테크놀로지, KAI와 차세대 항공우주 기술 교류 등 단신",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=214840",
-      "pubDate": "2026-09-04T16:00:00.000Z",
       "source": "AI타임스",
       "category": "AI"
     }
