@@ -1,13 +1,307 @@
 {
-  "lastUpdated": "2026-09-10T22:21:05.073Z",
+  "lastUpdated": "2026-09-11T03:48:43.383Z",
   "count": 500,
   "items": [
+    {
+      "title": "앤트로픽, 중국 기업 '무단 증류' 폭로…\"프록시 타고 클로드 우회 복제\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215138",
+      "pubDate": "2026-09-11T12:45:24.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "\"2조원 보상도 마다\"…스타 AI 연구원 앤드류 툴록, 앤트로픽 합류",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215133",
+      "pubDate": "2026-09-11T12:30:02.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "\"스마트워치 없이도 수면 측정\"...비브레스트, '트랜슬립 AI' 앱 출시",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215140",
+      "pubDate": "2026-09-11T12:21:00.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "웹 브라우저 벗어난 구글 '제미나이', 윈도우용 데스크톱 앱 출시",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215128",
+      "pubDate": "2026-09-11T12:18:38.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "'딥시크 V4.1 플래시' 출시...\"100만 토큰 창에 KV 캐시 75% 축소\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215131",
+      "pubDate": "2026-09-11T12:11:55.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "이스트소프트, K몬스터그룹과 AI 아바타 '페르소에이아이' 글로벌 사업 확대",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215139",
+      "pubDate": "2026-09-11T12:01:50.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "[기고] 한국딥러닝 “AI 행정혁신, 변화에 대응하려면 ‘VLM옵스’가 필요하다”",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215134",
+      "pubDate": "2026-09-11T12:01:02.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "\"차량 개조 없이 자율주행 가능\"...바이다, 스마트카 국책과제 선정",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215135",
+      "pubDate": "2026-09-11T11:42:45.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "트웰브랩스, 영상 검색 DB 연결 없이 즉시 사용…말로 “페널티킥 장면 찾아줘”",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215132",
+      "pubDate": "2026-09-11T11:36:46.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "'카카오툴즈’에 다이소몰·신한카드 등 추가 연동...\"에이전트 생태계 확대\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215125",
+      "pubDate": "2026-09-11T11:33:48.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "전남광주농업박물관서 12일 청년 쌀요리 경연…20팀 참가",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215126",
+      "pubDate": "2026-09-11T11:28:47.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "미국 앨버커키, 공공시설에 태양광 6MW…행정전력 100% 재생에너지 추진",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215075",
+      "pubDate": "2026-09-11T11:10:00.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "기후부, 태양광 산업경쟁력 강화위 출범…공급망 재건 논의",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215116",
+      "pubDate": "2026-09-11T11:05:00.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "오픈AI, '프로 요금제' 신규 가입 일시 중단...\"기존 사용자 경험 우선\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215118",
+      "pubDate": "2026-09-11T07:43:08.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
     {
       "title": "[9월10일] 애플 새 CEO 첫 무대…“AI 시대에도 결국 아이폰이 개인 AI 허브”",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=215083",
       "pubDate": "2026-09-11T07:00:00.000Z",
       "source": "AI타임스",
       "category": "AI"
+    },
+    {
+      "title": "해외 스타트업 38명이 들은 배달의민족 성장 과정",
+      "link": "https://platum.kr/archives/294436?utm_source=rss&utm_medium=rss&utm_campaign=%25ed%2595%25b4%25ec%2599%25b8-%25ec%258a%25a4%25ed%2583%2580%25ed%258a%25b8%25ec%2597%2585-38%25eb%25aa%2585%25ec%259d%25b4-%25eb%2593%25a4%25ec%259d%2580-%25eb%25b0%25b0%25eb%258b%25ac%25ec%259d%2598%25eb%25af%25bc%25ec%25a1%25b1-%25ec%2584%25b1%25ec%259e%25a5-%25ea%25b3%25bc%25ec%25a0%2595",
+      "pubDate": "2026-09-11T03:20:50.000Z",
+      "source": "플래텀",
+      "category": "창업"
+    },
+    {
+      "title": "Instagram would be very sad if users could choose what content they see",
+      "link": "https://www.tubefilter.com/2026/09/10/instagram-would-be-very-sad-if-users-could-choose-what-content-they-see/",
+      "pubDate": "2026-09-11T03:19:39.000Z",
+      "source": "Tubefilter",
+      "category": "수익화/크리에이터 이코노미"
+    },
+    {
+      "title": "홍천군, 2027년 노인복지기금 지원사업 참여기관 모집 - 웹이코노미",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFA2djFLSFdMUW8wWHJQYVNCUUl0bUF6dXAya2FzRndjbmRuZ1RCUTVjUk9BN18yaU9FeXNDSVJCcHU0ZVd2Wk1sTkxzRkxYelROOWhSTmhLMTZ2X0FZRGtnRkt5X19uNS13dnVoOHJCTWxZZw?oc=5",
+      "pubDate": "2026-09-11T03:08:17.000Z",
+      "source": "Google 뉴스: 지원사업 공고/모집",
+      "category": "정부지원정책"
+    },
+    {
+      "title": "나가는 여행에 이어 들어오는 여행까지… 마이리얼트립, 크리에이트립 인수",
+      "link": "https://platum.kr/archives/294419?utm_source=rss&utm_medium=rss&utm_campaign=%25eb%2582%2598%25ea%25b0%2580%25eb%258a%2594-%25ec%2597%25ac%25ed%2596%2589%25ec%2597%2590-%25ec%259d%25b4%25ec%2596%25b4-%25eb%2593%25a4%25ec%2596%25b4%25ec%2598%25a4%25eb%258a%2594-%25ec%2597%25ac%25ed%2596%2589%25ea%25b9%258c%25ec%25a7%2580-%25eb%25a7%2588%25ec%259d%25b4%25eb%25a6%25ac%25ec%2596%25bc%25ed%258a%25b8",
+      "pubDate": "2026-09-11T02:47:44.000Z",
+      "source": "플래텀",
+      "category": "창업"
+    },
+    {
+      "title": "“투기 잡으려 대출 조였더니”…불법사금융으로 밀려나는 금융약자 [기자24시]",
+      "link": "https://www.mk.co.kr/news/economy/12150342",
+      "pubDate": "2026-09-11T02:44:45.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "카자흐 데이터센터에 튀르키예 고속철, 홍콩에 모인 사업들",
+      "link": "https://platum.kr/archives/294422?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%25b9%25b4%25ec%259e%2590%25ed%259d%2590-%25eb%258d%25b0%25ec%259d%25b4%25ed%2584%25b0%25ec%2584%25bc%25ed%2584%25b0%25ec%2597%2590-%25ed%258a%2580%25eb%25a5%25b4%25ed%2582%25a4%25ec%2598%2588-%25ea%25b3%25a0%25ec%2586%258d%25ec%25b2%25a0-%25ed%2599%258d%25ec%25bd%25a9%25ec%2597%2590-%25eb%25aa%25a8%25ec%259d%25b8",
+      "pubDate": "2026-09-11T02:42:37.000Z",
+      "source": "플래텀",
+      "category": "창업"
+    },
+    {
+      "title": "Night just launched its own Roblox studio",
+      "link": "https://www.tubefilter.com/2026/09/10/night-just-launched-its-own-roblox-studio/",
+      "pubDate": "2026-09-11T02:41:14.000Z",
+      "source": "Tubefilter",
+      "category": "수익화/크리에이터 이코노미"
+    },
+    {
+      "title": "‘2026년 국가과학자 지원사업’ 공고… 리더급 연구자 20명 신규 선정 - 기계신문",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB6d3E3LUk3cDMwbl9BR3QxcklxTm1FVWE3Q0RZazRKNTZoWnppVkF3aUt2Y1JfXzlaZ0lVZ3FrYUcwSUx2dWpGdVZJU2NPdlZGT1BsZVJNNUJYRkZhMFRBVVBuN1E2eW8?oc=5",
+      "pubDate": "2026-09-11T02:39:10.000Z",
+      "source": "Google 뉴스: 지원사업 공고/모집",
+      "category": "정부지원정책"
+    },
+    {
+      "title": "KB금융 차기 회장 오늘 오후 결정…양종희 연임 ‘대세론’ 속 3파전",
+      "link": "https://www.mk.co.kr/news/economy/12150312",
+      "pubDate": "2026-09-11T02:28:09.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "아이가 아기상어와 대화하는 전시, 1만 개 시나리오로 안전성 검증했다",
+      "link": "https://platum.kr/archives/294418?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%2595%2584%25ec%259d%25b4%25ea%25b0%2580-%25ec%2595%2584%25ea%25b8%25b0%25ec%2583%2581%25ec%2596%25b4%25ec%2599%2580-%25eb%258c%2580%25ed%2599%2594%25ed%2595%2598%25eb%258a%2594-%25ec%25a0%2584%25ec%258b%259c-1%25eb%25a7%258c-%25ea%25b0%259c-%25ec%258b%259c%25eb%2582%2598%25eb%25a6%25ac%25ec%2598%25a4%25eb%25a1%259c",
+      "pubDate": "2026-09-11T02:16:39.000Z",
+      "source": "플래텀",
+      "category": "창업"
+    },
+    {
+      "title": "“경기 회복 흐름이라는데”…소비·물가에 중동전쟁까지, 곳곳 불안 신호",
+      "link": "https://www.mk.co.kr/news/economy/12150280",
+      "pubDate": "2026-09-11T02:09:40.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "[스타트업 모닝커피 1396회] 커넥틴, 사람 데이터로 건설현장 비용·공정·안전을 연결하는 ‘일용이’",
+      "link": "https://platum.kr/archives/294412?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%258a%25a4%25ed%2583%2580%25ed%258a%25b8%25ec%2597%2585-%25eb%25aa%25a8%25eb%258b%259d%25ec%25bb%25a4%25ed%2594%25bc-1396%25ed%259a%258c-%25ec%25bb%25a4%25eb%2584%25a5%25ed%258b%25b4-%25ec%2582%25ac%25eb%259e%258c-%25eb%258d%25b0%25ec%259d%25b4%25ed%2584%25b0%25eb%25a1%259c-%25ea%25b1%25b4%25ec%2584%25a4",
+      "pubDate": "2026-09-11T02:08:54.000Z",
+      "source": "플래텀",
+      "category": "창업"
+    },
+    {
+      "title": "‘韓바라기’ 자처한 테네시주 부지사…“한국기업 성공 끝까지 지원” [제27회 세계지식포럼]",
+      "link": "https://www.mk.co.kr/news/economy/12150263",
+      "pubDate": "2026-09-11T01:55:11.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "로슈진단이 고른 한국 스타트업, 올해는 제노헬릭스",
+      "link": "https://platum.kr/archives/294406?utm_source=rss&utm_medium=rss&utm_campaign=%25eb%25a1%259c%25ec%258a%2588%25ec%25a7%2584%25eb%258b%25a8%25ec%259d%25b4-%25ea%25b3%25a0%25eb%25a5%25b8-%25ed%2595%259c%25ea%25b5%25ad-%25ec%258a%25a4%25ed%2583%2580%25ed%258a%25b8%25ec%2597%2585-%25ec%2598%25ac%25ed%2595%25b4%25eb%258a%2594-%25ec%25a0%259c%25eb%2585%25b8%25ed%2597%25ac%25eb%25a6%25ad%25ec%258a%25a4",
+      "pubDate": "2026-09-11T01:54:12.000Z",
+      "source": "플래텀",
+      "category": "창업"
+    },
+    {
+      "title": "스페이스클라우드·청이 카카오툴즈에, 연동 서비스 28개로",
+      "link": "https://platum.kr/archives/294409?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%258a%25a4%25ed%258e%2598%25ec%259d%25b4%25ec%258a%25a4%25ed%2581%25b4%25eb%259d%25bc%25ec%259a%25b0%25eb%2593%259c%25c2%25b7%25ec%25b2%25ad%25ec%259d%25b4-%25ec%25b9%25b4%25ec%25b9%25b4%25ec%2598%25a4%25ed%2588%25b4%25ec%25a6%2588%25ec%2597%2590-%25ec%2597%25b0%25eb%258f%2599-%25ec%2584%259c%25eb%25b9%2584%25ec%258a%25a4",
+      "pubDate": "2026-09-11T01:37:02.000Z",
+      "source": "플래텀",
+      "category": "창업"
+    },
+    {
+      "title": "우리금융, 전북지역 취약계층 치과 치료 돕는다",
+      "link": "https://www.mk.co.kr/news/economy/12150220",
+      "pubDate": "2026-09-11T01:22:28.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "2026년 국가철도공단 창업·벤처기업 지원사업 희망기업 모집공고 - 스타트업레시피",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE80SmdHU05YSHpuazVDRDIzTTcxWHlZbXd3MGpZYnZ2LU9KQUtOaWt4QnNoZmt4bU9wb1lGdzBRcUsxMGFSSUxONjhBdlpyRFN1UGlyQkRjRlZTa0sx?oc=5",
+      "pubDate": "2026-09-11T01:19:48.000Z",
+      "source": "Google 뉴스: 지원사업 공고/모집",
+      "category": "정부지원정책"
+    },
+    {
+      "title": "남해군, 여성어업인 특화건강검진 지원사업 신청자 추가 모집 - 웹이코노미",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9ESk9OZ3pxRkVibks4M0RrV0tmMTdDLTFoZExGSXhjRGlkRHV2WFp1VzVNZEl6OUYyRTZ1SFRpb0pBSEd0WF8yTm91cWdESUFYbGlsc2p2Y1R1UmpnRTdBa1p5VTh1cDdaVFY0VVN1a2t6dw?oc=5",
+      "pubDate": "2026-09-11T01:18:06.000Z",
+      "source": "Google 뉴스: 지원사업 공고/모집",
+      "category": "정부지원정책"
+    },
+    {
+      "title": "AI 격차가 금융격차로? “취약계층 위한 금융 안전망 필요”[제27회 세계지식포럼]",
+      "link": "https://www.mk.co.kr/news/economy/12150213",
+      "pubDate": "2026-09-11T01:17:02.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "\"기업 부담 단 10%\"… 에너지닥터, '2026 시멘트·레미콘 업계 저탄소 패키지 지원사업' 2차 참여기업 모집 - 한국미디어뉴스통신",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE53bmtJUGVlNzFnSVJ1eFZQTUZsb0gycXYtZEwxam1rdnloZlRWUS1mVVBpQVZFdXJhXzBXbkh6YWZYRE9nOUgwQkZ3dGx4aXV2ZUowdTAzamdlVV93R3NNYWw1VVRseVJjZ1FrTg?oc=5",
+      "pubDate": "2026-09-11T01:14:44.000Z",
+      "source": "Google 뉴스: 지원사업 공고/모집",
+      "category": "정부지원정책"
+    },
+    {
+      "title": "블루포인트파트너스, 연구기술 사업화할 ‘사업가형 인재’ 모집",
+      "link": "https://platum.kr/archives/294405?utm_source=rss&utm_medium=rss&utm_campaign=%25eb%25b8%2594%25eb%25a3%25a8%25ed%258f%25ac%25ec%259d%25b8%25ed%258a%25b8%25ed%258c%258c%25ed%258a%25b8%25eb%2584%2588%25ec%258a%25a4-%25ec%2597%25b0%25ea%25b5%25ac%25ea%25b8%25b0%25ec%2588%25a0-%25ec%2582%25ac%25ec%2597%2585%25ed%2599%2594%25ed%2595%25a0-%25ec%2582%25ac%25ec%2597%2585%25ea%25b0%2580%25ed%2598%2595",
+      "pubDate": "2026-09-11T01:11:35.000Z",
+      "source": "플래텀",
+      "category": "창업"
+    },
+    {
+      "title": "서학개미 투자열기 식고, 외국인은 돌아오고…환율 더 내릴까",
+      "link": "https://www.mk.co.kr/news/economy/12150114",
+      "pubDate": "2026-09-11T00:37:44.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "“일단 한 달만 내세요, 10년 가입 채울 수 있어요”…국민연금 ‘추납 재테크’ 손보나",
+      "link": "https://www.mk.co.kr/news/economy/12150089",
+      "pubDate": "2026-09-11T00:12:20.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "“딱 한 달 가입하고 119개월 추납”…국민연금 실업·육아 등 필요시만 제한하나",
+      "link": "https://www.mk.co.kr/news/economy/12150076",
+      "pubDate": "2026-09-10T23:58:46.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "드러켄밀러 “현 금리 낮다” ... 오라클 깜짝 실적, AI 폭발",
+      "link": "https://www.mk.co.kr/news/economy/12150075",
+      "pubDate": "2026-09-10T23:57:36.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "남해군, 여성어업인 특화건강검진 지원사업 신청자 모집 - mediatoday.asia",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE4tcUJMZ094N2dkb3U0REVUUVB4alpQaENxcmNZSlZGMjlyaFVqdU94Nzl5VzlnTVF6d1RiRHFEY09YUGMtYTRXNVFn?oc=5",
+      "pubDate": "2026-09-10T23:45:00.000Z",
+      "source": "Google 뉴스: 지원사업 공고/모집",
+      "category": "정부지원정책"
+    },
+    {
+      "title": "협업 성사되면 실증비 2천만원, 대구 지역기업 12곳과 스타트업 18곳 만난다",
+      "link": "https://platum.kr/archives/294429?utm_source=rss&utm_medium=rss&utm_campaign=%25ed%2598%2591%25ec%2597%2585-%25ec%2584%25b1%25ec%2582%25ac%25eb%2590%2598%25eb%25a9%25b4-%25ec%258b%25a4%25ec%25a6%259d%25eb%25b9%2584-2%25ec%25b2%259c%25eb%25a7%258c%25ec%259b%2590-%25eb%258c%2580%25ea%25b5%25ac-%25ec%25a7%2580%25ec%2597%25ad%25ea%25b8%25b0%25ec%2597%2585-12%25ea%25b3%25b3%25ea%25b3%25bc-%25ec%258a%25a4",
+      "pubDate": "2026-09-10T22:46:00.000Z",
+      "source": "플래텀",
+      "category": "창업"
+    },
+    {
+      "title": "Burger King wants to promote its “Whopper Guarantee,” so it enlisted Rhett and Link as taste testers (Exclusive)",
+      "link": "https://www.tubefilter.com/2026/09/10/burger-king-rhett-and-link-good-mythical-morning-whopper-guarantee/",
+      "pubDate": "2026-09-10T22:27:31.000Z",
+      "source": "Tubefilter",
+      "category": "수익화/크리에이터 이코노미"
     },
     {
       "title": "IMDb’s “digital creator” label lets artists “represent the full scope of their work in one place”",
@@ -134,6 +428,13 @@
       "pubDate": "2026-09-10T16:22:56.000Z",
       "source": "AI타임스",
       "category": "AI"
+    },
+    {
+      "title": "앱이 아니라 기능이 팔린다, 앱스토어 유통 구조는 지속될까",
+      "link": "https://platum.kr/archives/294400?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%2595%25b1%25ec%259d%25b4-%25ec%2595%2584%25eb%258b%2588%25eb%259d%25bc-%25ea%25b8%25b0%25eb%258a%25a5%25ec%259d%25b4-%25ed%258c%2594%25eb%25a6%25b0%25eb%258b%25a4-%25ec%2595%25b1%25ec%258a%25a4%25ed%2586%25a0%25ec%2596%25b4-%25ec%259c%25a0%25ed%2586%25b5-%25ea%25b5%25ac%25ec%25a1%25b0%25eb%258a%2594-%25ec%25a7%2580",
+      "pubDate": "2026-09-10T16:13:02.000Z",
+      "source": "플래텀",
+      "category": "창업"
     },
     {
       "title": "딥시크, 연내 IPO 추진…씨틱증권 주관사 선정해 스타마켓 상장 준비",
@@ -3198,307 +3499,6 @@
       "title": "국가소유였던 우리금융지주 … 외국인 지분 50% 넘어섰다",
       "link": "https://www.mk.co.kr/news/economy/12146334",
       "pubDate": "2026-09-07T08:38:32.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "\"방화 조사해 보험금 누수 잡는 화재 탐정입니다\"",
-      "link": "https://www.mk.co.kr/news/economy/12146335",
-      "pubDate": "2026-09-07T08:38:32.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "햇살론 목표치 80% 소진…대출절벽 현실화",
-      "link": "https://www.mk.co.kr/news/economy/12146333",
-      "pubDate": "2026-09-07T08:38:31.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "[단독] 서민대출 마지막 보루, 반년만에 80% 소진…햇살론 ‘대출절벽’ 우려",
-      "link": "https://www.mk.co.kr/news/economy/12146328",
-      "pubDate": "2026-09-07T08:37:31.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "[단독] 데이터센터마저 서울공화국…신청 160곳중 96곳 수도권 몰렸다",
-      "link": "https://www.mk.co.kr/news/economy/12146326",
-      "pubDate": "2026-09-07T08:36:42.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "중기부·과기정통부, 중소 제조현장에 피지컬 AI 심는다",
-      "link": "https://platum.kr/archives/294085?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%25a4%2591%25ea%25b8%25b0%25eb%25b6%2580%25c2%25b7%25ea%25b3%25bc%25ea%25b8%25b0%25ec%25a0%2595%25ed%2586%25b5%25eb%25b6%2580-%25ec%25a4%2591%25ec%2586%258c-%25ec%25a0%259c%25ec%25a1%25b0%25ed%2598%2584%25ec%259e%25a5%25ec%2597%2590-%25ed%2594%25bc%25ec%25a7%2580%25ec%25bb%25ac-ai-%25ec%258b%25ac%25eb%258a%2594",
-      "pubDate": "2026-09-07T08:34:21.000Z",
-      "source": "플래텀",
-      "category": "창업"
-    },
-    {
-      "title": "“수출 그대로인데 실적 확 깎인다고?”…환율 급락이 만든 삼전 ‘5조원 충격’",
-      "link": "https://www.mk.co.kr/news/economy/12146298",
-      "pubDate": "2026-09-07T08:22:48.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "수자원공사, 중소기업 ESG 경쟁력 강화 지원사업 참여기업 모집 - 매일일보",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5sUF9OUjVoN09sc0h5b25RUnhVOVFGM3hEcW03Z0NXUDFZUVdpVTVZRE5DaENValBSdnM0dkZ0cm84eDRRUEUzOGZ2cGdoRWN2Tk4xbUNuSnZuNnhaMDhNeW9wY9IBaEFVX3lxTFBSRTBZLTNqM3U5RW1feWUtNmw5MU9JWFZFSXlfeFRrUGQ0c1BMMHZoZ1Rya3pBZTBha1dhUkFpM293TUZBU2pnVVd2eUhCSWxFM21wQUNzRTlJN3JjSFBSb0dFa1laRE1G?oc=5",
-      "pubDate": "2026-09-07T08:16:23.000Z",
-      "source": "Google 뉴스: 지원사업 공고/모집",
-      "category": "정부지원정책"
-    },
-    {
-      "title": "수자원공사, 중소기업 ESG 경쟁력 강화 지원사업 참여기업 모집 - 매일일보",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBOc0VNWnNYWFpscXJsTFJvNFF1djkxbl9JT2xLdFJfVHBOTkg2dnlFSmtocm5vSF9qaHo4MzdXVjVXbkVQczlqMlVDZnRFUTV1NTlINl80YVZsWjE4amQydlFxQ1_SAWhBVV95cUxQUkUwWS0zajN1OUVtX3llLTZsOTFPSVhWRUl5X3hUa1BkNHNQTDB2aGdUcmt6QWUwYWtXYVJBaTNvd01GQVNqZ1VXdnlIQklsRTNtcEFDc0U5STdyY0hQUm9HRWtZWkRNRg?oc=5",
-      "pubDate": "2026-09-07T08:16:23.000Z",
-      "source": "Google 뉴스: 지원사업 공고/모집",
-      "category": "정부지원정책"
-    },
-    {
-      "title": "한국수자원공사, 중소기업 ESG 지원사업 참여기업 모집 - v.daum.net",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1XVGg2dl9DUnNpS0RMYnVyR2hlNGtPWFFTZjhmN1NRQ1JIWEZQVy1IMTh1T2xvTElaZ09lTVRZN3FleXNPSW1HYVpDQ0dua0E?oc=5",
-      "pubDate": "2026-09-07T07:54:21.000Z",
-      "source": "Google 뉴스: 지원사업 공고/모집",
-      "category": "정부지원정책"
-    },
-    {
-      "title": "한국수자원공사, 중소기업 ESG 지원사업 참여기업 모집 - v.daum.net",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9FX25DcVVmcTFjLU5qRUY2Q2YyVmFneTEwYTlLZ3FuWi1nb1lBZDh6SmFkNUhWekNMQWJGckJyTHFkVWxXMzhNR3FPTXJwNjhWMmdlSQ?oc=5",
-      "pubDate": "2026-09-07T07:54:21.000Z",
-      "source": "Google 뉴스: 지원사업 공고/모집",
-      "category": "정부지원정책"
-    },
-    {
-      "title": "한국수자원공사, 중소기업 ESG 지원사업 참여기업 모집 - v.daum.net",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9QZElyMVBORy1zR0M3aXMya1RNakhxUkZyU3J6bzVGU0F2djF2bWNneUFINGNBaHFOZzBEa2d3N0RwWVpTSlVyVV9rRQ?oc=5",
-      "pubDate": "2026-09-07T07:54:21.000Z",
-      "source": "Google 뉴스: 지원사업 공고/모집",
-      "category": "정부지원정책"
-    },
-    {
-      "title": "K-water, 중소기업 ESG 경쟁력 키운다…18일까지 20개사 모집 - 건설이코노미뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9BaXNMYmVwMi1rb2tEQzBOdzVEZHc2SkRSU2VOZ2QteEZhTmNQOEhzTEYxT3ZCWl9fS0NRMnZOWXE3ZlZ3WGlxMkplQmI1MGdHZjdLczllV25QMlpVb0lIX0JKYm1jQQ?oc=5",
-      "pubDate": "2026-09-07T07:53:16.000Z",
-      "source": "Google 뉴스: 지원사업 공고/모집",
-      "category": "정부지원정책"
-    },
-    {
-      "title": "수자원공사, K-water 중소기업 ESG 지원사업 참여 기업 모집 - 네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1jWHlkd3o3TFVrSUNSZXNnRnp6bEJLdllCMEdETS15OG9WMmZUMDU2dDJ0azRPQjBETFRnVGh6WDVadHNLanFSa1V4NGlqOVpNWXZR?oc=5",
-      "pubDate": "2026-09-07T07:51:00.000Z",
-      "source": "Google 뉴스: 지원사업 공고/모집",
-      "category": "정부지원정책"
-    },
-    {
-      "title": "한국수자원공사, 중소기업 ESG 지원사업 참여기업 모집 - cctoday.co.kr",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5hNjlrUWtsWVpnZ1c2U3Q1U2lGd19DUEZtWWlZZFpnc0xsVERCMVRvbXk4b0JpZ1NsdmQ4RnIzQ3B5b3BIcjR4a2lKSzdPdGx6QlZ0ZDFzYlFJdU9TMUoyd3VNSFFIYm82elJUcE5n?oc=5",
-      "pubDate": "2026-09-07T07:47:58.000Z",
-      "source": "Google 뉴스: 지원사업 공고/모집",
-      "category": "정부지원정책"
-    },
-    {
-      "title": "경상원, ‘푸드트레일러 임대지원’ 참여자 모집 - 이코노뉴스",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB3YU5BWkUyWVhJc2U3M05GbXRwbnJVdU4zSGxzMFRmNUQtb21xSklpS3k3aUV1NmM4cmNYWFFOMzdObWtTazkxWXVrN0N6ejk1WlZfZ2MtWVEzZzdFWk5IbWZHbmxmWER1RVpDQXdDdw?oc=5",
-      "pubDate": "2026-09-07T07:46:47.000Z",
-      "source": "Google 뉴스: 지원사업 공고/모집",
-      "category": "정부지원정책"
-    },
-    {
-      "title": "경상원, '푸드 트레일러 1년간 임대 지원사업' 참여자 모집 - 프레시안",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5MWTJYY0IwcGNJT09xZWNNZ1hPWDZXNFNManU5R3VhdmJsenRfM3Y1MS14cGN3aEVfZVlHSzZXT2dWNDJHVEw1UDJhVGRJcHJCZUhDeG44YjBKWk5JWm1xalNaWFF3MVNyNWJR?oc=5",
-      "pubDate": "2026-09-07T07:40:25.000Z",
-      "source": "Google 뉴스: 지원사업 공고/모집",
-      "category": "정부지원정책"
-    },
-    {
-      "title": "카드론 조았더니, 현금서비스·리볼빙 늘어…63%는 50대 이상",
-      "link": "https://www.mk.co.kr/news/economy/12146226",
-      "pubDate": "2026-09-07T07:39:25.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "경상원, 소자본 창업 지원을 위한 ‘2026년 푸드트레일러 임대지원’ 사업 신청자 모집 - 경기평화신문",
-      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9RSS0ydzAzS1h3UGpmbFpMLWhDQjlrMnp4TGdabGJtZWNodEhIQ2JvaERMVXlycWpFcWF5WFZIQ1hNYy1rUmFrVkt3?oc=5",
-      "pubDate": "2026-09-07T07:39:00.000Z",
-      "source": "Google 뉴스: 지원사업 공고/모집",
-      "category": "정부지원정책"
-    },
-    {
-      "title": "매일 납입하면 MMA 티켓이…카카오뱅크, ‘한달적금 위드 MMA2026’ 출시",
-      "link": "https://www.mk.co.kr/news/economy/12146206",
-      "pubDate": "2026-09-07T07:23:19.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "민원 분류부터 광고심의까지…생명보험협회 ‘AI 대전환’",
-      "link": "https://www.mk.co.kr/news/economy/12146105",
-      "pubDate": "2026-09-07T06:19:34.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "“설마 내 주식 전액이 0원 될 줄은”…5배 수익률 비상장 투자 ‘덫’ 피하려면",
-      "link": "https://www.mk.co.kr/news/economy/12146094",
-      "pubDate": "2026-09-07T06:11:06.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "수자원공사, ‘ESG 경쟁력 강화 지원사업’ 中企 모집 - 매일건설신문",
-      "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBPc2lTamJVTXQ4aHU1RGtHZF85ZDlwUW53Q3huMF9JRUszNE1GRzFaVFJjaW5kdVFJb0N4MGdGc2c3N0U?oc=5",
-      "pubDate": "2026-09-07T06:08:00.000Z",
-      "source": "Google 뉴스: 지원사업 공고/모집",
-      "category": "정부지원정책"
-    },
-    {
-      "title": "수자원공사, ‘ESG 경쟁력 강화 지원사업’ 中企 모집 - 매일건설신문",
-      "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBYbThIWkU4eE10eG04MEI5ZEktd0lNblZhREttMUhvZmV1ZzVhSlEzcDVNRXlYQUZiLU1pZVRrQi1JeWhW?oc=5",
-      "pubDate": "2026-09-07T06:08:00.000Z",
-      "source": "Google 뉴스: 지원사업 공고/모집",
-      "category": "정부지원정책"
-    },
-    {
-      "title": "“추가 세수 늘어난 지금이 적기인데”…기초연금 앞에서 멈춘 ‘용두미완’ 재정개혁 [기자24시]",
-      "link": "https://www.mk.co.kr/news/economy/12146085",
-      "pubDate": "2026-09-07T06:06:49.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "“당신, 이자 밀리면 가족까지 위험한 거 알지?”…‘영끌 가구’ 부실전이 확률 2배",
-      "link": "https://www.mk.co.kr/news/economy/12146067",
-      "pubDate": "2026-09-07T05:53:27.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "경기TP,' K-Food 비관세장벽 해소지원사업' 참여 기업 모집…350만 원 지원 - 네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE85NnV1cEtUV0p4ZnVfbTZGWXBaVnlGYVhhQmh3dUZfenAtVGs1dUhjXzZHak1EczdPS0c1UjNDMFIzOGh1dWxxOHdOR2V4YnZ3OTFj?oc=5",
-      "pubDate": "2026-09-07T05:42:10.000Z",
-      "source": "Google 뉴스: 지원사업 공고/모집",
-      "category": "정부지원정책"
-    },
-    {
-      "title": "경기TP,‘ K-Food 비관세장벽 해소지원사업’ 참여 기업 모집…350만 원 지원 - 서울신문",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPWUh6Z0kzN1lZUHZrTVVoOEV2cG9KQnJkeGpqdURQWnVnRVJFc3c5M0tzMC1kR0NLc3M1TWRZZFFMdzc3QUVIU2U2N2FZUkt6clAwRjBTdFdEWHlQc0tFOTlCdnZNTlRORVNlaS0wdWpKVnpmT2cxWW90WEhaYVB4ZC1RTURUb2xpd0phMjNPcnA4OHc?oc=5",
-      "pubDate": "2026-09-07T05:39:54.000Z",
-      "source": "Google 뉴스: 지원사업 공고/모집",
-      "category": "정부지원정책"
-    },
-    {
-      "title": "동해시, 슬레이트 철거 지원사업 추가 모집 - 네이트",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBiOXEyR2tLc0FhRTZ0eVpUVGU4Z01aY3VSUGpZX1E5a3ZvUThnemdoN1lCbE1DODc0Xy0zYVA5ekhhVWd4NnRKRnBQQUhoRUxvRl9zMl9nY18yZmJIQnB1UmYyZmRiMWlvdFBSZ1U3eFdWLXJGOVdiSA?oc=5",
-      "pubDate": "2026-09-07T05:38:00.000Z",
-      "source": "Google 뉴스: 지원사업 공고/모집",
-      "category": "정부지원정책"
-    },
-    {
-      "title": "동해시, 슬레이트 철거 지원사업 추가 모집 - 뉴스핌",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9ILWlvR1MtWmdxZ01QU09RQWhuck1GR0w1NGl0dVNDTU1iOWxINDZUOVE0OENzMDEtMjV6b1M4azQxNkF0MFdGQXdnajNNck1ZTFBuR3Foa2dBQ091?oc=5",
-      "pubDate": "2026-09-07T05:36:00.000Z",
-      "source": "Google 뉴스: 지원사업 공고/모집",
-      "category": "정부지원정책"
-    },
-    {
-      "title": "이형일 부총리 후보자 “이번주에 ‘추석 민생안정대책’ 보완해 발표”",
-      "link": "https://www.mk.co.kr/news/economy/12145973",
-      "pubDate": "2026-09-07T05:07:32.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "웨이모 “한국에 오고 싶다”…카카오모빌리티 “도시 단위 운영이 관건”",
-      "link": "https://platum.kr/archives/294078?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%259b%25a8%25ec%259d%25b4%25eb%25aa%25a8-%25ed%2595%259c%25ea%25b5%25ad%25ec%2597%2590-%25ec%2598%25a4%25ea%25b3%25a0-%25ec%258b%25b6%25eb%258b%25a4%25ec%25b9%25b4%25ec%25b9%25b4%25ec%2598%25a4%25eb%25aa%25a8%25eb%25b9%258c%25eb%25a6%25ac%25ed%258b%25b0-%25eb%258f%2584%25ec%258b%259c-%25eb%258b%25a8",
-      "pubDate": "2026-09-07T04:54:17.000Z",
-      "source": "플래텀",
-      "category": "창업"
-    },
-    {
-      "title": "한국수자원공사, 중소기업 ESG 지원사업 모집... 18일까지 접수 - 뉴스락",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9TaC16cm1NZUtQeFgzamMzS01tY0pjQzl1WkJkRmtHZ3VMTXRpWmRUVkNhcVQwa2MxOGh4XzhVRFpMZGRXNWtVd2dUdTVBNkh0aG9aN0JyQmdQdXZsd3duMkFINVdKRG5DdE1nVQ?oc=5",
-      "pubDate": "2026-09-07T04:52:50.000Z",
-      "source": "Google 뉴스: 지원사업 공고/모집",
-      "category": "정부지원정책"
-    },
-    {
-      "title": "순천시, ‘2026년 신혼부부·다자녀가정 보금자리 지원사업’ 대상자 모집 - 호남타임즈",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5rTmlWUVRsTkM2MmhVYk1qbkd4Q0tPd0puWWxzWHRFc2IxUWJJZE56RHphRnppQXRpbGhOVEctQ1ZkZHVCWFZQY1dQal9RTV9ZamU4MWlDTllOMEYzY0IybHVPV2FKZEZIdTVVSw?oc=5",
-      "pubDate": "2026-09-07T04:41:09.000Z",
-      "source": "Google 뉴스: 지원사업 공고/모집",
-      "category": "정부지원정책"
-    },
-    {
-      "title": "동해시, 슬레이트 철거 추가 지원…주택·창고 등 18동 모집 - 네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1ka0VyNkotMmxqSmpHZ2Noc2czR21JTFNfelZDNk95b08yUWhNR3V3dlFrR25jT2F2UndsclBYQ2lBcDZXRkF4azdJdWZsUVRFRzVR?oc=5",
-      "pubDate": "2026-09-07T03:57:00.000Z",
-      "source": "Google 뉴스: 지원사업 공고/모집",
-      "category": "정부지원정책"
-    },
-    {
-      "title": "동해시, 슬레이트 철거 추가 지원…주택·창고 등 18동 모집 - 뉴스1",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBWeVB3YXNJVTVwdDZveWIxTmFnUUtPTXlTS3JTWnBKYlVLb3lmdExhRFdEXzhGb0J2M1REZUZsLXk2aUY5V2wxQll6YW5nY2ZfNzVJZNIBWkFVX3lxTFB5SHR6TmlXaXJzemJ1TGZnaG10TVAtTENoamhqcW5YX1d5WW14U2dSSk4tbU03TGN6VEtpT01PM19SRkgyaU9OZVdNVkRQV2tMeFYwNGZHWV9vQQ?oc=5",
-      "pubDate": "2026-09-07T03:56:12.000Z",
-      "source": "Google 뉴스: 지원사업 공고/모집",
-      "category": "정부지원정책"
-    },
-    {
-      "title": "수자원공사, 중소기업 ESG 지원사업 참여기업 모집 - 국토교통신문",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE40c3hab19XOWdnUnVyeFp6b0RGMWZlLWI5a1VwanBxNk14Y0NuQlY2b2VTenFwLUk1S3JoU1NSaExFNmlUSlU0MzZUaG9uWVJBNFlOeHY5UEhMQVRBR1NGY2l3WDlSN0U?oc=5",
-      "pubDate": "2026-09-07T03:50:46.000Z",
-      "source": "Google 뉴스: 지원사업 공고/모집",
-      "category": "정부지원정책"
-    },
-    {
-      "title": "경기테크노파크,‘ K-Food 비관세장벽 해소지원사업’ 참여기업 모집 - 경기종합뉴스",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9UM2R0dXZhblhNN0hVYzdmX2lwc2hTeTZYYWN2eDRwOWhEUllhcG1pSmRLYjBqRkxUWFJobGUyTjQtS2JJSlRTYXVPX3V3eFl0d3dUREZMb3NkR212TnN0c0J4N3M5MzJxcktuSjcwcE8zVGZp?oc=5",
-      "pubDate": "2026-09-07T03:49:01.000Z",
-      "source": "Google 뉴스: 지원사업 공고/모집",
-      "category": "정부지원정책"
-    },
-    {
-      "title": "수자원공사, 중소기업 ESG 역량 강화 지원...18일까지 참여기업 모집 - 디트NEWS24",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1tTy1mcmp5SGZwOThHR2J3eDJkTnBzZlVSbEJDVXVTSlFwd0haREh1QnBhc3JhckZGVnIyaS1nR042N2FJNWd4aGdMSjY4QWlreUV6dVJSOTNCVDU5c0xiN1M0M2ZJU195aWVF?oc=5",
-      "pubDate": "2026-09-07T03:38:42.000Z",
-      "source": "Google 뉴스: 지원사업 공고/모집",
-      "category": "정부지원정책"
-    },
-    {
-      "title": "경기테크노파크,‘ K-Food 비관세장벽 해소지원사업’ 참여기업 모집 - 이뉴스투데이",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1hUzlBaTNzTnk0V3Mwa1diamNGaWxUa0JrQUFaUVJiSXVZMURJaHZ4ZU5IbF9MLVgwclo3bE1VVWx5TUlxajZOZ0tLRTBaWTN2MGNkMEE5TUU2VVUwRURkdmtCTW10UzQ4dENOZHdWZEfSAXRBVV95cUxOdU9BUVlqcjduTkV5NzV1RGd2V1pIaXI4Q2R4WXVUbHRtM0JkNWZoXzlzYUlkWlVPNlJidVhHWU1ibF9SME5ycW5yQnl6Qnl4OHZpVnlqUUtZYWtqNmtpQ0xETEVDMFRIY1hyb0EtSVpIdDloNw?oc=5",
-      "pubDate": "2026-09-07T03:30:00.000Z",
-      "source": "Google 뉴스: 지원사업 공고/모집",
-      "category": "정부지원정책"
-    },
-    {
-      "title": "한국수자원공사, 중소기업 ESG 경쟁력 강화 지원사업 참여기업 모집 - 세계환경신문",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9kbzhwbC1NSUdfY3VITlFHR01IQXJIM3Y0SG9zNG9tcm01Ty1ZWjlraGRtNks4Z1VCVFZYVVRIaV9lOVVnUXlSc0lIOWV0OEFyQzNaQ012d1ZGTGZrYmY0?oc=5",
-      "pubDate": "2026-09-07T03:02:14.000Z",
-      "source": "Google 뉴스: 지원사업 공고/모집",
-      "category": "정부지원정책"
-    },
-    {
-      "title": "1530원까지 갔던 원화값, 두 달 만에 1330원대…원화 강세 어디까지",
-      "link": "https://www.mk.co.kr/news/economy/12145891",
-      "pubDate": "2026-09-07T02:10:56.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "DB그룹 오너家 김병은, DB손보 부사장 승진…핵심 경영기획 맡는다",
-      "link": "https://www.mk.co.kr/news/economy/12145875",
-      "pubDate": "2026-09-07T01:58:02.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "“그래서 얼마 내란 건가요?”…종부세 재손질에 집주인도 세무사도 ‘혼란’",
-      "link": "https://www.mk.co.kr/news/economy/12145870",
-      "pubDate": "2026-09-07T01:55:18.000Z",
       "source": "매일경제 경제",
       "category": "경제"
     }
