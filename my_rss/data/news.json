@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-12T03:51:17.486Z",
+  "lastUpdated": "2026-09-12T08:30:23.872Z",
   "count": 500,
   "items": [
     {
@@ -7,6 +7,27 @@
       "link": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
       "pubDate": "2026-09-14T00:00:00.000Z",
       "source": "OpenAI",
+      "category": "AI"
+    },
+    {
+      "title": "세일즈포스, '에이전트 난립' 잡는다...통합 관리 '트러스트 엔터프라이즈 AI 하네스' 공개",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215190",
+      "pubDate": "2026-09-12T16:16:31.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "오픈AI의 피지 시모, IPO 앞둔 엔스케일 이사회 합류",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215189",
+      "pubDate": "2026-09-12T15:31:06.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "[내면 지도 그리기] 33 Inner Mapping: 나를 찾는 지도",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215191",
+      "pubDate": "2026-09-12T15:18:27.000Z",
+      "source": "AI타임스",
       "category": "AI"
     },
     {
@@ -115,6 +136,13 @@
       "category": "AI"
     },
     {
+      "title": "주유소 휘발유값 17주 연속 하락…서울만 1900원대",
+      "link": "https://www.mk.co.kr/news/economy/12151024",
+      "pubDate": "2026-09-12T01:38:48.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
       "title": "“나랏빚 106조 늘었는데 재정 좋아졌다?”…국가채무비율에 숨은 ‘GDP 착시’",
       "link": "https://www.mk.co.kr/news/economy/12151012",
       "pubDate": "2026-09-12T00:53:36.000Z",
@@ -162,6 +190,13 @@
       "pubDate": "2026-09-11T18:29:10.000Z",
       "source": "Tubefilter",
       "category": "수익화/크리에이터 이코노미"
+    },
+    {
+      "title": "본사는 홍콩, 시장은 처음부터 밖에 있었다",
+      "link": "https://platum.kr/archives/294458?utm_source=rss&utm_medium=rss&utm_campaign=%25eb%25b3%25b8%25ec%2582%25ac%25eb%258a%2594-%25ed%2599%258d%25ec%25bd%25a9-%25ec%258b%259c%25ec%259e%25a5%25ec%259d%2580-%25ec%25b2%2598%25ec%259d%258c%25eb%25b6%2580%25ed%2584%25b0-%25eb%25b0%2596%25ec%2597%2590-%25ec%259e%2588%25ec%2597%2588%25eb%258b%25a4",
+      "pubDate": "2026-09-11T17:54:39.000Z",
+      "source": "플래텀",
+      "category": "창업"
     },
     {
       "title": "오픈AI, 전이중 음성 모델 'GPT-라이브-1' API 출시...\"실시간 대화 에이전트 구현\"",
@@ -640,11 +675,46 @@
       "category": "경제"
     },
     {
+      "title": "“투자받을 곳이 없다”는 창업가 위해…연내 300회 ‘첫 투자 IR’",
+      "link": "https://platum.kr/archives/294455?utm_source=rss&utm_medium=rss&utm_campaign=%25ed%2588%25ac%25ec%259e%2590%25eb%25b0%259b%25ec%259d%2584-%25ea%25b3%25b3%25ec%259d%25b4-%25ec%2597%2586%25eb%258b%25a4%25eb%258a%2594-%25ec%25b0%25bd%25ec%2597%2585%25ea%25b0%2580-%25ec%259c%2584%25ed%2595%25b4%25ec%2597%25b0%25eb%2582%25b4-300%25ed%259a%258c",
+      "pubDate": "2026-09-11T04:38:00.000Z",
+      "source": "플래텀",
+      "category": "창업"
+    },
+    {
+      "title": "컴업스타즈·퓨처파운더, 부산서 첫 통합 워크숍…글로벌 진출 경험 공유",
+      "link": "https://platum.kr/archives/294452?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%25bb%25b4%25ec%2597%2585%25ec%258a%25a4%25ed%2583%2580%25ec%25a6%2588%25c2%25b7%25ed%2593%25a8%25ec%25b2%2598%25ed%258c%258c%25ec%259a%25b4%25eb%258d%2594-%25eb%25b6%2580%25ec%2582%25b0%25ec%2584%259c-%25ec%25b2%25ab-%25ed%2586%25b5%25ed%2595%25a9-%25ec%259b%258c%25ed%2581%25ac%25ec%2588%258d%25ea%25b8%2580",
+      "pubDate": "2026-09-11T04:21:07.000Z",
+      "source": "플래텀",
+      "category": "창업"
+    },
+    {
       "title": "화순 청년 문화생활비 연 25만원 지원…14일부터 3차 모집 - newskorea.ne.kr",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5yNElKbGNwNUU3VlB1NmdBUkV2bGdXTTg3WWhQQ3dWWVNjWEFPODZ2dnFYVktXdEFySl9YN2gxTkNMWjdaa2xDbFlVUXlwcGpVZy16TEdZd0NSVFRudzVKaEs2S3JwZ01qMEl5WlRn?oc=5",
       "pubDate": "2026-09-11T04:18:11.000Z",
       "source": "Google 뉴스: 지원사업 공고/모집",
       "category": "정부지원정책"
+    },
+    {
+      "title": "서울 K-뷰티, 아세안서 790억원 수출상담…중동 대체 판로 찾는다",
+      "link": "https://platum.kr/archives/294448?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%2584%259c%25ec%259a%25b8-k-%25eb%25b7%25b0%25ed%258b%25b0-%25ec%2595%2584%25ec%2584%25b8%25ec%2595%2588%25ec%2584%259c-790%25ec%2596%25b5%25ec%259b%2590-%25ec%2588%2598%25ec%25b6%259c%25ec%2583%2581%25eb%258b%25b4%25ec%25a4%2591%25eb%258f%2599-%25eb%258c%2580%25ec%25b2%25b4-%25ed%258c%2590",
+      "pubDate": "2026-09-11T03:59:05.000Z",
+      "source": "플래텀",
+      "category": "창업"
+    },
+    {
+      "title": "세 개 홀 40여 개 세션에 실시간 자막…엑스엘에이트, 트라이에브리싱에 통번역 공급",
+      "link": "https://platum.kr/archives/294445?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%2584%25b8-%25ea%25b0%259c-%25ed%2599%2580-40%25ec%2597%25ac-%25ea%25b0%259c-%25ec%2584%25b8%25ec%2585%2598%25ec%2597%2590-%25ec%258b%25a4%25ec%258b%259c%25ea%25b0%2584-%25ec%259e%2590%25eb%25a7%2589-%25ec%2597%2591%25ec%258a%25a4%25ec%2597%2598%25ec%2597%2590%25ec%259d%25b4%25ed%258a%25b8%25ea%25b0%2580",
+      "pubDate": "2026-09-11T03:39:00.000Z",
+      "source": "플래텀",
+      "category": "창업"
+    },
+    {
+      "title": "토큰증권 인프라 노리는 크레도스파트너스, 프리A 15억원 확보",
+      "link": "https://platum.kr/archives/294439?utm_source=rss&utm_medium=rss&utm_campaign=%25ed%2586%25a0%25ed%2581%25b0%25ec%25a6%259d%25ea%25b6%258c-%25ec%259d%25b8%25ed%2594%2584%25eb%259d%25bc-%25eb%2585%25b8%25eb%25a6%25ac%25eb%258a%2594-%25ed%2581%25ac%25eb%25a0%2588%25eb%258f%2584%25ec%258a%25a4%25ed%258c%258c%25ed%258a%25b8%25eb%2584%2588%25ec%258a%25a4-%25ed%2594%2584%25eb%25a6%25aca-15%25ec%2596%25b5",
+      "pubDate": "2026-09-11T03:28:01.000Z",
+      "source": "플래텀",
+      "category": "창업"
     },
     {
       "title": "해외 스타트업 38명이 들은 배달의민족 성장 과정",
@@ -3431,76 +3501,6 @@
       "pubDate": "2026-09-08T01:38:39.000Z",
       "source": "매일경제 경제",
       "category": "경제"
-    },
-    {
-      "title": "경상원, 소상공인 사회안전망 확충 나선다 - 매일일보",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5lWmZyRDBGMGdqZThZWTFoVUx2UkZQb2MzVlo4THNjU3ZrVGRPTXVZYnJqQmJCNXZtNzdUZXduVDhzWDZkMmU2Z19sU19XYmFGQzlrRWVaQm1KQzM1blZkcm9ReVfSAWhBVV95cUxOUjk4ejFDbFRkZENfRzdXVktpcEVxMHhYRVpJUGozckdaN3RadW85QVVKMGpnYnZDUjNjaEZ6OFo2MFdvN3k2TjdqT0FhTEpEVlBtOUQwOWpfM0lWVV9SdUVHNng1bER1RA?oc=5",
-      "pubDate": "2026-09-08T01:25:18.000Z",
-      "source": "Google 뉴스: 지원사업 공고/모집",
-      "category": "정부지원정책"
-    },
-    {
-      "title": "의성군, 2027년 마을자치지원사업 참여 마을 모집 - 웹이코노미",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFAwdUxMUG5HMzNBVmFlTFVuQWJVUjk4dGdYUDFGOENqOUhBdTZMS2tkSVNUbE0zWUtzY21UV0lFek9rUWRyNU42WWp1b1d4VWcxYUZSb1UzRFJwY3NXTW5JS0pKbjBjVmd2cFBmdHhHeU9HUQ?oc=5",
-      "pubDate": "2026-09-08T01:23:28.000Z",
-      "source": "Google 뉴스: 지원사업 공고/모집",
-      "category": "정부지원정책"
-    },
-    {
-      "title": "인뱅 어려운 어르신들, 금감원에서 배우세요",
-      "link": "https://www.mk.co.kr/news/economy/12146759",
-      "pubDate": "2026-09-08T01:13:11.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "토스뱅크 ‘키워봐요 31일 적금’ 출시 한 달 만에 30만좌 돌파",
-      "link": "https://www.mk.co.kr/news/economy/12146756",
-      "pubDate": "2026-09-08T01:11:00.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "“취업 힘든 청년들, 대출마저 가혹”…정책서민금융 이용 과반이 2030 [금융가 톺아보기]",
-      "link": "https://www.mk.co.kr/news/economy/12146747",
-      "pubDate": "2026-09-08T01:09:07.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "의성군, ‘2027년 마을자치지원사업’ 참여 마을 모집 - 경북매일",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5JeXgwdmhaLXY0TTV4QmlTMHZVdkFhak1DWW9FdkJXSjVTQkNYRUpiOFA5ZkhFQnhNMHpYVm5pTE4xUDRYZWlvNTRXUnAxMlFOZXV3VFp0RWRjUQ?oc=5",
-      "pubDate": "2026-09-08T00:59:00.000Z",
-      "source": "Google 뉴스: 지원사업 공고/모집",
-      "category": "정부지원정책"
-    },
-    {
-      "title": "고성군 5등급 노후경유차 조기폐차 지원사업 종료 예정 - 시사일보",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5BeHhVemRKNy03N3dRdUl3TDhkRzg2TWU4TlVfNHpTb0FPWVNfWk5SZFFGMzhkSmpKVmNEVlRtUVROeVU2RmpuTWtxM1c?oc=5",
-      "pubDate": "2026-09-08T00:52:00.000Z",
-      "source": "Google 뉴스: 지원사업 공고/모집",
-      "category": "정부지원정책"
-    },
-    {
-      "title": "고성군 5등급 노후경유차 조기폐차 지원사업 종료 예정 - mediatoday.asia",
-      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9wTVc4aDFBelp1Z003UkM2d1p5dlp4STQzRGZkYzZPRnB1ZWZ4Rno3YXFVT3hSOGlra3hERTNfMjU4X2NBVDZMTG5n?oc=5",
-      "pubDate": "2026-09-08T00:52:00.000Z",
-      "source": "Google 뉴스: 지원사업 공고/모집",
-      "category": "정부지원정책"
-    },
-    {
-      "title": "K-water, 중소기업 ESG 역량 강화 지원... 참여기업 모집 - 핸드메이커",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0tNHlnNUREbmdNaDFTaGNMR1RHRUg5VnRJZmxLTjc1Rl9CZVRLZEh5c1JEUm4xa3pUVVhWeVg5SV9FdW5KZHEyalNVZDhIR2JEUjJreUd6Yk0wejFkWFl1Ym9Jcl9Ra1XSAWtBVV95cUxONVFQb0NVY01tZjBtd1VwaUI3VG41dlpicFFFLWFzb1p2SjFBMDNTY241UXZkcnlqdGluX3dzUUpDTDRhMVBZTWxxbmNGRUlTV2I3bGZYdXpDNEplOXlQdTc0SVA5YXVXWjVIQQ?oc=5",
-      "pubDate": "2026-09-08T00:28:35.000Z",
-      "source": "Google 뉴스: 지원사업 공고/모집",
-      "category": "정부지원정책"
-    },
-    {
-      "title": "경상원, ‘1인 소상공인 고용보험료 지원’ 2차 모집…최장 5년 지원 - 이코노뉴스",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9mS2VxbWRqQ1JfY1lhUEl1WWY1eXlOM3VWUjlaWnBNQzJPZVFiQXVhTy1Hd2JNTnFvUEVyM294LWhnZmU3bkxJMmliU21pYTRFTHZhMHBxaXUxdmpick9GMnRTSVpDemR6d0xFb1B3?oc=5",
-      "pubDate": "2026-09-08T00:26:46.000Z",
-      "source": "Google 뉴스: 지원사업 공고/모집",
-      "category": "정부지원정책"
     }
   ]
 }
