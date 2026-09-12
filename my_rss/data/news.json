@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-12T20:21:18.222Z",
+  "lastUpdated": "2026-09-12T23:52:00.990Z",
   "count": 500,
   "items": [
     {
@@ -8,6 +8,27 @@
       "pubDate": "2026-09-14T00:00:00.000Z",
       "source": "OpenAI",
       "category": "AI"
+    },
+    {
+      "title": "알트먼 \"2026년 상장은 시기상조…안전성 확보가 최우선 과제\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215198",
+      "pubDate": "2026-09-13T08:49:06.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "아모데이 \"첨단 모델 개발 속도 줄이자\"...알트먼·머스크도 \"동의\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215195",
+      "pubDate": "2026-09-13T08:06:24.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "사고로 자식 죽으니 30년 만에 나타난 엄마…“사망보험금 달라” [어쩌다 세상이]",
+      "link": "https://www.mk.co.kr/news/economy/12151217",
+      "pubDate": "2026-09-12T22:15:52.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
     },
     {
       "title": "머스크, 자신 다룬 다큐에 법적 대응 경고...\"허위·악의적 공작\"",
@@ -3478,27 +3499,6 @@
       "title": "세계지식포럼 개막",
       "link": "https://www.mk.co.kr/news/columnists/12146837",
       "pubDate": "2026-09-08T01:58:33.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "세계지식포럼 개막식 축사하는 조정식 국회의장",
-      "link": "https://www.mk.co.kr/news/columnists/12146835",
-      "pubDate": "2026-09-08T01:58:11.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "세계지식포럼 개막",
-      "link": "https://www.mk.co.kr/news/columnists/12146834",
-      "pubDate": "2026-09-08T01:58:00.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "세계지식포럼 개막",
-      "link": "https://www.mk.co.kr/news/columnists/12146832",
-      "pubDate": "2026-09-08T01:57:48.000Z",
       "source": "매일경제 경제",
       "category": "경제"
     }
