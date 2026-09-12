@@ -1,13 +1,132 @@
 {
-  "lastUpdated": "2026-09-11T22:21:00.382Z",
+  "lastUpdated": "2026-09-12T03:51:17.486Z",
   "count": 500,
   "items": [
+    {
+      "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
+      "link": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+      "pubDate": "2026-09-14T00:00:00.000Z",
+      "source": "OpenAI",
+      "category": "AI"
+    },
+    {
+      "title": "AI가 하네스를 만들 수 있을까...바이트댄스, 평가 프레임워크 '하네스데브' 공개",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215182",
+      "pubDate": "2026-09-12T11:56:44.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "오픈AI, '에이전트 API' 공개 베타 출시...\"에이전트 구축 쉬워진다\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215181",
+      "pubDate": "2026-09-12T11:34:32.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "챗GPT로 교내 총격 계획한 아르헨티나 10대, FBI 경보 후 경찰 급습",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215187",
+      "pubDate": "2026-09-12T11:20:48.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "트럼프, AI 종말론 위험 일축…\"중국 우위가 최우선\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215185",
+      "pubDate": "2026-09-12T10:33:50.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "‘경주 헤리티지 AI시네마’ 개최…“AI로 복원한 10편의 문화유산 영상”",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215175",
+      "pubDate": "2026-09-12T10:05:00.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "애플 폴더블폰 시장 진입 공격에 삼성 ‘팀 쿡’ 카드로 맞불",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215183",
+      "pubDate": "2026-09-12T10:01:45.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "[AI카툰] Bob, Senior IT guy - 밥, Exoskeleton 파워 슈트 장착!",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215178",
+      "pubDate": "2026-09-12T10:00:00.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "전남광주, 초광역 인재육성사업 선정…4년간 최대 600억 지원",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215124",
+      "pubDate": "2026-09-12T09:40:00.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "미국서 반대 부딪힌 재생에너지 프로젝트 567건…약 40% 취소",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215113",
+      "pubDate": "2026-09-12T09:40:00.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "독일 작센안할트주, AfD 43.8% 1위…풍력 중단·태양광 제한 공약 변수",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215114",
+      "pubDate": "2026-09-12T09:35:00.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "여수 섬박람회서 아동학대·실종 예방 캠페인…관람객 대상 안전 안내",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215150",
+      "pubDate": "2026-09-12T09:30:00.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "프랑스 태양광 설비 34GW 돌파…2분기 발전량 18% 증가",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215086",
+      "pubDate": "2026-09-12T09:30:00.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "\"미사일부터 스파이 활동까지\"…앤트로픽 '클로드', 군사 악용에 비상",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215180",
+      "pubDate": "2026-09-12T09:22:28.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "목포, 추석 앞두고 공직기강 점검…직원 400여명 청렴 캠페인",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215157",
+      "pubDate": "2026-09-12T09:10:00.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
     {
       "title": "[9월11일] 실리콘밸리에서 갑자기 ‘AI 종말론’이 다시 떠오른 이유",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=215136",
       "pubDate": "2026-09-12T07:00:00.000Z",
       "source": "AI타임스",
       "category": "AI"
+    },
+    {
+      "title": "“나랏빚 106조 늘었는데 재정 좋아졌다?”…국가채무비율에 숨은 ‘GDP 착시’",
+      "link": "https://www.mk.co.kr/news/economy/12151012",
+      "pubDate": "2026-09-12T00:53:36.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "Have you heard? Tiltify’s creator awards, a ‘Drunk History’ comeback, and a 95-year-old podcaster.",
+      "link": "https://www.tubefilter.com/2026/09/11/have-you-heard-tiltify-drunk-history-dominic-chianese-uncle-junior/",
+      "pubDate": "2026-09-11T22:34:52.000Z",
+      "source": "Tubefilter",
+      "category": "수익화/크리에이터 이코노미"
     },
     {
       "title": "“월급 쪼개 넣었더니 세금을 또?”…국민연금 실수령액 매달 깎아먹는 ‘이것’",
@@ -112,6 +231,13 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=215162",
       "pubDate": "2026-09-11T16:00:00.000Z",
       "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
+      "link": "https://openai.com/index/cognition-devin-testing-with-astra",
+      "pubDate": "2026-09-11T16:00:00.000Z",
+      "source": "OpenAI",
       "category": "AI"
     },
     {
@@ -3373,132 +3499,6 @@
       "title": "경상원, ‘1인 소상공인 고용보험료 지원’ 2차 모집…최장 5년 지원 - 이코노뉴스",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9mS2VxbWRqQ1JfY1lhUEl1WWY1eXlOM3VWUjlaWnBNQzJPZVFiQXVhTy1Hd2JNTnFvUEVyM294LWhnZmU3bkxJMmliU21pYTRFTHZhMHBxaXUxdmpick9GMnRTSVpDemR6d0xFb1B3?oc=5",
       "pubDate": "2026-09-08T00:26:46.000Z",
-      "source": "Google 뉴스: 지원사업 공고/모집",
-      "category": "정부지원정책"
-    },
-    {
-      "title": "[속보] 한은 “올해 1인당 GNI 4만달러 넘을 가능성 매우 커져”",
-      "link": "https://www.mk.co.kr/news/economy/12146696",
-      "pubDate": "2026-09-08T00:25:39.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "[부산소식]부산교육청, 학부모 동아리·학교 참여 사업 모집 등 - newsis.com",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1qejlvbExHajBBdTcwZGY4UmZvZGxfdzBDajNYb0pSOUlmQTBFcy1lMWlCeDJLeU9XTndBSTFiNzRaTzhJTjFSeERjUzJKb3R1R21JRTFmaThjWFFySHZ5ZdIBeEFVX3lxTE85WW1mbTJ1S3BCdG1fZmZjN1gyaDlraEdKcTFHXzE2N0FVcDVCanFUS2UtT0s1YURSdUt5djk2Y21CNVJibzkySzRQX3h1SVNYOXZoSGNUOXRRVXlGSnkyd29sRlBnNE1yV1c4eDg5MjV3NVZVc05vcw?oc=5",
-      "pubDate": "2026-09-08T00:07:47.000Z",
-      "source": "Google 뉴스: 지원사업 공고/모집",
-      "category": "정부지원정책"
-    },
-    {
-      "title": "군산시, 난임 한방 지원사업 참여자 모집…최대 180만원 지원 - v.daum.net",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBRd1FmZlBZa0thUmJuRlU5d0lwWnppcnR5OGdPdmJCYzJPekJoTEpDaExMMU5TRzJTTVU3anZRMExlbzZONVE?oc=5",
-      "pubDate": "2026-09-08T00:05:50.000Z",
-      "source": "Google 뉴스: 지원사업 공고/모집",
-      "category": "정부지원정책"
-    },
-    {
-      "title": "군산시, 난임 한방 지원사업 참여자 모집…최대 180만원 지원 - Nate News",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBqMVgtU3BJZXFvdkhsQ0s4NFdMR0dDWXFiZXBUZFNVOU1ubThnLVNaTVNBblFBR0lITHdGa2lfWXZuOHR2bXd5cTduVXByRXd6SF9R?oc=5",
-      "pubDate": "2026-09-08T00:05:00.000Z",
-      "source": "Google 뉴스: 지원사업 공고/모집",
-      "category": "정부지원정책"
-    },
-    {
-      "title": "군산시, 난임 한방 지원사업 참여자 모집…최대 180만원 지원 - v.daum.net",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBLRGNrWTEwcmxQNzE5aVJBSXBVaklqZHB0TnB6NjFONUN1NE9vdkpmbTVYUlEzNko1aGNQSFJhTnB1alBKS044TEFHWQ?oc=5",
-      "pubDate": "2026-09-08T00:05:00.000Z",
-      "source": "Google 뉴스: 지원사업 공고/모집",
-      "category": "정부지원정책"
-    },
-    {
-      "title": "군산시, 난임 한방 지원사업 참여자 모집…최대 180만원 지원 - 연합뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1GVWFWUmhhOWtQWEZkbTlhYWhocmtjVmJsUHJJSWdBaGQ4R3l2VERqbThOSUlLR2RmT3h5SDItTFJCamd4dVdWWjNaSEtkRVpZMEZ1eHctT3hnUVhJMDJqMdIBYEFVX3lxTE1GVWFWUmhhOWtQWEZkbTlhYWhocmtjVmJsUHJJSWdBaGQ4R3l2VERqbThOSUlLR2RmT3h5SDItTFJCamd4dVdWWjNaSEtkRVpZMEZ1eHctT3hnUVhJMDJqMQ?oc=5",
-      "pubDate": "2026-09-08T00:04:23.000Z",
-      "source": "Google 뉴스: 지원사업 공고/모집",
-      "category": "정부지원정책"
-    },
-    {
-      "title": "군산시, 난임 한방 지원사업 참여자 모집…최대 180만원 지원 - 연합뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBFbmlLN2RWdjRPaTMtR2hyRGthNUt5ZnRMVkNXbm9MTERyel9GRVZ0NnNxaGYxaVVPUy12XzRXZFFjRXRmS2ROaC1TV21OWDdyNXplcGlqRXdpTkHSAWBBVV95cUxNRlVhVlJoYTlrUFhGZG05YWFoaHJrY1ZibFBySUlnQWhkOEd5dlREam04TklJS0dkZk94eUgyLUxSQmpneHVXVlozWkhLZEVaWTBGdXh3LU94Z1FYSTAyajE?oc=5",
-      "pubDate": "2026-09-08T00:04:23.000Z",
-      "source": "Google 뉴스: 지원사업 공고/모집",
-      "category": "정부지원정책"
-    },
-    {
-      "title": "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
-      "link": "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms",
-      "pubDate": "2026-09-08T00:00:00.000Z",
-      "source": "OpenAI",
-      "category": "AI"
-    },
-    {
-      "title": "1Password increases engineering productivity 21% with Codex",
-      "link": "https://openai.com/index/1password",
-      "pubDate": "2026-09-08T00:00:00.000Z",
-      "source": "OpenAI",
-      "category": "AI"
-    },
-    {
-      "title": "「2026년 스타트업 법률지원사업 대구광역시 법률상담회」 참여기업 모집 안내 - 스타트업레시피",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9PcU9KM1Q1QzFRamQxNm04a2ZxaDNqRERpc3dRbDdHa05vT2kyLTl5OHNjY1M1NUpnQnc0cDJmSFpwbzZoTllDV1dmYTZLNkhjMEl2SnI4N29SZkVt?oc=5",
-      "pubDate": "2026-09-08T00:00:00.000Z",
-      "source": "Google 뉴스: 지원사업 공고/모집",
-      "category": "정부지원정책"
-    },
-    {
-      "title": "부산교육청, 학부모 학교참여 확대…씨앗동아리 220팀 모집 - 네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAtSGdjODREQjhsWDZMZFlCcHJrN2RsUzkyRlpPLWdwZDdSSWtRZ2J6bHA4aDBvODNqV200REcwOGR2S2NfOC12WE5Dclc3QU5hMWlJ?oc=5",
-      "pubDate": "2026-09-07T23:56:07.000Z",
-      "source": "Google 뉴스: 지원사업 공고/모집",
-      "category": "정부지원정책"
-    },
-    {
-      "title": "군산시 보건소, 한방 난임부부 지원사업 대상자 추가모집 - 문화매일신문",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBfX0tYaG1vU2QwWHRvUGhzak04dl9xbXJYS2V4dlRSZ29XZW4ta2R5bEttd2I1VDA4MXhqcU80d1hSUlR2TDBtR1VIdw?oc=5",
-      "pubDate": "2026-09-07T23:40:00.000Z",
-      "source": "Google 뉴스: 지원사업 공고/모집",
-      "category": "정부지원정책"
-    },
-    {
-      "title": "[K-water] 중소기업 ESG 경쟁력 강화 지원사업 참여기업 모집 - waterjournal.co.kr",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE82bl8xS21sZGI1NFgzVnBHeWdEN2hWdmhScUxvNVRrUEJDOEM3dy1adnZyek55QkxsbEpKOTFubjNUVkpMRVVFUHlwbFdhekdjZ3VKcWRqTE9hS2Nubk1uZmhRT2JtS0FTZUJQQzNZZDJId9IBdkFVX3lxTE13Rkt3VVZhemZRZE0zaVZuNlFGVTVmbV93dXlaZXpRc1dNTE9iWUFmdHNNb1JrRXVJdHEwYkhpejdhakozSGJPeV9SalFpUC16MEhXcFVOeUktWDNiWWRDeEpiU1VHM1JfTjd6dTdKaUFFVWxqYlE?oc=5",
-      "pubDate": "2026-09-07T23:38:32.000Z",
-      "source": "Google 뉴스: 지원사업 공고/모집",
-      "category": "정부지원정책"
-    },
-    {
-      "title": "부산교육청, 2027 학부모 동아리·학교 참여 사업 모집 - mediatoday.asia",
-      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9VeDRVMEZMZVNjSmliWFlYS0d1b0V4RnI2OUdDTy1DZ3BqM0Rmam9QZlA3VEVPOTlzNDJxTlA4SkJTWGJJWWFacDFR?oc=5",
-      "pubDate": "2026-09-07T23:26:00.000Z",
-      "source": "Google 뉴스: 지원사업 공고/모집",
-      "category": "정부지원정책"
-    },
-    {
-      "title": "2분기 명목 GDP 성장률 47년 만에 최고…실질 GDP는 0.6%↑",
-      "link": "https://www.mk.co.kr/news/economy/12146625",
-      "pubDate": "2026-09-07T23:24:09.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "경상원, 소자본 창업 지원을 위한 ‘2026년 푸드트레일러 임대지원’ 사업 신청자 모집 - goodtimes.or.kr",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9HTG1aNm9JSG1NdGswVG84UkVMTXJtbnF2QjY1ZXJqS0UtcnhNZHR0ZFV0S2Q0V1ZQNm5zaUxobjBmZV9oSUNlM242WnYtYXhMZF85UWZWdGhtRFAtcDRaZGh2bllpbXVYcGpjOG52VQ?oc=5",
-      "pubDate": "2026-09-07T23:18:21.000Z",
-      "source": "Google 뉴스: 지원사업 공고/모집",
-      "category": "정부지원정책"
-    },
-    {
-      "title": "[중국 비즈니스 트렌드&동향] AI 구독권은 쇼핑몰로, 태양광은 자동차 매장으로, 로봇주는 반토막으로",
-      "link": "https://platum.kr/archives/294033?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%25a4%2591%25ea%25b5%25ad-%25eb%25b9%2584%25ec%25a6%2588%25eb%258b%2588%25ec%258a%25a4-%25ed%258a%25b8%25eb%25a0%258c%25eb%2593%259c%25eb%258f%2599%25ed%2596%25a5-ai-%25ea%25b5%25ac%25eb%258f%2585%25ea%25b6%258c%25ec%259d%2580-%25ec%2587%25bc%25ed%2595%2591%25eb%25aa%25b0%25eb%25a1%259c-%25ed%2583%259c",
-      "pubDate": "2026-09-07T23:01:00.000Z",
-      "source": "플래텀",
-      "category": "창업"
-    },
-    {
-      "title": "2026년 강릉시 신혼부부 주거자금 대출이자 지원사업 2차 모집 - 시사줌뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE00WDRhWURuNHNSM1hXLWNtQmg5RUpiMVh3VmFaeVpGcGRTZHVaQ3NMUEo1NUxieFRXdGhZdGRwamZUdC1IN2Nv?oc=5",
-      "pubDate": "2026-09-07T22:29:00.000Z",
       "source": "Google 뉴스: 지원사업 공고/모집",
       "category": "정부지원정책"
     }
