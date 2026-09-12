@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-12T16:51:00.329Z",
+  "lastUpdated": "2026-09-12T20:21:18.222Z",
   "count": 500,
   "items": [
     {
@@ -15,6 +15,13 @@
       "pubDate": "2026-09-12T20:09:12.000Z",
       "source": "AI타임스",
       "category": "AI"
+    },
+    {
+      "title": "AI와 함께 배당주 골라볼까? ... 꼼꼼히 검증 안하면 착시 빠진다",
+      "link": "https://www.mk.co.kr/news/economy/12150611",
+      "pubDate": "2026-09-12T19:24:00.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
     },
     {
       "title": "[AI 이슈트렌드] 파주 냉동창고 살인·'야차룰' 학폭 논란...대기업 오너가도 관심",
@@ -2245,7 +2252,7 @@
     {
       "title": "수자원공사, '국가 K-테스트베드 지원사업' 참여 기업 모집 - v.daum.net",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE85ZkNOLUh3RTN1Zkw4TUc5VHNFNzdIVDhUaWhpLXE3VHdUN1oxV1l6QlAxbmVzdS1Gbmtjd3NUREFGSW1pZGg2eWE5alZCeGM?oc=5",
-      "pubDate": "2026-09-09T10:38:00.000Z",
+      "pubDate": "2026-09-09T10:38:43.000Z",
       "source": "Google 뉴스: 지원사업 공고/모집",
       "category": "정부지원정책"
     },
@@ -3492,13 +3499,6 @@
       "title": "세계지식포럼 개막",
       "link": "https://www.mk.co.kr/news/columnists/12146832",
       "pubDate": "2026-09-08T01:57:48.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "세계지식포럼 개회사하는 장대환 매경미디어그룹 회장",
-      "link": "https://www.mk.co.kr/news/columnists/12146831",
-      "pubDate": "2026-09-08T01:57:37.000Z",
       "source": "매일경제 경제",
       "category": "경제"
     }
