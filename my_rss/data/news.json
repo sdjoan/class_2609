@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-13T03:59:45.780Z",
+  "lastUpdated": "2026-09-13T09:27:55.981Z",
   "count": 500,
   "items": [
     {
@@ -7,6 +7,13 @@
       "link": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
       "pubDate": "2026-09-14T00:00:00.000Z",
       "source": "OpenAI",
+      "category": "AI"
+    },
+    {
+      "title": "'가상 초파리' 뇌 시뮬레이션 이색 시도 열풍…‘파리 언어모델'까지 등장",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215207",
+      "pubDate": "2026-09-13T17:28:00.000Z",
+      "source": "AI타임스",
       "category": "AI"
     },
     {
@@ -108,11 +115,53 @@
       "category": "AI"
     },
     {
+      "title": "이형일 “금투세, 시장 안정된 후 검토…가상자산 과세 기준 연내 공표”",
+      "link": "https://www.mk.co.kr/news/economy/12151570",
+      "pubDate": "2026-09-13T09:17:37.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
       "title": "오픈AI '불량 에이전트' 루비젬스까지 해킹 시도…\"데이터 수집일 뿐\"",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=215199",
       "pubDate": "2026-09-13T09:11:19.000Z",
       "source": "AI타임스",
       "category": "AI"
+    },
+    {
+      "title": "'전력' 급한 정부, LNG 용량시장 연내 개설",
+      "link": "https://www.mk.co.kr/news/economy/12151539",
+      "pubDate": "2026-09-13T08:53:31.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "美中갈등에 관세율 오르자 … 韓, 베트남 우회수출 7.4%P ↑",
+      "link": "https://www.mk.co.kr/news/economy/12151528",
+      "pubDate": "2026-09-13T08:50:32.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "부부공동 1주택, 더 낮은 종부세액 알려준다",
+      "link": "https://www.mk.co.kr/news/economy/12151527",
+      "pubDate": "2026-09-13T08:50:32.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "이형일 \"비거주만으로 투기 단정 안돼\"",
+      "link": "https://www.mk.co.kr/news/economy/12151525",
+      "pubDate": "2026-09-13T08:50:31.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "'국가 비상금' 예비비 3년째 쑥 … 고유가 피해·아동수당에도 지원",
+      "link": "https://www.mk.co.kr/news/economy/12151526",
+      "pubDate": "2026-09-13T08:50:31.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
     },
     {
       "title": "알트먼 \"2026년 상장은 시기상조…안전성 확보가 최우선 과제\"",
@@ -122,11 +171,123 @@
       "category": "AI"
     },
     {
+      "title": "[포토] 현대차 포레스트런, 아프리카에 나무 10만그루 기부",
+      "link": "https://www.mk.co.kr/news/economy/12151519",
+      "pubDate": "2026-09-13T08:47:25.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "KB發 세대교체 바람 … 연말 금융CEO 인사 흔드나",
+      "link": "https://www.mk.co.kr/news/economy/12151479",
+      "pubDate": "2026-09-13T08:38:16.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "지배구조 개선안도 영향 … 3연임 제한규제 힘빠질듯",
+      "link": "https://www.mk.co.kr/news/economy/12151480",
+      "pubDate": "2026-09-13T08:38:16.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "저축銀 고객 1000만 돌파 … 1인당 거래액은 줄어",
+      "link": "https://www.mk.co.kr/news/economy/12151477",
+      "pubDate": "2026-09-13T08:38:15.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "금융권, 소상공인·중기에 추석 앞두고 103조원 지원",
+      "link": "https://www.mk.co.kr/news/economy/12151478",
+      "pubDate": "2026-09-13T08:38:15.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "[표] 외국환율고시표",
+      "link": "https://www.mk.co.kr/news/economy/12151475",
+      "pubDate": "2026-09-13T08:38:14.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "대미투자 1호 초읽기…프로젝트별 '수익성'에 쏠린 눈",
+      "link": "https://www.mk.co.kr/news/economy/12151471",
+      "pubDate": "2026-09-13T08:31:43.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "[단독] 원전 1기 규모 'LNG 용량시장' 다시 연다 …\"히트펌프로 열공급 의무화\"",
+      "link": "https://www.mk.co.kr/news/economy/12151470",
+      "pubDate": "2026-09-13T08:31:42.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "AI와 함께 배당주 골라볼까?…꼼꼼히 검증 안하면 착시 빠진다 [최병일의 금융 리터러시 2.0]",
+      "link": "https://www.mk.co.kr/news/economy/12151466",
+      "pubDate": "2026-09-13T08:30:22.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
       "title": "아모데이 \"첨단 모델 개발 속도 줄이자\"...알트먼·머스크도 \"동의\"",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=215195",
       "pubDate": "2026-09-13T08:06:24.000Z",
       "source": "AI타임스",
       "category": "AI"
+    },
+    {
+      "title": "대출로 못 번 돈, 투자로 메웠다…저축은행 1000만 고객 시대의 그늘",
+      "link": "https://www.mk.co.kr/news/economy/12151363",
+      "pubDate": "2026-09-13T06:33:14.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "미국·중국 디커플링 시대…韓, 베트남을 ‘우회로’로 삼다",
+      "link": "https://www.mk.co.kr/news/economy/12151362",
+      "pubDate": "2026-09-13T06:32:42.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "부부 빚 따로 보면 괜찮았는데…가구 단위로 보니 드러난 ‘부채 위험’",
+      "link": "https://www.mk.co.kr/news/economy/12151348",
+      "pubDate": "2026-09-13T05:52:29.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "“부부 공동명의 1주택 종부세, 유리한 쪽 알려드립니다” ... 국세청, 첫 예상세액 사전 안내",
+      "link": "https://www.mk.co.kr/news/economy/12151340",
+      "pubDate": "2026-09-13T05:26:07.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "중동發 불안에 ‘비상 수송선대’ 키운다 … 국가 필수선박 확대",
+      "link": "https://www.mk.co.kr/news/economy/12151338",
+      "pubDate": "2026-09-13T05:16:25.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "[단독] 3년째 비상금 ‘더’ 꺼내쓴 정부…고유가·출생아 증가폭 영향 컸다",
+      "link": "https://www.mk.co.kr/news/economy/12151332",
+      "pubDate": "2026-09-13T05:09:09.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "금융권, 추석 앞두고 소상공인·중기에 103조 지원한다",
+      "link": "https://www.mk.co.kr/news/economy/12151317",
+      "pubDate": "2026-09-13T04:05:49.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
     },
     {
       "title": "김성환 “한투 이제 글로벌 금융사가 가장 일하고 싶어하는 파트너”",
@@ -3338,167 +3499,6 @@
       "title": "의성군, ‘2027년 마을자치지원사업’참여 마을 모집 - dnews.co.kr",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4zY1A2c1BZVl9FTzMzV3hmYktpOFFnTWtpdmRFZ29CdUJEeDF6Zk05aEpPNkZBSTBMOFNQTGgybW81a3Jrb1Q4d1ZiUmFEeGdJZXRHYVQ1TmhaM0Y3alcxV0gwUXpnYVRYTlFpTjJpMENHbjBH?oc=5",
       "pubDate": "2026-09-08T09:05:51.000Z",
-      "source": "Google 뉴스: 지원사업 공고/모집",
-      "category": "정부지원정책"
-    },
-    {
-      "title": "'한국판 미토스' 개발社 설립에 미래기금 4.7조",
-      "link": "https://www.mk.co.kr/news/economy/12147422",
-      "pubDate": "2026-09-08T09:05:23.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "'K원전 르네상스' 막 오른다",
-      "link": "https://www.mk.co.kr/news/economy/12147423",
-      "pubDate": "2026-09-08T09:05:23.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "막오른 4대 은행장 선임 절차… 금융사 지배구조 변화에 촉각",
-      "link": "https://www.mk.co.kr/news/economy/12147406",
-      "pubDate": "2026-09-08T09:04:07.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "\"나눠먹기식 지원땐 최상위 AI모델 못 만들어\"",
-      "link": "https://www.mk.co.kr/news/economy/12147407",
-      "pubDate": "2026-09-08T09:04:07.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "유재훈 보험개발원장 취임… \"보험 산업 미래 제시할 것\"",
-      "link": "https://www.mk.co.kr/news/economy/12147402",
-      "pubDate": "2026-09-08T09:04:06.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "\"영업이익 N% 요구 파업 노동부 지침대로면 불법\" 김영훈 고용노동부 장관",
-      "link": "https://www.mk.co.kr/news/economy/12147403",
-      "pubDate": "2026-09-08T09:04:06.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "2분기 명목 GDP 26.4% 쑥 … 47년來 최고",
-      "link": "https://www.mk.co.kr/news/economy/12147405",
-      "pubDate": "2026-09-08T09:04:06.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "[표] 외국환율고시표",
-      "link": "https://www.mk.co.kr/news/economy/12147400",
-      "pubDate": "2026-09-08T09:04:05.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "[포토] 韓·日, 시니어 주거 새 기준 위해 맞손",
-      "link": "https://www.mk.co.kr/news/economy/12147401",
-      "pubDate": "2026-09-08T09:04:05.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "공정, 혁신, 포용의 경기 - 경기도청",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5zT1BHMWtab1ZvREJSX19CQVJGNUF0Wi1NVlJsYUtoV1dMNE4yZXRBenl3VTFFWjRKNXlOZWZ1TWs4QmR2REFhWWh0cXV3a1p2YldJMDg2aGh3cVZsR2hvYXg0NlFaWGVTb29xMU4yd0tmZ1NhVzJPanBlZ2VDbWc?oc=5",
-      "pubDate": "2026-09-08T09:03:18.000Z",
-      "source": "Google 뉴스: 지원사업 공고/모집",
-      "category": "정부지원정책"
-    },
-    {
-      "title": "삼성SDS, '다차원 AI 풀스택' 공개…AI 보안·피지컬 AI로 영역 확장",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=214966",
-      "pubDate": "2026-09-08T09:00:00.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "Funding grants for new research into AI and teen development",
-      "link": "https://openai.com/index/teen-development-research-grants",
-      "pubDate": "2026-09-08T09:00:00.000Z",
-      "source": "OpenAI",
-      "category": "AI"
-    },
-    {
-      "title": "30% 이익 남는 '한국형 원전'… 대미투자 펀드로 교두보 확보",
-      "link": "https://www.mk.co.kr/news/economy/12147372",
-      "pubDate": "2026-09-08T08:52:20.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "2차 '국민성장펀드' 30일부터 판매…6천억 중 절반은 서민에 우선 공급",
-      "link": "https://www.mk.co.kr/news/economy/12147290",
-      "pubDate": "2026-09-08T08:22:13.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "군산시 보건소, 한방 난임부부 지원사업 대상자 추가모집 - 한국방송뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA1RkFjZy1kakRPTVU5MElxOVhSekZzTDk2OUZnZFIxMGppYmszbVBIZzZuekc0Vy1LQ3Q5eHhlMnRvSlZqUzVUaGdpNXVJeE9TVy1MZm9MWkVtRHJRd3c?oc=5",
-      "pubDate": "2026-09-08T08:19:42.000Z",
-      "source": "Google 뉴스: 지원사업 공고/모집",
-      "category": "정부지원정책"
-    },
-    {
-      "title": "군산시 보건소, 한방 난임부부 지원사업 대상자 추가모집 - ikbn.news",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9wSE04UWpVWjl4d1gwT3otWTEtSjFGZ1lCYzRiSmVRdXo4ZV9hRnJoOXRXa3RoX0hjLWlPMXlBSTExVkZfeXZIeEJRbG9iZUg4UTZlNVNjSkRTRkxP?oc=5",
-      "pubDate": "2026-09-08T08:19:42.000Z",
-      "source": "Google 뉴스: 지원사업 공고/모집",
-      "category": "정부지원정책"
-    },
-    {
-      "title": "“정부 지원금 기대지 않겠다”…건보공단, 소득 중심 부과체계 개편 예고",
-      "link": "https://www.mk.co.kr/news/economy/12147238",
-      "pubDate": "2026-09-08T08:02:27.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "실손보험 전자 청구 도입됐지만...청구 건수 고작 4.6%",
-      "link": "https://www.mk.co.kr/news/economy/12147223",
-      "pubDate": "2026-09-08T07:54:09.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "與 이강일 의원, ‘생애재산관리 5법’ 발의",
-      "link": "https://www.mk.co.kr/news/economy/12147212",
-      "pubDate": "2026-09-08T07:47:23.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "의성군, 마을자치지원사업 참여마을 모집 - 투어코리아",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9sbExxbUpJZmxkcTNOZnM2Y01TT25rS1ZlZHJxZEdNUXVvazFLMUZSbGp0S1M1OHBOR0RoV2ZCMjZVdFdPd2d2RFpwNnl6U181N2tNaHNSbXZ4d0UyQkNyajFKMlQxTW5YNHp3eUV3?oc=5",
-      "pubDate": "2026-09-08T07:36:36.000Z",
-      "source": "Google 뉴스: 지원사업 공고/모집",
-      "category": "정부지원정책"
-    },
-    {
-      "title": "의성군, ‘2027년 마을자치지원사업’참여 마을 모집 - 뉴스21 통신",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5QRFdNdnBpeW9XeXdNb24xYTA2bDIyb0ZmWlFuU2FVQjF4VWpBQl9qaHo4aXBVdEF2VnRPbzJjMkIwZ0VXYmhlOUo1LVg2YUtNcTg4bG5B?oc=5",
-      "pubDate": "2026-09-08T07:32:22.000Z",
-      "source": "Google 뉴스: 지원사업 공고/모집",
-      "category": "정부지원정책"
-    },
-    {
-      "title": "[단독] 공정위 사건처리에 434일 걸려...“법적 쟁점 갈수록 복잡해”",
-      "link": "https://www.mk.co.kr/news/economy/12147181",
-      "pubDate": "2026-09-08T07:21:17.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "축평원, 저탄소 인증 축산물 소비 활성화 사업 참여업체 모집 - 푸드아이콘",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBSdHRIeDlxZEhZT2pMX3U0NEQ2ZHI2cnRUWk11d0NuYlpOZXdGcVA4RlFxM3ByR3VaMmNtcmpLQTlPUDFNcGgzX1lESGJwUEFHY2tEM21oUjBUZmszZFpNVXY0eGtacUppTWdfSQ?oc=5",
-      "pubDate": "2026-09-08T07:19:00.000Z",
       "source": "Google 뉴스: 지원사업 공고/모집",
       "category": "정부지원정책"
     }
