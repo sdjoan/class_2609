@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-13T18:38:23.748Z",
+  "lastUpdated": "2026-09-13T22:14:43.858Z",
   "count": 500,
   "items": [
     {
@@ -10,11 +10,25 @@
       "category": "AI"
     },
     {
+      "title": "“고객은 1000만명인데 장사는 더 안 됩니다”…1인당 거래액 급감한 저축銀",
+      "link": "https://www.mk.co.kr/news/economy/12151628",
+      "pubDate": "2026-09-13T20:54:36.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
       "title": "'가상 초파리' 뇌 시뮬레이션 이색 시도 열풍…‘파리 언어모델'까지 등장",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=215207",
       "pubDate": "2026-09-13T17:28:00.000Z",
       "source": "AI타임스",
       "category": "AI"
+    },
+    {
+      "title": "포천시, '외국인근로자 소형건설기계 조종교육 지원사업' 신청자 모집 - 국민뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9TN2liWEVXbXJIaE9ZVHZ4dDBrckVJQUxFX0laT0FQVHRTd1VZOTU5YmtlbWZudTFZeFNid0RnaTVON2E1S01BSXlB?oc=5",
+      "pubDate": "2026-09-13T15:02:00.000Z",
+      "source": "Google 뉴스: 지원사업 공고/모집",
+      "category": "정부지원정책"
     },
     {
       "title": "스페이스X, 미공개 고객과 월 1.5조 규모 컴퓨팅 계약 체결",
@@ -3486,20 +3500,6 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=214967",
       "pubDate": "2026-09-08T11:05:00.000Z",
       "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "국민소득 4만달러 고지 보인다…명목GDP 47년만에 최고 상승률",
-      "link": "https://www.mk.co.kr/news/economy/12147459",
-      "pubDate": "2026-09-08T10:03:16.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "On the Navier–Stokes Millennium Prize Problem",
-      "link": "https://openai.com/index/navier-stokes-solution",
-      "pubDate": "2026-09-08T10:00:00.000Z",
-      "source": "OpenAI",
       "category": "AI"
     }
   ]
