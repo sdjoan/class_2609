@@ -1,7 +1,63 @@
 {
-  "lastUpdated": "2026-09-14T19:06:37.376Z",
+  "lastUpdated": "2026-09-14T23:01:04.020Z",
   "count": 500,
   "items": [
+    {
+      "title": "[9월14일] 잘나가던 AI 기업들이 ‘속도 늦추자’고 합의한 이유…‘죄수의 딜레마’",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215218",
+      "pubDate": "2026-09-15T07:00:00.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "국내 AI 업계, '속도 조절론'에 \"취지 공감하나 규제 투명성 확보돼야\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215251",
+      "pubDate": "2026-09-15T04:53:47.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "\"탈모약 개발·암 진단·주식 투자도 AI로\"...LG, 전문가 AI로 승부수",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215257",
+      "pubDate": "2026-09-15T04:42:09.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "브렌트유 105달러대…사우디 송유관 폐쇄에 국제유가 상승",
+      "link": "https://www.mk.co.kr/news/economy/12152718",
+      "pubDate": "2026-09-14T21:35:46.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "중소병원·요양병원 진료지원간호사 교육과정 실무 사업자 공모 - 뉴스더보이스헬스케어",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9rbDV0bl9BTTVKZHZ2Q1dWaV96TUdGYTFpcHB1c2hmYU5QQkZSZTUtS2U5RnFpOHRqaFdSb0VsakNyMWpwdzJuYmozcEw0VWp4NWV4UHFpUHdNT0R0WGRYYkVhUjVoTHo2UEdHSTJR?oc=5",
+      "pubDate": "2026-09-14T21:00:00.000Z",
+      "source": "Google 뉴스: 지원사업 공고/모집",
+      "category": "정부지원정책"
+    },
+    {
+      "title": "“여윳돈 9억뿐? 죄송한데요”…문턱높인 PB센터, 그래도 부자 넘쳐난다",
+      "link": "https://www.mk.co.kr/news/economy/12152696",
+      "pubDate": "2026-09-14T20:51:14.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "“집을 못 사게 해놨잖아요”…2030 무주택자 급증하는데 주거비는 폭등",
+      "link": "https://www.mk.co.kr/news/economy/12152695",
+      "pubDate": "2026-09-14T20:50:52.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "“집은 있는데 쓸 돈이 없다, 그렇다면?” … 부동산 문제 뜻밖의 해법 ‘연금’",
+      "link": "https://www.mk.co.kr/news/economy/12152237",
+      "pubDate": "2026-09-14T19:45:00.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
     {
       "title": "코그니션, 키미 K3 기반 코딩 모델 'SWE-2' 출시...\"페이블 5.1 맞먹는 성능\"",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=215233",
@@ -62,6 +118,20 @@
       "title": "프린스턴대, 이전 계산 결과 이어서 토큰 생성하는 '순환 루프 변환기' 공개",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=215227",
       "pubDate": "2026-09-14T17:05:00.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "[게시판] 아크릴,  국제컨퍼런스서 ‘풀스택 헬스케어 AX’ 제시 등 단신",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215255",
+      "pubDate": "2026-09-14T17:00:00.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "[게시판] LG CNS, 인도네시아 국세청 AX 성과로 감사패 수상 등 단신",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215237",
+      "pubDate": "2026-09-14T17:00:00.000Z",
       "source": "AI타임스",
       "category": "AI"
     },
@@ -3431,76 +3501,6 @@
       "pubDate": "2026-09-09T07:00:00.000Z",
       "source": "Google 뉴스: 지원사업 공고/모집",
       "category": "정부지원정책"
-    },
-    {
-      "title": "“추석 물가 잡아라”... 농축수산물 할인예산 2배로 확대",
-      "link": "https://www.mk.co.kr/news/economy/12148328",
-      "pubDate": "2026-09-09T06:58:29.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "물류 서비스 지원사업…한유원, 소상공인 모집 - 뉴시스",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5sUU91c2pXUVprcEw2NXU5b2dIek5sNUVZYVlpV216RWdyWFBONU9Gd1d5LU5TaDJvcHhrODF3NXAzd204bjk0WHJMM1FGQXRYUTRIbWRBY0lScnJjSVFwddIBeEFVX3lxTE1ZVTlGTF9SaHFTckFpMVMwTHh1Y3I2ZzBDTkZPLWlra1JYOWVNa1lvY2JXdV81UkN5UGl2cjFzRkM4Z1QzZG13azdzZjdYdlZvTGJsV2RvV3FvVHlZeXhNY0s1TklFZTFfaEduVnFpcVptcUVFSTlCVw?oc=5",
-      "pubDate": "2026-09-09T06:37:55.000Z",
-      "source": "Google 뉴스: 지원사업 공고/모집",
-      "category": "정부지원정책"
-    },
-    {
-      "title": "물류 서비스 지원사업…한유원, 소상공인 모집 - 뉴시스",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1ZVTlGTF9SaHFTckFpMVMwTHh1Y3I2ZzBDTkZPLWlra1JYOWVNa1lvY2JXdV81UkN5UGl2cjFzRkM4Z1QzZG13azdzZjdYdlZvTGJsV2RvV3FvVHlZeXhNY0s1TklFZTFfaEduVnFpcVptcUVFSTlCV9IBeEFVX3lxTE1ZVTlGTF9SaHFTckFpMVMwTHh1Y3I2ZzBDTkZPLWlra1JYOWVNa1lvY2JXdV81UkN5UGl2cjFzRkM4Z1QzZG13azdzZjdYdlZvTGJsV2RvV3FvVHlZeXhNY0s1TklFZTFfaEduVnFpcVptcUVFSTlCVw?oc=5",
-      "pubDate": "2026-09-09T06:37:55.000Z",
-      "source": "Google 뉴스: 지원사업 공고/모집",
-      "category": "정부지원정책"
-    },
-    {
-      "title": "8월 취업자 3개월 연속 상승...청년 고용률은 28개월 연속  ‘뚝’",
-      "link": "https://www.mk.co.kr/news/economy/12148301",
-      "pubDate": "2026-09-09T06:34:47.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "[단독] “내 세금으로 민주노총 사무실 보증금을 왜”…100억대 예산 삭감했다",
-      "link": "https://www.mk.co.kr/news/economy/12148294",
-      "pubDate": "2026-09-09T06:26:01.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "부동산원, 재개발 등 정비사업 컨설팅 사업 올해도 모집 - v.daum.net",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBOUkYyWUl4R0Y3VHB0OWsxY1R2cUFsanVpNE9wS0JxdWVPMWxCMC1CY3hqLVFGT3BIWEp6T2FzYUpIb0Y4S250d1RlU25sakF2aG9Raw?oc=5",
-      "pubDate": "2026-09-09T06:10:07.000Z",
-      "source": "Google 뉴스: 지원사업 공고/모집",
-      "category": "정부지원정책"
-    },
-    {
-      "title": "부동산원, 재개발 등 정비사업 컨설팅 사업 올해도 모집 - v.daum.net",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8ySTBvM05lTDk1VFA3VTlya0syS3pCTkpjRDd0SHJoSEM3cEI1OFVISlpDZ1FYMklscHVJdHhyUFl2OS1TNWl3NDNmY1RpdTA?oc=5",
-      "pubDate": "2026-09-09T06:10:00.000Z",
-      "source": "Google 뉴스: 지원사업 공고/모집",
-      "category": "정부지원정책"
-    },
-    {
-      "title": "산업부·무보, ‘수출 中企’에 20조 무역금융 지원한다",
-      "link": "https://www.mk.co.kr/news/economy/12148246",
-      "pubDate": "2026-09-09T05:59:23.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "삼성전자, 미스트랄 AI와 맞손...‘반도체 특화 AI’ 개발 나선다",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215015",
-      "pubDate": "2026-09-09T05:50:29.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "“물가 잡으랬더니”… 할당관세 악용 586억 챙긴 수입상 덜미",
-      "link": "https://www.mk.co.kr/news/economy/12148233",
-      "pubDate": "2026-09-09T05:48:38.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
     }
   ]
 }
