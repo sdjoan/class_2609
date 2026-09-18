@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-18T10:50:45.821Z",
+  "lastUpdated": "2026-09-18T16:05:40.377Z",
   "count": 500,
   "items": [
     {
@@ -129,6 +129,20 @@
       "category": "AI"
     },
     {
+      "title": "Federal Reserve Board announces termination of enforcement action with SNB Bancshares and Bank of Eufaula",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260918b.htm",
+      "pubDate": "2026-09-18T15:00:00.000Z",
+      "source": "미 연준 보도자료",
+      "category": "경제"
+    },
+    {
+      "title": "Federal Reserve Board issues enforcement actions with former employee of Northstar Bank, former employee of American Express Travel Related Services Company, Inc., and former employee of Regions Bank",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260918a.htm",
+      "pubDate": "2026-09-18T15:00:00.000Z",
+      "source": "미 연준 보도자료",
+      "category": "경제"
+    },
+    {
       "title": "화웨이, 차세대 AI 칩 출시 앞당긴다...\"대규모 연결로 엔비디아 추격\"",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=215455",
       "pubDate": "2026-09-18T14:56:24.000Z",
@@ -185,6 +199,20 @@
       "category": "AI"
     },
     {
+      "title": "폭염은 끝났는데 이제 기름값이 문제…휘발유·경유 부담 다시 커진다",
+      "link": "https://www.mk.co.kr/news/economy/12156866",
+      "pubDate": "2026-09-18T13:00:47.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "최악 지지율에도 고개 뻣뻣한 대통령…시진핑 모시러 공항 달려간다",
+      "link": "https://www.mk.co.kr/news/economy/12156863",
+      "pubDate": "2026-09-18T12:58:16.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
       "title": "찰스 3세, 젠슨 황·허사비스 만나 \"AI 통제 수단 마련해야\"",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=215434",
       "pubDate": "2026-09-18T12:53:33.000Z",
@@ -211,6 +239,13 @@
       "pubDate": "2026-09-18T11:39:26.000Z",
       "source": "AI타임스",
       "category": "AI"
+    },
+    {
+      "title": "중간선거 불리해진 트럼프? 공화당에 쏠린 정치 후원금",
+      "link": "https://www.mk.co.kr/news/stock/12156826",
+      "pubDate": "2026-09-18T11:35:51.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
     },
     {
       "title": "폐태양광에 레이저 쐈더니…실리콘 99.998% 순도로 회수",
@@ -3466,41 +3501,6 @@
       "pubDate": "2026-09-14T07:00:00.000Z",
       "source": "Google 뉴스: 지원사업 공고/모집",
       "category": "정부지원정책"
-    },
-    {
-      "title": "한국 자본으로 美 AI·테크 투자…미국 벤처 큰손들이 몰려왔다",
-      "link": "https://www.mk.co.kr/news/economy/12152117",
-      "pubDate": "2026-09-14T06:51:09.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "중둥전쟁發 LNG값 급등에 석탄발전 늘었다 ... ‘2040 탈석탄 로드맵’ 역주행",
-      "link": "https://www.mk.co.kr/news/economy/12152078",
-      "pubDate": "2026-09-14T06:16:04.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "韓·중앙아 5개국 광물 동맹…희토류 공급망 맞손",
-      "link": "https://www.mk.co.kr/news/economy/12152070",
-      "pubDate": "2026-09-14T06:10:01.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "[단독] 차 가지고 섬 들어가지 마세요…긴급출동 부르니 특약료만 116만원",
-      "link": "https://www.mk.co.kr/news/economy/12152068",
-      "pubDate": "2026-09-14T06:08:19.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "우여곡절 끝 GTX-C 15일 착공...수원에서 청량리까지 75분→30분 단축",
-      "link": "https://www.mk.co.kr/news/economy/12152043",
-      "pubDate": "2026-09-14T05:52:27.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
     }
   ]
 }
