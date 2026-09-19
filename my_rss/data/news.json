@@ -1,7 +1,21 @@
 {
-  "lastUpdated": "2026-09-19T10:34:11.953Z",
+  "lastUpdated": "2026-09-19T15:38:26.113Z",
   "count": 500,
   "items": [
+    {
+      "title": "[AI 이슈트렌드] 역대급 수출 실적 속 AI 속도조절론·대통령 지지율 최저 주목",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215491",
+      "pubDate": "2026-09-19T21:57:09.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "오픈AI, 기업 시장 점유율 역전…앤트로픽, IPO전 신형 모델 출시 검토",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215494",
+      "pubDate": "2026-09-19T19:46:59.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
     {
       "title": "구글 '제미나이', 보안 테스트 환경 오류로 기업 3곳 침투 사고 발생",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=215493",
@@ -3485,20 +3499,6 @@
       "title": "업스테이지, 엔비디아 본사 방문…GPU 지원 등 5개 안건 논의",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=215244",
       "pubDate": "2026-09-14T16:45:28.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "“2분기 연속 흑자” 앤트로픽, 2조달러 IPO 앞두고 수익성 입증",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215223",
-      "pubDate": "2026-09-14T16:27:04.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "오바마 \"AI 대처 못하면 위험\"...미 민주당에 적극 대응 촉구",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215224",
-      "pubDate": "2026-09-14T16:08:03.000Z",
       "source": "AI타임스",
       "category": "AI"
     }
