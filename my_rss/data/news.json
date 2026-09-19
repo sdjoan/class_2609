@@ -1,7 +1,70 @@
 {
-  "lastUpdated": "2026-09-19T04:28:48.658Z",
+  "lastUpdated": "2026-09-19T10:34:11.953Z",
   "count": 500,
   "items": [
+    {
+      "title": "구글 '제미나이', 보안 테스트 환경 오류로 기업 3곳 침투 사고 발생",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215493",
+      "pubDate": "2026-09-19T19:06:23.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "Z.ai “AI가 AI 실행 인프라 스스로 구축...'재귀적 자기개선'의 시작”",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215483",
+      "pubDate": "2026-09-19T18:05:57.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "SK하이닉스, 미국에 첫 낸드 생산거점 구축...\"확정된 바 없다\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215492",
+      "pubDate": "2026-09-19T17:47:54.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "'애플 인수설' 프리즘ML, 270억 매개변수 모델 5.9GB로 압축",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215479",
+      "pubDate": "2026-09-19T17:36:34.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "메타, 에이전트 '뮤즈' 맥으로 확대…앱스토어 1위 인기 속 '보안' 부각",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215478",
+      "pubDate": "2026-09-19T17:03:03.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "알리바바, 보고 듣고 행동하는 옴니모달 '큐원3.8-옴니-플래시' 공개",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215481",
+      "pubDate": "2026-09-19T16:24:53.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "스페이스XAI, ‘그록 보이스 트랜스크라이브  2.0’ 공개...전사 정확도 1위",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215485",
+      "pubDate": "2026-09-19T15:50:11.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "네오클라우드 엔스케일, 엔비디아 지원으로 뉴욕증시 상장 추진",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215489",
+      "pubDate": "2026-09-19T15:17:50.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "조비, 사람 조종 없이 미국 대륙 횡단…'최초' 완전 자율비행 성공",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215488",
+      "pubDate": "2026-09-19T14:53:07.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
     {
       "title": "디즈니, 사상 첫 CTO 선임…'저작권 마찰' 캐릭터닷AI CEO 영입",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=215487",
@@ -87,6 +150,13 @@
       "category": "AI"
     },
     {
+      "title": "주춤했던 ‘스타벅스 마케팅’ 다시 시동…제휴통장·카드 잇따라",
+      "link": "https://www.mk.co.kr/news/economy/12157143",
+      "pubDate": "2026-09-19T08:47:34.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
       "title": "[9월18일] AI가 다음 AI에게 지시를 남겼다…오픈AI서 드러난 ‘셀프 프롬프트 인젝션’",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=215440",
       "pubDate": "2026-09-19T06:45:00.000Z",
@@ -99,6 +169,20 @@
       "pubDate": "2026-09-19T06:16:26.000Z",
       "source": "AI타임스",
       "category": "AI"
+    },
+    {
+      "title": "“증시 불붙으면 바로 베팅, 그전까지 잠깐 여기에”…최고 연 8% 파킹통장 활용법",
+      "link": "https://www.mk.co.kr/news/economy/12157091",
+      "pubDate": "2026-09-19T05:22:28.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "“새로온 대출심사 보고서 담당자 그렇게 깐깐하다며?”…확 바뀐 은행 창구 풍경",
+      "link": "https://www.mk.co.kr/news/economy/12157082",
+      "pubDate": "2026-09-19T04:33:47.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
     },
     {
       "title": "“보험금 돌려주면 끝인 줄 알았는데”…보험사기 유죄, 보험계약까지 해지된다 [어쩌다 세상이]",
@@ -388,6 +472,13 @@
       "category": "AI"
     },
     {
+      "title": "Introducing the Australian Youth Safety Blueprint",
+      "link": "https://openai.com/index/australian-youth-safety-blueprint",
+      "pubDate": "2026-09-18T12:00:00.000Z",
+      "source": "OpenAI",
+      "category": "AI"
+    },
+    {
       "title": "앤트로픽, 장기 개발 관리 에이전트 '클로드 코드 프로젝트' 공개",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=215430",
       "pubDate": "2026-09-18T11:56:41.000Z",
@@ -591,6 +682,13 @@
       "category": "경제"
     },
     {
+      "title": "네이버, 배달의민족 인수 검토 4개월 만에 중단",
+      "link": "https://platum.kr/archives/294880?utm_source=rss&utm_medium=rss&utm_campaign=%25eb%2584%25a4%25ec%259d%25b4%25eb%25b2%2584-%25eb%25b0%25b0%25eb%258b%25ac%25ec%259d%2598%25eb%25af%25bc%25ec%25a1%25b1-%25ec%259d%25b8%25ec%2588%2598-%25ea%25b2%2580%25ed%2586%25a0-4%25ea%25b0%259c%25ec%259b%2594-%25eb%25a7%258c%25ec%2597%2590-%25ec%25a4%2591%25eb%258b%25a8",
+      "pubDate": "2026-09-18T05:22:48.000Z",
+      "source": "플래텀",
+      "category": "창업"
+    },
+    {
       "title": "강호동 농협회장, 세계 농업협동조합 4년 더 이끈다…“국제무대 ‘1인 3역’”",
       "link": "https://www.mk.co.kr/news/economy/12156445",
       "pubDate": "2026-09-18T05:09:01.000Z",
@@ -605,11 +703,53 @@
       "category": "경제"
     },
     {
+      "title": "화면 보고 컴퓨터 직접 조작하는 AI 모델, 제논 ‘훈민 VLM 397B’ 오픈소스 공개",
+      "link": "https://platum.kr/archives/294875?utm_source=rss&utm_medium=rss&utm_campaign=%25ed%2599%2594%25eb%25a9%25b4-%25eb%25b3%25b4%25ea%25b3%25a0-%25ec%25bb%25b4%25ed%2593%25a8%25ed%2584%25b0-%25ec%25a7%2581%25ec%25a0%2591-%25ec%25a1%25b0%25ec%259e%2591%25ed%2595%2598%25eb%258a%2594-ai-%25eb%25aa%25a8%25eb%258d%25b8-%25ec%25a0%259c%25eb%2585%25bc-%25ed%259b%2588%25eb%25af%25bc-vlm-397b",
+      "pubDate": "2026-09-18T04:19:47.000Z",
+      "source": "플래텀",
+      "category": "창업"
+    },
+    {
+      "title": "셀렉트스타 “AI 검증, 출시 전 한 번으로 끝낼 일 아니다”",
+      "link": "https://platum.kr/archives/294872?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%2585%2580%25eb%25a0%2589%25ed%258a%25b8%25ec%258a%25a4%25ed%2583%2580-ai-%25ea%25b2%2580%25ec%25a6%259d-%25ec%25b6%259c%25ec%258b%259c-%25ec%25a0%2584-%25ed%2595%259c-%25eb%25b2%2588%25ec%259c%25bc%25eb%25a1%259c-%25eb%2581%259d%25eb%2582%25bc-%25ec%259d%25bc-%25ec%2595%2584%25eb%258b%2588%25eb%258b%25a4",
+      "pubDate": "2026-09-18T04:05:02.000Z",
+      "source": "플래텀",
+      "category": "창업"
+    },
+    {
+      "title": "AI 창업자들 한데 모아 놓는 공간, 카카오벤처스 ‘템프서울’ 문 열어",
+      "link": "https://platum.kr/archives/294854?utm_source=rss&utm_medium=rss&utm_campaign=ai-%25ec%25b0%25bd%25ec%2597%2585%25ec%259e%2590%25eb%2593%25a4-%25ed%2595%259c%25eb%258d%25b0-%25eb%25aa%25a8%25ec%2595%2584-%25eb%2586%2593%25eb%258a%2594-%25ea%25b3%25b5%25ea%25b0%2584-%25ec%25b9%25b4%25ec%25b9%25b4%25ec%2598%25a4%25eb%25b2%25a4%25ec%25b2%2598%25ec%258a%25a4-%25ed%2585%259c%25ed%2594%2584",
+      "pubDate": "2026-09-18T03:49:24.000Z",
+      "source": "플래텀",
+      "category": "창업"
+    },
+    {
+      "title": "[법무법인 비트 TIP] 저작재산권을 양도한 후에도 공표권은 문제될까? 미공표 저작물의 권리관계",
+      "link": "https://platum.kr/archives/294857?utm_source=rss&utm_medium=rss&utm_campaign=%25eb%25b2%2595%25eb%25ac%25b4%25eb%25b2%2595%25ec%259d%25b8-%25eb%25b9%2584%25ed%258a%25b8-tip-%25ec%25a0%2580%25ec%259e%2591%25ec%259e%25ac%25ec%2582%25b0%25ea%25b6%258c%25ec%259d%2584-%25ec%2596%2591%25eb%258f%2584%25ed%2595%259c-%25ed%259b%2584%25ec%2597%2590%25eb%258f%2584-%25ea%25b3%25b5",
+      "pubDate": "2026-09-18T03:18:08.000Z",
+      "source": "플래텀",
+      "category": "창업"
+    },
+    {
+      "title": "재생원료 쓰는 제품·브랜드 기업 찾는다, 롯데케미칼 ‘프로젝트루프소셜’ 5기 모집",
+      "link": "https://platum.kr/archives/294851?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%259e%25ac%25ec%2583%259d%25ec%259b%2590%25eb%25a3%258c-%25ec%2593%25b0%25eb%258a%2594-%25ec%25a0%259c%25ed%2592%2588%25c2%25b7%25eb%25b8%258c%25eb%259e%259c%25eb%2593%259c-%25ea%25b8%25b0%25ec%2597%2585-%25ec%25b0%25be%25eb%258a%2594%25eb%258b%25a4-%25eb%25a1%25af%25eb%258d%25b0%25ec%25bc%2580%25eb%25af%25b8",
+      "pubDate": "2026-09-18T02:15:40.000Z",
+      "source": "플래텀",
+      "category": "창업"
+    },
+    {
       "title": "“원화는 단기 약세, 엔화는 지속 강세”…환율 디커플링 전망 이유는",
       "link": "https://www.mk.co.kr/news/economy/12156260",
       "pubDate": "2026-09-18T01:40:42.000Z",
       "source": "매일경제 경제",
       "category": "경제"
+    },
+    {
+      "title": "미국 다음은 유럽·중동, 메타가 K뷰티 브랜드에 내놓은 다변화 주문",
+      "link": "https://platum.kr/archives/294844?utm_source=rss&utm_medium=rss&utm_campaign=%25eb%25af%25b8%25ea%25b5%25ad-%25eb%258b%25a4%25ec%259d%258c%25ec%259d%2580-%25ec%259c%25a0%25eb%259f%25bd%25c2%25b7%25ec%25a4%2591%25eb%258f%2599-%25eb%25a9%2594%25ed%2583%2580%25ea%25b0%2580-k%25eb%25b7%25b0%25ed%258b%25b0-%25eb%25b8%258c%25eb%259e%259c%25eb%2593%259c%25ec%2597%2590-%25eb%2582%25b4%25eb%2586%2593",
+      "pubDate": "2026-09-18T01:38:37.000Z",
+      "source": "플래텀",
+      "category": "창업"
     },
     {
       "title": "[단독] 집값 25억·LTV 40% 초과 주담대…위험가중치 최대 4배 높인다",
@@ -624,6 +764,27 @@
       "pubDate": "2026-09-18T01:34:43.000Z",
       "source": "Google 뉴스: 지원사업 공고/모집",
       "category": "정부지원정책"
+    },
+    {
+      "title": "팜유 폐기물로 바이오차 만드는 스타트업이 1위, ASEIC 에코톤 말레이시아 데모데이",
+      "link": "https://platum.kr/archives/294841?utm_source=rss&utm_medium=rss&utm_campaign=%25ed%258c%259c%25ec%259c%25a0-%25ed%258f%2590%25ea%25b8%25b0%25eb%25ac%25bc%25eb%25a1%259c-%25eb%25b0%2594%25ec%259d%25b4%25ec%2598%25a4%25ec%25b0%25a8-%25eb%25a7%258c%25eb%2593%259c%25eb%258a%2594-%25ec%258a%25a4%25ed%2583%2580%25ed%258a%25b8%25ec%2597%2585%25ec%259d%25b4-1%25ec%259c%2584-aseic-%25ec%2597%2590",
+      "pubDate": "2026-09-18T01:25:15.000Z",
+      "source": "플래텀",
+      "category": "창업"
+    },
+    {
+      "title": "폐배터리 금속 회수부터 청각장애인 플로리스트 교육까지, ‘소셜벤처 리그’ 40명 추려",
+      "link": "https://platum.kr/archives/294840?utm_source=rss&utm_medium=rss&utm_campaign=%25ed%258f%2590%25eb%25b0%25b0%25ed%2584%25b0%25eb%25a6%25ac-%25ea%25b8%2588%25ec%2586%258d-%25ed%259a%258c%25ec%2588%2598%25eb%25b6%2580%25ed%2584%25b0-%25ec%25b2%25ad%25ea%25b0%2581%25ec%259e%25a5%25ec%2595%25a0%25ec%259d%25b8-%25ed%2594%258c%25eb%25a1%259c%25eb%25a6%25ac%25ec%258a%25a4%25ed%258a%25b8-%25ea%25b5%2590",
+      "pubDate": "2026-09-18T01:22:00.000Z",
+      "source": "플래텀",
+      "category": "창업"
+    },
+    {
+      "title": "당근모임, ‘러닝 기록 꾸미기’ 기능 출시",
+      "link": "https://platum.kr/archives/294837?utm_source=rss&utm_medium=rss&utm_campaign=%25eb%258b%25b9%25ea%25b7%25bc%25eb%25aa%25a8%25ec%259e%2584-%25eb%259f%25ac%25eb%258b%259d-%25ea%25b8%25b0%25eb%25a1%259d-%25ea%25be%25b8%25eb%25af%25b8%25ea%25b8%25b0-%25ea%25b8%25b0%25eb%258a%25a5-%25ec%25b6%259c%25ec%258b%259c",
+      "pubDate": "2026-09-18T00:27:38.000Z",
+      "source": "플래텀",
+      "category": "창업"
     },
     {
       "title": "한때, 성폭력 전담검사로 빛났던 박은정 의원에 대한 얘기입니다 [논설실 Pick]",
@@ -3338,167 +3499,6 @@
       "title": "오바마 \"AI 대처 못하면 위험\"...미 민주당에 적극 대응 촉구",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=215224",
       "pubDate": "2026-09-14T16:08:03.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "KT, ‘AX 인사이트 리포트’ 발간…“금융기관 60%가 AX 실행 단계 진입”",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215240",
-      "pubDate": "2026-09-14T16:05:05.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "앤트로픽, NYSE 대신 나스닥 선택…스페이스X 이어 초대형 기술주 상장",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215220",
-      "pubDate": "2026-09-14T16:02:03.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "와이즈넛, 대화로 만드는 AI 에이전트 공개…“기능 수정·추가도 손쉽게”",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215238",
-      "pubDate": "2026-09-14T15:45:51.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "시진핑, 브릭스 중심 'AI 오픈소스 동맹' 제안...\"미국 독점 견제\"",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215225",
-      "pubDate": "2026-09-14T15:36:10.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "\"3D 사무실서 일하는 AI 에이전트\"...한컴, 워크포스 플랫폼 '노마디안' 선보여",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215228",
-      "pubDate": "2026-09-14T15:29:32.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "렐루게임즈, ‘미메시스’로 일본 호러 게임 어워드 수상...\"AI 접목 차별화 입증\"",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215234",
-      "pubDate": "2026-09-14T15:28:57.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "원프레딕트, AI 예지보전 기술로 코스닥 기평 통과...연내 상장예심 추진",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215230",
-      "pubDate": "2026-09-14T15:27:23.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "딥엑스, 저전력 AI 반도체 기술 정부 '녹색기술' 인증 획득",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215232",
-      "pubDate": "2026-09-14T15:26:40.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "공공데이터 활용 스타트업 모집...중기부, 사업화에 최대 1억 지원 - 울산일보",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1sbElNRmdoRkx1UDZkeldLUmYxV2taTl9wYzJMTHplcFdsQUViSzNRc3JvcVBEVFJ0ekVMX3pJNkNHWHVwMm1udHB1RFUtZVFVMWVLb2JvQnRYanRYMjBfZXd2LUpSSGNfbFJuUVl3?oc=5",
-      "pubDate": "2026-09-14T15:01:31.000Z",
-      "source": "Google 뉴스: 지원사업 공고/모집",
-      "category": "정부지원정책"
-    },
-    {
-      "title": "8월 ICT 수출액 ‘600억달러’ 육박…반도체가 400억달러 이끌어",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215249",
-      "pubDate": "2026-09-14T14:40:00.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "아모데이 \"AI 속도 조절 최대 난제는 중국과의 경쟁\"",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215216",
-      "pubDate": "2026-09-14T14:32:15.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "\"구글, RSI 도달했나\"... 트윗 한 줄에서 시작된 루머에 관심 폭발",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215226",
-      "pubDate": "2026-09-14T13:23:51.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "트럼프 \"AI 우려 세력 부정적...중국 이기는 것이 최우선\"",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215222",
-      "pubDate": "2026-09-14T12:21:16.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "구글·MS도 \"AI 속도 조절 동감\"...'안전 연합전선' 5곳으로 확대",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215215",
-      "pubDate": "2026-09-14T12:11:36.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "How Fyxer built an AI executive assistant people trust",
-      "link": "https://openai.com/index/fyxer",
-      "pubDate": "2026-09-14T12:00:00.000Z",
-      "source": "OpenAI",
-      "category": "AI"
-    },
-    {
-      "title": "앤트로픽·오픈AI·구글, 7월부터 'AI 안전 표준기구' 설립 물밑 논의",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215212",
-      "pubDate": "2026-09-14T11:36:16.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "'AI 속도 조절'에 블랙 먼데이 오나...전문가들 \"반도체 장기 수요는 탄탄\"",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215211",
-      "pubDate": "2026-09-14T11:31:44.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "의료 AI 안전성 점검한 '레드팀 챌린지'…국내외 LLM 12종 공격 검증",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215217",
-      "pubDate": "2026-09-14T11:16:16.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "에이전트가 키우는 추론 수요…중국 AI 연산, 4년 뒤 80%가 ‘모델 돌리기’",
-      "link": "https://platum.kr/archives/294575?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%2597%2590%25ec%259d%25b4%25ec%25a0%2584%25ed%258a%25b8%25ea%25b0%2580-%25ed%2582%25a4%25ec%259a%25b0%25eb%258a%2594-%25ec%25b6%2594%25eb%25a1%25a0-%25ec%2588%2598%25ec%259a%2594%25ec%25a4%2591%25ea%25b5%25ad-ai-%25ec%2597%25b0%25ec%2582%25b0-4%25eb%2585%2584-%25eb%2592%25a4-80%25ea%25b0%2580",
-      "pubDate": "2026-09-14T11:03:49.000Z",
-      "source": "플래텀",
-      "category": "창업"
-    },
-    {
-      "title": "전남광주, 독감 의심환자 1주 새 1.89배…오는 21일부터 예방접종",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215214",
-      "pubDate": "2026-09-14T11:00:00.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "미국 태양광 2분기 11.4GW 설치…전년 대비 45% 증가",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215209",
-      "pubDate": "2026-09-14T10:50:00.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "뉴질랜드 태양광 2분기 242GWh…최근 1년 발전량서 석탄 첫 추월",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215210",
-      "pubDate": "2026-09-14T10:45:00.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "미국 에너지부, 우주 태양광 R&D에 160억 지원",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215208",
-      "pubDate": "2026-09-14T10:45:00.000Z",
       "source": "AI타임스",
       "category": "AI"
     }
