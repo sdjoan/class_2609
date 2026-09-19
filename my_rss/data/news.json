@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-19T18:29:44.560Z",
+  "lastUpdated": "2026-09-19T22:14:35.504Z",
   "count": 500,
   "items": [
     {
@@ -8,6 +8,13 @@
       "pubDate": "2026-09-19T21:57:09.000Z",
       "source": "AI타임스",
       "category": "AI"
+    },
+    {
+      "title": "“AI, 경제 성장시키고 사람 몫 줄일 것” … 앤트로픽의 섬뜩한 경고",
+      "link": "https://www.mk.co.kr/news/economy/12156627",
+      "pubDate": "2026-09-19T20:30:00.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
     },
     {
       "title": "오픈AI, 기업 시장 점유율 역전…앤트로픽, IPO전 신형 모델 출시 검토",
@@ -3492,13 +3499,6 @@
       "title": "순천, 사람 넘어 자연의 목소리 듣는다…‘만물공동회’ 19일 개최",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=215242",
       "pubDate": "2026-09-14T16:46:46.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "업스테이지, 엔비디아 본사 방문…GPU 지원 등 5개 안건 논의",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215244",
-      "pubDate": "2026-09-14T16:45:28.000Z",
       "source": "AI타임스",
       "category": "AI"
     }
