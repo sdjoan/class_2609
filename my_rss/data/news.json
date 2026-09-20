@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-20T10:57:07.824Z",
+  "lastUpdated": "2026-09-20T15:43:51.125Z",
   "count": 500,
   "items": [
     {
@@ -43,6 +43,13 @@
       "pubDate": "2026-09-20T15:31:42.000Z",
       "source": "AI타임스",
       "category": "AI"
+    },
+    {
+      "title": "“신혼부부의 돈 고민, 전문가들이 답한다”…‘금융문화 토크쇼’ 내달 열린다",
+      "link": "https://www.mk.co.kr/news/economy/12157685",
+      "pubDate": "2026-09-20T13:58:43.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
     },
     {
       "title": "프랑스 검찰, 스마트 안경 이용한 '성희롱·불법 촬영' 수사 착수",
@@ -463,6 +470,13 @@
       "pubDate": "2026-09-19T09:38:43.000Z",
       "source": "AI타임스",
       "category": "AI"
+    },
+    {
+      "title": "오픈AI, 로봇의 모터와 기어까지 직접 설계한다",
+      "link": "https://platum.kr/archives/294889?utm_source=rss&utm_medium=rss&utm_campaign=openai-%25eb%25a1%259c%25eb%25b4%2587%25ec%259d%2598-%25eb%25aa%25a8%25ed%2584%25b0%25ec%2599%2580-%25ea%25b8%25b0%25ec%2596%25b4%25ea%25b9%258c%25ec%25a7%2580-%25ec%25a7%2581%25ec%25a0%2591-%25ec%2584%25a4%25ea%25b3%2584%25ed%2595%259c%25eb%258b%25a4",
+      "pubDate": "2026-09-19T09:30:48.000Z",
+      "source": "플래텀",
+      "category": "창업"
     },
     {
       "title": "여수, 벼농사 평가 한마당 개최…농업인 300여명 참여",
@@ -3487,20 +3501,6 @@
       "pubDate": "2026-09-15T05:17:54.000Z",
       "source": "Google 뉴스: 지원사업 공고/모집",
       "category": "정부지원정책"
-    },
-    {
-      "title": "7월 통화량 12.7조 늘었지만…수시입출식 예금은 역대 최대 감소",
-      "link": "https://www.mk.co.kr/news/economy/12153050",
-      "pubDate": "2026-09-15T05:05:50.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "국내 AI 업계, '속도 조절론'에 \"취지 공감하나 규제 투명성 확보돼야\"",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215251",
-      "pubDate": "2026-09-15T04:53:47.000Z",
-      "source": "AI타임스",
-      "category": "AI"
     }
   ]
 }
