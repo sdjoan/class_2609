@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-21T12:22:54.826Z",
+  "lastUpdated": "2026-09-21T19:09:07.802Z",
   "count": 500,
   "items": [
     {
@@ -178,6 +178,13 @@
       "category": "경제"
     },
     {
+      "title": "Advisory Group on Mathematics and Artificial Intelligence",
+      "link": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+      "pubDate": "2026-09-21T12:00:00.000Z",
+      "source": "OpenAI",
+      "category": "AI"
+    },
+    {
       "title": "태양광 패널 땅에 바로 설치…미국 텍사스서 직류 93MW 규모 건설",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=215527",
       "pubDate": "2026-09-21T11:40:00.000Z",
@@ -217,6 +224,13 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=215523",
       "pubDate": "2026-09-21T11:05:00.000Z",
       "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "Building standards for the next phase of AI",
+      "link": "https://openai.com/index/building-standards-next-phase-ai",
+      "pubDate": "2026-09-21T10:00:00.000Z",
+      "source": "OpenAI",
       "category": "AI"
     },
     {
@@ -374,6 +388,13 @@
       "category": "경제"
     },
     {
+      "title": "Expanding OpenAI Academy with new learning paths",
+      "link": "https://openai.com/index/expanding-openai-academy-with-new-learning-paths",
+      "pubDate": "2026-09-21T07:00:00.000Z",
+      "source": "OpenAI",
+      "category": "AI"
+    },
+    {
       "title": "기업대출 공격적 확대한 은행, 부실빚 반년새 2조 불었다 [기자24시]",
       "link": "https://www.mk.co.kr/news/economy/12158238",
       "pubDate": "2026-09-21T05:54:52.000Z",
@@ -463,6 +484,13 @@
       "pubDate": "2026-09-21T00:05:21.000Z",
       "source": "매일경제 경제",
       "category": "경제"
+    },
+    {
+      "title": "How V7 gives AI agents institutional memory",
+      "link": "https://openai.com/index/v7",
+      "pubDate": "2026-09-21T00:00:00.000Z",
+      "source": "OpenAI",
+      "category": "AI"
     },
     {
       "title": "“문장 생성 버렸다”…판단 전용 AI ‘제브’에 개발자 반응 폭발",
@@ -3471,34 +3499,6 @@
       "title": "인포시즈, SKT 부사장 출신 박준 CBO 영입 \"기업 AI 전환 속도\"",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=215298",
       "pubDate": "2026-09-15T16:35:06.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "플레이태그, AI 행동분석으로 아이 맞춤형 교육 제공…‘스토리라인 원’ 공개",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215312",
-      "pubDate": "2026-09-15T16:25:00.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "순천 남파랑길서 가을 걷기…9~11월 5차례 ‘씨워킹’",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215283",
-      "pubDate": "2026-09-15T15:40:39.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "여수, 행정 전반에 AI 접목…2029년까지 종합계획 수립",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215281",
-      "pubDate": "2026-09-15T15:40:28.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "목포시가족센터, 다문화 엄마학교 14기 졸업식 개최",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215280",
-      "pubDate": "2026-09-15T15:40:15.000Z",
       "source": "AI타임스",
       "category": "AI"
     }
