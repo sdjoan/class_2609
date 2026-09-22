@@ -1,7 +1,35 @@
 {
-  "lastUpdated": "2026-09-22T16:35:56.350Z",
+  "lastUpdated": "2026-09-22T21:02:40.668Z",
   "count": 500,
   "items": [
+    {
+      "title": "새로운 최고 성능·가격 40% 인하…앤트로픽, '클로드 오퍼스 5.5' 공개",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215583",
+      "pubDate": "2026-09-23T05:36:34.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "Better prompt caching for GPT-6",
+      "link": "https://openai.com/index/better-prompt-caching-for-gpt-6",
+      "pubDate": "2026-09-22T21:00:00.000Z",
+      "source": "OpenAI",
+      "category": "AI"
+    },
+    {
+      "title": "Federal Reserve Board announces approval of application by BancFirst Corporation",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260922a.htm",
+      "pubDate": "2026-09-22T20:30:00.000Z",
+      "source": "미 연준 보도자료",
+      "category": "경제"
+    },
+    {
+      "title": "Can “Trump TV” win a war against the press on YouTube?",
+      "link": "https://www.tubefilter.com/2026/09/22/trump-tv-youtube-channel-news-media/",
+      "pubDate": "2026-09-22T19:22:37.000Z",
+      "source": "Tubefilter",
+      "category": "수익화/크리에이터 이코노미"
+    },
     {
       "title": "샤오미, 오픈 모델 ‘미모-V2.6’ 공개…중국 AI 중 역대 최고 성적",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=215552",
@@ -28,6 +56,13 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=215569",
       "pubDate": "2026-09-22T18:12:11.000Z",
       "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "Introducing GPT-6 Sol and Luna",
+      "link": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
+      "pubDate": "2026-09-22T18:00:00.000Z",
+      "source": "OpenAI",
       "category": "AI"
     },
     {
@@ -97,6 +132,13 @@
       "title": "캐나다 BC주, 오픈AI 고소...\"총격 사건 전 위험 신호 무시\"",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=215572",
       "pubDate": "2026-09-22T17:12:56.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "옥천 장령산 자연휴양림, 자연과 어우러진 아트월 조성",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215582",
+      "pubDate": "2026-09-22T17:05:00.000Z",
       "source": "AI타임스",
       "category": "AI"
     },
@@ -176,6 +218,13 @@
       "pubDate": "2026-09-22T13:18:06.000Z",
       "source": "AI타임스",
       "category": "AI"
+    },
+    {
+      "title": "음성군, 2026년 하반기 영농부산물 파쇄지원 희망농가 모집 - 음성타임즈",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5VVTN6UnpHVHVpdGlqNWlsZngwS1NwMjlydlZRTE9zZm9UbnhydEdmc2lRSjdJc0FhajNoRW9ucUlub1NhY3RRTkNnUE1XbWtzSFNXR2hRejFnMlZCbnlnbEpIa2E4X3hxX0E?oc=5",
+      "pubDate": "2026-09-22T13:16:45.000Z",
+      "source": "Google 뉴스: 지원사업 공고/모집",
+      "category": "정부지원정책"
     },
     {
       "title": "미 재무장관 \"허깅페이스 해킹 책임은 AI 아닌 오픈AI 경영진에 있어\"",
@@ -687,6 +736,13 @@
       "pubDate": "2026-09-22T00:49:55.000Z",
       "source": "Google 뉴스: 지원사업 공고/모집",
       "category": "정부지원정책"
+    },
+    {
+      "title": "Priorities and principles for effective third party assessments",
+      "link": "https://openai.com/index/priorities-principles-third-party-assessments",
+      "pubDate": "2026-09-22T00:00:00.000Z",
+      "source": "OpenAI",
+      "category": "AI"
     },
     {
       "title": "반도체가 계속 해준다…9월 무역흑자 벌써 230억달러 ‘역대 최대’",
@@ -3444,62 +3500,6 @@
       "link": "https://openai.com/index/model-misalignment-reporting-framework",
       "pubDate": "2026-09-16T17:00:00.000Z",
       "source": "OpenAI",
-      "category": "AI"
-    },
-    {
-      "title": "리벨리온, 일본 현지에 AI 추론 인프라 지원…‘리벨랙’ 100대 이상 공급 계획",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215358",
-      "pubDate": "2026-09-16T16:55:43.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "메타, 통합 구독 상품 '메타 원' 공개...소셜미디어에 생성 AI 대거 결합",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215353",
-      "pubDate": "2026-09-16T16:40:12.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "세일즈포스-엔비디아, CRM 전용 추론 모델 '코아' 공개...\"빅테크 의존 낮춘다\"",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215351",
-      "pubDate": "2026-09-16T16:27:44.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "딥시크 엔지니어 \"미국 '속도 조절론'은 독점 시도...핵무기 쥔 히틀러 같아\"",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215350",
-      "pubDate": "2026-09-16T16:17:09.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "Helping older adults use AI in everyday life",
-      "link": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
-      "pubDate": "2026-09-16T16:00:00.000Z",
-      "source": "OpenAI",
-      "category": "AI"
-    },
-    {
-      "title": "빌 게이츠 “전 세계 정부, AI 대비 뒤처져”…'AI 불평등 해소'에 1.4조 투입",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215352",
-      "pubDate": "2026-09-16T15:57:40.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "KAIST, 말 알아듣고 스스로 길 찾는 로봇으로 국제대회 1·2위 석권",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215348",
-      "pubDate": "2026-09-16T15:39:46.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "엔비디아·메타 \"AI 규제·속도 조절 필요 없어\"…‘폐쇄형 vs 개방형’ 균열",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215349",
-      "pubDate": "2026-09-16T15:27:13.000Z",
-      "source": "AI타임스",
       "category": "AI"
     }
   ]
