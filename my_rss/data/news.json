@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-22T11:14:58.687Z",
+  "lastUpdated": "2026-09-22T16:35:56.350Z",
   "count": 500,
   "items": [
     {
@@ -199,6 +199,13 @@
       "category": "AI"
     },
     {
+      "title": "영농부산물 파쇄지원 희망농가 모집 - 음성뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB5WjJCYnJTM3BZemVKVGZrU2FoYklYYUF4LXIxTi1qT1dpZm9fM3ZsM0czTzdHY2RVLXFvdzdPM20wRkhkcjVZeFFHQ1FWalc1R24xVGd2RWRWckUzSFoxWlh6N0RhSTFs?oc=5",
+      "pubDate": "2026-09-22T12:24:02.000Z",
+      "source": "Google 뉴스: 지원사업 공고/모집",
+      "category": "정부지원정책"
+    },
+    {
       "title": "기대 못 미친 '그록 4.7'…스페이스XAI, 프런티어 경쟁 '4.8'로 미뤄",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=215549",
       "pubDate": "2026-09-22T12:23:45.000Z",
@@ -211,6 +218,13 @@
       "pubDate": "2026-09-22T11:58:50.000Z",
       "source": "AI타임스",
       "category": "AI"
+    },
+    {
+      "title": "울산창조경제혁신센터, AI 활용 R&D 사업계획서 작성 지원…스타트업 10곳 모집 - v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9YZXNXdEFfNlJqQ0RET1g2bEhrNjRZS0tZak8yYUNOQUZMeHdDTUg0OTlYaXFXUjlYcG9PNDNQUWxpNEhWRExURVRrd2tBb1U?oc=5",
+      "pubDate": "2026-09-22T09:35:40.000Z",
+      "source": "Google 뉴스: 지원사업 공고/모집",
+      "category": "정부지원정책"
     },
     {
       "title": "“미·일 금리 더 간다…포트폴리오 재구성할 때” [딥 머니 토크]",
@@ -414,6 +428,13 @@
       "pubDate": "2026-09-22T06:18:30.000Z",
       "source": "매일경제 경제",
       "category": "경제"
+    },
+    {
+      "title": "옥외광고센터, 옥외광고 기업 위한 특허 출원비용 지원 신사업 공고 - brandbrief.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBWSG5ERHJaTWx6QTVDNDhhblRFYlByakdMbjNITU9GUFlTRl9YZVAtUWdMOW15QXVJQ1RJWVdxR010VHQ4RjFfM0VjOWJ2TkMzN01nM21RejAwb2xWSU5qeDl6ZEVJMUFJa203OHhMUQ?oc=5",
+      "pubDate": "2026-09-22T05:53:26.000Z",
+      "source": "Google 뉴스: 지원사업 공고/모집",
+      "category": "정부지원정책"
     },
     {
       "title": "“집값 잡으려 어쩔수 없지만, 영끌족 어쩌나”…금리 0.25%P 오르면 가계이자 3.3조↑",
@@ -3478,27 +3499,6 @@
       "title": "엔비디아·메타 \"AI 규제·속도 조절 필요 없어\"…‘폐쇄형 vs 개방형’ 균열",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=215349",
       "pubDate": "2026-09-16T15:27:13.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "충남청년센터, 청년도전지원사업 단기 과정 참여자 모집 - 웹이코노미",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1kbHBhTmpZdUpvZnBUZU0yOUIwaEdfT05LUnVsY24zaUYwWGhnNnhqcVJIQW0xaGRMalNFbjZIWndNX0dwNG11YkZuNHhQUDRLcjZ4ckJpZTFONkMtOFUxbnl4RG5BdFBGVTkwR0JYMDZQQQ?oc=5",
-      "pubDate": "2026-09-16T15:26:48.000Z",
-      "source": "Google 뉴스: 지원사업 공고/모집",
-      "category": "정부지원정책"
-    },
-    {
-      "title": "배경훈 장관 \"AI 속도 늦출 여유 없다...중요한 것은 속도책임\"",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215346",
-      "pubDate": "2026-09-16T15:18:02.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "버즈니, 비스킷AI에 '클립 만들기' 추가... 숏폼부터 미들폼·카드뉴스 지원",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215345",
-      "pubDate": "2026-09-16T14:35:43.000Z",
       "source": "AI타임스",
       "category": "AI"
     }
