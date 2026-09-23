@@ -1,7 +1,14 @@
 {
-  "lastUpdated": "2026-09-23T13:28:12.200Z",
+  "lastUpdated": "2026-09-23T18:18:59.824Z",
   "count": 500,
   "items": [
+    {
+      "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
+      "link": "https://openai.com/index/ringg",
+      "pubDate": "2026-09-24T12:00:00.000Z",
+      "source": "OpenAI",
+      "category": "AI"
+    },
     {
       "title": "앤드리슨 호로위츠, 대학 대안 'AI 아카데미' 출범...젊은 창업가 육성",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=215596",
@@ -17,6 +24,13 @@
       "category": "AI"
     },
     {
+      "title": "Two years of OpenAI Academy",
+      "link": "https://openai.com/index/two-years-of-openai-academy",
+      "pubDate": "2026-09-23T16:00:00.000Z",
+      "source": "OpenAI",
+      "category": "AI"
+    },
+    {
       "title": "퀄컴, 차세대 온디바이스 AI 칩 공개…\"에이전트 중심 경험 전환\"",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=215614",
       "pubDate": "2026-09-23T15:55:35.000Z",
@@ -29,6 +43,13 @@
       "pubDate": "2026-09-23T15:40:26.000Z",
       "source": "AI타임스",
       "category": "AI"
+    },
+    {
+      "title": "YouTube is using AI to tinker with everything — from thumbnails to homepages to entire videos",
+      "link": "https://www.tubefilter.com/2026/09/23/made-on-youtube-2026-ai-personalization-creator-tools/",
+      "pubDate": "2026-09-23T15:38:48.000Z",
+      "source": "Tubefilter",
+      "category": "수익화/크리에이터 이코노미"
     },
     {
       "title": "3D 코딩 대결...클로드 오퍼스 5.5 \"디테일\" vs GPT-5.6 \"비용·속도\"",
@@ -3480,27 +3501,6 @@
       "pubDate": "2026-09-17T11:05:00.000Z",
       "source": "AI타임스",
       "category": "AI"
-    },
-    {
-      "title": "북극권 태양광, 수직형으로 설치하면 발전비용 최대 14% 낮아져",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215365",
-      "pubDate": "2026-09-17T11:05:00.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "[단독] 올해 1% 밖에 안 쓴 남북협력기금...내년에도 1조원 편성한다는데",
-      "link": "https://www.mk.co.kr/news/economy/12155747",
-      "pubDate": "2026-09-17T08:55:30.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "[포토] 금융 특화 AI 개발 손잡은 JB금융·업스테이지",
-      "link": "https://www.mk.co.kr/news/economy/12155733",
-      "pubDate": "2026-09-17T08:50:41.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
     }
   ]
 }
