@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-23T18:18:59.824Z",
+  "lastUpdated": "2026-09-23T22:49:25.103Z",
   "count": 500,
   "items": [
     {
@@ -8,6 +8,48 @@
       "pubDate": "2026-09-24T12:00:00.000Z",
       "source": "OpenAI",
       "category": "AI"
+    },
+    {
+      "title": "[9월23일] AI 에이전트, 이제야 ‘진짜 개인 비서’에 가까워지나",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215598",
+      "pubDate": "2026-09-24T07:00:00.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "KAIST, 세계 최초 풀코스 마라톤 완주한 ‘로봇 설계 원리’ 발표",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215611",
+      "pubDate": "2026-09-24T00:00:00.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "The Kings League wants to be Brazil’s next creator sensation. A Twitch vet will put the ball in play.",
+      "link": "https://www.tubefilter.com/2026/09/23/kings-league-soccer-brazil-hire-anadege-freitas/",
+      "pubDate": "2026-09-23T21:03:01.000Z",
+      "source": "Tubefilter",
+      "category": "수익화/크리에이터 이코노미"
+    },
+    {
+      "title": "OpenAI needs more creator products. Patreon’s Co-Founder will develop them.",
+      "link": "https://www.tubefilter.com/2026/09/23/chatgpt-openai-hire-sam-yam-patreon-head-creator-products/",
+      "pubDate": "2026-09-23T20:09:43.000Z",
+      "source": "Tubefilter",
+      "category": "수익화/크리에이터 이코노미"
+    },
+    {
+      "title": "갭투자 꿈도 못꿨는데 … 토허제 지역인데 가능하다고?",
+      "link": "https://www.mk.co.kr/news/economy/12159633",
+      "pubDate": "2026-09-23T20:00:00.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "“월급은 올랐는데 왜 더 가난해졌지?” … 하위 20%에 벌어진 ‘자산의 역설’",
+      "link": "https://www.mk.co.kr/news/economy/12160347",
+      "pubDate": "2026-09-23T19:30:00.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
     },
     {
       "title": "앤드리슨 호로위츠, 대학 대안 'AI 아카데미' 출범...젊은 창업가 육성",
@@ -94,6 +136,13 @@
       "category": "AI"
     },
     {
+      "title": "[게시판] 한컴위드, N2SF 기반 'AI 문서 분류 기술' 개발 등 단신",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215629",
+      "pubDate": "2026-09-23T14:00:00.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
       "title": "인핸스, GS칼텍스와 암묵지 AI 모델 개발 착수 \"제조 베테랑 노하우 AI에 새긴다\"",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=215612",
       "pubDate": "2026-09-23T13:15:00.000Z",
@@ -115,10 +164,38 @@
       "category": "AI"
     },
     {
+      "title": "포지큐브, S-OIL 임직원 업무 효율 높이는 'AI 어시스턴트' 고도화",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215600",
+      "pubDate": "2026-09-23T12:55:00.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
       "title": "프랑스 영농형 태양광 실증…가뭄 속 옥수수 수확량 19.6% 증가",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=215586",
       "pubDate": "2026-09-23T12:10:00.000Z",
       "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "Sam Altman’s remarks at the United Nations Security Council",
+      "link": "https://openai.com/index/sam-altman-un-security-council-remarks",
+      "pubDate": "2026-09-23T12:00:00.000Z",
+      "source": "OpenAI",
+      "category": "AI"
+    },
+    {
+      "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
+      "link": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
+      "pubDate": "2026-09-23T12:00:00.000Z",
+      "source": "OpenAI",
+      "category": "AI"
+    },
+    {
+      "title": "How invideo improves color grading 3x with GPT‑6 Astra",
+      "link": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
+      "pubDate": "2026-09-23T12:00:00.000Z",
+      "source": "OpenAI",
       "category": "AI"
     },
     {
@@ -154,6 +231,13 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=215594",
       "pubDate": "2026-09-23T11:12:50.000Z",
       "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "Introducing MentalHealthBench",
+      "link": "https://openai.com/index/introducing-mentalhealthbench",
+      "pubDate": "2026-09-23T10:00:00.000Z",
+      "source": "OpenAI",
       "category": "AI"
     },
     {
@@ -463,6 +547,13 @@
       "pubDate": "2026-09-23T01:28:28.000Z",
       "source": "Google 뉴스: 지원사업 공고/모집",
       "category": "정부지원정책"
+    },
+    {
+      "title": "Airbnb widens access to GPT-6 Astra and OpenAI frontier models",
+      "link": "https://openai.com/index/airbnb-gpt-6-astra",
+      "pubDate": "2026-09-23T01:00:00.000Z",
+      "source": "OpenAI",
+      "category": "AI"
     },
     {
       "title": "“고향 출발 전에 기름 넣지 마세요”…고속도로서 넣으면 최대 5000원 아껴",
@@ -3408,97 +3499,6 @@
       "title": "일레븐랩스, 유니버설과 파트너십...\"정식 라이선스로 AI 음악 플랙폼 선보일 것\"",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=215382",
       "pubDate": "2026-09-17T12:50:11.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "인텔리빅스, 증권신고서 제출...안전관제 AI로 코스닥 상장 돌입",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215381",
-      "pubDate": "2026-09-17T12:47:08.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "AMD, 연내 국내에 '아시아 첫' AI 우수 연구센터 설립…과기부와 공동연구 본격화",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215384",
-      "pubDate": "2026-09-17T12:44:52.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "트럼프 규제 회의론에 유엔 경고…“AI 위험 대응 글로벌 공조 시급”",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215375",
-      "pubDate": "2026-09-17T12:39:44.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "에임인텔리전스, 피지컬 AI 안전 컨소시엄 출범...\"구글·MS·오라클도 모였다\"",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215376",
-      "pubDate": "2026-09-17T12:26:35.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "보이스루, AI·전문가 결합 더빙 서비스 ‘폴리타’ 출시",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215380",
-      "pubDate": "2026-09-17T12:24:12.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "오픈AI, 몸값 '2000조원' 노린다…코덱스·GPT-6 흥행 강조",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215369",
-      "pubDate": "2026-09-17T12:23:17.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "애플, 18년 만에 AI 서버 시장 재도전…엔비디아와 손잡나",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215374",
-      "pubDate": "2026-09-17T12:04:09.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "How Cooley is accelerating IPO work with ChatGPT",
-      "link": "https://openai.com/index/cooley-gopublic",
-      "pubDate": "2026-09-17T12:00:00.000Z",
-      "source": "OpenAI",
-      "category": "AI"
-    },
-    {
-      "title": "인핸스, '에이전트 OS'로 512억 시리즈 C 투자 유치",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215373",
-      "pubDate": "2026-09-17T11:55:16.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "앤트로픽, '코워크' 브랜드 접고 챗봇에 통합…'AI 슈퍼 앱' 경쟁 가열",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215371",
-      "pubDate": "2026-09-17T11:36:42.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "SK하이닉스, 인텔과 미국서 메모리 반도체 생산 논의...\"확정된 바 없어\"",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215370",
-      "pubDate": "2026-09-17T11:26:14.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "송전망 기다리지 않고 AI 구동한다…'태양광 직결' 데이터센터 등장",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215366",
-      "pubDate": "2026-09-17T11:10:00.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "그리스, 800W 발코니 태양광 허용…플러그인 자가발전 길 열어",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215367",
-      "pubDate": "2026-09-17T11:05:00.000Z",
       "source": "AI타임스",
       "category": "AI"
     }
