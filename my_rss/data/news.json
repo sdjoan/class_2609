@@ -1,7 +1,84 @@
 {
-  "lastUpdated": "2026-09-24T09:10:34.635Z",
+  "lastUpdated": "2026-09-24T14:43:48.941Z",
   "count": 500,
   "items": [
+    {
+      "title": "메타, 펜던트형 AI 기기 '뮤즈 참'  12월 출시 예고",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215647",
+      "pubDate": "2026-09-24T22:59:56.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "\"제미나이 4 조기 출시\"… 구글 딥마인드 수장, 첫 인터뷰서 공식화",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215646",
+      "pubDate": "2026-09-24T22:29:05.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "안보리 무대 선 알트먼·아모데이 \"AI 통제 불능 위험...글로벌 공조 시급\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215645",
+      "pubDate": "2026-09-24T21:15:25.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "유튜브, 생성 AI 전면 도입...\"말 한마디로 편집하고 맞춤 피드 구축\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215644",
+      "pubDate": "2026-09-24T20:41:06.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "앤트로픽, '오퍼스 5.5' 프롬프트 팁 공개...\"불필요 문구 삭제해야\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215638",
+      "pubDate": "2026-09-24T19:54:31.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "오픈AI, '챗GPT 음성'에 에이전트 결합...\"말 한마디로 앱 조작·업무 처리\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215635",
+      "pubDate": "2026-09-24T19:40:06.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "딥시크, AI 에이전트 '학습 비용 절감 핵심 인프라' DSec 공개",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215634",
+      "pubDate": "2026-09-24T19:26:22.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "구글, '제미나이 3.8 플래시 TTS' 공개...'음성 디자인' 패러다임 연다",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215636",
+      "pubDate": "2026-09-24T18:54:04.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "오픈AI, 우크라이나에 사이버 보안 '데이브레이크' 무료 지원...\"러시아 공격 대응\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215641",
+      "pubDate": "2026-09-24T18:21:57.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "블랙 포레스트, 경쟁 모델 절반 크기로 세계 최고 성능 낸 '로봇 AI' 공개",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215643",
+      "pubDate": "2026-09-24T17:46:25.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "도수치료 막히니 ‘이 치료’에 환자 북적…실손보험 적자 줄인다더니, 효과는",
+      "link": "https://www.mk.co.kr/news/economy/12161157",
+      "pubDate": "2026-09-24T14:42:05.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
     {
       "title": "메타, '뮤즈' 탑재한 AI 안경 라인업 공개…카메라 뺀 '오디오 버전'도 선보여",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=215642",
@@ -22,6 +99,13 @@
       "pubDate": "2026-09-24T12:53:52.000Z",
       "source": "AI타임스",
       "category": "AI"
+    },
+    {
+      "title": "“추석연휴 급증하는 추돌사고”…사고건수는 줄지만 피해 인원은 증가",
+      "link": "https://www.mk.co.kr/news/economy/12161078",
+      "pubDate": "2026-09-24T12:52:58.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
     },
     {
       "title": "MS, 코파일럿 '슈퍼 앱' 전환 맞춰 최대 50% 파격 할인",
@@ -50,6 +134,13 @@
       "pubDate": "2026-09-24T11:13:53.000Z",
       "source": "AI타임스",
       "category": "AI"
+    },
+    {
+      "title": "카드 소비로 본 병원 이용…내과 최다·성형외과 급증",
+      "link": "https://www.mk.co.kr/news/economy/12161000",
+      "pubDate": "2026-09-24T10:45:03.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
     },
     {
       "title": "메타 '뮤즈' 돌풍에 증시 흔들…금융·구독주 덮친 에이전트 공포",
@@ -3408,97 +3499,6 @@
       "title": "구글, 수학 특화 AI '딥씽크 V3 매스매티카' 내부 테스트 정황 포착",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=215399",
       "pubDate": "2026-09-17T18:00:00.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "순천, 상사호·주암호 공공용지 8207필지...235필지로 합병",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215419",
-      "pubDate": "2026-09-17T17:55:07.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "전남광주, 반도체·에너지·모빌리티 R&D에 131억원 투입",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215368",
-      "pubDate": "2026-09-17T17:54:52.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "여수 이순신도서관, 기후변화 교육전문가 25명 양성…AI 활용 교육도",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215377",
-      "pubDate": "2026-09-17T17:54:34.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "나주농업페스타, 벼 탈곡·고구마 수확 체험…10월7일 개막",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215420",
-      "pubDate": "2026-09-17T17:54:15.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "피어리오딕 랩스, 재료과학 AI '네온' 공개...\"첨단 모델 성능 뛰어넘어\"",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215414",
-      "pubDate": "2026-09-17T17:53:07.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "\"환각·타입 오류 없다\"...오픈AI 출신, 의사결정 특화 AI '제브' 선보여",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215416",
-      "pubDate": "2026-09-17T17:36:20.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "세일즈포스, '하네스' 최적화로 브라우저 작업 성공률 93% 달성",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215411",
-      "pubDate": "2026-09-17T17:19:54.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "알트먼 \"AI 사고 불가피하지만 관리가능...업계 리더들 믿어달라\"",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215386",
-      "pubDate": "2026-09-17T17:04:49.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "[게시판] KT, 과기부 ‘AI 다크팩토리 설계·구축 솔루션 개발’과제 참여 등 단신",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215422",
-      "pubDate": "2026-09-17T17:00:00.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "[게시판] NC AI, 1.4조 전북·경남 피지컬 AI 국책과제 참여 등 단신",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215421",
-      "pubDate": "2026-09-17T17:00:00.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "\"국산 휴머노이드로 담낭 절제까지\"...삼성서울병원 로봇 수술 시연",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215413",
-      "pubDate": "2026-09-17T17:00:00.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "AAII 국내 1위 ‘모티프 3’ 29일까지 API 무료 공개...\"에이전트에 집중\"",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215415",
-      "pubDate": "2026-09-17T16:56:07.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "\"AI가 진료 기록 대신 써준다\"...픽스업헬스, 의료 자동화 솔루션 출시",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215425",
-      "pubDate": "2026-09-17T16:55:00.000Z",
       "source": "AI타임스",
       "category": "AI"
     }
