@@ -1,7 +1,21 @@
 {
-  "lastUpdated": "2026-09-24T03:55:53.874Z",
+  "lastUpdated": "2026-09-24T09:10:34.635Z",
   "count": 500,
   "items": [
+    {
+      "title": "메타, '뮤즈' 탑재한 AI 안경 라인업 공개…카메라 뺀 '오디오 버전'도 선보여",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215642",
+      "pubDate": "2026-09-24T14:13:03.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "알리바바, ‘큐원-오디오-3.1’ 공개...최대 95% 가격 파괴",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215639",
+      "pubDate": "2026-09-24T13:58:49.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
     {
       "title": "오픈AI 에이전트, '정부 망'까지 뚫었다…호주, 국가 인프라 침투 첫 확인",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=215640",
@@ -85,6 +99,13 @@
       "pubDate": "2026-09-24T07:00:00.000Z",
       "source": "AI타임스",
       "category": "AI"
+    },
+    {
+      "title": "서울 집값 85주째 올랐다…文정부 때 세운 ‘최장 기록’ 따라잡아",
+      "link": "https://www.mk.co.kr/news/economy/12160908",
+      "pubDate": "2026-09-24T06:45:54.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
     },
     {
       "title": "“YouTube is the greatest casting call of all time”: Paul Telner on why Hollywood’s creator IP gold rush is years in the making",
@@ -2089,6 +2110,13 @@
       "category": "정부지원정책"
     },
     {
+      "title": "중기부, ‘공공데이터 활용 지원사업’ 참여할 오픈 스타트업 모집 - 중소기업뉴스",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ScXJVZnc3cUV3LUhyc0paWUc1WUV2MDgzUU5xb29CbGR5U1lRQzdVOFVBYW1pajdjZDNZdXNQNjBhV1pPcVdYYVQ3SXRmZFgySlRzMU9ZMnVWM2tqcHZ1bzVFNkp0Zl9LZlZaX9IBcEFVX3lxTE5wTU13UzdvTG96U1FrUVFwY2dyc195Zk04aFFRNTh4eUVwblhQVF8tNU9qVzNSdS1UY19rV2JpbXdSTTNmRTNaenVCU3FJZER0UWJpUEI3c1pIUzJId3RhX0dzZ1BLUk9McmVFZ2poZ0s?oc=5",
+      "pubDate": "2026-09-21T02:14:24.000Z",
+      "source": "Google 뉴스: 지원사업 공고/모집",
+      "category": "정부지원정책"
+    },
+    {
       "title": "부산·경남은행 신입행원 공개채용…디지털 역량 갖춘 인재 선발",
       "link": "https://www.mk.co.kr/news/economy/12157975",
       "pubDate": "2026-09-21T01:57:38.000Z",
@@ -3471,34 +3499,6 @@
       "title": "\"AI가 진료 기록 대신 써준다\"...픽스업헬스, 의료 자동화 솔루션 출시",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=215425",
       "pubDate": "2026-09-17T16:55:00.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "VAN, 대격변 시대 속 AI 기술주권·노동대체 논의",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215418",
-      "pubDate": "2026-09-17T16:45:00.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "젠슨 황·알트먼, 미중 정상회담 국빈 만찬 참석 예정",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215392",
-      "pubDate": "2026-09-17T16:41:13.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "오픈AI \"AI 안전 확신 못 해…'정렬 실패' 사례 수시 공개할 것\"",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215390",
-      "pubDate": "2026-09-17T16:34:10.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "EU, AI '속도조절론' 가세…최첨단 연구소 초청 회동 추진",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215397",
-      "pubDate": "2026-09-17T16:30:41.000Z",
       "source": "AI타임스",
       "category": "AI"
     }
