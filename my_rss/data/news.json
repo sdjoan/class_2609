@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-09-24T14:43:48.941Z",
-  "count": 500,
+  "lastUpdated": "2026-09-24T19:53:06.261Z",
+  "count": 498,
   "items": [
     {
       "title": "메타, 펜던트형 AI 기기 '뮤즈 참'  12월 출시 예고",
@@ -45,6 +45,13 @@
       "category": "AI"
     },
     {
+      "title": "주가상승 13%에 배당 10% … 파이어족 갈아타는 ‘혜자 GPIQ’ 뭐길래",
+      "link": "https://www.mk.co.kr/news/economy/12159601",
+      "pubDate": "2026-09-24T19:30:00.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
       "title": "딥시크, AI 에이전트 '학습 비용 절감 핵심 인프라' DSec 공개",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=215634",
       "pubDate": "2026-09-24T19:26:22.000Z",
@@ -59,6 +66,13 @@
       "category": "AI"
     },
     {
+      "title": "Federal Reserve Board requests public comment on two proposals related to establishing a regulatory framework for Board-supervised payment stablecoin issuers under the GENIUS Act",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260924a.htm",
+      "pubDate": "2026-09-24T18:30:00.000Z",
+      "source": "미 연준 보도자료",
+      "category": "경제"
+    },
+    {
       "title": "오픈AI, 우크라이나에 사이버 보안 '데이브레이크' 무료 지원...\"러시아 공격 대응\"",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=215641",
       "pubDate": "2026-09-24T18:21:57.000Z",
@@ -71,6 +85,13 @@
       "pubDate": "2026-09-24T17:46:25.000Z",
       "source": "AI타임스",
       "category": "AI"
+    },
+    {
+      "title": "Federal Reserve Board issues enforcement action with former employee of Sandy Spring Bank",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260924a.htm",
+      "pubDate": "2026-09-24T15:00:00.000Z",
+      "source": "미 연준 보도자료",
+      "category": "경제"
     },
     {
       "title": "도수치료 막히니 ‘이 치료’에 환자 북적…실손보험 적자 줄인다더니, 효과는",
@@ -3466,41 +3487,6 @@
       "pubDate": "2026-09-17T21:46:53.000Z",
       "source": "Tubefilter",
       "category": "수익화/크리에이터 이코노미"
-    },
-    {
-      "title": "“연금 30년 받으면 수백만원 차이” … 국민연금, 모르면 손해 보는 ‘이것들’",
-      "link": "https://www.mk.co.kr/news/economy/12155539",
-      "pubDate": "2026-09-17T19:30:00.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "VidCon is leaving Anaheim to become a Cannes Lions offshoot",
-      "link": "https://www.tubefilter.com/2026/09/17/vidcon-anaheim-informa-cannes-lions-event/",
-      "pubDate": "2026-09-17T19:18:50.000Z",
-      "source": "Tubefilter",
-      "category": "수익화/크리에이터 이코노미"
-    },
-    {
-      "title": "게임 중 '멘붕' 온 아스트라...마인크래프트서 아이템 잃고 감자만 깼다",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215401",
-      "pubDate": "2026-09-17T18:24:57.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "새로운 스텔스 모델 '유니온 알파' 등장...\"GPT-5.6 테라 가격으로 페이블 5급 성능\"",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215398",
-      "pubDate": "2026-09-17T18:05:51.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "구글, 수학 특화 AI '딥씽크 V3 매스매티카' 내부 테스트 정황 포착",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215399",
-      "pubDate": "2026-09-17T18:00:00.000Z",
-      "source": "AI타임스",
-      "category": "AI"
     }
   ]
 }
