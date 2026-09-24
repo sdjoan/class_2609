@@ -1,12 +1,82 @@
 {
-  "lastUpdated": "2026-09-23T22:49:25.103Z",
+  "lastUpdated": "2026-09-24T03:55:53.874Z",
   "count": 500,
   "items": [
+    {
+      "title": "오픈AI 에이전트, '정부 망'까지 뚫었다…호주, 국가 인프라 침투 첫 확인",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215640",
+      "pubDate": "2026-09-24T12:53:52.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "MS, 코파일럿 '슈퍼 앱' 전환 맞춰 최대 50% 파격 할인",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215637",
+      "pubDate": "2026-09-24T12:06:33.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
     {
       "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
       "link": "https://openai.com/index/ringg",
       "pubDate": "2026-09-24T12:00:00.000Z",
       "source": "OpenAI",
+      "category": "AI"
+    },
+    {
+      "title": "AI 시대에 맞는 리서치란…오픈서베이, '합성 소비자'로 데이터 장벽 허문다",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215544",
+      "pubDate": "2026-09-24T11:20:00.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "앤트로픽, 유전자 편집 효소 시스템 발견…바이오·제약 확장 가속",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215633",
+      "pubDate": "2026-09-24T11:13:53.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "메타 '뮤즈' 돌풍에 증시 흔들…금융·구독주 덮친 에이전트 공포",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215632",
+      "pubDate": "2026-09-24T10:31:57.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "구글, '제미나이 4 프로'  테스트 착수 포착…\"UI·웹 디자인 성능 도약\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215631",
+      "pubDate": "2026-09-24T09:42:12.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "\"전력망 없어도 작동\"...태양광·배터리 결합한 에어로포닉 재배장치 등장",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215591",
+      "pubDate": "2026-09-24T09:20:00.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "우주로 간 중국 태양광…제이에이솔라, 저궤도서 P-HJT 성능 검증",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215590",
+      "pubDate": "2026-09-24T09:10:00.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "독일, 태양광 지원체계 개편 추진…업계 보급 둔화 우려",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215588",
+      "pubDate": "2026-09-24T09:10:00.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "테슬라, 13.7조 태양광 생산공장 추진…텍사스 세제 절차 승인",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215585",
+      "pubDate": "2026-09-24T08:10:00.000Z",
+      "source": "AI타임스",
       "category": "AI"
     },
     {
@@ -17,11 +87,39 @@
       "category": "AI"
     },
     {
+      "title": "“YouTube is the greatest casting call of all time”: Paul Telner on why Hollywood’s creator IP gold rush is years in the making",
+      "link": "https://www.tubefilter.com/2026/09/23/paul-telner-viral-nation-vidsummit-creator-ip-development-panel-xavier-mortimer-ray-ligaya/",
+      "pubDate": "2026-09-24T00:35:45.000Z",
+      "source": "Tubefilter",
+      "category": "수익화/크리에이터 이코노미"
+    },
+    {
+      "title": "“이번 추석 부모님 용돈 얼마 드리지?” 고민하면서 매달 받는 연금 액수는 모른다는데",
+      "link": "https://www.mk.co.kr/news/economy/12160816",
+      "pubDate": "2026-09-24T00:06:49.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
       "title": "KAIST, 세계 최초 풀코스 마라톤 완주한 ‘로봇 설계 원리’ 발표",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=215611",
       "pubDate": "2026-09-24T00:00:00.000Z",
       "source": "AI타임스",
       "category": "AI"
+    },
+    {
+      "title": "“‘어른이’ 빠지자 반토막 났네”…어린이보험 신규 가입 2년 새 급감",
+      "link": "https://www.mk.co.kr/news/economy/12160802",
+      "pubDate": "2026-09-23T23:22:48.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "“과세 없이 연 19% 더 얹어드립니다”…화제의 적금, 내달 또 나온다",
+      "link": "https://www.mk.co.kr/news/economy/12160791",
+      "pubDate": "2026-09-23T22:52:40.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
     },
     {
       "title": "The Kings League wants to be Brazil’s next creator sensation. A Twitch vet will put the ball in play.",
@@ -505,6 +603,13 @@
       "pubDate": "2026-09-23T02:22:24.000Z",
       "source": "매일경제 경제",
       "category": "경제"
+    },
+    {
+      "title": "ChatGPT Ads expands to Southeast Asia and Taiwan",
+      "link": "https://openai.com/index/chatgpt-ads-expands-southeast-asia-taiwan",
+      "pubDate": "2026-09-23T02:00:00.000Z",
+      "source": "OpenAI",
+      "category": "AI"
     },
     {
       "title": "차기 씨티은행장에 김경호 부행장 내정…6년 만에 수장 교체",
@@ -3394,111 +3499,6 @@
       "title": "EU, AI '속도조절론' 가세…최첨단 연구소 초청 회동 추진",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=215397",
       "pubDate": "2026-09-17T16:30:41.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "플로우, 국산 협업툴 최초 챗GPT·클로드 앱 동시 입점",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215389",
-      "pubDate": "2026-09-17T16:26:24.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "\"13세 미만 SNS 완전 금지\"…EU, 온라인 규제 강화한 '키즈 액트' 제안",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215408",
-      "pubDate": "2026-09-17T16:24:46.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "구글 딥마인드 'AGI 연구소' 출범...\"인류 사회 영향·안전 통제 집중 연구\"",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215388",
-      "pubDate": "2026-09-17T16:19:28.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "노보 노디스크, 앤트로픽 ‘클로드’로 신약 개발 속도 낸다",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215406",
-      "pubDate": "2026-09-17T16:14:02.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "팀스파르타, 국내 10대 그룹 9곳에 AI 교육 제공…계약 규모 220% 증가",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215409",
-      "pubDate": "2026-09-17T16:07:55.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "과기부, 한양대 ‘AI반도체 혁신연구소’ 개소…”실전형 인재 매년 20명씩 양성”",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215405",
-      "pubDate": "2026-09-17T16:06:41.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "미·중 안보 전문가 \"군사 AI 오작동 막을 '핵무기급 안전장치' 필요\"",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215410",
-      "pubDate": "2026-09-17T16:05:13.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "인민일보 “AI 증류는 중립적 기술”…미국 도용 주장에 상응 조치 경고",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215404",
-      "pubDate": "2026-09-17T15:33:32.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "지니젠AI, 오픈라우터 426종 분석 '한국어 AI 품질 리더보드' 공개",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215396",
-      "pubDate": "2026-09-17T14:32:41.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "\"외부 감사에 연구실 개방하라\"…오픈AI·앤트로픽, 내부 반발로 '몸살'",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215394",
-      "pubDate": "2026-09-17T14:18:08.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "\"승강기 내 위험 AI가 돕는다\"...LGU+, 현대엘리베이터와 원격관제 협력",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215387",
-      "pubDate": "2026-09-17T13:44:47.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "술레이먼, 앤트로픽에 직격탄...\"AI에 의식·권리 부여는 재앙적 위험\"",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215391",
-      "pubDate": "2026-09-17T13:32:26.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "미국인 63% “AI, 인류 파멸시킬 수도”...개발 중단은 48% 지지",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215379",
-      "pubDate": "2026-09-17T12:59:46.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "노타, 인텔과 'AI 영상관제 패키지' 출시...\"GPU 1개로 CCTV 32개 감시\"",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215385",
-      "pubDate": "2026-09-17T12:52:07.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "일레븐랩스, 유니버설과 파트너십...\"정식 라이선스로 AI 음악 플랙폼 선보일 것\"",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215382",
-      "pubDate": "2026-09-17T12:50:11.000Z",
       "source": "AI타임스",
       "category": "AI"
     }
