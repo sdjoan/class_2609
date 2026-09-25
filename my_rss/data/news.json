@@ -1,13 +1,48 @@
 {
-  "lastUpdated": "2026-09-24T23:05:59.045Z",
-  "count": 500,
+  "lastUpdated": "2026-09-25T04:10:33.853Z",
+  "count": 494,
   "items": [
+    {
+      "title": "독일 변전소 1313곳, 배터리 연결로 태양광 150GW 추가 수용 가능",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215592",
+      "pubDate": "2026-09-25T09:40:00.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "호주 주요 전력시장, 재생에너지 비중 80.5% 사상 최고",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215589",
+      "pubDate": "2026-09-25T09:20:00.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "영국, 배터리 계통접속 대기열에 재정보증 추진…MW당 최대 4500만원",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215593",
+      "pubDate": "2026-09-25T09:05:00.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
     {
       "title": "오픈AI 에이전트 무단 침입 또 드러나… 피해 전모 파악에 '수개월'",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=215648",
       "pubDate": "2026-09-25T08:00:37.000Z",
       "source": "AI타임스",
       "category": "AI"
+    },
+    {
+      "title": "1년에 1200만원 이하 버는 사업장 838만개…4년 새 44% 늘었다",
+      "link": "https://www.mk.co.kr/news/economy/12161307",
+      "pubDate": "2026-09-25T02:46:38.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "“아빠랑 할머니가 각각 줬는데요?”…추석 용돈 ‘2000만원 공제’의 오해",
+      "link": "https://www.mk.co.kr/news/economy/12161280",
+      "pubDate": "2026-09-25T01:04:05.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
     },
     {
       "title": "메타, 펜던트형 AI 기기 '뮤즈 참'  12월 출시 예고",
@@ -260,6 +295,13 @@
       "pubDate": "2026-09-24T09:10:00.000Z",
       "source": "AI타임스",
       "category": "AI"
+    },
+    {
+      "title": "메타, AI 에이전트 ‘뮤즈’를 안경에 넣는다",
+      "link": "https://platum.kr/archives/295195?utm_source=rss&utm_medium=rss&utm_campaign=%25eb%25a9%2594%25ed%2583%2580-ai-%25ec%2597%2590%25ec%259d%25b4%25ec%25a0%2584%25ed%258a%25b8-%25eb%25ae%25a4%25ec%25a6%2588%25eb%25a5%25bc-%25ec%2595%2588%25ea%25b2%25bd%25ec%2597%2590-%25eb%2584%25a3%25eb%258a%2594%25eb%258b%25a4",
+      "pubDate": "2026-09-24T08:25:42.000Z",
+      "source": "플래텀",
+      "category": "창업"
     },
     {
       "title": "테슬라, 13.7조 태양광 생산공장 추진…텍사스 세제 절차 승인",
@@ -3417,90 +3459,6 @@
       "pubDate": "2026-09-18T04:19:47.000Z",
       "source": "플래텀",
       "category": "창업"
-    },
-    {
-      "title": "셀렉트스타 “AI 검증, 출시 전 한 번으로 끝낼 일 아니다”",
-      "link": "https://platum.kr/archives/294872?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%2585%2580%25eb%25a0%2589%25ed%258a%25b8%25ec%258a%25a4%25ed%2583%2580-ai-%25ea%25b2%2580%25ec%25a6%259d-%25ec%25b6%259c%25ec%258b%259c-%25ec%25a0%2584-%25ed%2595%259c-%25eb%25b2%2588%25ec%259c%25bc%25eb%25a1%259c-%25eb%2581%259d%25eb%2582%25bc-%25ec%259d%25bc-%25ec%2595%2584%25eb%258b%2588%25eb%258b%25a4",
-      "pubDate": "2026-09-18T04:05:02.000Z",
-      "source": "플래텀",
-      "category": "창업"
-    },
-    {
-      "title": "AI 창업자들 한데 모아 놓는 공간, 카카오벤처스 ‘템프서울’ 문 열어",
-      "link": "https://platum.kr/archives/294854?utm_source=rss&utm_medium=rss&utm_campaign=ai-%25ec%25b0%25bd%25ec%2597%2585%25ec%259e%2590%25eb%2593%25a4-%25ed%2595%259c%25eb%258d%25b0-%25eb%25aa%25a8%25ec%2595%2584-%25eb%2586%2593%25eb%258a%2594-%25ea%25b3%25b5%25ea%25b0%2584-%25ec%25b9%25b4%25ec%25b9%25b4%25ec%2598%25a4%25eb%25b2%25a4%25ec%25b2%2598%25ec%258a%25a4-%25ed%2585%259c%25ed%2594%2584",
-      "pubDate": "2026-09-18T03:49:24.000Z",
-      "source": "플래텀",
-      "category": "창업"
-    },
-    {
-      "title": "[법무법인 비트 TIP] 저작재산권을 양도한 후에도 공표권은 문제될까? 미공표 저작물의 권리관계",
-      "link": "https://platum.kr/archives/294857?utm_source=rss&utm_medium=rss&utm_campaign=%25eb%25b2%2595%25eb%25ac%25b4%25eb%25b2%2595%25ec%259d%25b8-%25eb%25b9%2584%25ed%258a%25b8-tip-%25ec%25a0%2580%25ec%259e%2591%25ec%259e%25ac%25ec%2582%25b0%25ea%25b6%258c%25ec%259d%2584-%25ec%2596%2591%25eb%258f%2584%25ed%2595%259c-%25ed%259b%2584%25ec%2597%2590%25eb%258f%2584-%25ea%25b3%25b5",
-      "pubDate": "2026-09-18T03:18:08.000Z",
-      "source": "플래텀",
-      "category": "창업"
-    },
-    {
-      "title": "재생원료 쓰는 제품·브랜드 기업 찾는다, 롯데케미칼 ‘프로젝트루프소셜’ 5기 모집",
-      "link": "https://platum.kr/archives/294851?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%259e%25ac%25ec%2583%259d%25ec%259b%2590%25eb%25a3%258c-%25ec%2593%25b0%25eb%258a%2594-%25ec%25a0%259c%25ed%2592%2588%25c2%25b7%25eb%25b8%258c%25eb%259e%259c%25eb%2593%259c-%25ea%25b8%25b0%25ec%2597%2585-%25ec%25b0%25be%25eb%258a%2594%25eb%258b%25a4-%25eb%25a1%25af%25eb%258d%25b0%25ec%25bc%2580%25eb%25af%25b8",
-      "pubDate": "2026-09-18T02:15:40.000Z",
-      "source": "플래텀",
-      "category": "창업"
-    },
-    {
-      "title": "“원화는 단기 약세, 엔화는 지속 강세”…환율 디커플링 전망 이유는",
-      "link": "https://www.mk.co.kr/news/economy/12156260",
-      "pubDate": "2026-09-18T01:40:42.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "미국 다음은 유럽·중동, 메타가 K뷰티 브랜드에 내놓은 다변화 주문",
-      "link": "https://platum.kr/archives/294844?utm_source=rss&utm_medium=rss&utm_campaign=%25eb%25af%25b8%25ea%25b5%25ad-%25eb%258b%25a4%25ec%259d%258c%25ec%259d%2580-%25ec%259c%25a0%25eb%259f%25bd%25c2%25b7%25ec%25a4%2591%25eb%258f%2599-%25eb%25a9%2594%25ed%2583%2580%25ea%25b0%2580-k%25eb%25b7%25b0%25ed%258b%25b0-%25eb%25b8%258c%25eb%259e%259c%25eb%2593%259c%25ec%2597%2590-%25eb%2582%25b4%25eb%2586%2593",
-      "pubDate": "2026-09-18T01:38:37.000Z",
-      "source": "플래텀",
-      "category": "창업"
-    },
-    {
-      "title": "[단독] 집값 25억·LTV 40% 초과 주담대…위험가중치 최대 4배 높인다",
-      "link": "https://www.mk.co.kr/news/economy/12156251",
-      "pubDate": "2026-09-18T01:36:46.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "aT, 9월 30일까지 ‘연말·연초 해외판촉 지원’ 참여기업 모집 - 한국농어민신문",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE13blhIMXFlQVdSakxDb1I4dzlMNExmRXlIdXBYQ1pMV1cwTmk4blBSRy0weWx3RGxDdlJ2bXFxQ1lma21zbnpkYUdmY0l1ZjNTZVhhemxMeDJ1YjV0Ty1tTFY1a2FkSXBvbFNmOA?oc=5",
-      "pubDate": "2026-09-18T01:34:43.000Z",
-      "source": "Google 뉴스: 지원사업 공고/모집",
-      "category": "정부지원정책"
-    },
-    {
-      "title": "팜유 폐기물로 바이오차 만드는 스타트업이 1위, ASEIC 에코톤 말레이시아 데모데이",
-      "link": "https://platum.kr/archives/294841?utm_source=rss&utm_medium=rss&utm_campaign=%25ed%258c%259c%25ec%259c%25a0-%25ed%258f%2590%25ea%25b8%25b0%25eb%25ac%25bc%25eb%25a1%259c-%25eb%25b0%2594%25ec%259d%25b4%25ec%2598%25a4%25ec%25b0%25a8-%25eb%25a7%258c%25eb%2593%259c%25eb%258a%2594-%25ec%258a%25a4%25ed%2583%2580%25ed%258a%25b8%25ec%2597%2585%25ec%259d%25b4-1%25ec%259c%2584-aseic-%25ec%2597%2590",
-      "pubDate": "2026-09-18T01:25:15.000Z",
-      "source": "플래텀",
-      "category": "창업"
-    },
-    {
-      "title": "폐배터리 금속 회수부터 청각장애인 플로리스트 교육까지, ‘소셜벤처 리그’ 40명 추려",
-      "link": "https://platum.kr/archives/294840?utm_source=rss&utm_medium=rss&utm_campaign=%25ed%258f%2590%25eb%25b0%25b0%25ed%2584%25b0%25eb%25a6%25ac-%25ea%25b8%2588%25ec%2586%258d-%25ed%259a%258c%25ec%2588%2598%25eb%25b6%2580%25ed%2584%25b0-%25ec%25b2%25ad%25ea%25b0%2581%25ec%259e%25a5%25ec%2595%25a0%25ec%259d%25b8-%25ed%2594%258c%25eb%25a1%259c%25eb%25a6%25ac%25ec%258a%25a4%25ed%258a%25b8-%25ea%25b5%2590",
-      "pubDate": "2026-09-18T01:22:00.000Z",
-      "source": "플래텀",
-      "category": "창업"
-    },
-    {
-      "title": "당근모임, ‘러닝 기록 꾸미기’ 기능 출시",
-      "link": "https://platum.kr/archives/294837?utm_source=rss&utm_medium=rss&utm_campaign=%25eb%258b%25b9%25ea%25b7%25bc%25eb%25aa%25a8%25ec%259e%2584-%25eb%259f%25ac%25eb%258b%259d-%25ea%25b8%25b0%25eb%25a1%259d-%25ea%25be%25b8%25eb%25af%25b8%25ea%25b8%25b0-%25ea%25b8%25b0%25eb%258a%25a5-%25ec%25b6%259c%25ec%258b%259c",
-      "pubDate": "2026-09-18T00:27:38.000Z",
-      "source": "플래텀",
-      "category": "창업"
-    },
-    {
-      "title": "한때, 성폭력 전담검사로 빛났던 박은정 의원에 대한 얘기입니다 [논설실 Pick]",
-      "link": "https://www.mk.co.kr/news/economy/12156071",
-      "pubDate": "2026-09-17T23:56:02.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
     }
   ]
 }
