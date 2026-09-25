@@ -1,7 +1,42 @@
 {
-  "lastUpdated": "2026-09-25T11:28:41.884Z",
-  "count": 473,
+  "lastUpdated": "2026-09-25T16:52:53.089Z",
+  "count": 456,
   "items": [
+    {
+      "title": "백악관, 오픈AI·앤트로픽에 \"신모델, 영국 사전 검증 거부하라\" 압박",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215658",
+      "pubDate": "2026-09-25T23:18:42.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "젠슨 황 \"통제 불가능한 AI 연구소, 규제 아닌 폐쇄해야\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215657",
+      "pubDate": "2026-09-25T22:36:38.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "오픈AI, GPT-6 ‘프롬프트 캐싱’ 강화…“비용 90% 절감·속도 향상”",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215652",
+      "pubDate": "2026-09-25T21:45:44.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "FDE 도입 1년, 교육 수요도 급증…데이원컴퍼니, 현장 경험 제공 나서",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215654",
+      "pubDate": "2026-09-25T21:36:36.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "오픈AI, 신규 개발자 플랫폼·요금제 준비...앱 개발 전 과정 지원",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215650",
+      "pubDate": "2026-09-25T20:38:20.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
     {
       "title": "구글·오픈AI·앤트로픽, 자율 규제기구 'SAFA' 설립 추진...올해말 출범 목표",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=215651",
@@ -15,6 +50,34 @@
       "pubDate": "2026-09-25T19:53:13.000Z",
       "source": "AI타임스",
       "category": "AI"
+    },
+    {
+      "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
+      "link": "https://openai.com/index/proaction",
+      "pubDate": "2026-09-25T19:00:00.000Z",
+      "source": "OpenAI",
+      "category": "AI"
+    },
+    {
+      "title": "“산재보험 1억6천만원 받았는데 또?”…추락한 철근공 회사에 소송 낸 까닭 [어쩌다 세상이]",
+      "link": "https://www.mk.co.kr/news/economy/12161486",
+      "pubDate": "2026-09-25T13:03:36.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "\"경북서 일하고 장려금 받자\"…경북 청년애꿈 지원 참여자 연중 모집 - gukjenews.com",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1MR1RfTWlVWjhtVHBDVTR6eTRUa0ZodlM0b2RTNy1mR1ZoTkswOE4zZ3lqb1Bwd0tpeG40TW9FTWpjN3pIM1JYeVlaN3lkemJEdnhEbWlMSzk4NDhtTVNIR21XRS1DbzFDbkR1QURB?oc=5",
+      "pubDate": "2026-09-25T12:35:01.000Z",
+      "source": "Google 뉴스: 지원사업 공고/모집",
+      "category": "정부지원정책"
+    },
+    {
+      "title": "경북도, 청년애꿈 지원사업 연중 모집 - 시사포커스",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBja1A3TjAtbmZpWFZvRkd2N1BwOGRJTmlDTjlfdVhMcnFFMFdZZHkxMm5DTE9Wa1A3NDN4VnBJVDFGeld2WGJhV0VUMEx6SnFaSTZ5WFBqdW5ObGJtS0htU3J3T1BabExKTXR4SDRGaw?oc=5",
+      "pubDate": "2026-09-25T12:15:10.000Z",
+      "source": "Google 뉴스: 지원사업 공고/모집",
+      "category": "정부지원정책"
     },
     {
       "title": "경북도, 청년 취업성공 패키지 ‘청년애꿈 지원사업’ 연중 모집 - 웹이코노미",
@@ -3130,188 +3193,6 @@
       "pubDate": "2026-09-18T16:55:38.000Z",
       "source": "AI타임스",
       "category": "AI"
-    },
-    {
-      "title": "저커버그·젠슨 황·머스크, 트럼프 직접 설득…백악관 'AI 규제안' 무산",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215469",
-      "pubDate": "2026-09-18T16:49:30.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "오픈AI, '대형 신제품' 출시 일주일 연기…'GPT-6 솔' 기대감 고조",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215462",
-      "pubDate": "2026-09-18T16:05:45.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "AI스페라, 위협 노출 관리 솔루션에 MS 에이전트 기술 적용",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215471",
-      "pubDate": "2026-09-18T15:50:00.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "오픈AI, ‘법률용 아스트라’ 발표...빅 로펌·기술 기업 맞춤 AI 지원",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215450",
-      "pubDate": "2026-09-18T15:42:42.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "\"워드 안에서 챗GPT 쓴다\"...오픈AI, MS 워드 통합 기능 확대",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215448",
-      "pubDate": "2026-09-18T15:25:56.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "신안신재생에너지재단, 청년도전지원사업 추가 모집 - 대한뉴스통신",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5QWW9TTWFVSFJSZ2dlQ0tULWszVGlNbGNBNjFJbk9zTHNaUkctN0dJOWlLVGhQdUFUaFJYeHNYM2lXM25LYkc2OUpoaHNzNURMaVNVb19wVQ?oc=5",
-      "pubDate": "2026-09-18T15:19:00.000Z",
-      "source": "Google 뉴스: 지원사업 공고/모집",
-      "category": "정부지원정책"
-    },
-    {
-      "title": "위버스브레인, 18년 축적 학습 데이터로 '습관 설계 AI' 개발 나서",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215458",
-      "pubDate": "2026-09-18T15:04:10.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "네이버 D2SF, 헬스케어 스타트업 임프리메드·무니스에 신규 투자",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215456",
-      "pubDate": "2026-09-18T15:00:15.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "Federal Reserve Board announces termination of enforcement action with SNB Bancshares and Bank of Eufaula",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260918b.htm",
-      "pubDate": "2026-09-18T15:00:00.000Z",
-      "source": "미 연준 보도자료",
-      "category": "경제"
-    },
-    {
-      "title": "Federal Reserve Board issues enforcement actions with former employee of Northstar Bank, former employee of American Express Travel Related Services Company, Inc., and former employee of Regions Bank",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260918a.htm",
-      "pubDate": "2026-09-18T15:00:00.000Z",
-      "source": "미 연준 보도자료",
-      "category": "경제"
-    },
-    {
-      "title": "화웨이, 차세대 AI 칩 출시 앞당긴다...\"대규모 연결로 엔비디아 추격\"",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215455",
-      "pubDate": "2026-09-18T14:56:24.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "셀렉트스타 \"AI 검증, 일회성 시험 아냐\"...전 주기 상시 평가 체계 강조",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215439",
-      "pubDate": "2026-09-18T14:37:06.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "한국인 76% \"AI가 내 일자리 뺏을 것\"...고용 불안도 세계 최고 수준",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215449",
-      "pubDate": "2026-09-18T14:35:07.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "루닛, 타임 선정 '세계 최고 헬스테크 기업' 등재…“AI 진단 경쟁력 입증”",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215453",
-      "pubDate": "2026-09-18T14:08:51.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "네이버클라우드 “AI 풀스택·FDE 동원해 국방 AX 지원할 것”",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215451",
-      "pubDate": "2026-09-18T14:06:22.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "순천, ‘청년의 날’ 축제 19일 개최…공연·토크·마켓 한자리",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215436",
-      "pubDate": "2026-09-18T14:04:50.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "전남광주, 추석 앞두고 도축장 새벽 5시 조기 개장…안전검사 강화",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215437",
-      "pubDate": "2026-09-18T14:00:15.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "제논, 화면 인식·컴퓨터 조작 특화 '훈민 VLM 397B' 오픈소스 공개",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215447",
-      "pubDate": "2026-09-18T13:07:53.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "폭염은 끝났는데 이제 기름값이 문제…휘발유·경유 부담 다시 커진다",
-      "link": "https://www.mk.co.kr/news/economy/12156866",
-      "pubDate": "2026-09-18T13:00:47.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "최악 지지율에도 고개 뻣뻣한 대통령…시진핑 모시러 공항 달려간다",
-      "link": "https://www.mk.co.kr/news/economy/12156863",
-      "pubDate": "2026-09-18T12:58:16.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "찰스 3세, 젠슨 황·허사비스 만나 \"AI 통제 수단 마련해야\"",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215434",
-      "pubDate": "2026-09-18T12:53:33.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "앤트로픽 \"클로드, 자기개선 주도 26%…관여는 90%\"",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215435",
-      "pubDate": "2026-09-18T12:11:21.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "Introducing the Australian Youth Safety Blueprint",
-      "link": "https://openai.com/index/australian-youth-safety-blueprint",
-      "pubDate": "2026-09-18T12:00:00.000Z",
-      "source": "OpenAI",
-      "category": "AI"
-    },
-    {
-      "title": "앤트로픽, 장기 개발 관리 에이전트 '클로드 코드 프로젝트' 공개",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215430",
-      "pubDate": "2026-09-18T11:56:41.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "에바 ‘에이스 프로 맥스’, 기후에너지 혁신상 수상… 열화상 감지 ‘세이버’ 공개",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215444",
-      "pubDate": "2026-09-18T11:39:26.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "중간선거 불리해진 트럼프? 공화당에 쏠린 정치 후원금",
-      "link": "https://www.mk.co.kr/news/stock/12156826",
-      "pubDate": "2026-09-18T11:35:51.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
     }
   ]
 }
