@@ -1,13 +1,41 @@
 {
-  "lastUpdated": "2026-09-25T21:17:19.467Z",
-  "count": 443,
+  "lastUpdated": "2026-09-26T00:26:24.264Z",
+  "count": 448,
   "items": [
+    {
+      "title": "오픈AI, 'GPT-6 사이버' 공개 임박…API 넘어서는 '전용 배포 제품' 선보인다",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215667",
+      "pubDate": "2026-09-26T08:57:00.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "미중 정상 백악관 회담...시진핑 \"AI 통제\" vs 트럼프 \"현상 유지\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215663",
+      "pubDate": "2026-09-26T08:01:13.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "MS, 에이전트·코드 생성 통합한 새 '코파일럿' 공개…'AI 시대 업무 OS' 선언",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215662",
+      "pubDate": "2026-09-26T07:23:18.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
     {
       "title": "백악관, 오픈AI·앤트로픽에 \"신모델, 영국 사전 검증 거부하라\" 압박",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=215658",
       "pubDate": "2026-09-25T23:18:42.000Z",
       "source": "AI타임스",
       "category": "AI"
+    },
+    {
+      "title": "Have you heard? Saying sayonara to the PewDiePie vlog and taking “go back to Africa” literally.",
+      "link": "https://www.tubefilter.com/2026/09/25/have-you-heard-pewdiepie-vlog-abdirahman-keinaan/",
+      "pubDate": "2026-09-25T22:44:25.000Z",
+      "source": "Tubefilter",
+      "category": "수익화/크리에이터 이코노미"
     },
     {
       "title": "젠슨 황 \"통제 불가능한 AI 연구소, 규제 아닌 폐쇄해야\"",
@@ -24,11 +52,25 @@
       "category": "AI"
     },
     {
+      "title": "지난해 음주 진료비 첫 4조원대…흡연은 2024년 이후 지속 상승",
+      "link": "https://www.mk.co.kr/news/economy/12161539",
+      "pubDate": "2026-09-25T21:38:59.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
       "title": "FDE 도입 1년, 교육 수요도 급증…데이원컴퍼니, 현장 경험 제공 나서",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=215654",
       "pubDate": "2026-09-25T21:36:36.000Z",
       "source": "AI타임스",
       "category": "AI"
+    },
+    {
+      "title": "YouTube CEO Neal Mohan shrugs off Meta’s attempt to persuade rivals to add safety features",
+      "link": "https://www.tubefilter.com/2026/09/25/youtube-ceo-neal-mohan-denies-meta-request-safety/",
+      "pubDate": "2026-09-25T21:26:28.000Z",
+      "source": "Tubefilter",
+      "category": "수익화/크리에이터 이코노미"
     },
     {
       "title": "오픈AI, 신규 개발자 플랫폼·요금제 준비...앱 개발 전 과정 지원",
@@ -3095,13 +3137,6 @@
       "pubDate": "2026-09-19T01:25:11.000Z",
       "source": "매일경제 경제",
       "category": "경제"
-    },
-    {
-      "title": "Have you heard? It’s science time, college football on YouTube, and “copium” for the dictionary.",
-      "link": "https://www.tubefilter.com/2026/09/18/have-you-heard-50-50-b1g-football-copium-merriam-webster/",
-      "pubDate": "2026-09-18T22:09:29.000Z",
-      "source": "Tubefilter",
-      "category": "수익화/크리에이터 이코노미"
     }
   ]
 }
