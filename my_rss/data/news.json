@@ -1,7 +1,14 @@
 {
-  "lastUpdated": "2026-09-26T20:49:46.424Z",
-  "count": 439,
+  "lastUpdated": "2026-09-27T00:21:31.581Z",
+  "count": 437,
   "items": [
+    {
+      "title": "오픈AI 에이전트, 미국 정부 사이트까지 뒤졌다…‘에이전트 스팸’도 확인",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215679",
+      "pubDate": "2026-09-27T09:12:01.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
     {
       "title": "“월세 200만원 받는 6억 집, 비싼걸까?” … AI가 찾아낸 적정가격의 비밀",
       "link": "https://www.mk.co.kr/news/economy/12159700",
@@ -3053,27 +3060,6 @@
       "pubDate": "2026-09-20T01:22:45.000Z",
       "source": "매일경제 경제",
       "category": "경제"
-    },
-    {
-      "title": "삼성의 다음 승부처는 ‘AI 일상’…노태문 “거스를 수 없는 대세”",
-      "link": "https://www.mk.co.kr/news/economy/12157290",
-      "pubDate": "2026-09-20T00:14:53.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "“집도 있고 소득도 괜찮은데, 노후거지?”…4명 중 3명 노후 비상, 왜?",
-      "link": "https://www.mk.co.kr/news/economy/12157269",
-      "pubDate": "2026-09-19T23:23:14.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "[AI 이슈트렌드] 역대급 수출 실적 속 AI 속도조절론·대통령 지지율 최저 주목",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215491",
-      "pubDate": "2026-09-19T21:57:09.000Z",
-      "source": "AI타임스",
-      "category": "AI"
     }
   ]
 }
