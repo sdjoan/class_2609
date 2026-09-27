@@ -1,13 +1,153 @@
 {
-  "lastUpdated": "2026-09-27T00:21:31.581Z",
-  "count": 437,
+  "lastUpdated": "2026-09-27T07:49:05.690Z",
+  "count": 450,
   "items": [
+    {
+      "title": "오픈AI, 월 500달러 ‘프로 맥스’ 요금제 출시하나…‘워크·코덱스’ 초고속 처리",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215681",
+      "pubDate": "2026-09-27T16:23:59.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "앤트로픽, 클로드 최적화를 클로드에 맡겼더니… \"2주 만에 속도 3배 빨라져\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215678",
+      "pubDate": "2026-09-27T15:59:27.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "라이너, 에이전트 연결 도구 '라이너 액션 MCP' 출시…국내 도입 임박",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215655",
+      "pubDate": "2026-09-27T15:34:42.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "앤트로픽, 클로드 플러그인 개발 포털 공개...제출·검토·분석 통합 지원",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215685",
+      "pubDate": "2026-09-27T15:14:31.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "스모어톡, 신한은행에 숏폼 영상 AI 공급…금융권 유스케이스 첫 확보",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215687",
+      "pubDate": "2026-09-27T15:01:58.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "KT, AI 모델 라우팅 기술로 글로벌 2위…“기업 AX 지원”",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215686",
+      "pubDate": "2026-09-27T14:59:09.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "\"제브보다 9배 빠르다\"...스탠퍼드·엔비디아, 'CLM-8B'로 맞불",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215683",
+      "pubDate": "2026-09-27T12:08:03.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "GPT-6 아스트라, 85년 난제 '에니그마' 암호 해독...도구·시뮬레이터 구현",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215677",
+      "pubDate": "2026-09-27T11:28:18.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "오픈AI, 데브데이서 ‘상시 작동 에이전트’ 공개하나…‘o’ 포착",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215684",
+      "pubDate": "2026-09-27T10:55:05.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "\"기계의 낙원 속 인간성 지켜야\"…교황 레오 14세, 프랑스서 AI 오남용 경고",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215682",
+      "pubDate": "2026-09-27T10:13:57.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "미중 정상, AI 비상 핫라인 구축 합의…규제 대신 '위기 관리'에 초점",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215680",
+      "pubDate": "2026-09-27T09:52:03.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
     {
       "title": "오픈AI 에이전트, 미국 정부 사이트까지 뒤졌다…‘에이전트 스팸’도 확인",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=215679",
       "pubDate": "2026-09-27T09:12:01.000Z",
       "source": "AI타임스",
       "category": "AI"
+    },
+    {
+      "title": "‘공구’로 3일 만에 억소리나게 벌었지만...정작 내는 세금은 ‘깜깜’",
+      "link": "https://www.mk.co.kr/news/economy/12161976",
+      "pubDate": "2026-09-27T07:43:27.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "금융검사 중간발표, 소비자피해 우려 때만 허용",
+      "link": "https://www.mk.co.kr/news/economy/12161894",
+      "pubDate": "2026-09-27T06:03:16.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "금연·걷기 등 건강 챙기면 ‘보험료 할인·우대금리’ 제공한다",
+      "link": "https://www.mk.co.kr/news/economy/12161888",
+      "pubDate": "2026-09-27T05:35:56.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "음성군, 2026년 하반기 영농부산물 파쇄지원 희망농가 모집 - ggilbo.com",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5tX0J0eDRtMmxHQmFIXzlUemFrZ3pfQVJndXFaNlRYVWRvOEZyOFJLR0NoazFPYVhfLWhSNkV2eENCLW5sNDJkbUpqcFB0V0kzY0JPQS03QkFKTFRtdjNWT1NBYzJkTTB1QkE?oc=5",
+      "pubDate": "2026-09-27T03:16:26.000Z",
+      "source": "Google 뉴스: 지원사업 공고/모집",
+      "category": "정부지원정책"
+    },
+    {
+      "title": "[단독] 은행 가계대출 한도 갉아먹는 주택연금...올 지급액 3조 넘을듯",
+      "link": "https://www.mk.co.kr/news/economy/12161819",
+      "pubDate": "2026-09-27T02:18:50.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "“연휴 다음날 출근길, 기분 나쁠 일 있습니다”…계좌잔액 미리 확인해 둬야",
+      "link": "https://www.mk.co.kr/news/economy/12161815",
+      "pubDate": "2026-09-27T02:05:08.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "3000억 펀드 만들고 저리 대출까지…정책금융, 피지컬 AI에 돈 푼다",
+      "link": "https://www.mk.co.kr/news/economy/12161774",
+      "pubDate": "2026-09-27T00:35:15.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "“내 팔자에 대부업체 찾아갈 줄은 몰랐다”...은행 돈줄 죄자 덩치 확 커져",
+      "link": "https://www.mk.co.kr/news/economy/12161767",
+      "pubDate": "2026-09-27T00:28:38.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "지난 추석에 100만원 넣었다면…예금은 102만원, 삼전닉스는?",
+      "link": "https://www.mk.co.kr/news/stock/12161765",
+      "pubDate": "2026-09-27T00:21:37.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
     },
     {
       "title": "“월세 200만원 받는 6억 집, 비싼걸까?” … AI가 찾아낸 적정가격의 비밀",
@@ -94,6 +234,20 @@
       "category": "AI"
     },
     {
+      "title": "AI가 끌어올릴 노동생산성은 장기적으로 최대 3.8%, IMF 추정",
+      "link": "https://platum.kr/archives/295209?utm_source=rss&utm_medium=rss&utm_campaign=ai%25ea%25b0%2580-%25eb%2581%258c%25ec%2596%25b4%25ec%2598%25ac%25eb%25a6%25b4-%25eb%2585%25b8%25eb%258f%2599%25ec%2583%259d%25ec%2582%25b0%25ec%2584%25b1%25ec%259d%2580-%25ec%259e%25a5%25ea%25b8%25b0%25ec%25a0%2581%25ec%259c%25bc%25eb%25a1%259c-%25ec%25b5%259c%25eb%258c%2580-3-8-imf-%25ec%25b6%2594%25ec%25a0%2595",
+      "pubDate": "2026-09-26T12:24:10.000Z",
+      "source": "플래텀",
+      "category": "창업"
+    },
+    {
+      "title": "미·중 정상, AI 사고 소통 채널 합의… 반도체는 합의문 밖",
+      "link": "https://platum.kr/archives/295205?utm_source=rss&utm_medium=rss&utm_campaign=%25eb%25af%25b8%25c2%25b7%25ec%25a4%2591-%25ec%25a0%2595%25ec%2583%2581-ai-%25ec%2582%25ac%25ea%25b3%25a0-%25ec%2586%258c%25ed%2586%25b5-%25ec%25b1%2584%25eb%2584%2590-%25ed%2595%25a9%25ec%259d%2598-%25eb%25b0%2598%25eb%258f%2584%25ec%25b2%25b4%25eb%258a%2594-%25ed%2595%25a9%25ec%259d%2598%25eb%25ac%25b8",
+      "pubDate": "2026-09-26T11:32:33.000Z",
+      "source": "플래텀",
+      "category": "창업"
+    },
+    {
       "title": "“달러 환전만 하던 시대는 끝”…인뱅 외환 서비스 경쟁 불붙었다",
       "link": "https://www.mk.co.kr/news/economy/12161701",
       "pubDate": "2026-09-26T11:27:17.000Z",
@@ -127,6 +281,13 @@
       "pubDate": "2026-09-26T10:00:00.000Z",
       "source": "AI타임스",
       "category": "AI"
+    },
+    {
+      "title": "AI가 쓴 소설 가려내기, 문학 경험보다 AI 사용 경험이 도움",
+      "link": "https://platum.kr/archives/295202?utm_source=rss&utm_medium=rss&utm_campaign=ai%25ea%25b0%2580-%25ec%2593%25b4-%25ec%2586%258c%25ec%2584%25a4-%25ea%25b0%2580%25eb%25a0%25a4%25eb%2582%25b4%25ea%25b8%25b0-%25eb%25ac%25b8%25ed%2595%2599-%25ea%25b2%25bd%25ed%2597%2598%25eb%25b3%25b4%25eb%258b%25a4-ai-%25ec%2582%25ac%25ec%259a%25a9-%25ea%25b2%25bd%25ed%2597%2598%25ec%259d%25b4-%25eb%258f%2584",
+      "pubDate": "2026-09-26T09:46:28.000Z",
+      "source": "플래텀",
+      "category": "창업"
     },
     {
       "title": "빌 게이츠 \"AI가 10억명 목숨 위협할 수도\"…정부 개입·규제법 제정 촉구",
@@ -2988,76 +3149,6 @@
       "title": "“삼전닉스가 나라살림 결정, 이게 맞나”…법인세만 216조 걷힌다",
       "link": "https://www.mk.co.kr/news/economy/12157421",
       "pubDate": "2026-09-20T08:10:00.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "‘추석 연휴’ 고속도로 통행료 면제…일평균 통행량 12% 증가한 605만대 전망",
-      "link": "https://www.mk.co.kr/news/economy/12157432",
-      "pubDate": "2026-09-20T06:48:17.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "[단독] 근로감독관 1명이 중대재해 4건씩 떠안아…최대 4년 묵히기도",
-      "link": "https://www.mk.co.kr/news/economy/12157431",
-      "pubDate": "2026-09-20T06:42:27.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "반도체 과속에 가려진 산업안전…위반적발 절반이 하이닉스였다",
-      "link": "https://www.mk.co.kr/news/economy/12157428",
-      "pubDate": "2026-09-20T06:33:00.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "NH농협생명, 추석 맞아 700명에게 ‘송편 나눔’",
-      "link": "https://www.mk.co.kr/news/economy/12157417",
-      "pubDate": "2026-09-20T06:02:52.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "대전시 임산부 친환경농산물 지원…630명 추가 모집 - v.daum.net",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9aS3NSUWp5NGlCa3pPbjI4VVBkNklVNS1LOGtVLWp0U2d6ZWFRS2N4TzZ3M3A5aUxqRXBoVEV2X25fVTVUcTZTNnNYUWpsa0E?oc=5",
-      "pubDate": "2026-09-20T04:45:29.000Z",
-      "source": "Google 뉴스: 지원사업 공고/모집",
-      "category": "정부지원정책"
-    },
-    {
-      "title": "연체율 44%, 저신용 자영업자의 위기",
-      "link": "https://www.mk.co.kr/news/economy/12157369",
-      "pubDate": "2026-09-20T04:08:03.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "“환율 더 쳐드릴게요” 믿었다가…남은 달러 팔고 보이스피싱 자금세탁 연루",
-      "link": "https://www.mk.co.kr/news/economy/12157368",
-      "pubDate": "2026-09-20T04:06:16.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "“똑같이 1시간 고장 나도 위험은 다르다”…항행시설 장애평가 확 바꾼다",
-      "link": "https://www.mk.co.kr/news/economy/12157347",
-      "pubDate": "2026-09-20T02:18:06.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "“신규 회원 늘리려 개인정보 19만건 넘겼다”…진화하는 카드 모집 불법영업",
-      "link": "https://www.mk.co.kr/news/economy/12157345",
-      "pubDate": "2026-09-20T02:17:11.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "“도수치료 횟수 제한? 다 방법 있어요”…냉각치료 실손 청구액 218% 폭증 이유",
-      "link": "https://www.mk.co.kr/news/economy/12157317",
-      "pubDate": "2026-09-20T01:22:45.000Z",
       "source": "매일경제 경제",
       "category": "경제"
     }
