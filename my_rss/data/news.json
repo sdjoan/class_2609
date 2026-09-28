@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-09-28T13:19:47.343Z",
-  "count": 470,
+  "lastUpdated": "2026-09-28T20:25:57.319Z",
+  "count": 454,
   "items": [
     {
       "title": "과기부, 국대 AI 중단설 일축...\"현 구조로는 프런티어 역부족\" 지적도",
@@ -8,6 +8,27 @@
       "pubDate": "2026-09-28T20:12:48.000Z",
       "source": "AI타임스",
       "category": "AI"
+    },
+    {
+      "title": "“미국이 예전 같지 않다” … 美 국채금리 5% 돌파가 보내는 섬뜩한 신호",
+      "link": "https://www.mk.co.kr/news/economy/12162927",
+      "pubDate": "2026-09-28T20:00:00.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "미국채 금리발작은 인과응보 … 그래도 증시 낙관론 외치는 이유",
+      "link": "https://www.mk.co.kr/news/society/12162878",
+      "pubDate": "2026-09-28T20:00:00.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "CNN dives into Texas Senate race alongside media partner Jubilee",
+      "link": "https://www.tubefilter.com/2026/09/28/cnn-jubilee-media-town-hall-james-talarico/",
+      "pubDate": "2026-09-28T19:21:41.000Z",
+      "source": "Tubefilter",
+      "category": "수익화/크리에이터 이코노미"
     },
     {
       "title": "오퍼스 5.5, 자기개선 평가서 1위…'완전 RSI' 내년 7월로 앞당겨",
@@ -36,6 +57,13 @@
       "pubDate": "2026-09-28T17:42:08.000Z",
       "source": "AI타임스",
       "category": "AI"
+    },
+    {
+      "title": "北 김선경 “핵보유국 되돌릴 수없어”...비핵화 협상 일축",
+      "link": "https://www.mk.co.kr/news/economy/12163252",
+      "pubDate": "2026-09-28T17:32:19.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
     },
     {
       "title": "제브, 클로드 오퍼스 5 지원받아 '포켓몬' 명예의 전당 입성",
@@ -269,6 +297,13 @@
       "category": "경제"
     },
     {
+      "title": "화성시, 취약계층·청소년 승마체험 41명 모집...체험비·보험료 지원 - 뉴스티앤티",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBPRFY5cHphdzV6bkRJcFFyWTdpc2hOYWM0cHFXaTI0aTVRRk9lWXZ4Zkw1YW9neTJGODJpdFdNU1kxb0VtYzR0MDVFZmd2aFg0RHd3UkNwNmN5UXYxWWhQQ0lrbGxFQjB6eWc?oc=5",
+      "pubDate": "2026-09-28T09:02:18.000Z",
+      "source": "Google 뉴스: 지원사업 공고/모집",
+      "category": "정부지원정책"
+    },
+    {
       "title": "[AI리더의 서가] 한 땀 한 땀 나의 첫 AI 에이전트",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=215621",
       "pubDate": "2026-09-28T09:00:00.000Z",
@@ -421,6 +456,13 @@
       "pubDate": "2026-09-28T07:12:17.000Z",
       "source": "매일경제 경제",
       "category": "경제"
+    },
+    {
+      "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
+      "link": "https://openai.com/index/lenfest-ai-collaborative-expansion",
+      "pubDate": "2026-09-28T07:00:00.000Z",
+      "source": "OpenAI",
+      "category": "AI"
     },
     {
       "title": "“결혼페널티 없앤다”…HF, 보금자리론 소득기준 개선",
@@ -3137,160 +3179,6 @@
       "pubDate": "2026-09-21T21:00:48.000Z",
       "source": "Google 뉴스: 지원사업 공고/모집",
       "category": "정부지원정책"
-    },
-    {
-      "title": "“미·일 금리 더 간다 … 포트폴리오 재구성할 때”",
-      "link": "https://www.mk.co.kr/news/economy/12158584",
-      "pubDate": "2026-09-21T19:30:00.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "알리바바, 통역 지연 '2.3초'로 줄인 AI '큐원3.8-라이브트랜스레이트' 공개",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215516",
-      "pubDate": "2026-09-21T18:20:59.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "LLM 내부에서 '고통 축' 발견...\"회피 행동까지 수행\"",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215520",
-      "pubDate": "2026-09-21T18:07:02.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "앤돈랩스, AI가 기업 전반 자율 운영하는 플랫폼 '파이온' 공개",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215537",
-      "pubDate": "2026-09-21T17:51:38.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "울산창조경제혁신센터, 'AI 활용 R&D 사업계획서 작성 지원사업' 참여기업 모집 - 투어코리아",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0tZllJMm1Bako5Sk5yR2psemo2Mm91WVJELS1SSHYtWDMwTlhnOURlaEk1WnNzRHJ2Zlk0eDlrc3ZEempBWmF4ZVN5S1Flb2FfcGZrRTBQdzRJN2pYMklkMmxac0c4dEZPVVoxVTZ3?oc=5",
-      "pubDate": "2026-09-21T17:44:45.000Z",
-      "source": "Google 뉴스: 지원사업 공고/모집",
-      "category": "정부지원정책"
-    },
-    {
-      "title": "오픈아트, AI 이미지·비디오 모델 평가 '아레나' 출시...\"용도별 최적 모델 찾아준다\"",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215531",
-      "pubDate": "2026-09-21T17:41:48.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "스텝펀, 차세대 MoE 모델 '스텝 5 프리뷰' 공개...에이전트·금융 특화",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215519",
-      "pubDate": "2026-09-21T17:26:00.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "권오현 전 삼성전자 대표, KAIST 신임 이사장 선임",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215541",
-      "pubDate": "2026-09-21T17:15:00.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "MS, 기업 AI 전환 지침서 '프런티어 플레이북' 공개...\"핵심은 조직 재설계\"",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215536",
-      "pubDate": "2026-09-21T17:08:26.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "[게시판] SK하이닉스, AI 실전 역량 겨루는 해커톤 개최 등 단신",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215542",
-      "pubDate": "2026-09-21T17:00:00.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "대화창 하나로 음성·영상까지 제작…일레븐랩스, MCP로 창작 도구 통합",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215539",
-      "pubDate": "2026-09-21T16:57:47.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "2030년까지 15.7만명 부족...미국 반도체 인력난에 경고등",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215538",
-      "pubDate": "2026-09-21T16:48:34.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "CXMT, 5세대 DRAM 플랫폼 양산 개시...“세계 최고 수준 근접”",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215529",
-      "pubDate": "2026-09-21T16:37:58.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "\"AI가 2주 만에 칩 설계...아키텍트 랩스, '레드우드'로 개발 패러다임 제시",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215521",
-      "pubDate": "2026-09-21T16:33:38.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "전남광주, 학교 밖 청소년 109명 테마형 수학여행…스포츠·문화 체험",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215532",
-      "pubDate": "2026-09-21T16:16:48.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "순천SAT, 2027년 누리호 6호기 탑재 목표…위성 설계·기술 점검",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215534",
-      "pubDate": "2026-09-21T16:16:36.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "여수, 장도·두력도 장기 계류 바지선 정비…두력도 25척 철거",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215533",
-      "pubDate": "2026-09-21T16:16:27.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "술레이먼 \"중국 경쟁 핑계로 AI 안전 규제 미뤄선 안 돼\"",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215530",
-      "pubDate": "2026-09-21T16:02:34.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "‘암호 해독·마인크래프트’ 성과 낸 발스, AI 벤치마크 강자로 부상",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215535",
-      "pubDate": "2026-09-21T15:36:43.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "샤오미, AI 훈련 과정 첫 '생중계'…일주일 만에 50억 투입",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215528",
-      "pubDate": "2026-09-21T14:51:35.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "LG, ‘AI 미래세대’ 양성 위한 에이머스 해커톤·청소년 캠프 진행",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215526",
-      "pubDate": "2026-09-21T14:45:00.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "\"바이브 코딩으로 앱은 늘어났지만\"…이용자 외면으로 '앱 슬롭' 확산",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215524",
-      "pubDate": "2026-09-21T13:56:33.000Z",
-      "source": "AI타임스",
-      "category": "AI"
     }
   ]
 }
