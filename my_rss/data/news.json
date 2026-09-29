@@ -1,7 +1,91 @@
 {
-  "lastUpdated": "2026-09-28T20:25:57.319Z",
-  "count": 454,
+  "lastUpdated": "2026-09-29T01:36:40.985Z",
+  "count": 458,
   "items": [
+    {
+      "title": "[AI리더의 서가] 케라스 창시자에게 배우는 딥러닝",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215623",
+      "pubDate": "2026-09-29T09:00:00.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "앤트로픽, '클로드 소네트 5.5' 공개…오퍼스급 지능에 최강 가성비",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215734",
+      "pubDate": "2026-09-29T07:27:02.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "[9월28일] 메타 '뮤즈'가 찾아낸 새로운 유즈 케이스는 '구독 해지'",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215702",
+      "pubDate": "2026-09-29T07:00:00.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "How we will do better for Australia",
+      "link": "https://openai.com/index/how-we-will-do-better-for-australia",
+      "pubDate": "2026-09-29T01:00:00.000Z",
+      "source": "OpenAI",
+      "category": "AI"
+    },
+    {
+      "title": "‘멀티 폭풍’이 몰려온다…美 ‘금리 쇼크·중간선거’ 조합 충격 대비해야 [이재철칼럼]",
+      "link": "https://www.mk.co.kr/news/economy/12163377",
+      "pubDate": "2026-09-29T00:05:11.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "주택전세보증 12배 뛸 때…보증보험 ‘못 받은 돈’은 83배 껑충",
+      "link": "https://www.mk.co.kr/news/economy/12163368",
+      "pubDate": "2026-09-28T23:52:28.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "Top 50 Most Subscribed YouTube Channels Worldwide • Week Of 09/27/2026",
+      "link": "https://www.tubefilter.com/2026/09/28/top-50-most-subscribed-youtube-channels-week-of-09-27-2026/",
+      "pubDate": "2026-09-28T23:10:59.000Z",
+      "source": "Tubefilter",
+      "category": "수익화/크리에이터 이코노미"
+    },
+    {
+      "title": "포천시, ‘2026년 하반기 효드림 할인업소 지원사업’ 참여 업소 모집 - 헤럴드경제",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE15STFfcjJqRmJYaEVualEzcWFWSHp0aUJ5ZDJpMEJNZEV4MzBUb3BteDRHbUpVR3E5VDJsOGZlY0EtbUxDVmMzcE8yYzVzSzFpUWkzbWt3?oc=5",
+      "pubDate": "2026-09-28T22:41:23.000Z",
+      "source": "Google 뉴스: 지원사업 공고/모집",
+      "category": "정부지원정책"
+    },
+    {
+      "title": "Top 50 Most Viewed YouTube Channels Worldwide • Week Of 09/27/2026",
+      "link": "https://www.tubefilter.com/2026/09/28/top-50-most-viewed-youtube-channels-week-of-09-27-2026/",
+      "pubDate": "2026-09-28T22:40:58.000Z",
+      "source": "Tubefilter",
+      "category": "수익화/크리에이터 이코노미"
+    },
+    {
+      "title": "Alex Zarfati hoped being on YouTube would help him convince studios to greenlight his projects. Now he’s doing things himself–with AI.",
+      "link": "https://www.tubefilter.com/2026/09/28/alex-zarfati-ai-filmmaker-viral-nation/",
+      "pubDate": "2026-09-28T21:42:34.000Z",
+      "source": "Tubefilter",
+      "category": "수익화/크리에이터 이코노미"
+    },
+    {
+      "title": "YouTube is letting creators make reaction content on-platform, using everyone else’s long-form videos",
+      "link": "https://www.tubefilter.com/2026/09/28/youtube-long-form-reaction-content/",
+      "pubDate": "2026-09-28T21:32:09.000Z",
+      "source": "Tubefilter",
+      "category": "수익화/크리에이터 이코노미"
+    },
+    {
+      "title": "또 국채금리 쇼크...힘못쓴 기술주, 美 증시 급락 [월가월부]",
+      "link": "https://www.mk.co.kr/news/economy/12163292",
+      "pubDate": "2026-09-28T20:36:03.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
     {
       "title": "과기부, 국대 AI 중단설 일축...\"현 구조로는 프런티어 역부족\" 지적도",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=215733",
@@ -318,8 +402,29 @@
       "category": "경제"
     },
     {
+      "title": "\"韓기술력 어메이징\" … 전세계 바이어 홀렸다",
+      "link": "https://www.mk.co.kr/news/columnists/12163001",
+      "pubDate": "2026-09-28T08:48:37.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "\"K브랜드 달라진 위상 실감 … K의료·車부품으로 영토 더 넓히자\"",
+      "link": "https://www.mk.co.kr/news/columnists/12162999",
+      "pubDate": "2026-09-28T08:48:36.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
       "title": "[포토] '한국은행 넥타이' 매고…신현송 찾은 이형일",
       "link": "https://www.mk.co.kr/news/economy/12162996",
+      "pubDate": "2026-09-28T08:48:30.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "李대통령 \"재외동포 디지털플랫폼 구축할것\"",
+      "link": "https://www.mk.co.kr/news/columnists/12162995",
       "pubDate": "2026-09-28T08:48:30.000Z",
       "source": "매일경제 경제",
       "category": "경제"
@@ -729,6 +834,20 @@
       "pubDate": "2026-09-28T00:03:57.000Z",
       "source": "매일경제 경제",
       "category": "경제"
+    },
+    {
+      "title": "Are you a Codex Original?",
+      "link": "https://openai.com/form/codex-originals",
+      "pubDate": "2026-09-28T00:00:00.000Z",
+      "source": "OpenAI",
+      "category": "AI"
+    },
+    {
+      "title": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
+      "link": "https://openai.com/index/basis-tax-workbook-with-astra",
+      "pubDate": "2026-09-28T00:00:00.000Z",
+      "source": "OpenAI",
+      "category": "AI"
     },
     {
       "title": "매경이 전하는 세상의 지식 (매-세-지, 9월 28일)",
@@ -3088,97 +3207,6 @@
       "pubDate": "2026-09-22T01:39:23.000Z",
       "source": "매일경제 경제",
       "category": "경제"
-    },
-    {
-      "title": "‘원화 스테이블코인’ 본격화하는 카카오…파이어블록스와도 맞손",
-      "link": "https://www.mk.co.kr/news/economy/12159027",
-      "pubDate": "2026-09-22T01:35:20.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "“무늬만 영세 소상공인 걸러낸다” 소상공인 데이터 활용 길 터",
-      "link": "https://www.mk.co.kr/news/economy/12159005",
-      "pubDate": "2026-09-22T01:21:41.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "다음달로 카드값 넘기는 사람, 너무 많아졌다…리볼빙 잔액 7조원 육박",
-      "link": "https://www.mk.co.kr/news/economy/12158986",
-      "pubDate": "2026-09-22T01:01:27.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "홍천군, '마을 교육공동체 활성화 사업' 참여단체 모집 - shinailbo.co.kr",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5Kb2tvNVdsVHV4MXRUSUV3M1oyVlhYNFo4Q1J4RHpCcnlMSVRNQnlTV09CemNCZi1KcWdJd3RxMF9QcWlzMzlqRTlNeFZuOXdWc0F3Q3Q4bjl2dHQxelNJZ3RuNXhaT19kLVhJLTZWVjA?oc=5",
-      "pubDate": "2026-09-22T00:49:55.000Z",
-      "source": "Google 뉴스: 지원사업 공고/모집",
-      "category": "정부지원정책"
-    },
-    {
-      "title": "Priorities and principles for effective third party assessments",
-      "link": "https://openai.com/index/priorities-principles-third-party-assessments",
-      "pubDate": "2026-09-22T00:00:00.000Z",
-      "source": "OpenAI",
-      "category": "AI"
-    },
-    {
-      "title": "반도체가 계속 해준다…9월 무역흑자 벌써 230억달러 ‘역대 최대’",
-      "link": "https://www.mk.co.kr/news/economy/12158840",
-      "pubDate": "2026-09-21T23:11:49.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "“기업들 현장조사 거부하면 고발”…공정위원장, 강경대응 예고",
-      "link": "https://www.mk.co.kr/news/economy/12158839",
-      "pubDate": "2026-09-21T23:11:08.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "900점 이상 고신용자도 5명 중 1명은 대출 ‘퇴짜’",
-      "link": "https://www.mk.co.kr/news/economy/12158837",
-      "pubDate": "2026-09-21T23:09:17.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "Will students do their homework if it’s turned into a TikTok-style feed? ScrollEd thinks so.",
-      "link": "https://www.tubefilter.com/2026/09/21/scrolled-turns-textbooks-into-tiktok-feeds-new-app/",
-      "pubDate": "2026-09-21T22:48:41.000Z",
-      "source": "Tubefilter",
-      "category": "수익화/크리에이터 이코노미"
-    },
-    {
-      "title": "Top 50 Most Subscribed YouTube Channels Worldwide • Week Of 09/20/2026",
-      "link": "https://www.tubefilter.com/2026/09/21/top-50-most-subscribed-youtube-channels-week-of-09-20-2026/",
-      "pubDate": "2026-09-21T22:08:27.000Z",
-      "source": "Tubefilter",
-      "category": "수익화/크리에이터 이코노미"
-    },
-    {
-      "title": "Top 50 Most Viewed YouTube Channels Worldwide • Week Of 09/20/2026",
-      "link": "https://www.tubefilter.com/2026/09/21/top-50-most-viewed-youtube-channels-week-of-09-20-2026/",
-      "pubDate": "2026-09-21T21:40:01.000Z",
-      "source": "Tubefilter",
-      "category": "수익화/크리에이터 이코노미"
-    },
-    {
-      "title": "“장례비 내야하는데 보험금 함흥차사”…보험사가 미리 알려드려요",
-      "link": "https://www.mk.co.kr/news/economy/12158816",
-      "pubDate": "2026-09-21T21:34:09.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "[재생에너지 융복합지원사업 카르텔](1) 페이퍼컴퍼니 득세…지자체 평가 담합 의혹도 - dnews.co.kr",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1scDkyeUFUUWE5dWR4N2Nwd2NOSkZvODY4RlZ6X0xsVThmTE9QdHhvaTBzc1FoNDFxRzZBWi1oZ1RIV0pfTV8zaEVkVlBISnBNMWxWek1kN0pKTkYzZkVsREw5UjFxU01JLVFIdU1SWUVtQm5J?oc=5",
-      "pubDate": "2026-09-21T21:00:48.000Z",
-      "source": "Google 뉴스: 지원사업 공고/모집",
-      "category": "정부지원정책"
     }
   ]
 }
