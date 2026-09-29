@@ -1,7 +1,42 @@
 {
-  "lastUpdated": "2026-09-29T16:23:48.213Z",
-  "count": 463,
+  "lastUpdated": "2026-09-29T22:02:05.768Z",
+  "count": 447,
   "items": [
+    {
+      "title": "\"아스트라급 지능을 5분의 1 가격에\"…오픈AI, 'GPT-6.1 솔' 공개",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215778",
+      "pubDate": "2026-09-30T05:54:18.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "“보험 깨는 것 말곤 돈 구할 곳 없다”…노후자산까지 손 대는 중장년층",
+      "link": "https://www.mk.co.kr/news/economy/12164341",
+      "pubDate": "2026-09-29T22:01:21.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "“증시 반등 기다리다 특판 12%짜리 넣었어요”…여윳돈, 예금서 적금으로",
+      "link": "https://www.mk.co.kr/news/economy/12164313",
+      "pubDate": "2026-09-29T20:55:00.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "Agencies publish resolution plan feedback letters for 15 banking organizations",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260929a.htm",
+      "pubDate": "2026-09-29T20:00:00.000Z",
+      "source": "미 연준 보도자료",
+      "category": "경제"
+    },
+    {
+      "title": "부모님 죽음과 상속은 대비 못한다 … 무엇부터 해야 할까",
+      "link": "https://www.mk.co.kr/news/economy/12163856",
+      "pubDate": "2026-09-29T19:30:00.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
     {
       "title": "\"한도 차면 할인 끝\" 앤트로픽…오픈AI는 '파격 할인'으로 고객 빼앗기",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=215761",
@@ -90,6 +125,13 @@
       "title": "과기부, AI중심대학 18개교·AX대학원 15개교 출범",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=215766",
       "pubDate": "2026-09-29T16:25:26.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "사천시 국군묘지 조성사업, 호국의 희생과 기억을 담은 추모공간 조성",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215777",
+      "pubDate": "2026-09-29T16:05:00.000Z",
       "source": "AI타임스",
       "category": "AI"
     },
@@ -239,6 +281,20 @@
       "pubDate": "2026-09-29T10:08:34.000Z",
       "source": "매일경제 경제",
       "category": "경제"
+    },
+    {
+      "title": "Introducing GPT-6.1 Sol",
+      "link": "https://openai.com/index/introducing-gpt-6-1-sol",
+      "pubDate": "2026-09-29T10:00:00.000Z",
+      "source": "OpenAI",
+      "category": "AI"
+    },
+    {
+      "title": "DevDay 2026 Recap",
+      "link": "https://openai.com/index/devday-2026-recap",
+      "pubDate": "2026-09-29T10:00:00.000Z",
+      "source": "OpenAI",
+      "category": "AI"
     },
     {
       "title": "[AI리더의 서가] 케라스 창시자에게 배우는 딥러닝",
@@ -568,6 +624,13 @@
       "pubDate": "2026-09-29T00:05:11.000Z",
       "source": "매일경제 경제",
       "category": "경제"
+    },
+    {
+      "title": "Introducing dots",
+      "link": "https://openai.com/index/introducing-dots",
+      "pubDate": "2026-09-29T00:00:00.000Z",
+      "source": "OpenAI",
+      "category": "AI"
     },
     {
       "title": "주택전세보증 12배 뛸 때…보증보험 ‘못 받은 돈’은 83배 껑충",
@@ -3067,181 +3130,6 @@
       "pubDate": "2026-09-22T22:37:52.000Z",
       "source": "Tubefilter",
       "category": "수익화/크리에이터 이코노미"
-    },
-    {
-      "title": "Top 5 Branded Videos of the Week: MrBeast boss crush (with extra pistachio)",
-      "link": "https://www.tubefilter.com/2026/09/22/top-5-branded-videos-mrbeast-dr-insanity-maria-vehera-samantha/",
-      "pubDate": "2026-09-22T21:58:28.000Z",
-      "source": "Tubefilter",
-      "category": "수익화/크리에이터 이코노미"
-    },
-    {
-      "title": "은행대출 2.7조 늘렸는데 한달도 못갔다…연말 ‘통곡의 벽’ 불보듯",
-      "link": "https://www.mk.co.kr/news/economy/12159927",
-      "pubDate": "2026-09-22T21:21:31.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "Better prompt caching for GPT-6",
-      "link": "https://openai.com/index/better-prompt-caching-for-gpt-6",
-      "pubDate": "2026-09-22T21:00:00.000Z",
-      "source": "OpenAI",
-      "category": "AI"
-    },
-    {
-      "title": "Federal Reserve Board announces approval of application by BancFirst Corporation",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260922a.htm",
-      "pubDate": "2026-09-22T20:30:00.000Z",
-      "source": "미 연준 보도자료",
-      "category": "경제"
-    },
-    {
-      "title": "Can “Trump TV” win a war against the press on YouTube?",
-      "link": "https://www.tubefilter.com/2026/09/22/trump-tv-youtube-channel-news-media/",
-      "pubDate": "2026-09-22T19:22:37.000Z",
-      "source": "Tubefilter",
-      "category": "수익화/크리에이터 이코노미"
-    },
-    {
-      "title": "샤오미, 오픈 모델 ‘미모-V2.6’ 공개…중국 AI 중 역대 최고 성적",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215552",
-      "pubDate": "2026-09-22T19:21:17.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "메타 에이전트 '뮤즈' 돌풍, 출시 초기 챗GPT 기록 뛰어넘었다",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215566",
-      "pubDate": "2026-09-22T18:58:54.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "에포크 AI, 벤치마크 검증 착수...\"15개 중 9개 결함\"",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215568",
-      "pubDate": "2026-09-22T18:31:06.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "\"대본만 넣으면 숏드라마 제작\"...바이트플러스, AI '드라매직' 공개",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215569",
-      "pubDate": "2026-09-22T18:12:11.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "Introducing GPT-6 Sol and Luna",
-      "link": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
-      "pubDate": "2026-09-22T18:00:00.000Z",
-      "source": "OpenAI",
-      "category": "AI"
-    },
-    {
-      "title": "전남광주, 반도체클러스터 부지 2027년 착공 추진…2030년 첫 양산 목표",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215576",
-      "pubDate": "2026-09-22T17:56:58.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "광양 서천변에 꽃무릇·백일홍 물들어…추석 산책길 정비",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215579",
-      "pubDate": "2026-09-22T17:47:35.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "순천, 추석 연휴 돌봄 노인 안부 확인…스마트기기로 안전 모니터링",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215578",
-      "pubDate": "2026-09-22T17:47:19.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "오픈AI, 수학계 반발에 독립 자문 기구 신설...연구 성과 검증 담당",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215559",
-      "pubDate": "2026-09-22T17:46:04.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "네이버클라우드 “모델 크기 넘어 ‘보안 역량’ 집중…프런티어 도달할 것”",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215577",
-      "pubDate": "2026-09-22T17:38:13.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "낮에 남은 태양광 저녁에 쓴다…구글 지원 배터리 실증서 9.2GWh 충·방전",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215574",
-      "pubDate": "2026-09-22T17:30:26.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "중국 국영기업, 15GW 태양광 모듈 입찰…TOPCon·HJT·BC 경쟁 구도",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215571",
-      "pubDate": "2026-09-22T17:23:17.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "AMD, AI 붐 타고 시가총액 '1조달러' 돌파...반도체 기업 4번째",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215564",
-      "pubDate": "2026-09-22T17:21:05.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "호주 뉴사우스웨일스주, 태양광 패널 의무 재활용 추진",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215575",
-      "pubDate": "2026-09-22T17:15:00.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "캐나다 BC주, 오픈AI 고소...\"총격 사건 전 위험 신호 무시\"",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215572",
-      "pubDate": "2026-09-22T17:12:56.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "옥천 장령산 자연휴양림, 자연과 어우러진 아트월 조성",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215582",
-      "pubDate": "2026-09-22T17:05:00.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "[게시판] 티디지, K방산 ‘한화오션’ AX 지원 등 단신",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215581",
-      "pubDate": "2026-09-22T17:00:00.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "[게시판] 포지큐브, S-OIL·하나은행에 AI 에이전트 구축 등 단신",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215567",
-      "pubDate": "2026-09-22T17:00:00.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "튜링 GPAI, 대학생 겨냥 신기능 대거 출시…\"자료 정리·시험 대비·발표 준비까지\"",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215580",
-      "pubDate": "2026-09-22T16:50:00.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "오픈AI, 미 정부에 차세대 AI 안전 기준 촉구...\"RSI 통제력 잃을 수도\"",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215561",
-      "pubDate": "2026-09-22T16:25:47.000Z",
-      "source": "AI타임스",
-      "category": "AI"
     }
   ]
 }
