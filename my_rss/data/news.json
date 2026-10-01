@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-01T12:45:07.843Z",
+  "lastUpdated": "2026-10-01T19:20:29.614Z",
   "count": 500,
   "items": [
     {
@@ -66,6 +66,13 @@
       "category": "AI"
     },
     {
+      "title": "The eternal complement",
+      "link": "https://openai.com/index/the-eternal-complement",
+      "pubDate": "2026-10-01T17:00:00.000Z",
+      "source": "OpenAI",
+      "category": "AI"
+    },
+    {
       "title": "GPU 클라우드 제공업체 GMI, 엔비디아 등으로부터 9000억 투자 유치",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=215859",
       "pubDate": "2026-10-01T16:35:00.000Z",
@@ -112,6 +119,13 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=215852",
       "pubDate": "2026-10-01T16:10:48.000Z",
       "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "How Albertsons Companies is reimagining retail from the inside out",
+      "link": "https://openai.com/index/albertsons-reimagining-retail",
+      "pubDate": "2026-10-01T16:00:00.000Z",
+      "source": "OpenAI",
       "category": "AI"
     },
     {
@@ -183,6 +197,13 @@
       "pubDate": "2026-10-01T13:08:23.000Z",
       "source": "AI타임스",
       "category": "AI"
+    },
+    {
+      "title": "군포시, 신혼부부·청년 전월세 보증금 대출이자 지원 대상자 추가 모집 > 뉴스 - 더코리아",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBudll2Y2k4Wm1mcDVac1c5amZJRGpENk9ueHN3aVlIQmdMaE93aHdVVjJzWUJBbm9wV0FDcUZVWm8taUhyd3NTVXktQkpUS1pjTXM1NFZsREU4dmoxdGhnMl94eFlvU2dITnVMaTBYVE0?oc=5",
+      "pubDate": "2026-10-01T13:05:00.000Z",
+      "source": "Google 뉴스: 지원사업 공고/모집",
+      "category": "정부지원정책"
     },
     {
       "title": "올거나이즈, 기업용 AI로 '일본 코스닥' 간다...그로스시장 상장 승인",
@@ -358,6 +379,13 @@
       "pubDate": "2026-10-01T07:17:44.000Z",
       "source": "매일경제 경제",
       "category": "경제"
+    },
+    {
+      "title": "밀양시, ‘2026년 청년 창업공간 조성 지원사업’ 참여자 모집 - 서울뉴스통신",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4zQ3ZJcGI3Z3VtTDhQekgteTFFWXA3LU5LeDF5WFlHcVRiUGZFaXVUZU5FQXFTZkthN0twTFBOWU5wbXlQSVZhcVY1elhjN1gwaVdMbnB6R21zLVY4dlFQUUhjbm9qRGJqWHRN?oc=5",
+      "pubDate": "2026-10-01T07:13:31.000Z",
+      "source": "Google 뉴스: 지원사업 공고/모집",
+      "category": "정부지원정책"
     },
     {
       "title": "65세 이상 인구 ‘1100만명’ 돌파…노인 10명 중 4명이 일한다",
@@ -3473,34 +3501,6 @@
       "pubDate": "2026-09-26T11:27:17.000Z",
       "source": "매일경제 경제",
       "category": "경제"
-    },
-    {
-      "title": "“목돈 생겼는데 어떻게 하지”…추석 여윳돈 굴릴 고금리 예적금 살펴보니",
-      "link": "https://www.mk.co.kr/news/economy/12161691",
-      "pubDate": "2026-09-26T10:21:21.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "[내면 지도 그리기] 35 Inner Mapping: 나를 찾는 지도",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215660",
-      "pubDate": "2026-09-26T10:00:00.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "[AI카툰] Bob, Senior IT guy - 밥, 새 AI 글라스 테스트 중",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215659",
-      "pubDate": "2026-09-26T10:00:00.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "[AI 이슈트렌드] 대통령 지지율 반등...DMZ 지뢰·아시안게임·부산 상어 출몰 주목",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215653",
-      "pubDate": "2026-09-26T10:00:00.000Z",
-      "source": "AI타임스",
-      "category": "AI"
     }
   ]
 }
