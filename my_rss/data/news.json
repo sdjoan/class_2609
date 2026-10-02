@@ -1,7 +1,42 @@
 {
-  "lastUpdated": "2026-10-02T19:03:46.956Z",
+  "lastUpdated": "2026-10-02T23:37:39.931Z",
   "count": 500,
   "items": [
+    {
+      "title": "[10월2일] \"뜻밖의 주인공은 로그인과 플러그인\"…알트먼이 보여준 챗GPT의 다음 무대",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215882",
+      "pubDate": "2026-10-03T07:00:00.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "“1550원일땐 차마 못 갚았습니다”…1350원에 달러빚 정리나선 기업들",
+      "link": "https://www.mk.co.kr/news/economy/12167675",
+      "pubDate": "2026-10-02T21:30:49.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "Federal Reserve Board announces approval of application by Fleur Capital Corporation",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261002a.htm",
+      "pubDate": "2026-10-02T20:45:00.000Z",
+      "source": "미 연준 보도자료",
+      "category": "경제"
+    },
+    {
+      "title": "Have you heard? MrBeast’s Shark Tank spot, Minecraft goes after Roblox, and a robo racoon gets us in the mood for spooky season",
+      "link": "https://www.tubefilter.com/2026/10/02/have-you-heard-mrbeast-shark-tank-magnus-carlsen-minecraft-mojang-creator-jobs-wicked-makers/",
+      "pubDate": "2026-10-02T20:01:45.000Z",
+      "source": "Tubefilter",
+      "category": "수익화/크리에이터 이코노미"
+    },
+    {
+      "title": "Federal Reserve Board announces it will extend, until November 4, the comment period on its proposal to modernize Regulation O",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261002a.htm",
+      "pubDate": "2026-10-02T20:00:00.000Z",
+      "source": "미 연준 보도자료",
+      "category": "경제"
+    },
     {
       "title": "음식물처리기 지원사업, 주소지·인증 기준 확인 - vegannews.co.kr",
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBSakpkRXdCRnp2RmpWWlBaM2JIV3l2eTFBLTB4WnA3eVJsdmRyUVhLX25RVWRwNXdpcUVlbkJ1QmJxZ0h0RFJOV3luR0VqYVBMcjdoLV9wZWJhM0ludVlLMTZyZXZMUQ?oc=5",
@@ -57,6 +92,13 @@
       "pubDate": "2026-10-02T17:18:35.000Z",
       "source": "AI타임스",
       "category": "AI"
+    },
+    {
+      "title": "The last thing creators add, the first thing viewers notice: Why Adobe is introducing music, speech, and sound effect generation to Firefly",
+      "link": "https://www.tubefilter.com/2026/10/02/adobe-firefly-ai-sound-features/",
+      "pubDate": "2026-10-02T17:17:57.000Z",
+      "source": "Tubefilter",
+      "category": "수익화/크리에이터 이코노미"
     },
     {
       "title": "업스테이지, 판단 전용 AI ‘솔라 디사이드’ 출시…“제브보다 빠르고 정확”",
@@ -3457,48 +3499,6 @@
       "title": "\"또 빚탕감\"…이미 56조 갚은 22만명 역차별",
       "link": "https://www.mk.co.kr/news/economy/12162886",
       "pubDate": "2026-09-28T08:24:11.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "이형일 부총리, 신현송 한국은행 총재 면담",
-      "link": "https://www.mk.co.kr/news/economy/12162791",
-      "pubDate": "2026-09-28T07:20:34.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "이형일 부총리, 한국은행 방문",
-      "link": "https://www.mk.co.kr/news/economy/12162789",
-      "pubDate": "2026-09-28T07:19:59.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "화성특례시, 승마체험 지원사업 참여자 모집 - kihoilbo.co.kr",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9FUi1SWE5xMk5fcUR6OVMwY0lsV2VpcERkSGxYRGpzbHd3YUxIc1g0X3JJQmhISHdDbUpPUDVERFNkdy1XNS04VGd6MXpWSFh2WHVqTlR5eDAtZ0JzX3F4MUphTTU5bkRsd0syaDZMNA?oc=5",
-      "pubDate": "2026-09-28T07:13:32.000Z",
-      "source": "Google 뉴스: 지원사업 공고/모집",
-      "category": "정부지원정책"
-    },
-    {
-      "title": "[단독]빚만 없애주면 끝?…새도약기금, 재연체 등엔 ‘깜깜’",
-      "link": "https://www.mk.co.kr/news/economy/12162785",
-      "pubDate": "2026-09-28T07:12:17.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
-      "link": "https://openai.com/index/lenfest-ai-collaborative-expansion",
-      "pubDate": "2026-09-28T07:00:00.000Z",
-      "source": "OpenAI",
-      "category": "AI"
-    },
-    {
-      "title": "“결혼페널티 없앤다”…HF, 보금자리론 소득기준 개선",
-      "link": "https://www.mk.co.kr/news/economy/12162745",
-      "pubDate": "2026-09-28T06:53:06.000Z",
       "source": "매일경제 경제",
       "category": "경제"
     }
