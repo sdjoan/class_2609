@@ -1,7 +1,14 @@
 {
-  "lastUpdated": "2026-10-02T12:09:09.833Z",
+  "lastUpdated": "2026-10-02T19:03:46.956Z",
   "count": 500,
   "items": [
+    {
+      "title": "음식물처리기 지원사업, 주소지·인증 기준 확인 - vegannews.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBSakpkRXdCRnp2RmpWWlBaM2JIV3l2eTFBLTB4WnA3eVJsdmRyUVhLX25RVWRwNXdpcUVlbkJ1QmJxZ0h0RFJOV3luR0VqYVBMcjdoLV9wZWJhM0ludVlLMTZyZXZMUQ?oc=5",
+      "pubDate": "2026-10-02T18:33:01.000Z",
+      "source": "Google 뉴스: 지원사업 공고/모집",
+      "category": "정부지원정책"
+    },
     {
       "title": "플리토, 첫 브랜드 ‘보글’로 글로벌 통역 시장 조준…\"매출 상승 이어갈 것\"",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=215927",
@@ -101,6 +108,13 @@
       "category": "AI"
     },
     {
+      "title": "A model guide for the GPT-6 family",
+      "link": "https://openai.com/index/practical-guide-building-gpt-6",
+      "pubDate": "2026-10-02T16:15:00.000Z",
+      "source": "OpenAI",
+      "category": "AI"
+    },
+    {
       "title": "머스크, 미 국방부 '미래 전쟁' 자문으로 공직 복귀...AI·드론 중심 미래전 대비",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=215912",
       "pubDate": "2026-10-02T16:04:59.000Z",
@@ -141,6 +155,13 @@
       "pubDate": "2026-10-02T15:11:44.000Z",
       "source": "AI타임스",
       "category": "AI"
+    },
+    {
+      "title": "Federal Reserve Board issues enforcement action with Ontario Bancorporation, Inc.",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261002a.htm",
+      "pubDate": "2026-10-02T15:00:00.000Z",
+      "source": "미 연준 보도자료",
+      "category": "경제"
     },
     {
       "title": "비드래프트, 중국 모델스코프서 '연구기관' 인증…AX-RAY 기반 중국 진출 추진",
@@ -237,6 +258,13 @@
       "title": "국민·하나·부산銀도 털려…AI 해킹에 떠는 금융사들",
       "link": "https://www.mk.co.kr/news/economy/12167516",
       "pubDate": "2026-10-02T10:51:04.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "대출·송금 돕던 AI가 '해커'로 … \"내 통장 털릴라\" 소비자 불안",
+      "link": "https://www.mk.co.kr/news/economy/12167515",
+      "pubDate": "2026-10-02T10:48:59.000Z",
       "source": "매일경제 경제",
       "category": "경제"
     },
@@ -540,6 +568,13 @@
       "pubDate": "2026-10-02T00:33:01.000Z",
       "source": "Tubefilter",
       "category": "수익화/크리에이터 이코노미"
+    },
+    {
+      "title": "Chatham scales its capital markets expertise with OpenAI",
+      "link": "https://openai.com/index/chatham-financial",
+      "pubDate": "2026-10-02T00:00:00.000Z",
+      "source": "OpenAI",
+      "category": "AI"
     },
     {
       "title": "안산시, '식품안심업소 지정업소 청소비 지원사업' 20곳 재모집 - 매일일보",
@@ -3464,41 +3499,6 @@
       "title": "“결혼페널티 없앤다”…HF, 보금자리론 소득기준 개선",
       "link": "https://www.mk.co.kr/news/economy/12162745",
       "pubDate": "2026-09-28T06:53:06.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "재정위기 경기도…행정1부시장에 지방재정 전문가 수혈",
-      "link": "https://www.mk.co.kr/news/economy/12162733",
-      "pubDate": "2026-09-28T06:41:55.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "“비수도권 차등 법인세 도입해야”…부산상의, 세정 개선 건의",
-      "link": "https://www.mk.co.kr/news/economy/12162719",
-      "pubDate": "2026-09-28T06:27:02.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "트럼프, 아모데이와 백악관 첫 일대일 만찬 개최",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215694",
-      "pubDate": "2026-09-28T06:15:40.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "“원금 지키며 잘되면 연11.5%, 굳이 주식 할 필요있나”…예금·ELD로 ‘뭉칫돈’",
-      "link": "https://www.mk.co.kr/news/economy/12162680",
-      "pubDate": "2026-09-28T06:06:05.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "온실가스국제감축산업협회, ‘온실가스 국제감축사업 활성화 정책토론회’ 주관",
-      "link": "https://www.mk.co.kr/news/economy/12162679",
-      "pubDate": "2026-09-28T06:05:54.000Z",
       "source": "매일경제 경제",
       "category": "경제"
     }
