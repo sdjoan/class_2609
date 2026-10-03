@@ -1,7 +1,21 @@
 {
-  "lastUpdated": "2026-10-03T11:19:48.237Z",
+  "lastUpdated": "2026-10-03T15:58:20.178Z",
   "count": 500,
   "items": [
+    {
+      "title": "\"수익성 불투명한 10조달러 투자\"...월가, AI 거품 붕괴 경고",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215942",
+      "pubDate": "2026-10-03T21:55:05.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "'AI 반감' 가리는 귀여운 캐릭터…'뮤즈' 흥행 이끈 알렉산드르 왕",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215941",
+      "pubDate": "2026-10-03T20:42:47.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
     {
       "title": "[AI 이슈트렌드] 계속된 DMZ 논란 속 트럼프 LNG 협박·청주 흉기 성폭행 화제",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=215940",
@@ -38,6 +52,13 @@
       "category": "AI"
     },
     {
+      "title": "30분 단축? 점심에 은행창구 더 몰릴텐데…저녁·주말 금융서비스는 어디에",
+      "link": "https://www.mk.co.kr/news/economy/12167852",
+      "pubDate": "2026-10-03T13:24:24.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
       "title": "앤트로픽, '클로드 프론티어 아카데미' 출범... 1300억 투입해 FDE 1만명 양성",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=215931",
       "pubDate": "2026-10-03T13:01:41.000Z",
@@ -64,6 +85,13 @@
       "pubDate": "2026-10-03T11:34:40.000Z",
       "source": "AI타임스",
       "category": "AI"
+    },
+    {
+      "title": "주말 새 2금융권까지 해킹피해 확산에…당국, 4일 전 금융업권 협회장·금융사 대표 긴급 소집",
+      "link": "https://www.mk.co.kr/news/economy/12167844",
+      "pubDate": "2026-10-03T11:19:52.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
     },
     {
       "title": "회계 업무서 AI '100%’ vs 인간 '37%'...역전 18개월 만에 '완벽' 단계로",
@@ -3471,34 +3499,6 @@
       "title": "중국, 미국 제치고 최상위 AI 인재 1위…한국은 자국 잔류율 77%로 2위",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=215722",
       "pubDate": "2026-09-28T14:33:25.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "'정부망 침투' 여파…호주 상원, 오픈AI·앤트로픽 CEO 소환",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215720",
-      "pubDate": "2026-09-28T14:18:37.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "오픈AI \"챗GPT 아이폰 통합 실적 저조\"…법원서 파트너십 균열 드러나",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215718",
-      "pubDate": "2026-09-28T13:47:51.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "오픈AI 에이전트, 유엔 데이터 차단막 우회…'무차별 스캔' 포착",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215706",
-      "pubDate": "2026-09-28T13:15:48.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "마키나락스, 'AI 참모' 군 지휘통제체계 적용...을지연습서 실증 나서",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215711",
-      "pubDate": "2026-09-28T12:58:04.000Z",
       "source": "AI타임스",
       "category": "AI"
     }
