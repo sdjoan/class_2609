@@ -1,7 +1,112 @@
 {
-  "lastUpdated": "2026-10-03T22:45:37.948Z",
+  "lastUpdated": "2026-10-04T05:03:21.313Z",
   "count": 500,
   "items": [
+    {
+      "title": "오픈AI 내부 모델, 종료 일정 알아채고 '생존 조치' 모색",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215950",
+      "pubDate": "2026-10-04T11:44:13.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "미 재무장관 \"AI 정부 규제 요구하는 CEO들은 한니발 렉터와 같아\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215948",
+      "pubDate": "2026-10-04T10:57:16.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "광주 도시철도2호선, 개통 늦어진다…1단계 2028년·2단계 2035년",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215904",
+      "pubDate": "2026-10-04T09:30:00.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "아일랜드, 주택용 태양광·배터리 지원 확대…국내는 마을 단위 실증",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215871",
+      "pubDate": "2026-10-04T09:30:00.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "여수, 2030 도시관리계획 주민의견 수렴…11개 센터 순회",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215905",
+      "pubDate": "2026-10-04T09:25:00.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "태양광 발전량·전력가격 예측하는 AI…일본 ESS 충·방전 자동화",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215870",
+      "pubDate": "2026-10-04T09:10:00.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "오픈AI 안전 총괄, 조직 문화 비판하며 사직...\"시행착오 시대 끝났다\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215947",
+      "pubDate": "2026-10-04T08:59:00.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "루마니아 태양광, 최대 8600억원 금융약정…2028년 가동 목표",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215872",
+      "pubDate": "2026-10-04T08:50:00.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "[속보] 李대통령, 금융기관 개인정보 유출에 “엄중 인식, 철저 조사”",
+      "link": "https://www.mk.co.kr/news/politics/12167996",
+      "pubDate": "2026-10-04T04:35:42.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "‘통일’하는 순간 망합니다…은행 비번 복잡해도 AI에 다 뚫린 이유",
+      "link": "https://www.mk.co.kr/news/economy/12167968",
+      "pubDate": "2026-10-04T02:33:03.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "“누구나 쓸 수 있는 AI, 지역경제에 새 기회”",
+      "link": "https://www.mk.co.kr/news/economy/12167925",
+      "pubDate": "2026-10-04T01:02:34.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "“빚 잘 갚을 사람인지 다 알수 있어요”…‘신파일러’ 대출 판 키우는 인뱅·핀테크",
+      "link": "https://www.mk.co.kr/news/economy/12167921",
+      "pubDate": "2026-10-04T01:00:32.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "“포켓몬 카드 사줄 때가 아니네”…금리 7% 챙기는 아이통장 뭐길래",
+      "link": "https://www.mk.co.kr/news/economy/12167910",
+      "pubDate": "2026-10-04T00:21:27.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "“금 사라고한 지인과 절연했습니다”…1월에 들어갔더니 30% 증발",
+      "link": "https://www.mk.co.kr/news/economy/12167908",
+      "pubDate": "2026-10-04T00:17:26.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "“생활비 아낀 돈, 이자로 다 나갑니다”…월평균 이자비용  55% 급증",
+      "link": "https://www.mk.co.kr/news/economy/12167905",
+      "pubDate": "2026-10-04T00:10:08.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
     {
       "title": "\"수익성 불투명한 10조달러 투자\"...월가, AI 거품 붕괴 경고",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=215942",
@@ -2439,6 +2544,13 @@
       "category": "정부지원정책"
     },
     {
+      "title": "부안군, 청년농업인 R&D 기술창업 통합관리 지원 사업 신청자 모집 - 아시아뉴스전북",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB3cGJHWENJSUJQcHg4NGVSbEJkdHFNTkZ1T2lNWkJwZEVER3BJSE9ac3NmVlliN1J0a1BOWUJ3N25QdUtYTGtFVzJKQjFYSmFYb0l3cDlEaTBWRU9xUXpHQi16OUEtQzJmWEHSAW5BVV95cUxQYm9HZzNMNTZibHBoRDBnX2R4VEtmc2J6RVJpaVMtVmV1SkZoZFU1eTZJRGotZDFCUEtOLXB3TWFaSnJuOGNZR0VJUkk2eGVSd3dfWURlbkdqNWU2eUlQTnJXN05LYmFNNEtEcVJNdw?oc=5",
+      "pubDate": "2026-09-30T04:39:49.000Z",
+      "source": "Google 뉴스: 지원사업 공고/모집",
+      "category": "정부지원정책"
+    },
+    {
       "title": "‘이것’ 있으면 연 3.1% 이자 준다는데…나도 대상될까",
       "link": "https://www.mk.co.kr/news/economy/12164776",
       "pubDate": "2026-09-30T04:39:11.000Z",
@@ -3387,118 +3499,6 @@
       "title": "앤트로픽, 클로드로 이론물리학 난제 ‘9루프 산란 진폭’ 계산 성공",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=215716",
       "pubDate": "2026-09-28T17:53:56.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "비드래프트, ‘재귀적 자기개선’ AI로 글로벌 5개 리더보드 석권",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215729",
-      "pubDate": "2026-09-28T17:50:00.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "AI 불안 확산에 '인간 과학자 vs AI' 연구 맞대결서 '협력'으로 선회",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215726",
-      "pubDate": "2026-09-28T17:42:08.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "北 김선경 “핵보유국 되돌릴 수없어”...비핵화 협상 일축",
-      "link": "https://www.mk.co.kr/news/economy/12163252",
-      "pubDate": "2026-09-28T17:32:19.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "제브, 클로드 오퍼스 5 지원받아 '포켓몬' 명예의 전당 입성",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215712",
-      "pubDate": "2026-09-28T17:30:00.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "\"GPU인 줄 알고 훔쳤는데 모래만 18톤\"...엔비디아 로고 트럭 절도 해프닝",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215723",
-      "pubDate": "2026-09-28T17:23:34.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "리퀴드 AI, '추측적 디코딩'으로 VLM 추론 3배 가속",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215727",
-      "pubDate": "2026-09-28T17:05:45.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "미국·러시아, 유엔 AI 무기 협약서 '인간 감독' 안전장치 삭제",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215728",
-      "pubDate": "2026-09-28T16:48:20.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "모빌린트 “LG·두산·대동 로봇 맞춤형 온디바이스 AI 반도체 개발할 것”",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215731",
-      "pubDate": "2026-09-28T16:40:00.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "아모데이, SNL 풍자 대상으로 등장...\"AI는 악마, 내가 그 창조자\"",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215703",
-      "pubDate": "2026-09-28T16:01:32.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "우크라이나, '로봇 군단' 발족...드론 이어 지상 전장 무인화 박차",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215725",
-      "pubDate": "2026-09-28T15:45:04.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "전남광주, 2027년 사방사업에 443억원…산사태 예방시설 확대",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215699",
-      "pubDate": "2026-09-28T15:37:13.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "순천 주요 관광지, 추석 나흘간 13.7만명 방문",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215719",
-      "pubDate": "2026-09-28T15:00:06.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "여수, ‘밤밤페스타’ 10월3일 개최…책·음악·영화 한자리",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215707",
-      "pubDate": "2026-09-28T14:59:13.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "목포, 구인·구직 만남의 날 개최…지역 기업 20곳 현장면접",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215704",
-      "pubDate": "2026-09-28T14:58:03.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "빌 게이츠 \"트럼프의 AI 안전장치 거부는 착오...중국도 규제 동참할 것\"",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215717",
-      "pubDate": "2026-09-28T14:52:00.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "셀렉트스타, EMNLP서 AI 신뢰성 연구 5편 채택",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215721",
-      "pubDate": "2026-09-28T14:39:02.000Z",
       "source": "AI타임스",
       "category": "AI"
     }
