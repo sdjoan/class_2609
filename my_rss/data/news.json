@@ -1,7 +1,14 @@
 {
-  "lastUpdated": "2026-10-05T14:02:47.898Z",
+  "lastUpdated": "2026-10-05T22:23:07.272Z",
   "count": 500,
   "items": [
+    {
+      "title": "스치기만 해도 침맞고 부항 뜬다…보험사 적자 키운 공포의 ‘세트 진료’",
+      "link": "https://www.mk.co.kr/news/economy/12168815",
+      "pubDate": "2026-10-05T21:36:42.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
     {
       "title": "구글, 'AI 프로' 국내 한정 40% 할인...연간 구독권 프로모션 진행",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=215976",
@@ -15,6 +22,13 @@
       "pubDate": "2026-10-05T20:48:07.000Z",
       "source": "AI타임스",
       "category": "AI"
+    },
+    {
+      "title": "Federal Reserve Board announces approval of application by Isabella Bank Corporation",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261005a.htm",
+      "pubDate": "2026-10-05T20:30:00.000Z",
+      "source": "미 연준 보도자료",
+      "category": "경제"
     },
     {
       "title": "앤트로픽, 10월6일까지 '음성 인터뷰어' 가동…대화록 공개·음성 학습 수집 결합",
@@ -105,6 +119,13 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=215962",
       "pubDate": "2026-10-05T15:09:06.000Z",
       "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "Our approach to EU text provenance rules",
+      "link": "https://openai.com/index/eu-text-provenance",
+      "pubDate": "2026-10-05T15:00:00.000Z",
+      "source": "OpenAI",
       "category": "AI"
     },
     {
@@ -211,6 +232,13 @@
       "pubDate": "2026-10-05T09:09:23.000Z",
       "source": "AI타임스",
       "category": "AI"
+    },
+    {
+      "title": "구미형 청년월세 지원 추가 모집..상반기 청년 1900명 몰려 - 대경일보",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0xUEtFRG5SX01ReS1rVVo2dHJlMTRVS0VZNy1nMjJUNVZfRmt3QzlBam5XeU9ITjcwNkI3d0xya1R5Q1BLbkFEeDZ1MXVRdHo5dVRXR293cWJwSHdWQnFvVjNrV2lkZVRY?oc=5",
+      "pubDate": "2026-10-05T09:09:19.000Z",
+      "source": "Google 뉴스: 지원사업 공고/모집",
+      "category": "정부지원정책"
     },
     {
       "title": "[AI리더의 서가] AI 루프를 설계하라",
@@ -3471,34 +3499,6 @@
       "title": "앤트로픽, IPO 추진 속 적자 폭 확대...\"매출 12배 늘었지만 영업손실 80억달러\"",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=215749",
       "pubDate": "2026-09-29T17:53:50.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "엔비디아, 사상 최대 200조 자사주 매입…주가 부진 탈출 총력",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215746",
-      "pubDate": "2026-09-29T17:44:33.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "플로리다주, 오픈AI '안전장치 없는' 신규 모델 개발 금지 가처분 신청",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215769",
-      "pubDate": "2026-09-29T17:38:06.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "알트먼·아모데이, 호주 의회 AI 청문회 불참...오픈AI는 CSO 파견",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215771",
-      "pubDate": "2026-09-29T17:33:08.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "‘소비자용 에이전트’ 인스팅트, 한 달 만에 기업가치 4배 폭등",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215768",
-      "pubDate": "2026-09-29T17:13:25.000Z",
       "source": "AI타임스",
       "category": "AI"
     }
