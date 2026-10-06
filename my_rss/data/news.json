@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-06T13:02:05.495Z",
+  "lastUpdated": "2026-10-06T19:21:03.376Z",
   "count": 500,
   "items": [
     {
@@ -108,6 +108,13 @@
       "category": "AI"
     },
     {
+      "title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
+      "link": "https://openai.com/index/atlassian-partnership",
+      "pubDate": "2026-10-06T16:00:00.000Z",
+      "source": "OpenAI",
+      "category": "AI"
+    },
+    {
       "title": "뉴뉴욕시의회, AI 빅테크 청문회…전직 내부고발자 \"통제력 상실\" 경고",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=216008",
       "pubDate": "2026-10-06T15:52:32.000Z",
@@ -141,6 +148,13 @@
       "pubDate": "2026-10-06T13:49:40.000Z",
       "source": "AI타임스",
       "category": "AI"
+    },
+    {
+      "title": "국민성장펀드 2차 판매 3162억원…목표액 절반 넘겨",
+      "link": "https://www.mk.co.kr/news/economy/12169854",
+      "pubDate": "2026-10-06T13:48:08.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
     },
     {
       "title": "오픈AI, 28일 연속 '코덱스' 개선 예고...첫날부터 처리 속도 50% 향상",
@@ -218,6 +232,13 @@
       "pubDate": "2026-10-06T10:33:35.000Z",
       "source": "매일경제 경제",
       "category": "경제"
+    },
+    {
+      "title": "Advancing computer use with Ironclad",
+      "link": "https://openai.com/index/advancing-computer-use-with-ironclad",
+      "pubDate": "2026-10-06T10:00:00.000Z",
+      "source": "OpenAI",
+      "category": "AI"
     },
     {
       "title": "[AI리더의 서가] CEO의  AI",
@@ -1072,6 +1093,13 @@
       "pubDate": "2026-10-05T02:50:01.000Z",
       "source": "매일경제 경제",
       "category": "경제"
+    },
+    {
+      "title": "금산군 하반기 영농부산물 안전처리 지원사업 참여자 모집 - 충청타임즈",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5nMURUdElWYTdfdjZILVJqbHV2eXl2LTlfS21kQTFEMmh3c1EwOEZnRWtoMHVLbTVfY2pQbDBaT3E4cFJiMlVHYlNVd3FzdTJrVU8zeUVfYUt4cmRSejNzUm1SZUlKOUpM?oc=5",
+      "pubDate": "2026-10-05T02:18:00.000Z",
+      "source": "Google 뉴스: 지원사업 공고/모집",
+      "category": "정부지원정책"
     },
     {
       "title": "“AI·반도체 웃을 때 우리는 눈물”…‘약발’ 안 듣는 코스닥 제약주",
@@ -3472,34 +3500,6 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=215774",
       "pubDate": "2026-09-30T10:51:12.000Z",
       "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "스페인 연구진, 태양광발전소 맹금류 행동 추적…사냥·휴식 공간 활용",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215785",
-      "pubDate": "2026-09-30T10:45:00.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "인도 양면형 태양광, 단면형보다 발전량 최대 27.1% 증가",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215784",
-      "pubDate": "2026-09-30T10:40:00.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "Disrupting a coordinated model-distillation campaign",
-      "link": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
-      "pubDate": "2026-09-30T10:30:00.000Z",
-      "source": "OpenAI",
-      "category": "AI"
-    },
-    {
-      "title": "Helping small businesses put AI to work",
-      "link": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
-      "pubDate": "2026-09-30T10:00:00.000Z",
-      "source": "OpenAI",
       "category": "AI"
     }
   ]
