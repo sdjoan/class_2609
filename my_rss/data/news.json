@@ -1,13 +1,146 @@
 {
-  "lastUpdated": "2026-10-06T23:39:43.456Z",
+  "lastUpdated": "2026-10-07T05:07:10.683Z",
   "count": 500,
   "items": [
+    {
+      "title": "앤트로픽, '프로젝트 글래스윙' 개편...첨단 모델 접근 대폭 확대",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216023",
+      "pubDate": "2026-10-07T12:58:30.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "[AI리더의 서가] SQL부터 AI까지 데이터 분석 with 클로드 코드",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=215957",
+      "pubDate": "2026-10-07T09:00:00.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
     {
       "title": "[10월6일] “아모데이와 같은 방향이라더니”…알트먼, “앤트로픽과 근본적으로 다르다”",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=215995",
       "pubDate": "2026-10-07T07:00:00.000Z",
       "source": "AI타임스",
       "category": "AI"
+    },
+    {
+      "title": "[단독] “악성 공격 가능성”…ARTEX, 韓해킹 전 차단장치 강화했다",
+      "link": "https://www.mk.co.kr/news/economy/12170316",
+      "pubDate": "2026-10-07T04:52:06.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "우리금융, 스포츠 유망주 6명 아시안게임 초청…“국가대표 꿈에 한발짝”",
+      "link": "https://www.mk.co.kr/news/economy/12170313",
+      "pubDate": "2026-10-07T04:49:54.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "파주도시공사, 무장애 관광 민간시설 개선 지원사업 참여업체 모집 - 웹이코노미",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFA3QmFCRVNMcmxidFZoaVhOa2RHaXZYeHIyXzFyN3hoR1RvQm9JLWNtVW56YmFweWl1THp1ZmZBaUFkdjJqTzlNUDVXa0w3b3pjd2pTRk5XbnVfSGxrSGw4a1M5ZUxXRGsxQXhhb3dvSjV4dw?oc=5",
+      "pubDate": "2026-10-07T04:44:46.000Z",
+      "source": "Google 뉴스: 지원사업 공고/모집",
+      "category": "정부지원정책"
+    },
+    {
+      "title": "“수수료 대신 지원금?”…금융당국,  보험업계 ‘우회 지급’ 정조준",
+      "link": "https://www.mk.co.kr/news/economy/12170304",
+      "pubDate": "2026-10-07T04:44:36.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "충남도, 청년 전세대출 이자 최대 50% 지원…330명 모집 - 뉴스티앤티",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9qVldZRWJHRml4V0JpQ3U3R3doZUNoNWEwVXIwc0RGTzhpNTd0X2VieGFOMzVPNnpUWEh0ajFFcG41SVRTa1FxTlVCeHJGWnVfZmFNSHZ3NXlJZVh4cWd6dHJxVGVnbEdVUEE?oc=5",
+      "pubDate": "2026-10-07T04:13:19.000Z",
+      "source": "Google 뉴스: 지원사업 공고/모집",
+      "category": "정부지원정책"
+    },
+    {
+      "title": "\"흉물 빈집 허물고 동네 쉼터로\"… 영주시, 빈집 정비 지원사업 2동 추가 모집 - 이로운넷",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5IYVg2eVZhcFN1dEtpazBoTmVuWHRKMWp5c1dVeUpNS0xoelBjTG9LdnlvY2plYng3R0xiMWJBNUE4WGZaekhmS0tySWJLVENHbnlFa2F0UG1kbHR0V0VmdTZOeFNXUQ?oc=5",
+      "pubDate": "2026-10-07T03:49:00.000Z",
+      "source": "Google 뉴스: 지원사업 공고/모집",
+      "category": "정부지원정책"
+    },
+    {
+      "title": "기업은행, ‘가짜 기술평가’ 의심 기업들에 1500억원 넘게 대출해줘",
+      "link": "https://www.mk.co.kr/news/economy/12170231",
+      "pubDate": "2026-10-07T02:43:53.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "현대커머셜, 한투 계열사와 기업금융 분야 협업 강화",
+      "link": "https://www.mk.co.kr/news/economy/12170223",
+      "pubDate": "2026-10-07T02:33:51.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "농협금융, 서남권에 금융허브…AI·반도체 등 전략산업 지원",
+      "link": "https://www.mk.co.kr/news/economy/12170215",
+      "pubDate": "2026-10-07T02:31:18.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "어린이 경제박사 되세요…17일 경제교실 개최",
+      "link": "https://www.mk.co.kr/news/economy/12170168",
+      "pubDate": "2026-10-07T02:00:39.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "파주도시공사, ‘무장애 관광 민간시설 접근성 개선 지원사업’ 참여업체 모집 - 문화일보",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE05Mkk2OXRmaFdDRkRISTIxS2pSdHhyb0dSenJPek8xV0F3NlExTEUzWVJGVUVkNEd1YV85ZWRoaXE1OEhKVGhEOFZua19MaTRn?oc=5",
+      "pubDate": "2026-10-07T01:57:56.000Z",
+      "source": "Google 뉴스: 지원사업 공고/모집",
+      "category": "정부지원정책"
+    },
+    {
+      "title": "JT저축은행, 아이치-나고야 아시안패러게임 국가대표 선수 후원",
+      "link": "https://www.mk.co.kr/news/economy/12170147",
+      "pubDate": "2026-10-07T01:43:27.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "AI가 금리인하·대환대출 대신 해준다…진화하는 마이데이터",
+      "link": "https://www.mk.co.kr/news/economy/12170145",
+      "pubDate": "2026-10-07T01:41:20.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "[단독] 미회수 채권 100억 넘는데 담당자는 1명…90%는 재산조회도 못했다",
+      "link": "https://www.mk.co.kr/news/economy/12170114",
+      "pubDate": "2026-10-07T01:20:05.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "파주도시공사, '무장애 관광 민간시설 접근성 개선 지원사업' 참여업체 모집… 최대 5천만원 지원 - www.newszoom.kr",
+      "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1mdDE0b3lKcmR2a2tVQUM2a1ZWWU1JUDVpZU91YUpBZmo1Rjc3Tm9Id2JnVjFybnpCblZkbHhYT0JJdURF?oc=5",
+      "pubDate": "2026-10-07T00:57:00.000Z",
+      "source": "Google 뉴스: 지원사업 공고/모집",
+      "category": "정부지원정책"
+    },
+    {
+      "title": "금융권 ‘무더기 해킹’ 피해자 집단소송 움직임…보상액 얼마나 될까",
+      "link": "https://www.mk.co.kr/news/economy/12169992",
+      "pubDate": "2026-10-06T23:56:02.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "파주시, 발달재활서비스 이용권 지원사업 제공기관 모집 - www.mediatoday.asia",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMUtpdFNZY045d3N2TXM4YlVRSjB1Z0ZPc0hZQzF5dnBjQWhnX3VRMExQNXY2WmE2MmhHRmZxN0hRWF9fU1M1N19Dd0owdjBOQ2UxSFJ4c1hXQ0huRjdOdGlZMEk2N2RXRUg5SkV0OW95MUUySVRyNTJVTk40V1lObUxZbUhCYVR4NHNwM2toY2Fqczh6LS1xTw?oc=5",
+      "pubDate": "2026-10-06T23:45:00.000Z",
+      "source": "Google 뉴스: 지원사업 공고/모집",
+      "category": "정부지원정책"
     },
     {
       "title": "The studio making Jacksepticeye’s Bloodborne film just tapped MoistCr1TiKaL for a RuneScape adaptation",
@@ -1114,6 +1247,13 @@
       "pubDate": "2026-10-05T07:12:32.000Z",
       "source": "매일경제 경제",
       "category": "경제"
+    },
+    {
+      "title": "안산시, ‘식품안심업소 청소비 지원사업’ 참여업소 재모집…최대 70만원 지원 - 경기신문",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1DME51VGhZRU9ycU0tOHVpbEFPZHAyVmpHdjhtbmhqUTBpSVZrZjN0MmU1d2RyUUFoVW5zN0hpTE9MbmlCdXJ4bzFURXVWLUdQblFYaXVnREpURkF2LUZqXw?oc=5",
+      "pubDate": "2026-10-05T06:51:42.000Z",
+      "source": "Google 뉴스: 지원사업 공고/모집",
+      "category": "정부지원정책"
     },
     {
       "title": "구미 청년월세 지원 신청 3100명…시, 추가 모집 나서 - kyongbuk.co.kr",
@@ -3359,146 +3499,6 @@
       "title": "구글, AI 모델 재학습 없이 ‘하네스’ 스스로 개선하는 ‘RRSI’ 공개",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=215802",
       "pubDate": "2026-09-30T18:09:48.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "리퀴드 AI, 의사결정 모델 ‘d1’ 출시...\"기존 1위 제브 제쳤다\"",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215799",
-      "pubDate": "2026-09-30T17:58:09.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "리사 수 AMD CEO, 10월8일 방한…국내 NPU 기업과 인프라 협력 구체화",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215815",
-      "pubDate": "2026-09-30T17:44:58.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "알리바바, 대화 타이밍까지 판단하는 음성 AI ‘큐원-오디오-3.1-리얼타임’ 공개",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215808",
-      "pubDate": "2026-09-30T17:39:01.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "구글, AI 답변 기여도에 따라 디지털 출판사 100여곳에 비용 지급",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215811",
-      "pubDate": "2026-09-30T17:32:48.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "교황 레오 14세, 젠슨 황 공개 비판...\"AI 위험성 경고 경시해선 안 돼\"",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215813",
-      "pubDate": "2026-09-30T17:13:21.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "[게시판] 최수연 네이버 대표, UNGC이사회 참석 등 단신",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215818",
-      "pubDate": "2026-09-30T17:00:00.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "NYT \"오픈AI, 직원·외부 연구원 AI 보안 경고 묵살\"",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215814",
-      "pubDate": "2026-09-30T16:56:01.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "광양경자청 하동사무소, 이차전지 및 첨단소재 기업 투자 유치 박차",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215820",
-      "pubDate": "2026-09-30T16:20:00.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "순천, 2029년까지 우·오수 분류화 2071가구 확대…1084억원 투입",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215810",
-      "pubDate": "2026-09-30T16:09:31.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "AIIA, 국내 AI 기업 발굴·성장 지원 위해 한국평가데이터와 협력",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215809",
-      "pubDate": "2026-09-30T16:08:32.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "AWS, 서울 리전서 최신 '클로드' 모델 제공...\"데이터 국경 안 넘는다\"",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215807",
-      "pubDate": "2026-09-30T16:07:43.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "여수, 여순10·19사건 78주년 추념 음악회…청소년·어린이 무대",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215793",
-      "pubDate": "2026-09-30T16:05:33.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "구글, “안드로이드·검색 데이터 개방 안 돼”...EU 시정 명령에 취소 소송",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215794",
-      "pubDate": "2026-09-30T16:04:54.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "S2W, 온톨로지 기반 기술 고도화…’엔터프라이즈 AX’ 공략 가속",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215806",
-      "pubDate": "2026-09-30T15:37:27.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "\"인류 멸종 확률 50%\"...AI 연구원 22인 '경고 인터뷰' 공개",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215796",
-      "pubDate": "2026-09-30T15:35:57.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "오픈AI, 호주 정부망 무단 접근 사과...\"재발 방지·특별 조사팀 구성\"",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215795",
-      "pubDate": "2026-09-30T15:12:04.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "카카오, 'AI 국민비서'로 국민연금 조회·신청까지 확대",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215800",
-      "pubDate": "2026-09-30T15:06:12.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "구글·MS, AI 데이터 표준 '아파치 오시' 합류…'폐쇄 생태계' 연다",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215803",
-      "pubDate": "2026-09-30T15:04:17.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "“이란전쟁 소풍 끝나면 유가 정상화”…금리발작 못본체하는 트럼프",
-      "link": "https://www.mk.co.kr/news/economy/12165415",
-      "pubDate": "2026-09-30T14:35:54.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "'스마트 링' 오우라, 시장 불확실성에 IPO 연기",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215797",
-      "pubDate": "2026-09-30T13:53:16.000Z",
       "source": "AI타임스",
       "category": "AI"
     }
