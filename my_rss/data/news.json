@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-07T12:56:27.407Z",
+  "lastUpdated": "2026-10-07T19:48:26.656Z",
   "count": 500,
   "items": [
     {
@@ -8,6 +8,13 @@
       "pubDate": "2026-10-07T18:05:58.000Z",
       "source": "AI타임스",
       "category": "AI"
+    },
+    {
+      "title": "Minutes of the Federal Open Market Committee, September 15-16, 2026",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261007a.htm",
+      "pubDate": "2026-10-07T18:00:00.000Z",
+      "source": "미 연준 보도자료",
+      "category": "경제"
     },
     {
       "title": "\"AI가 대신 전화 건다\"…구글 제미나이, 개인 통화 대행 정황 포착",
@@ -129,10 +136,31 @@
       "category": "AI"
     },
     {
+      "title": "무안군, 이동약자 위한 음식점 경사로 설치 지원업소 추가 모집 - 시사의창",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9TdmJwempnNmcyM0RrMHM1NnpkMUlGMWdsa25BZ0pMV2VncmFrMzZjMlJNa0VyUmdQZlFWOXh3akU1ZGhxVDJyUS00TDBMYjk0RDY4Zw?oc=5",
+      "pubDate": "2026-10-07T13:00:31.000Z",
+      "source": "Google 뉴스: 지원사업 공고/모집",
+      "category": "정부지원정책"
+    },
+    {
       "title": "앤트로픽, '프로젝트 글래스윙' 개편...첨단 모델 접근 대폭 확대",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=216023",
       "pubDate": "2026-10-07T12:58:30.000Z",
       "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "무안군, 음식점 경사로 지원사업 참여업소 추가 모집 - 서울뉴스통신",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAxZ3ZwTF9NVW1Fak9sVVFXMGctMkpDWWx2cUd1cGFoTWd5bjJ6NS12MFRwLVM0aDhqb1BHVjUtUU1ldFRiUDU0a2t2bjB0YTJ0TTV0anJ3NjV1UDVTc1FOUWg1bFRPcXpBU0VF?oc=5",
+      "pubDate": "2026-10-07T12:25:05.000Z",
+      "source": "Google 뉴스: 지원사업 공고/모집",
+      "category": "정부지원정책"
+    },
+    {
+      "title": "Helping teens learn, plan, and shape the future of AI",
+      "link": "https://openai.com/index/teens-learn-and-plan",
+      "pubDate": "2026-10-07T12:00:00.000Z",
+      "source": "OpenAI",
       "category": "AI"
     },
     {
@@ -141,6 +169,13 @@
       "pubDate": "2026-10-07T11:40:00.000Z",
       "source": "AI타임스",
       "category": "AI"
+    },
+    {
+      "title": "대구 남구, 내달 12일까지 청년창업 지원 참여자 모집 - 경북도민일보",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE82YWpMWUNadTB1eTdkMmNsRFJFX1MyZ0pwUThtcjdMRTV4NTZheTBwcnhURUM5ZXZHRFN4T3E3YS1kemlzLTJRYVhjVF81YnNNQjg3Sk1wekNMeE56SDRkWkpYVjNSNmhxYnc?oc=5",
+      "pubDate": "2026-10-07T11:33:21.000Z",
+      "source": "Google 뉴스: 지원사업 공고/모집",
+      "category": "정부지원정책"
     },
     {
       "title": "미국, 신규 주택용 태양광 10곳 중 4곳 배터리 결합…캘리포니아는 74%",
@@ -378,6 +413,13 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=215995",
       "pubDate": "2026-10-07T07:00:00.000Z",
       "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "Radisson Hotel Group brings hotel discovery into ChatGPT",
+      "link": "https://openai.com/index/radisson",
+      "pubDate": "2026-10-07T07:00:00.000Z",
+      "source": "OpenAI",
       "category": "AI"
     },
     {
@@ -619,6 +661,13 @@
       "category": "창업"
     },
     {
+      "title": "GPT-6 and Intelligent UI for everyone",
+      "link": "https://openai.com/index/gpt-6-for-everyone",
+      "pubDate": "2026-10-07T00:00:00.000Z",
+      "source": "OpenAI",
+      "category": "AI"
+    },
+    {
       "title": "금융권 ‘무더기 해킹’ 피해자 집단소송 움직임…보상액 얼마나 될까",
       "link": "https://www.mk.co.kr/news/economy/12169992",
       "pubDate": "2026-10-06T23:56:02.000Z",
@@ -650,6 +699,13 @@
       "title": "파주시, 발달재활서비스 이용권 지원사업 제공기관 모집 - 서프라이즈뉴스",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ib19DQlk5eGQ1cm1kX0hTTkU0X2dOOVM3bUZ1Y3JiandqQ1E3b2RZWDV5SW9xc0Qzb1VxSmdoXzhDY20wQzFfT1pDOEJVUk5vbzIxNUgyYmViMlptcmxmN0pEcUZIbVpwTDJBMVVn?oc=5",
       "pubDate": "2026-10-06T23:28:09.000Z",
+      "source": "Google 뉴스: 지원사업 공고/모집",
+      "category": "정부지원정책"
+    },
+    {
+      "title": "충남도, 청년 주택임차보증금 이자 지원 대상자 모집 - 뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBMWWlkVEdGbUlTaGZFOGo4OVA0eVpKRGNnbmo2NlVWQVJWOE9Sc0xyejhLWDZWYlpXa1B1ZlFNWlFkdklEaVBFZDYyNUxPQ2V4YmN2YUNDcFRPTGZZVnB0Vg?oc=5",
+      "pubDate": "2026-10-06T22:32:32.000Z",
       "source": "Google 뉴스: 지원사업 공고/모집",
       "category": "정부지원정책"
     },
@@ -1319,6 +1375,13 @@
       "category": "정부지원정책"
     },
     {
+      "title": "구미시, 청년월세 지원사업 참가자 추가 모집 - 뉴데일리 대구경북",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5FZE9rdVRQV21KVVBXWjFsN2tLUGYzYmRQcEZqY281X1R5WFRNYlM4S1Z6b2NiOWVuaWZFWGdHQzlIVWJ4Q1RsQnYxTDhINW1mYTlJd3pyWXVPRmxCa3d4dXpsSWtLLXR0WkE1cmhmRGlOY2FSYUtQa0Zn0gF_QVVfeXFMTi0wNmhPeF9UMjlOU25GbFRMc3RPZXlpdTRxX2RUNDJjWm1iWXZzVnFBa1hDUnhLal85T254VEhOcWlZY0FHWWUzNkZtOXloSURMTDVBNXZNcVVXZ3pjY2NaYnloY3daV2dlNHFIYzBQRzlObTF5RkZ4cmltSm1XUQ?oc=5",
+      "pubDate": "2026-10-06T00:49:43.000Z",
+      "source": "Google 뉴스: 지원사업 공고/모집",
+      "category": "정부지원정책"
+    },
+    {
       "title": "용인시산업진흥원, 해외물류비 지원사업 3차 참여기업 13일부터 모집 - gukjenews.com",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAyT2YyUTMwN1BuQzdVZUFvTEx3VFNjcmQtdkc5Q0x2cjBDNDJEOUhmSTVVdnlrdXNLaFdPblRWekxSOWtyaFdpV01qV2E3cThuYjJhdmF6T3JHc1I2ZEVTd3BSa0IybXB5QzdnMjl3?oc=5",
       "pubDate": "2026-10-06T00:46:49.000Z",
@@ -1788,6 +1851,13 @@
       "category": "정부지원정책"
     },
     {
+      "title": "상반기에 청년 1,900명 몰려…구미형 청년월세 지원 추가 모집 - 시사일보",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBFeDZWMXdyal8xREFVaGVJcWVpeEtaVWdJY2dVamxVZ3E0OTQyc3NrQVdkczU2VmNudS1oN0V0WTg0azBvMnN2RHV6Y0I?oc=5",
+      "pubDate": "2026-10-05T04:28:00.000Z",
+      "source": "Google 뉴스: 지원사업 공고/모집",
+      "category": "정부지원정책"
+    },
+    {
       "title": "집값 상승세 지속땐 2030년 서울 주요단지 재산세 54% 상승",
       "link": "https://www.mk.co.kr/news/economy/12168360",
       "pubDate": "2026-10-05T04:22:45.000Z",
@@ -2197,6 +2267,13 @@
       "title": "[윤성임 6차산업 AI활용법 칼럼] 지원사업 공고, 어디부터 읽어야 할까…AI로 신청조건과 준비서류 찾는 법 - youthassembly.kr",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBwcTUwTmRYclp1Z01tU0tMZm1ncmxURGs1QUtUMnRCMk1xalFkV2VhZlhFSEdvYm1sTW5DdkJMdGpVUlRaYUZ5T0daOEduOWRPZUtZ?oc=5",
       "pubDate": "2026-10-03T13:28:14.000Z",
+      "source": "Google 뉴스: 지원사업 공고/모집",
+      "category": "정부지원정책"
+    },
+    {
+      "title": "[윤성임 6차산업 AI활용법 칼럼] 지원사업 공고, 어디부터 읽어야 할까…AI로 신청조건과 준비서류 찾는 법 - 한국공공정책신문",
+      "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBiVF9tT2hQU2tBeGRBbEtKaTJzOHJJRTRLZW1oOXg0SG9uMzBZRnpyLWx5SndBZWlMRnRWaHF0Nm5tak0?oc=5",
+      "pubDate": "2026-10-03T13:28:13.000Z",
       "source": "Google 뉴스: 지원사업 공고/모집",
       "category": "정부지원정책"
     },
@@ -3424,83 +3501,6 @@
       "pubDate": "2026-10-01T10:31:01.000Z",
       "source": "AI타임스",
       "category": "AI"
-    },
-    {
-      "title": "[기고] AI판 빅맥지수가 비춘 'AI 강국'의 그림자",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215819",
-      "pubDate": "2026-10-01T09:00:00.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "[AI리더의 서가] 허깅페이스 인 액션",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215624",
-      "pubDate": "2026-10-01T09:00:00.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "주식·부동산투자부터 절세까지",
-      "link": "https://www.mk.co.kr/news/economy/12166351",
-      "pubDate": "2026-10-01T08:37:16.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "[포토] 역대 기획예산처 수장들 한자리에",
-      "link": "https://www.mk.co.kr/news/economy/12166349",
-      "pubDate": "2026-10-01T08:37:16.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "\"태양광 발전설비 매년 10GW 이상 늘어날 것\"",
-      "link": "https://www.mk.co.kr/news/economy/12166347",
-      "pubDate": "2026-10-01T08:37:15.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "\"글로벌 시장 개척 힘 싣자\"… 한화생명, 해외 조직 강화",
-      "link": "https://www.mk.co.kr/news/economy/12166346",
-      "pubDate": "2026-10-01T08:37:15.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "고령 인구 1100만명 … 10명 중 4명 일해",
-      "link": "https://www.mk.co.kr/news/economy/12166343",
-      "pubDate": "2026-10-01T08:37:14.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "반도체가 이끈 韓 수출… 1200억달러 사상 최대",
-      "link": "https://www.mk.co.kr/news/economy/12166344",
-      "pubDate": "2026-10-01T08:37:14.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "[포토] 현대해상, 日지사 설립 50주년",
-      "link": "https://www.mk.co.kr/news/economy/12166345",
-      "pubDate": "2026-10-01T08:37:14.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "[표] 외국환율고시표",
-      "link": "https://www.mk.co.kr/news/economy/12166341",
-      "pubDate": "2026-10-01T08:37:13.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "TV만 틀면 나오는 보험광고… 금감원, 심의기준 대폭 손질",
-      "link": "https://www.mk.co.kr/news/economy/12166342",
-      "pubDate": "2026-10-01T08:37:13.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
     }
   ]
 }
