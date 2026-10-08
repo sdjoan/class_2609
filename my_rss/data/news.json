@@ -1,7 +1,56 @@
 {
-  "lastUpdated": "2026-10-07T19:48:26.656Z",
+  "lastUpdated": "2026-10-08T00:04:26.710Z",
   "count": 500,
   "items": [
+    {
+      "title": "[10월7일] “비싸다던 클로드, 실제로는 챗GPT보다 5배 더 쓸 수 있었다”",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216025",
+      "pubDate": "2026-10-08T07:00:00.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "앤트로픽, API 비용 최대 90% 낮춘 '클로드 하이쿠 5.5' 공개",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216044",
+      "pubDate": "2026-10-08T05:34:26.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "장기종, 창업지원사업 대비 아카데미 참가자 모집…21일까지 접수 - 뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBtaUFlME95bHMzZ3hXVHdnNC16THFVOXdEX04tcUxKVGdfNG1zT3dtUEZ2SDgyZkJyeS1MZ2FfNlhOcTdpNmREa0tmWWVmTlgyTlM4ZGNJWEJmUnQt?oc=5",
+      "pubDate": "2026-10-07T23:40:38.000Z",
+      "source": "Google 뉴스: 지원사업 공고/모집",
+      "category": "정부지원정책"
+    },
+    {
+      "title": "장애인기업종합지원센터, 2027년 창업지원사업 대비 ‘제2회 장애인 창업 준비 아카데미’ 참가자 모집 - 웰페어뉴스",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1QaVp4R09MX1VSNF9sYkdJSHNYaG5fVHpTU20zTm95cmRfenJvelJuT3dhNzNtc3RNXzJteTd3YmRTQnBySXF2YldqWWxVOUtwRFhteEE5ME13dC1YbGo0cTU5WE1oOWNzbHBfUHY0RQ?oc=5",
+      "pubDate": "2026-10-07T23:33:30.000Z",
+      "source": "Google 뉴스: 지원사업 공고/모집",
+      "category": "정부지원정책"
+    },
+    {
+      "title": "[속보] 반도체 호황…8월 경상수지 461억1000만달러 흑자 역대 2위",
+      "link": "https://www.mk.co.kr/news/economy/12171075",
+      "pubDate": "2026-10-07T23:00:00.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "서민금융, 돈이 됩니까…은행 점포 줄이더니 PB센터는 50% 늘렸다",
+      "link": "https://www.mk.co.kr/news/economy/12171045",
+      "pubDate": "2026-10-07T21:09:21.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "소득 비슷한 중산층인데 순자산은 4배 차이 … 격차 큰 까닭은",
+      "link": "https://www.mk.co.kr/news/economy/12170293",
+      "pubDate": "2026-10-07T20:00:00.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
     {
       "title": "구글, ‘나노 바나나 2.1’ 공개...성능 높이고 비용은 반값으로",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=216030",
@@ -99,6 +148,13 @@
       "pubDate": "2026-10-07T15:53:43.000Z",
       "source": "AI타임스",
       "category": "AI"
+    },
+    {
+      "title": "파주도시공사, ‘무장애 관광 민간시설 접근성 개선 지원사업’ 참여업체 모집… 최대 5천만원 지원 - 사회적경제뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9Ja05JT1dKa1NlQ0JjQ1lPYXFYb0Z0RnlqOTlNLUpGSWp0eXkxclBxaGNKckkzRi1NcEFicW05RQ?oc=5",
+      "pubDate": "2026-10-07T15:20:00.000Z",
+      "source": "Google 뉴스: 지원사업 공고/모집",
+      "category": "정부지원정책"
     },
     {
       "title": "전남광주, 여수서 9~11일 ‘세계 김밥&소금 페스티벌’",
@@ -3443,62 +3499,6 @@
       "title": "올거나이즈, 기업용 AI로 '일본 코스닥' 간다...그로스시장 상장 승인",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=215833",
       "pubDate": "2026-10-01T12:35:04.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "현대차그룹, 전국 고속도로서 피지컬 AI·지능형 충전 기술 실증",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215829",
-      "pubDate": "2026-10-01T12:28:49.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "\"촬영 즉시 AI 데이터 변환\"...한국딥러닝, '딥 에이전트' 모바일 출시",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215837",
-      "pubDate": "2026-10-01T12:27:59.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "메타, '뮤즈' 흥행에 월간 주가 29% 껑충…실제 사용성·수익성은 시험대",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215838",
-      "pubDate": "2026-10-01T12:16:29.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "밀양시, 청년 창업공간 조성 지원사업 참여자 모집 - fntoday.co.kr",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBlZWVuSXluTkpkc1FGZUg5NG5pa09LV0RPSWhRd1oyMHVNalZMWEJpdkFocWhRcTJtTnVYbkVDcWVyWlRmYS1Ia2xkWWowTEFjNUVrQ0E5X1NZeFdRRVYzLWt3S2tZUjl2ZGhoNw?oc=5",
-      "pubDate": "2026-10-01T11:43:34.000Z",
-      "source": "Google 뉴스: 지원사업 공고/모집",
-      "category": "정부지원정책"
-    },
-    {
-      "title": "구글, 내부서 '제미나이 4 아르곤' 성능 회의론...\"벤치맥싱 한계\" 지적",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215824",
-      "pubDate": "2026-10-01T11:28:28.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "업스테이지, sLM '솔라 미니 4' 출시... '프로·미니' 투트랙 본격화",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215826",
-      "pubDate": "2026-10-01T10:58:02.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "\"앤트로픽 몸값 1.5조 달러로 하향해야\"…월가의 AI IPO '거품' 경고",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215828",
-      "pubDate": "2026-10-01T10:54:46.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "덴컴, 치과 진료 전 과정 연결한 AI 플랫폼 ‘덴트허브 1.0’ 공개",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215822",
-      "pubDate": "2026-10-01T10:31:01.000Z",
       "source": "AI타임스",
       "category": "AI"
     }
