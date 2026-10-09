@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-09T12:51:21.928Z",
+  "lastUpdated": "2026-10-09T19:20:39.230Z",
   "count": 500,
   "items": [
     {
@@ -64,6 +64,20 @@
       "pubDate": "2026-10-09T16:38:02.000Z",
       "source": "AI타임스",
       "category": "AI"
+    },
+    {
+      "title": "Federal Reserve Board releases results of the 2025 Survey of Consumer Finances, which provides the public and policymakers with detailed insights into the economic condition of American families",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/other20261009a.htm",
+      "pubDate": "2026-10-09T14:00:00.000Z",
+      "source": "미 연준 보도자료",
+      "category": "경제"
+    },
+    {
+      "title": "“내 번호 누가 훔쳐 썼다”던 금융권 해킹용의자…계정 추적했더니 ‘반전’",
+      "link": "https://www.mk.co.kr/news/economy/12172550",
+      "pubDate": "2026-10-09T13:34:53.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
     },
     {
       "title": "오픈AI 해고 연구원 3인 \"AI 추론 감시 기능 보존해야\"",
@@ -208,6 +222,13 @@
     {
       "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
       "link": "https://openai.com/index/sophos",
+      "pubDate": "2026-10-09T07:00:00.000Z",
+      "source": "OpenAI",
+      "category": "AI"
+    },
+    {
+      "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+      "link": "https://openai.com/index/asana-browser-agent",
       "pubDate": "2026-10-09T07:00:00.000Z",
       "source": "OpenAI",
       "category": "AI"
@@ -3480,27 +3501,6 @@
       "pubDate": "2026-10-02T23:10:34.000Z",
       "source": "Tubefilter",
       "category": "수익화/크리에이터 이코노미"
-    },
-    {
-      "title": "“1550원일땐 차마 못 갚았습니다”…1350원에 달러빚 정리나선 기업들",
-      "link": "https://www.mk.co.kr/news/economy/12167675",
-      "pubDate": "2026-10-02T21:30:49.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "Slow Ventures is investing in creators’ “cults”",
-      "link": "https://www.tubefilter.com/2026/10/02/slow-ventures-sam-lessin-megan-lightcap-creator-investment/",
-      "pubDate": "2026-10-02T21:08:27.000Z",
-      "source": "Tubefilter",
-      "category": "수익화/크리에이터 이코노미"
-    },
-    {
-      "title": "Federal Reserve Board announces approval of application by Fleur Capital Corporation",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261002a.htm",
-      "pubDate": "2026-10-02T20:45:00.000Z",
-      "source": "미 연준 보도자료",
-      "category": "경제"
     }
   ]
 }
