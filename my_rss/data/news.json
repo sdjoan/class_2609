@@ -1,7 +1,70 @@
 {
-  "lastUpdated": "2026-10-09T05:20:52.556Z",
+  "lastUpdated": "2026-10-09T12:51:21.928Z",
   "count": 500,
   "items": [
+    {
+      "title": "앤트로픽 '클로드 사이언스', 인류 최초 자외선 전체 하늘 지도 완성",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216106",
+      "pubDate": "2026-10-09T21:36:50.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "오픈AI, 연구원 해고 논란 해명...\"안전 제기 보복 아닌 보안 위반\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216105",
+      "pubDate": "2026-10-09T20:58:49.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "스페이스X, 무선 통신 진출…미·유럽 통신주 '직격탄'",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216104",
+      "pubDate": "2026-10-09T20:22:29.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "데이터센터 전문 퍼머스, 호주 IPO 철회…'엔비디아 후광'도 안 통했다",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216103",
+      "pubDate": "2026-10-09T19:28:38.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "앤트로픽, ‘클로드 대시보드·모션’ 공개…\"기업 데이터 분석·영상 제작\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216095",
+      "pubDate": "2026-10-09T18:00:40.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "애플, 10월 말 첫 터치스크린 맥북 공개...M6 칩으로 전문가 시장 공략",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216094",
+      "pubDate": "2026-10-09T17:49:39.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "아마존, 안드로이드 태블릿 첫 출시…프리미엄 시장 도전",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216099",
+      "pubDate": "2026-10-09T17:16:20.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "\"오픈소스 취약점 AI가 잡는다\"...앤트로픽, 무료 보안 검사 도구 공개",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216101",
+      "pubDate": "2026-10-09T16:56:26.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "\"모델 학대도 금지\"...앤트로픽, '클로드' 오용 막기 위해 사용 정책 개정",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216100",
+      "pubDate": "2026-10-09T16:38:02.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
     {
       "title": "오픈AI 해고 연구원 3인 \"AI 추론 감시 기능 보존해야\"",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=216093",
@@ -38,6 +101,20 @@
       "category": "AI"
     },
     {
+      "title": "30년역사 호텔이 주차장·창고와 동급?…수백억 상속세 내라는 개편안",
+      "link": "https://www.mk.co.kr/news/economy/12172495",
+      "pubDate": "2026-10-09T10:15:18.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "한국 금융권 공격한 중국 26세 해커…'어설픈 신원 노출'로 덜미",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216092",
+      "pubDate": "2026-10-09T09:50:00.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
       "title": "일본, 태양광 지원체계 바꾼다…공공부지·카포트·인프라에 집중",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=216064",
       "pubDate": "2026-10-09T09:40:00.000Z",
@@ -66,13 +143,6 @@
       "category": "AI"
     },
     {
-      "title": "한국 금융권 공격한 중국 26세 해커…'어설픈 신원 노출'로 덜미",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=216092",
-      "pubDate": "2026-10-09T09:10:14.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
       "title": "[AI리더의 서가] 이너 프롬프트",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=215960",
       "pubDate": "2026-10-09T09:00:00.000Z",
@@ -80,11 +150,116 @@
       "category": "AI"
     },
     {
+      "title": "5천억 털려도 고객 돈 지킨 비트겟…국내 거래소는? [AI 해킹, 다음은 코인②]",
+      "link": "https://www.mk.co.kr/news/economy/12172470",
+      "pubDate": "2026-10-09T08:51:40.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "[표] 외국환율고시표",
+      "link": "https://www.mk.co.kr/news/economy/12172462",
+      "pubDate": "2026-10-09T08:34:30.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "산은, 中企 공급자금 47조…절반이상 서울·경기 집중",
+      "link": "https://www.mk.co.kr/news/economy/12172458",
+      "pubDate": "2026-10-09T08:34:29.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "호텔업 稅개편 직격탄 …\"상속세 0 → 109억\"",
+      "link": "https://www.mk.co.kr/news/economy/12172455",
+      "pubDate": "2026-10-09T08:34:28.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "신협 부동산·건설업 대출 … 연체율 다시 두 자릿수로",
+      "link": "https://www.mk.co.kr/news/economy/12172456",
+      "pubDate": "2026-10-09T08:34:28.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "개똥도 약에 쓰려면 없는 정치, 새삼 실감하는 정청래 ‘귀인 효과’ [논설실 Pick]",
+      "link": "https://www.mk.co.kr/news/economy/12172336",
+      "pubDate": "2026-10-09T07:22:00.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "싱가포르로 옮겨도 남은 중국의 연결고리, 마누스가 걸어온 길",
+      "link": "https://platum.kr/archives/295982?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%258b%25b1%25ea%25b0%2580%25ed%258f%25ac%25eb%25a5%25b4%25eb%25a1%259c-%25ec%2598%25ae%25ea%25b2%25a8%25eb%258f%2584-%25eb%2582%25a8%25ec%259d%2580-%25ec%25a4%2591%25ea%25b5%25ad%25ec%259d%2598-%25ec%2597%25b0%25ea%25b2%25b0%25ea%25b3%25a0%25eb%25a6%25ac-%25eb%25a7%2588%25eb%2588%2584%25ec%258a%25a4%25ea%25b0%2580",
+      "pubDate": "2026-10-09T07:02:26.000Z",
+      "source": "플래텀",
+      "category": "창업"
+    },
+    {
       "title": "[10월8일] “수학 문제 4000개에 AI 투입해 성과”…오픈AI가 보여준 과학연구의 변화",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=216072",
       "pubDate": "2026-10-09T07:00:00.000Z",
       "source": "AI타임스",
       "category": "AI"
+    },
+    {
+      "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+      "link": "https://openai.com/index/sophos",
+      "pubDate": "2026-10-09T07:00:00.000Z",
+      "source": "OpenAI",
+      "category": "AI"
+    },
+    {
+      "title": "메타 인수 무산된 마누스, 독립 후 첫 투자 유치",
+      "link": "https://platum.kr/archives/295980?utm_source=rss&utm_medium=rss&utm_campaign=%25eb%25a9%2594%25ed%2583%2580-%25ec%259d%25b8%25ec%2588%2598-%25eb%25ac%25b4%25ec%2582%25b0%25eb%2590%259c-%25eb%25a7%2588%25eb%2588%2584%25ec%258a%25a4-%25eb%258f%2585%25eb%25a6%25bd-%25ed%259b%2584-%25ec%25b2%25ab-%25ed%2588%25ac%25ec%259e%2590-%25ec%259c%25a0%25ec%25b9%2598",
+      "pubDate": "2026-10-09T06:44:33.000Z",
+      "source": "플래텀",
+      "category": "창업"
+    },
+    {
+      "title": "산은 돈 절반 이상 수도권으로…서울은 늘고 지방은 줄었다",
+      "link": "https://www.mk.co.kr/news/economy/12172303",
+      "pubDate": "2026-10-09T06:36:03.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "최태원 회장 “호남권 반도체 규모, 용인 3분의 2 수준…비용 안 아낀다”",
+      "link": "https://www.mk.co.kr/news/economy/12172299",
+      "pubDate": "2026-10-09T06:18:51.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "시민이 만든 AI 해법, 서울 AI 허브 정책토론 의제로",
+      "link": "https://platum.kr/archives/295977?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%258b%259c%25eb%25af%25bc%25ec%259d%25b4-%25eb%25a7%258c%25eb%2593%25a0-ai-%25ed%2595%25b4%25eb%25b2%2595-%25ec%2584%259c%25ec%259a%25b8-ai-%25ed%2597%2588%25eb%25b8%258c-%25ec%25a0%2595%25ec%25b1%2585%25ed%2586%25a0%25eb%25a1%25a0-%25ec%259d%2598%25ec%25a0%259c%25eb%25a1%259c",
+      "pubDate": "2026-10-09T05:46:13.000Z",
+      "source": "플래텀",
+      "category": "창업"
+    },
+    {
+      "title": "위클리벤처스, 자연어로 시제품 설계하는 AI CAD ‘캐드링고 2.0’ 출시",
+      "link": "https://platum.kr/archives/295974?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%259c%2584%25ed%2581%25b4%25eb%25a6%25ac%25eb%25b2%25a4%25ec%25b2%2598%25ec%258a%25a4-%25ec%259e%2590%25ec%2597%25b0%25ec%2596%25b4%25eb%25a1%259c-%25ec%258b%259c%25ec%25a0%259c%25ed%2592%2588-%25ec%2584%25a4%25ea%25b3%2584%25ed%2595%2598%25eb%258a%2594-ai-cad-%25ec%25ba%2590%25eb%2593%259c%25eb%25a7%2581",
+      "pubDate": "2026-10-09T05:41:55.000Z",
+      "source": "플래텀",
+      "category": "창업"
+    },
+    {
+      "title": "시리즈벤처스 지-벤스데이, 부울경 스타트업과 글로벌 투자자 연결",
+      "link": "https://platum.kr/archives/295971?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%258b%259c%25eb%25a6%25ac%25ec%25a6%2588%25eb%25b2%25a4%25ec%25b2%2598%25ec%258a%25a4-%25ec%25a7%2580-%25eb%25b2%25a4%25ec%258a%25a4%25eb%258d%25b0%25ec%259d%25b4-%25eb%25b6%2580%25ec%259a%25b8%25ea%25b2%25bd-%25ec%258a%25a4%25ed%2583%2580%25ed%258a%25b8%25ec%2597%2585%25ea%25b3%25bc-%25ea%25b8%2580%25eb%25a1%259c",
+      "pubDate": "2026-10-09T05:36:08.000Z",
+      "source": "플래텀",
+      "category": "창업"
+    },
+    {
+      "title": "10월 마감 창업 지원사업 7선…SK에코플랜트 PoC 1000만원부터 입주공간까지 - ISSUE ON (이슈온)",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9lQmRVMlkyb3owVzVGOWlSR0tOUnMxaFFOTW1oWDBzYnFtTjVDRVJONnY3c0VlWE1HMjdkSDJhYTRxczc2SXQ1UzhYZ25yMVdYLTFqbHhNeXBIZ3VhdGswLUl3cXgzZkl0c2lv?oc=5",
+      "pubDate": "2026-10-09T05:26:01.000Z",
+      "source": "Google 뉴스: 지원사업 공고/모집",
+      "category": "정부지원정책"
     },
     {
       "title": "‘전세계 해커 맛집’ 된 한국 금융권…누가 어디서 공격했는지 모른다",
@@ -120,6 +295,13 @@
       "pubDate": "2026-10-08T22:00:10.000Z",
       "source": "Tubefilter",
       "category": "수익화/크리에이터 이코노미"
+    },
+    {
+      "title": "한국어 문장으로 앱 짜는 프로그래밍 언어 ‘훈민정음’, 셈틀 한글날 정식 공개",
+      "link": "https://platum.kr/archives/295938?utm_source=rss&utm_medium=rss&utm_campaign=%25ed%2595%259c%25ea%25b5%25ad%25ec%2596%25b4-%25eb%25ac%25b8%25ec%259e%25a5%25ec%259c%25bc%25eb%25a1%259c-%25ec%2595%25b1-%25ec%25a7%259c%25eb%258a%2594-%25ed%2594%2584%25eb%25a1%259c%25ea%25b7%25b8%25eb%259e%2598%25eb%25b0%258d-%25ec%2596%25b8%25ec%2596%25b4-%25ed%259b%2588%25eb%25af%25bc%25ec%25a0%2595%25ec%259d%258c",
+      "pubDate": "2026-10-08T21:00:00.000Z",
+      "source": "플래텀",
+      "category": "창업"
     },
     {
       "title": "농지 전수조사 반발에 결국…“관행적 위반은 손 안대겠다”는 정부",
@@ -458,11 +640,25 @@
       "category": "경제"
     },
     {
+      "title": "루센트블록 대표 “인가 결정 뒤집자는 것 아냐, 법 절차로 심사받고 싶다”",
+      "link": "https://platum.kr/archives/295957?utm_source=rss&utm_medium=rss&utm_campaign=%25eb%25a3%25a8%25ec%2584%25bc%25ed%258a%25b8%25eb%25b8%2594%25eb%25a1%259d-%25eb%258c%2580%25ed%2591%259c-%25ec%259d%25b8%25ea%25b0%2580-%25ea%25b2%25b0%25ec%25a0%2595-%25eb%2592%25a4%25ec%25a7%2591%25ec%259e%2590%25eb%258a%2594-%25ea%25b2%2583-%25ec%2595%2584%25eb%2583%2590-%25eb%25b2%2595-%25ec%25a0%2588%25ec%25b0%25a8",
+      "pubDate": "2026-10-08T08:23:55.000Z",
+      "source": "플래텀",
+      "category": "창업"
+    },
+    {
       "title": "日한상이 만든 신한금융, 재일동포에 금융상담",
       "link": "https://www.mk.co.kr/news/economy/12171742",
       "pubDate": "2026-10-08T08:06:53.000Z",
       "source": "매일경제 경제",
       "category": "경제"
+    },
+    {
+      "title": "AI 일자리 대체, 생각보다 더디다",
+      "link": "https://platum.kr/archives/295952?utm_source=rss&utm_medium=rss&utm_campaign=ai-%25ec%259d%25bc%25ec%259e%2590%25eb%25a6%25ac-%25eb%258c%2580%25ec%25b2%25b4-%25eb%2585%25bc%25ec%259f%2581-%25eb%25a7%2588%25ec%259d%25b4%25ed%2581%25ac%25eb%25a1%259c%25ec%2586%258c%25ed%2594%2584%25ed%258a%25b8-ai%25ea%25b0%2580-%25ea%25ba%25bc%25eb%2582%25b8-%25eb%258a%2590%25eb%25a6%25b0-%25eb%258c%2580",
+      "pubDate": "2026-10-08T08:06:13.000Z",
+      "source": "플래텀",
+      "category": "창업"
     },
     {
       "title": "테러맨’ 작가가 세운 액션판타지 웹툰 스튜디오 몬스터라이엇, 시리즈A 첫 투자 유치",
@@ -3305,202 +3501,6 @@
       "pubDate": "2026-10-02T20:45:00.000Z",
       "source": "미 연준 보도자료",
       "category": "경제"
-    },
-    {
-      "title": "Have you heard? MrBeast’s Shark Tank spot, Minecraft goes after Roblox, and a robo racoon gets us in the mood for spooky season",
-      "link": "https://www.tubefilter.com/2026/10/02/have-you-heard-mrbeast-shark-tank-magnus-carlsen-minecraft-mojang-creator-jobs-wicked-makers/",
-      "pubDate": "2026-10-02T20:01:45.000Z",
-      "source": "Tubefilter",
-      "category": "수익화/크리에이터 이코노미"
-    },
-    {
-      "title": "Federal Reserve Board announces it will extend, until November 4, the comment period on its proposal to modernize Regulation O",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261002a.htm",
-      "pubDate": "2026-10-02T20:00:00.000Z",
-      "source": "미 연준 보도자료",
-      "category": "경제"
-    },
-    {
-      "title": "음식물처리기 지원사업, 주소지·인증 기준 확인 - vegannews.co.kr",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBSakpkRXdCRnp2RmpWWlBaM2JIV3l2eTFBLTB4WnA3eVJsdmRyUVhLX25RVWRwNXdpcUVlbkJ1QmJxZ0h0RFJOV3luR0VqYVBMcjdoLV9wZWJhM0ludVlLMTZyZXZMUQ?oc=5",
-      "pubDate": "2026-10-02T18:33:01.000Z",
-      "source": "Google 뉴스: 지원사업 공고/모집",
-      "category": "정부지원정책"
-    },
-    {
-      "title": "플리토, 첫 브랜드 ‘보글’로 글로벌 통역 시장 조준…\"매출 상승 이어갈 것\"",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215927",
-      "pubDate": "2026-10-02T18:20:00.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "아마존, AI 에이전트 전용 오픈소스 의사결정 모델 ‘스트랜즈 디사이더 2B’ 공개",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215887",
-      "pubDate": "2026-10-02T18:16:43.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "구글 딥마인드, AI가 만든 단백질·유전체 추적하는 워터마크 기술 공개",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215902",
-      "pubDate": "2026-10-02T18:06:21.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "\"다섯 손가락 필요 없다\"...보스턴 다이내믹스, 네 손가락 로봇 손 공개",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215916",
-      "pubDate": "2026-10-02T17:58:35.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "[AI 모델 신작] MS 음성인식 'MAI-트랜스크라이브-2-스트리밍' 등 6종",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215930",
-      "pubDate": "2026-10-02T17:55:00.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "구글 \"우주 데이터센터 실현 위해 스타십 최소 1800회 발사 필요\"",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215886",
-      "pubDate": "2026-10-02T17:35:27.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "텐센트, 오라클서 AI 칩 10만개 임대…규제 피하려 동남아 데이터센터 확보",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215909",
-      "pubDate": "2026-10-02T17:18:35.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "The last thing creators add, the first thing viewers notice: Why Adobe is introducing music, speech, and sound effect generation to Firefly",
-      "link": "https://www.tubefilter.com/2026/10/02/adobe-firefly-ai-sound-features/",
-      "pubDate": "2026-10-02T17:17:57.000Z",
-      "source": "Tubefilter",
-      "category": "수익화/크리에이터 이코노미"
-    },
-    {
-      "title": "업스테이지, 판단 전용 AI ‘솔라 디사이드’ 출시…“제브보다 빠르고 정확”",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215919",
-      "pubDate": "2026-10-02T17:08:12.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "[게시판] KT, 소상공인 플랫폼 ‘사장이지’에 AI면접 서비스 출시 등 단신",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215928",
-      "pubDate": "2026-10-02T17:00:00.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "[게시판] LG유플러스, 옵트에이아이와 AI 모델 경량화 협력 등 단신",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215920",
-      "pubDate": "2026-10-02T17:00:00.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "\"콜센터 AI 말 끊어도 알아듣는다\"...포지큐브, 차세대 AICC 개발",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215914",
-      "pubDate": "2026-10-02T16:57:37.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "에스티엔인포텍, 크레도와 한국 시장 총판 계약 체결",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215921",
-      "pubDate": "2026-10-02T16:50:39.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "백악관에 모인 AI 수장들…젠슨 황·저커버그, 아모데이에 '질문 세례'",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215918",
-      "pubDate": "2026-10-02T16:44:15.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "캘리포니아, AI만으로 직원 해고·징계 못한다…뉴섬 주지사 법안 서명",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215911",
-      "pubDate": "2026-10-02T16:25:00.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "A model guide for the GPT-6 family",
-      "link": "https://openai.com/index/practical-guide-building-gpt-6",
-      "pubDate": "2026-10-02T16:15:00.000Z",
-      "source": "OpenAI",
-      "category": "AI"
-    },
-    {
-      "title": "머스크, 미 국방부 '미래 전쟁' 자문으로 공직 복귀...AI·드론 중심 미래전 대비",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215912",
-      "pubDate": "2026-10-02T16:04:59.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "“반도체 성능 지표 ‘K-Perf’, 실험실 벗어나 실제 현장서 실증”",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215903",
-      "pubDate": "2026-10-02T15:53:11.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "오픈AI, '불량 에이전트' 무단 활동 100여곳 조직에 통보",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215896",
-      "pubDate": "2026-10-02T15:47:16.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "전남광주, 3일부터 토요 문화공연…5개 자치구 찾아간다",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215891",
-      "pubDate": "2026-10-02T15:20:00.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "순천 매곡동, 외국인 대상 생활 한국어교실…10주 과정 운영",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215895",
-      "pubDate": "2026-10-02T15:15:00.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "앤트로픽, 중국 'GLM-5.3' 해킹 위험성 경고...\"클로드 미소스와 맞먹는 능력\"",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215893",
-      "pubDate": "2026-10-02T15:11:44.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "Federal Reserve Board issues enforcement action with Ontario Bancorporation, Inc.",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261002a.htm",
-      "pubDate": "2026-10-02T15:00:00.000Z",
-      "source": "미 연준 보도자료",
-      "category": "경제"
-    },
-    {
-      "title": "비드래프트, 중국 모델스코프서 '연구기관' 인증…AX-RAY 기반 중국 진출 추진",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215897",
-      "pubDate": "2026-10-02T14:47:33.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "\"잘 가라 02\"…슈워제네거 '터미네이터 2' 오마주한 휴머노이드 해체 화제",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215894",
-      "pubDate": "2026-10-02T14:34:03.000Z",
-      "source": "AI타임스",
-      "category": "AI"
     }
   ]
 }
