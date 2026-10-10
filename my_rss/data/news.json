@@ -1,13 +1,27 @@
 {
-  "lastUpdated": "2026-10-10T18:19:20.675Z",
+  "lastUpdated": "2026-10-10T23:20:33.465Z",
   "count": 500,
   "items": [
+    {
+      "title": "“내년엔 1200원대도 가능”…‘반도체 달러’ 덕에 원화 강세 계속될까",
+      "link": "https://www.mk.co.kr/news/economy/12172825",
+      "pubDate": "2026-10-10T22:33:46.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
     {
       "title": "엔비디아, AI 추론 칩 d-매트릭스에 투자 계획…GPU 중심 생태계 확장",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=216122",
       "pubDate": "2026-10-10T20:35:00.000Z",
       "source": "AI타임스",
       "category": "AI"
+    },
+    {
+      "title": "총 1억 3500만 원 납입한 일반 계좌 vs. IRP 계좌 … 15년 후 자산 차이는?",
+      "link": "https://www.mk.co.kr/news/economy/12172448",
+      "pubDate": "2026-10-10T20:30:00.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
     },
     {
       "title": "MS, 에이전트 의사결정 특화 모델 ‘디시전-1’ 공개…오픈AI도 API 정식 출시",
@@ -3485,20 +3499,6 @@
       "title": "시중은행 해킹사고",
       "link": "https://www.mk.co.kr/news/it/12168021",
       "pubDate": "2026-10-04T05:37:18.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "[속보] 이억원 “금융권 전체 침해사고 최고수준 경각심 필요”",
-      "link": "https://www.mk.co.kr/news/economy/12168012",
-      "pubDate": "2026-10-04T05:21:55.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "[속보] 李대통령, 금융기관 개인정보 유출에 “엄중 인식, 철저 조사”",
-      "link": "https://www.mk.co.kr/news/politics/12167996",
-      "pubDate": "2026-10-04T04:35:42.000Z",
       "source": "매일경제 경제",
       "category": "경제"
     }
