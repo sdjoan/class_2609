@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-10T12:09:14.605Z",
+  "lastUpdated": "2026-10-10T18:19:20.675Z",
   "count": 500,
   "items": [
     {
@@ -71,6 +71,13 @@
       "pubDate": "2026-10-10T14:52:29.000Z",
       "source": "AI타임스",
       "category": "AI"
+    },
+    {
+      "title": "국가 전력수급 설계하는데 명단은 ‘비공개’…국감장 달군 비밀의 ‘전기본’",
+      "link": "https://www.mk.co.kr/news/economy/12172799",
+      "pubDate": "2026-10-10T13:55:23.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
     },
     {
       "title": "타입세이프, '제브' 출시 3주 만에 대규모 투자 유치...기업가치 10조 등극",
@@ -981,6 +988,13 @@
       "pubDate": "2026-10-08T07:33:40.000Z",
       "source": "매일경제 경제",
       "category": "경제"
+    },
+    {
+      "title": "‘남구다운 청년 창업 지원 사업(3차)’ 참가자 모집 - 시도민 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9aTW5VZmhiMTRJcjdqcTNEWThsbndhcC1QOG1zTzBCWk9yc25hamQ1N001dTM2a3ZrSDR3VWduMEFlQjRGeUxBTzdjN1pKMzg?oc=5",
+      "pubDate": "2026-10-08T07:32:23.000Z",
+      "source": "Google 뉴스: 지원사업 공고/모집",
+      "category": "정부지원정책"
     },
     {
       "title": "[10월7일] “비싸다던 클로드, 실제로는 챗GPT보다 5배 더 쓸 수 있었다”",
@@ -3485,20 +3499,6 @@
       "title": "[속보] 李대통령, 금융기관 개인정보 유출에 “엄중 인식, 철저 조사”",
       "link": "https://www.mk.co.kr/news/politics/12167996",
       "pubDate": "2026-10-04T04:35:42.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "‘통일’하는 순간 망합니다…은행 비번 복잡해도 AI에 다 뚫린 이유",
-      "link": "https://www.mk.co.kr/news/economy/12167968",
-      "pubDate": "2026-10-04T02:33:03.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "“누구나 쓸 수 있는 AI, 지역경제에 새 기회”",
-      "link": "https://www.mk.co.kr/news/economy/12167925",
-      "pubDate": "2026-10-04T01:02:34.000Z",
       "source": "매일경제 경제",
       "category": "경제"
     }
