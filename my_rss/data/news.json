@@ -1,13 +1,146 @@
 {
-  "lastUpdated": "2026-10-12T05:09:00.863Z",
+  "lastUpdated": "2026-10-12T14:51:54.522Z",
   "count": 500,
   "items": [
+    {
+      "title": "\"말 한마디로 작동하는 3D 기계 그려\"...클로드 코드용 '아나토미' 공개",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216170",
+      "pubDate": "2026-10-12T18:00:00.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "Ai2, MoE 학습 효율 2.7배 높인 오픈소스 프레임워크 '올모 코어 3' 공개",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216173",
+      "pubDate": "2026-10-12T17:54:39.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "사카나 AI, LLM 기반 동료 검토 시스템으로 논문 핵심 주장 오류 73% 적발",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216163",
+      "pubDate": "2026-10-12T17:50:00.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "'데이터센터=수익'…IPO 앞둔 앤트로픽이 인프라에 사활 건 이유",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216168",
+      "pubDate": "2026-10-12T17:44:41.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "오르카라우터, 100만 토큰 컨텍스트 지원 사이버 보안 모델 공개",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216167",
+      "pubDate": "2026-10-12T17:35:00.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "국감서 \"AI 캐릭터 챗봇, 청소년 보호 구멍\" 지적...규제 급물살 타나",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216164",
+      "pubDate": "2026-10-12T17:23:14.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "\"AI 대신 SI 써라\"...트럼프 압박에 실리콘밸리 굴복",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216161",
+      "pubDate": "2026-10-12T17:19:53.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "게임·배달 기업까지 가세…중국 AI 모델 경쟁, 다시 격화",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216174",
+      "pubDate": "2026-10-12T17:07:50.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "[게시판] KT '모두의 AI' 연내 출시 앞두고 중간 점검 등 단신",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216172",
+      "pubDate": "2026-10-12T17:00:00.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "포스코DX, AI 스타트업 인핸스에 20억 투자...\"전사 AX 속도 낸다\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216166",
+      "pubDate": "2026-10-12T16:55:00.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "\"음성 AI, 아직 '챗GPT 모멘트' 오지 않았다\"...기술 과제 지적",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216159",
+      "pubDate": "2026-10-12T15:56:40.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "AI가 인간 상담사를 대체하기 어려운 이유...“말로 하는 위로에는 한계”",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216165",
+      "pubDate": "2026-10-12T15:30:58.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "미국 정부 AI 규제 공백 속 제3자 평가 기관 급부상...'자금난·독립성' 과제도 부각",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216158",
+      "pubDate": "2026-10-12T15:11:51.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "네이버지도, AI 안경 연동 길안내 서비스 개시",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216157",
+      "pubDate": "2026-10-12T15:00:35.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "양산시, '경남 스마트공장 구축지원사업' 참여기업 모집 - 국토일보",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9YaC01WVlRRlFfQ3RRaXpWeWdUeEgycWFWTEk1OEhrUURrWVZyVW5OdXFZUThJcXNiVWYwamtBN3VzTzFnQ0lPODZtLWVmLUVUWnpMREtjNjh5a1JSaXk3N2N3Yw?oc=5",
+      "pubDate": "2026-10-12T14:10:53.000Z",
+      "source": "Google 뉴스: 지원사업 공고/모집",
+      "category": "정부지원정책"
+    },
     {
       "title": "“클로드가 의식을 가졌다고?”…앤트로픽 ‘AI 신비주의’에 맹비난 쏟아져",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=216160",
       "pubDate": "2026-10-12T13:56:59.000Z",
       "source": "AI타임스",
       "category": "AI"
+    },
+    {
+      "title": "경제 움직이는건 가계·기업 … 노벨상 두 석학의 통찰",
+      "link": "https://www.mk.co.kr/news/economy/12174036",
+      "pubDate": "2026-10-12T13:39:01.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "우드퍼드, 이코노미스트의 표본 … 홀 \"최저임금 속도조절\" 매경 인터뷰",
+      "link": "https://www.mk.co.kr/news/economy/12174035",
+      "pubDate": "2026-10-12T13:39:01.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "[포토] 서민금융 현장 찾은 기획처 장관",
+      "link": "https://www.mk.co.kr/news/economy/12174034",
+      "pubDate": "2026-10-12T13:38:50.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "\"대한민국 착취의 주역은 재벌\" … 생각 변함없다는 공정위원장",
+      "link": "https://www.mk.co.kr/news/economy/12174033",
+      "pubDate": "2026-10-12T13:38:50.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
     },
     {
       "title": "여수 소호동동다리서 16~17일 ‘달빛 테라스’…밤바다 공연",
@@ -94,11 +227,312 @@
       "category": "AI"
     },
     {
+      "title": "경남TP, 중소·중견기업 스마트공장 기초구축 추가 모집 - 경남일보",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1MZy1fLTE1U0JFcnp0cDVHQ3FySnhXNUNlZC1rdjN0YmtFWFNzeFh1SFRYYlNRWlBrN1dUT3NnQ1Y2V2xtcDBsZmpZakptNjNvTlQ0WEtGTldpWjhuZ29tbXE5b2RoTE9meFU0?oc=5",
+      "pubDate": "2026-10-12T09:24:57.000Z",
+      "source": "Google 뉴스: 지원사업 공고/모집",
+      "category": "정부지원정책"
+    },
+    {
+      "title": "양산시, 스마트공장 구축·제조AI 지원사업 참여기업 모집 - 더쎈뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1FSlIzNG9YMVFfb1JWVmNCbld1blRqa1FGaEo1U2hEc0twSXJ1V0FPcTZlWXEzdU1nd0NUNjNQanZrY1YxTlFsZVIxdk9ROGt5VU5wOENkTVNaWjZiX1labXR6VWNfak0?oc=5",
+      "pubDate": "2026-10-12T09:05:16.000Z",
+      "source": "Google 뉴스: 지원사업 공고/모집",
+      "category": "정부지원정책"
+    },
+    {
       "title": "[AI리더의 서가] 핸즈온 머신러닝 with 사이킷런. 파이토치",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=216139",
       "pubDate": "2026-10-12T09:03:08.000Z",
       "source": "AI타임스",
       "category": "AI"
+    },
+    {
+      "title": "LH 사장 “집값 급락 가능성 많아…지금 사지 않아도 손해 보지 않아”",
+      "link": "https://www.mk.co.kr/news/economy/12173966",
+      "pubDate": "2026-10-12T08:59:06.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "박홍근 “서민금융 이자부담 경감 추가지원 검토”",
+      "link": "https://www.mk.co.kr/news/economy/12173959",
+      "pubDate": "2026-10-12T08:45:35.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "[표] 외국환율고시표",
+      "link": "https://www.mk.co.kr/news/economy/12173942",
+      "pubDate": "2026-10-12T08:38:16.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "고령층 비은행권 대출 늘어 '비상'",
+      "link": "https://www.mk.co.kr/news/economy/12173944",
+      "pubDate": "2026-10-12T08:38:16.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "\"환차익 기회\" 돈 몰리는 외화예금",
+      "link": "https://www.mk.co.kr/news/economy/12173945",
+      "pubDate": "2026-10-12T08:38:16.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "\"물가 상당기간 목표 웃돌 것\"… 한은총재 금리인상 시사",
+      "link": "https://www.mk.co.kr/news/economy/12173940",
+      "pubDate": "2026-10-12T08:38:15.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "전북은행, 비트코인 담보 첫 대출",
+      "link": "https://www.mk.co.kr/news/economy/12173941",
+      "pubDate": "2026-10-12T08:38:15.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "\"韓, 2030년 이후 성장 정체될수도 … 반도체 호황 착시 경계를\"",
+      "link": "https://www.mk.co.kr/news/economy/12173939",
+      "pubDate": "2026-10-12T08:38:14.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "1333.2원 원화값 2년만에 최고",
+      "link": "https://www.mk.co.kr/news/economy/12173925",
+      "pubDate": "2026-10-12T08:36:00.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "\"LNG선도 안심 못해\"… 민관 1.4조 들여 'AI 조선소' 만든다",
+      "link": "https://www.mk.co.kr/news/economy/12173911",
+      "pubDate": "2026-10-12T08:34:31.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "\"공공임대 늘려라\" 명받은 LH·SH마저 … 2년후 종부세 40% 급증",
+      "link": "https://www.mk.co.kr/news/economy/12173903",
+      "pubDate": "2026-10-12T08:32:13.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "불량품 팔아도 '맹탕' 제재…수십번 적발된 업체 수두룩",
+      "link": "https://www.mk.co.kr/news/economy/12173883",
+      "pubDate": "2026-10-12T08:27:00.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "김미영 팀장 잡은 총경 영입 … 우리銀 '피싱과의 전쟁'",
+      "link": "https://www.mk.co.kr/news/economy/12173868",
+      "pubDate": "2026-10-12T08:24:05.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "[포토] 삼성 '2026 스마트홈 어워드' 수상",
+      "link": "https://www.mk.co.kr/news/economy/12173855",
+      "pubDate": "2026-10-12T08:23:55.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "달러당 원화값 2년 만에 최고…엔화값도 843원대로",
+      "link": "https://www.mk.co.kr/news/economy/12173843",
+      "pubDate": "2026-10-12T08:20:55.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "한은 총재 국정감사 중 “물가 상당기간 목표 웃돌 것”",
+      "link": "https://www.mk.co.kr/news/economy/12173812",
+      "pubDate": "2026-10-12T08:14:45.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "소공인 작업장 안전환경 개선 지원…3차 모집 20일까지 - 한국공공정책신문",
+      "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE44UDhaakFnb0h0cUY4UDkxWWgycGVzYjdZcExDR09DNFFrUXJvdkQxSWtKQV8yQlkwS3J6eTdELXdnQ1E?oc=5",
+      "pubDate": "2026-10-12T08:04:59.000Z",
+      "source": "Google 뉴스: 지원사업 공고/모집",
+      "category": "정부지원정책"
+    },
+    {
+      "title": "목포시, 관광취약계층 대상 ‘행복여행’ 참가자 모집 - 뉴스21 통신",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5wUkJHSG1YXzZEWmYtcVFiWGp4ZEZJVDF2X1RpNkJwblBydVh2ZDl3Ymw3V19qMm5tb3dwOXRjX09zc1NNSDJHRFJ1SnZBajlWWHFLcTFR?oc=5",
+      "pubDate": "2026-10-12T08:04:57.000Z",
+      "source": "Google 뉴스: 지원사업 공고/모집",
+      "category": "정부지원정책"
+    },
+    {
+      "title": "외국인 통장 개설은 5분…뒤에선 체류기간·이상거래까지 점검하는 카카오뱅크",
+      "link": "https://www.mk.co.kr/news/economy/12173768",
+      "pubDate": "2026-10-12T07:51:41.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "“상속세 부담 완화필요” 국힘, 최고세율 구간 10억 초과로 단일화 추진",
+      "link": "https://www.mk.co.kr/news/economy/12173766",
+      "pubDate": "2026-10-12T07:50:50.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "공정위, 대기업 브랜드 사용료 가이드라인 마련",
+      "link": "https://www.mk.co.kr/news/economy/12173714",
+      "pubDate": "2026-10-12T07:14:27.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "‘부채 173조’ LH 사장의 호소 “직원 사기 떨어지면 주택공급도 할 수 없다”",
+      "link": "https://www.mk.co.kr/news/economy/12173663",
+      "pubDate": "2026-10-12T06:53:52.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "쿠팡 조사거부에 공정위도 경고…주병기 “공익에 미칠 악영향 명백”",
+      "link": "https://www.mk.co.kr/news/economy/12173657",
+      "pubDate": "2026-10-12T06:48:32.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "정부, 글로벌 고신뢰 탄소시장 시동...내년 발행기구 구성",
+      "link": "https://www.mk.co.kr/news/economy/12173656",
+      "pubDate": "2026-10-12T06:46:45.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "“대출 더 조이라니”…이성훈 LH 사장에 민주당도 질타",
+      "link": "https://www.mk.co.kr/news/economy/12173652",
+      "pubDate": "2026-10-12T06:41:36.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "전북문화관광재단, '2026 베트남 달랏 판로개척 지원사업' 참여기업 모집 - 익산시민뉴스",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBCZUc1ZUJYMzNlLUt4Y0xXYlpjeDJFeV9EMkZ3SjdaTFNQdDEzWFZuaklMcGlGUUptRUdlekI3YnR6WE5kMFMyU2pZZUFENlIxNk9YSUl6VlpZSWJFeHlBeDJPVTBBMktNREhF?oc=5",
+      "pubDate": "2026-10-12T06:33:00.000Z",
+      "source": "Google 뉴스: 지원사업 공고/모집",
+      "category": "정부지원정책"
+    },
+    {
+      "title": "래블업, 한국어 AI 답변 빨라지게 하는 보조 모델 오픈소스 공개",
+      "link": "https://platum.kr/archives/296051?utm_source=rss&utm_medium=rss&utm_campaign=%25eb%259e%2598%25eb%25b8%2594%25ec%2597%2585-%25ed%2595%259c%25ea%25b5%25ad%25ec%2596%25b4-ai-%25eb%258b%25b5%25eb%25b3%2580-%25eb%25b9%25a8%25eb%259d%25bc%25ec%25a7%2580%25ea%25b2%258c-%25ed%2595%2598%25eb%258a%2594-%25eb%25b3%25b4%25ec%25a1%25b0-%25eb%25aa%25a8%25eb%258d%25b8-%25ec%2598%25a4%25ed%2594%2588%25ec%2586%258c",
+      "pubDate": "2026-10-12T06:28:13.000Z",
+      "source": "플래텀",
+      "category": "창업"
+    },
+    {
+      "title": "글로우스페이스, 숙소 청소 인력 연결 플랫폼 ‘체크아웃히어로’ 프리 오픈",
+      "link": "https://platum.kr/archives/296046?utm_source=rss&utm_medium=rss&utm_campaign=%25ea%25b8%2580%25eb%25a1%259c%25ec%259a%25b0%25ec%258a%25a4%25ed%258e%2598%25ec%259d%25b4%25ec%258a%25a4-%25ec%2588%2599%25ec%2586%258c-%25ec%25b2%25ad%25ec%2586%258c-%25ec%259d%25b8%25eb%25a0%25a5-%25ec%2597%25b0%25ea%25b2%25b0-%25ed%2594%258c%25eb%259e%25ab%25ed%258f%25bc-%25ec%25b2%25b4%25ed%2581%25ac%25ec%2595%2584",
+      "pubDate": "2026-10-12T06:24:35.000Z",
+      "source": "플래텀",
+      "category": "창업"
+    },
+    {
+      "title": "채용공고, ‘AI 활용 능력’ 대신 클로드·챗GPT 이름 적는다",
+      "link": "https://platum.kr/archives/296027?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%25b1%2584%25ec%259a%25a9%25ea%25b3%25b5%25ea%25b3%25a0-ai-%25ed%2599%259c%25ec%259a%25a9-%25eb%258a%25a5%25eb%25a0%25a5-%25eb%258c%2580%25ec%258b%25a0-%25ed%2581%25b4%25eb%25a1%259c%25eb%2593%259c%25c2%25b7%25ec%25b1%2597gpt-%25ec%259d%25b4%25eb%25a6%2584-%25ec%25a0%2581%25eb%258a%2594",
+      "pubDate": "2026-10-12T06:21:16.000Z",
+      "source": "플래텀",
+      "category": "창업"
+    },
+    {
+      "title": "[단독] 높아지는 EU 탄소장벽...“현지 규정변경 대응해 운영비 확보를”",
+      "link": "https://www.mk.co.kr/news/economy/12173612",
+      "pubDate": "2026-10-12T06:09:34.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "양산시, 스마트공장 구축에 기업당 최대 7,200만 원 지원…참여기업 모집 - 코리아이글뉴스",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9aaVNHWDc4OTl4Y1pIVEdEV3lNRGxwMzltWk9wMDdKY1A4bFAxdnF0NmhHU1ZhWUlibE83RXRkY2VpNkU1WVBFaDlVN3dPaWVfVWJPWVlWZjMxZ2N2M3lRNHJhZGNYYUNLV0pLQ3gzeFJtOHM?oc=5",
+      "pubDate": "2026-10-12T06:05:00.000Z",
+      "source": "Google 뉴스: 지원사업 공고/모집",
+      "category": "정부지원정책"
+    },
+    {
+      "title": "전북문화관광재단, ‘베트남 달랏 판로개척 지원사업’ 참여기업 모집 - 전북도민일보",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQejlWYVZOelVuV1ZkaHBtUjJkY3hlTW1iaXpIUjlSRWpDa3N3LXlGTHRwSVlNUXBuc3JWWk13YWNUODNISy1xSkowQVNQay1JRU5ZSl9teVlTMV9MMGFDMFZwTEJmSGsxWTRKQmJKOUxBUzQtcExyR1piTTIwTjhGRlRtOU53Zw?oc=5",
+      "pubDate": "2026-10-12T05:53:00.000Z",
+      "source": "Google 뉴스: 지원사업 공고/모집",
+      "category": "정부지원정책"
+    },
+    {
+      "title": "KT&G 상상스타트업캠프 10기 데모데이, 사이클엑스 대상",
+      "link": "https://platum.kr/archives/296042?utm_source=rss&utm_medium=rss&utm_campaign=ktg-%25ec%2583%2581%25ec%2583%2581%25ec%258a%25a4%25ed%2583%2580%25ed%258a%25b8%25ec%2597%2585%25ec%25ba%25a0%25ed%2594%2584-10%25ea%25b8%25b0-%25eb%258d%25b0%25eb%25aa%25a8%25eb%258d%25b0%25ec%259d%25b4-%25ec%2582%25ac%25ec%259d%25b4%25ed%2581%25b4%25ec%2597%2591%25ec%258a%25a4-%25eb%258c%2580%25ec%2583%2581",
+      "pubDate": "2026-10-12T05:49:11.000Z",
+      "source": "플래텀",
+      "category": "창업"
+    },
+    {
+      "title": "“기준금리 10월 또 올리나” 질문에…한은 총재가 국감장에서 밝힌 답변은",
+      "link": "https://www.mk.co.kr/news/economy/12173588",
+      "pubDate": "2026-10-12T05:45:39.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "양산시, 스마트공장·제조AI 지원사업 참여기업 모집 - 울산매일 - 울산최초, 최고의 조간신문",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4zMHV4aXo3cjFyOGpNMnkwQUIwbFV0LW1NbFlXUmdBSnZRT3dNZV91UWJ3bHNsZEoyX0NKeEdnS21PX1lSRmJIWXRlSVk1bGxSRE9jRkFjLWZFWGRSU3F6dVc4TDFmUWZpSUHSAW5BVV95cUxOc05SakFFNzktelJ3U2pLTy1kQms1ajNmQi1FZjVhbDFUeUxLNVNCOHdiSnJlRnkzZmVKT1lmR29UNEhtZ2lWN2VrRjNIdk41UHFVc0xnWlZGcllpbXZrZDY3UmVJRWZnQ0dENmFUUQ?oc=5",
+      "pubDate": "2026-10-12T05:36:38.000Z",
+      "source": "Google 뉴스: 지원사업 공고/모집",
+      "category": "정부지원정책"
+    },
+    {
+      "title": "5000만원→7000만원…청년주택드림 청약통장 가입 소득기준 완화",
+      "link": "https://www.mk.co.kr/news/economy/12173578",
+      "pubDate": "2026-10-12T05:34:36.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "[단독] “100만원 잘못 보냈는데 소송걸긴 좀”...농협 착오송금 4800억 절반 미반환",
+      "link": "https://www.mk.co.kr/news/economy/12173573",
+      "pubDate": "2026-10-12T05:31:18.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "“진짜 지폐팝니다”…483장→9716장, 20배 급증 ‘위조지폐’ SNS 광고까지",
+      "link": "https://www.mk.co.kr/news/economy/12173565",
+      "pubDate": "2026-10-12T05:25:14.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "양산시, 제조업 디지털·AI 전환 지원…최대 6000만원 지원 - 아시아투데이",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9LQU45YjZXb1VUcGhhcXpDTXBFTHFmM3FjUzVUQWoySVJINFBYeG51dDJCcFNwVTlDU2dLaTRhUWIyVTdteU9TRGx5aXRjcEpwaEpaVTJlZ2U4Slg0M2NYVUJlNTkzMHpBQ3d0Tkd3?oc=5",
+      "pubDate": "2026-10-12T05:21:14.000Z",
+      "source": "Google 뉴스: 지원사업 공고/모집",
+      "category": "정부지원정책"
+    },
+    {
+      "title": "스마트공장 구축지원사업 참여하세요…양산시, 기업모집 - 뉴시스",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0zSEMxdzlCWnNUQlhuTWtudTF5SXRCRHY3LWQ3VktnNmdpWGlwZDRfVEpHMjhiT1dvTWJCUEsyN3ZCdnZDSzVkUnVLLUJJVXhaeHJvRDFiOXlLWG1YaVJWN9IBeEFVX3lxTFBrOTBkVDFHTDN4UEYwZHBpYmlfd2s1dzlRQl9MbEY3UDR6WU1TZjBPQmxnc1RtNldPZVBOWFFBSlRLQnpLcXdWY3V1OHN5ZE5acnRRNFJlVzM4UXFzT3lVVTJMRXVmYWlQRGNNMzBNQWhvMmpqaG5NMA?oc=5",
+      "pubDate": "2026-10-12T05:15:24.000Z",
+      "source": "Google 뉴스: 지원사업 공고/모집",
+      "category": "정부지원정책"
+    },
+    {
+      "title": "[양산 24시] 양산시, 스마트공장·제조AI 지원기업 모집…최대 7200만원 지원 - 시사저널",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBCYm1zYVkxQjdWaGNWVjZQVEtudFlEcFZ3NDZBV1VtUFVDX19mS0NJUnZfdTdCd3JyVlUzTl80QWltOXJvS1FNNkxldURPYmdqMzcxSEtQMEgyRlJxQ1EwamFMUGlUTl9nc2N6d1ZranJRLVHSAXNBVV95cUxQQmJtc2FZMUI3VmhjVlY2UFRLbnRZRHBWdzQ2QVdVbVBVQ19fZktDSVJ2X3U3QndyclZVM05fNEFpbTlyb0tRTTZMZXVET2JnajM3MUhLUDBIMkZScUNRMGphTFBpVE5fZ3NjendWa2pyUS1R?oc=5",
+      "pubDate": "2026-10-12T05:13:05.000Z",
+      "source": "Google 뉴스: 지원사업 공고/모집",
+      "category": "정부지원정책"
     },
     {
       "title": "양산시, 「경남 스마트공장 구축지원」 참여기업 모집 - 양산타임스",
@@ -115,6 +549,13 @@
       "category": "정부지원정책"
     },
     {
+      "title": "모두의 창업 1차, 멘토 대신 투자자가 평가하는 지역 오디션 시작",
+      "link": "https://platum.kr/archives/296039?utm_source=rss&utm_medium=rss&utm_campaign=%25eb%25aa%25a8%25eb%2591%2590%25ec%259d%2598-%25ec%25b0%25bd%25ec%2597%2585-1%25ec%25b0%25a8-%25eb%25a9%2598%25ed%2586%25a0-%25eb%258c%2580%25ec%258b%25a0-%25ed%2588%25ac%25ec%259e%2590%25ec%259e%2590%25ea%25b0%2580-%25ed%258f%2589%25ea%25b0%2580%25ed%2595%2598%25eb%258a%2594-%25ec%25a7%2580%25ec%2597%25ad-%25ec%2598%25a4",
+      "pubDate": "2026-10-12T04:40:46.000Z",
+      "source": "플래텀",
+      "category": "창업"
+    },
+    {
       "title": "“단일종목 레버리지 ETF, 경고 충분치 못했다”…한은 총재 국감서 사과",
       "link": "https://www.mk.co.kr/news/economy/12173521",
       "pubDate": "2026-10-12T04:32:02.000Z",
@@ -127,6 +568,13 @@
       "pubDate": "2026-10-12T04:19:38.000Z",
       "source": "매일경제 경제",
       "category": "경제"
+    },
+    {
+      "title": "레진엔터테인먼트, 웹툰 캐릭터와 대화하는 AI 캐릭터챗 ‘티즈’ 선보인다",
+      "link": "https://platum.kr/archives/296033?utm_source=rss&utm_medium=rss&utm_campaign=%25eb%25a0%2588%25ec%25a7%2584%25ec%2597%2594%25ed%2584%25b0%25ed%2585%258c%25ec%259d%25b8%25eb%25a8%25bc%25ed%258a%25b8-%25ec%259b%25b9%25ed%2588%25b0-%25ec%25ba%2590%25eb%25a6%25ad%25ed%2584%25b0%25ec%2599%2580-%25eb%258c%2580%25ed%2599%2594%25ed%2595%2598%25eb%258a%2594-ai-%25ec%25ba%2590%25eb%25a6%25ad%25ed%2584%25b0",
+      "pubDate": "2026-10-12T04:08:20.000Z",
+      "source": "플래텀",
+      "category": "창업"
     },
     {
       "title": "[단독] 마음이 아프니까 청춘이다?…‘정신질병 산재’ 42%는 2030",
@@ -171,6 +619,13 @@
       "category": "경제"
     },
     {
+      "title": "마케마케 ‘SOOO’ 키즈 올인원, 뷰티월드 두바이 어워드 퍼스널케어 부문 수상",
+      "link": "https://platum.kr/archives/296030?utm_source=rss&utm_medium=rss&utm_campaign=%25eb%25a7%2588%25ec%25bc%2580%25eb%25a7%2588%25ec%25bc%2580-sooo-%25ed%2582%25a4%25ec%25a6%2588-%25ec%2598%25ac%25ec%259d%25b8%25ec%259b%2590-%25eb%25b7%25b0%25ed%258b%25b0%25ec%259b%2594%25eb%2593%259c-%25eb%2591%2590%25eb%25b0%2594%25ec%259d%25b4-%25ec%2596%25b4%25ec%259b%258c%25eb%2593%259c",
+      "pubDate": "2026-10-12T02:02:00.000Z",
+      "source": "플래텀",
+      "category": "창업"
+    },
+    {
       "title": "양산시, 경남 스마트공장 구축지원 참여기업 모집 - 웹이코노미",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1UTnBEZ29lam85UDVZMXdPYjN1bjBSTGFVU256aEhJVzF0RTZuVDZBVDZzSmZISEdjbkp0TWY5anZRcTI0WjRMMmo4Nl9zclowNEZxbzJ5aTBQaF9Tcnp5MEhDQnJxczB1RWdBOTB5c2RyUQ?oc=5",
       "pubDate": "2026-10-12T02:01:12.000Z",
@@ -192,6 +647,13 @@
       "category": "경제"
     },
     {
+      "title": "K-바이오 스타트업, 싱가포르 의료계 앞에서 IR… 티비지파트너스 ‘커넥트 2026’",
+      "link": "https://platum.kr/archives/296026?utm_source=rss&utm_medium=rss&utm_campaign=k-%25eb%25b0%2594%25ec%259d%25b4%25ec%2598%25a4-%25ec%258a%25a4%25ed%2583%2580%25ed%258a%25b8%25ec%2597%2585-%25ec%258b%25b1%25ea%25b0%2580%25ed%258f%25ac%25eb%25a5%25b4-%25ec%259d%2598%25eb%25a3%258c%25ea%25b3%2584-%25ec%2595%259e%25ec%2597%2590%25ec%2584%259c-ir-%25ed%258b%25b0%25eb%25b9%2584%25ec%25a7%2580",
+      "pubDate": "2026-10-12T01:48:19.000Z",
+      "source": "플래텀",
+      "category": "창업"
+    },
+    {
       "title": "다른 은행 빚까지 전부 나온다…신용정보 시스템 10년만에 전면 개편",
       "link": "https://www.mk.co.kr/news/economy/12173380",
       "pubDate": "2026-10-12T01:30:32.000Z",
@@ -211,6 +673,13 @@
       "pubDate": "2026-10-12T01:26:59.000Z",
       "source": "매일경제 경제",
       "category": "경제"
+    },
+    {
+      "title": "세진사, 서울대기술지주 브릿지 투자 유치… 세차 데이터로 AI 차량관리",
+      "link": "https://platum.kr/archives/296018?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%2584%25b8%25ec%25a7%2584%25ec%2582%25ac-%25ec%2584%259c%25ec%259a%25b8%25eb%258c%2580%25ea%25b8%25b0%25ec%2588%25a0%25ec%25a7%2580%25ec%25a3%25bc-%25eb%25b8%258c%25eb%25a6%25bf%25ec%25a7%2580-%25ed%2588%25ac%25ec%259e%2590-%25ec%259c%25a0%25ec%25b9%2598-%25ec%2584%25b8%25ec%25b0%25a8-%25eb%258d%25b0",
+      "pubDate": "2026-10-12T01:12:17.000Z",
+      "source": "플래텀",
+      "category": "창업"
     },
     {
       "title": "양산시, 중소기업 '스마트공장·AI 전환' 지원사업 참여기업 모집 - 아시아경제",
@@ -290,6 +759,13 @@
       "category": "경제"
     },
     {
+      "title": "심심이, 정부 사업공고 2만8000건 AI로 분석…공공사업 발굴부터 파트너 탐색까지 지원 - 벤처스퀘어",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0wWUtwX3lZN2prUEN1Ymg4MXJJb3pfWFdKbEVXcXF1aTVDTmdDUHZmLUFuUm51WFdrRGU5ejJRQWx6NUI4Wk8tRlFkc3d6RDg?oc=5",
+      "pubDate": "2026-10-11T20:05:10.000Z",
+      "source": "Google 뉴스: 지원사업 공고/모집",
+      "category": "정부지원정책"
+    },
+    {
       "title": "앤트로픽, '클로드 스타트업' 무료 혜택 일시 중단…신청 폭증에 전면 재검토",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=216136",
       "pubDate": "2026-10-11T19:46:59.000Z",
@@ -337,6 +813,13 @@
       "pubDate": "2026-10-11T16:32:04.000Z",
       "source": "AI타임스",
       "category": "AI"
+    },
+    {
+      "title": "머스크 “테슬라 AI, 화면만 보고 디아블로 절반 진행…롤도 학습 중”",
+      "link": "https://platum.kr/archives/296013?utm_source=rss&utm_medium=rss&utm_campaign=%25eb%25a8%25b8%25ec%258a%25a4%25ed%2581%25ac-%25ed%2585%258c%25ec%258a%25ac%25eb%259d%25bc-ai-%25ed%2599%2594%25eb%25a9%25b4%25eb%25a7%258c-%25eb%25b3%25b4%25ea%25b3%25a0-%25eb%2594%2594%25ec%2595%2584%25eb%25b8%2594%25eb%25a1%259c-%25ec%25a0%2588%25eb%25b0%2598-%25ec%25a7%2584%25ed%2596%2589",
+      "pubDate": "2026-10-11T15:41:29.000Z",
+      "source": "플래텀",
+      "category": "창업"
     },
     {
       "title": "대통령의 과도한 SNS 소통이 걱정되는 이유, ‘호모 휴리스티쿠스’ [논설실 Pick ]",
@@ -547,6 +1030,13 @@
       "pubDate": "2026-10-11T04:20:42.000Z",
       "source": "매일경제 경제",
       "category": "경제"
+    },
+    {
+      "title": "대구 남구, 청년 창업·지역기업 성장 잇는 ‘남구다운 창업’ 3차 모집 - 뉴데일리 대구경북",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1QSTNwUXNRSVc4TmdkOTgzM3JTYmViQWdIeGtlTTV3OGtka3dsRlFfamtCU19WdUxlalN4enp1S3RSRWNfN1NnU25pY3dSWnNUcFZQNmNjTG43RW9NU09sVFp4TG9hd1NTN1E1TUQ3OGNKVFVyaHhIMExn0gF_QVVfeXFMT2RyQ2p4empGUjdIWk1GMGNScDJxR3owZk9xTDJjYzZKYVE4eGxsMGxOR2JUamd5R1A0b21Qc1FpcWFGekpBdHNaS1pSWTZDLURfVlRnRXZNdGFITEdFTDVhUmYyby03bi1TTHI1VlFJSVNYRld4N3ByQ05VVE9Lbw?oc=5",
+      "pubDate": "2026-10-11T04:20:32.000Z",
+      "source": "Google 뉴스: 지원사업 공고/모집",
+      "category": "정부지원정책"
     },
     {
       "title": "내년 2월 개 식용 금지법 앞두고...사육 농장 87% 폐업",
@@ -3011,496 +3501,6 @@
       "pubDate": "2026-10-06T08:21:35.000Z",
       "source": "매일경제 경제",
       "category": "경제"
-    },
-    {
-      "title": "“실손보험 재가입할 때인데”…5세대로 전환 앞두고 점검할 사안은",
-      "link": "https://www.mk.co.kr/news/economy/12169411",
-      "pubDate": "2026-10-06T07:45:05.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "“ESS 중앙계약시장, 사업자에 과도한 수익 보장”",
-      "link": "https://www.mk.co.kr/news/economy/12169403",
-      "pubDate": "2026-10-06T07:33:49.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "내게 맞는 정책 · 지원 - 지원사업 - 2026년 일본 제조혁신 실전 프로그램 참가기업 모집 공고 - 인천광역시",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSG5qSGFTSDl0bnJBQk9QTDRFNEFaQnk5OEp0YU1wcjZhenpQUVFYNUxGNE5JcTcwYTJJRXc1Z2VWSU9nNWpwQ0xhTmhRQXg0Rmc4Vi1CbDIyeE9lOHRwbEU3ejRtU3BxRDlGNkFpSHluX3piRTM1MlgzLVVjS3I1YndqalNDaUpmS3dIWTJDUQ?oc=5",
-      "pubDate": "2026-10-06T07:00:00.000Z",
-      "source": "Google 뉴스: 지원사업 공고/모집",
-      "category": "정부지원정책"
-    },
-    {
-      "title": "내게 맞는 정책 · 지원 - 지원사업 - [인천] 2026년 IFEZ 스마트시티 시민참여 리빙랩 실증 프로그램 참가기업 모집 공고 - 인천광역시",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNbnFTRXhSVHVXUldyekRya1ZTdDhrZ0lFMzlLSGVxVWtDdGxaMDlKaDhpZ1BsWUpyOWM0YWpaLUVzdlN1cy1tZ0dYc1hKSUZLeHZhOGotMEQwaVhQV1FOSm5oMnNvRU14dDMzTl84bzZod1Z2VzNSRXQza3VfSTlraEtWQXBKSWhRRTVzZ1ptbw?oc=5",
-      "pubDate": "2026-10-06T07:00:00.000Z",
-      "source": "Google 뉴스: 지원사업 공고/모집",
-      "category": "정부지원정책"
-    },
-    {
-      "title": "최대 19.4% 금리효과…청년미래적금 2차 가입신청 7일 개시",
-      "link": "https://www.mk.co.kr/news/economy/12169338",
-      "pubDate": "2026-10-06T06:49:08.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "“개인정보 유출 피해보상” 문자 주의…금융당국, 2차 피해 경보",
-      "link": "https://www.mk.co.kr/news/economy/12169336",
-      "pubDate": "2026-10-06T06:47:37.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "25년 ‘외환위기 청구서’ 끝나는데…은행 ‘안도’, 보험 ‘긴장’",
-      "link": "https://www.mk.co.kr/news/economy/12169311",
-      "pubDate": "2026-10-06T06:27:46.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "용인시산업진흥원, 해외물류비 지원 '올해 마지막' 3차 기업 모집 - 굿타임즈",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA3ajQtYlVsdEg1bkFlNEdYV1JsOTc3REE4RElUZ0h1enVhN1JLUm1YRUtqUk1DbDNBMFVTWm42VjQtdEN0Mmo2WG1rWUdLVFNybFg2MDFtY2s5U2JMQ3hDWWtCdjJTbXlVSjU0T25SOA?oc=5",
-      "pubDate": "2026-10-06T06:25:40.000Z",
-      "source": "Google 뉴스: 지원사업 공고/모집",
-      "category": "정부지원정책"
-    },
-    {
-      "title": "오픈랩소디, 팀이 함께 쓰는 AI 작업 공간 ‘보따리’ 베타 출시",
-      "link": "https://platum.kr/archives/295777?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%2598%25a4%25ed%2594%2588%25eb%259e%25a9%25ec%2586%258c%25eb%2594%2594-%25ed%258c%2580%25ec%259d%25b4-%25ed%2595%25a8%25ea%25bb%2598-%25ec%2593%25b0%25eb%258a%2594-ai-%25ec%259e%2591%25ec%2597%2585-%25ea%25b3%25b5%25ea%25b0%2584-%25eb%25b3%25b4%25eb%2594%25b0%25eb%25a6%25ac-%25eb%25b2%25a0%25ed%2583%2580",
-      "pubDate": "2026-10-06T06:23:56.000Z",
-      "source": "플래텀",
-      "category": "창업"
-    },
-    {
-      "title": "“첨단산업에 필수”…수은, 구리 등 ‘7대 핵심광물’에 3조원 풀었다",
-      "link": "https://www.mk.co.kr/news/economy/12169308",
-      "pubDate": "2026-10-06T06:22:39.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "금감원, 취준생 대상 금융특강…‘빚투·가상자산 사기’ 예방 강화",
-      "link": "https://www.mk.co.kr/news/economy/12169306",
-      "pubDate": "2026-10-06T06:20:18.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "체불임금 부정수급 제동…신고포상금 두배 확대",
-      "link": "https://www.mk.co.kr/news/economy/12169297",
-      "pubDate": "2026-10-06T06:10:24.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "[단독]가계도 자영업자도 못 갚는 돈 급증…인뱅 중저신용대출 부실 경고등",
-      "link": "https://www.mk.co.kr/news/economy/12169256",
-      "pubDate": "2026-10-06T05:26:41.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "[단독]새출발기금 채무조정 이후 다시 연체…2.4만명 ‘실효’",
-      "link": "https://www.mk.co.kr/news/economy/12169246",
-      "pubDate": "2026-10-06T05:23:38.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "국민성장펀드, ‘국민’보다 중장년…가입자 81%가 40대 이상",
-      "link": "https://www.mk.co.kr/news/economy/12169240",
-      "pubDate": "2026-10-06T05:20:28.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "엔비디아가 투자한 리플렉션 AI, 첫 오픈 모델 ‘빔’ 선보여",
-      "link": "https://platum.kr/archives/295771?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%2597%2594%25eb%25b9%2584%25eb%2594%2594%25ec%2595%2584%25ea%25b0%2580-%25ed%2588%25ac%25ec%259e%2590%25ed%2595%259c-%25eb%25a6%25ac%25ed%2594%258c%25eb%25a0%2589%25ec%2585%2598-ai-%25ec%25b2%25ab-%25ec%2598%25a4%25ed%2594%2588-%25eb%25aa%25a8%25eb%258d%25b8-%25eb%25b9%2594-%25ec%2584%25a0%25eb%25b3%25b4",
-      "pubDate": "2026-10-06T05:07:53.000Z",
-      "source": "플래텀",
-      "category": "창업"
-    },
-    {
-      "title": "“미리 사두길 잘했네”…스페이스X 급등에 미래에셋 ‘선구안’ 다시 주목",
-      "link": "https://www.mk.co.kr/news/economy/12169200",
-      "pubDate": "2026-10-06T05:01:12.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "용인시산업진흥원, 해외물류비 지원 ‘올해 마지막’ 3차 기업 모집 - 산경일보",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAxOU0xRlotRGd0R2VNNlFnbmFkN0lic2VvN1g4THQySDVQVHBlbnJTRDg3Vkx4UDhPc2hIa09GdF81NkdLSzdBTElTaGliMGJWRXZPSG95VF9VX0wwYXdkYmtseG5va0M5ZlNaWXlnWEY?oc=5",
-      "pubDate": "2026-10-06T04:57:13.000Z",
-      "source": "Google 뉴스: 지원사업 공고/모집",
-      "category": "정부지원정책"
-    },
-    {
-      "title": "금융사 해킹 IP, 카뱅·케뱅·토뱅에도 접근 시도…밝혀진 피해는 없어",
-      "link": "https://www.mk.co.kr/news/economy/12169174",
-      "pubDate": "2026-10-06T04:31:28.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "[중국 비즈니스 트렌드&동향] 리오토가 꺼낸 ‘전우론’, 화웨이 하이마의 4계 체제",
-      "link": "https://platum.kr/archives/295749?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%25a4%2591%25ea%25b5%25ad-%25eb%25b9%2584%25ec%25a6%2588%25eb%258b%2588%25ec%258a%25a4-%25ed%258a%25b8%25eb%25a0%258c%25eb%2593%259c%25eb%258f%2599%25ed%2596%25a5-%25eb%25a6%25ac%25ec%2598%25a4%25ed%2586%25a0%25ea%25b0%2580-%25ea%25ba%25bc%25eb%2582%25b8-%25ec%25a0%2584%25ec%259a%25b0%25eb%25a1%25a0",
-      "pubDate": "2026-10-06T03:44:08.000Z",
-      "source": "플래텀",
-      "category": "창업"
-    },
-    {
-      "title": "한국 가상자산 시장 동아시아 1위, 원화 거래서 AI 코인 비중 유독 높아",
-      "link": "https://platum.kr/archives/295763?utm_source=rss&utm_medium=rss&utm_campaign=%25ed%2595%259c%25ea%25b5%25ad-%25ea%25b0%2580%25ec%2583%2581%25ec%259e%2590%25ec%2582%25b0-%25ec%258b%259c%25ec%259e%25a5-%25eb%258f%2599%25ec%2595%2584%25ec%258b%259c%25ec%2595%2584-1%25ec%259c%2584-%25ec%259b%2590%25ed%2599%2594-%25ea%25b1%25b0%25eb%259e%2598%25ec%2584%259c-ai-%25ec%25bd%2594%25ec%259d%25b8",
-      "pubDate": "2026-10-06T03:12:42.000Z",
-      "source": "플래텀",
-      "category": "창업"
-    },
-    {
-      "title": "AI 디지털 휴먼 상대로 영업·면접 연습, 클레온 ‘롤핏 스튜디오’ 출시",
-      "link": "https://platum.kr/archives/295760?utm_source=rss&utm_medium=rss&utm_campaign=ai-%25eb%2594%2594%25ec%25a7%2580%25ed%2584%25b8-%25ed%259c%25b4%25eb%25a8%25bc-%25ec%2583%2581%25eb%258c%2580%25eb%25a1%259c-%25ec%2598%2581%25ec%2597%2585%25c2%25b7%25eb%25a9%25b4%25ec%25a0%2591-%25ec%2597%25b0%25ec%258a%25b5-%25ed%2581%25b4%25eb%25a0%2588%25ec%2598%25a8-%25eb%25a1%25a4%25ed%2595%258f-%25ec%258a%25a4",
-      "pubDate": "2026-10-06T03:08:37.000Z",
-      "source": "플래텀",
-      "category": "창업"
-    },
-    {
-      "title": "함정 장병이 묻고 AI가 교범으로 답한다, 마키나락스 해군 포항함에 ‘AI 참모’ 탑재",
-      "link": "https://platum.kr/archives/295757?utm_source=rss&utm_medium=rss&utm_campaign=%25ed%2595%25a8%25ec%25a0%2595-%25ec%259e%25a5%25eb%25b3%2591%25ec%259d%25b4-%25eb%25ac%25bb%25ea%25b3%25a0-ai%25ea%25b0%2580-%25ea%25b5%2590%25eb%25b2%2594%25ec%259c%25bc%25eb%25a1%259c-%25eb%258b%25b5%25ed%2595%259c%25eb%258b%25a4-%25eb%25a7%2588%25ed%2582%25a4%25eb%2582%2598%25eb%259d%25bd%25ec%258a%25a4-%25ed%2595%25b4",
-      "pubDate": "2026-10-06T03:02:45.000Z",
-      "source": "플래텀",
-      "category": "창업"
-    },
-    {
-      "title": "‘연 19% 금리’ 청년미래적금 2차 가입…내일부터 신청 접수",
-      "link": "https://www.mk.co.kr/news/economy/12169014",
-      "pubDate": "2026-10-06T03:00:00.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "차기 수협은행장 2차 표결서도 후보 선정 불발",
-      "link": "https://www.mk.co.kr/news/economy/12169138",
-      "pubDate": "2026-10-06T02:52:14.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "누리하우스, 뉴욕 K-라이프스타일 공간 ‘하우스 오브 케이’ 시즌2 개막",
-      "link": "https://platum.kr/archives/295750?utm_source=rss&utm_medium=rss&utm_campaign=%25eb%2588%2584%25eb%25a6%25ac%25ed%2595%2598%25ec%259a%25b0%25ec%258a%25a4-%25eb%2589%25b4%25ec%259a%2595-k-%25eb%259d%25bc%25ec%259d%25b4%25ed%2594%2584%25ec%258a%25a4%25ed%2583%2580%25ec%259d%25bc-%25ea%25b3%25b5%25ea%25b0%2584-%25ed%2595%2598%25ec%259a%25b0%25ec%258a%25a4-%25ec%2598%25a4%25eb%25b8%258c-%25ec%25bc%2580",
-      "pubDate": "2026-10-06T02:47:46.000Z",
-      "source": "플래텀",
-      "category": "창업"
-    },
-    {
-      "title": "천천히 먹기를 숫자로, 에어팟 활용 식사 코치 앱 오도독",
-      "link": "https://platum.kr/archives/295745?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%25b2%259c%25ec%25b2%259c%25ed%259e%2588-%25eb%25a8%25b9%25ea%25b8%25b0%25eb%25a5%25bc-%25ec%2588%25ab%25ec%259e%2590%25eb%25a1%259c-%25ec%2597%2590%25ec%2596%25b4%25ed%258c%259f-%25ed%2599%259c%25ec%259a%25a9-%25ec%258b%259d%25ec%2582%25ac-%25ec%25bd%2594%25ec%25b9%2598-%25ec%2595%25b1-%25ec%2598%25a4%25eb%258f%2584",
-      "pubDate": "2026-10-06T02:45:32.000Z",
-      "source": "플래텀",
-      "category": "창업"
-    },
-    {
-      "title": "[단독] 국정과제라더니 예산 반토막…첨단의료기기 R&D 발목 잡혔다",
-      "link": "https://www.mk.co.kr/news/economy/12169098",
-      "pubDate": "2026-10-06T02:36:44.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "용인시산업진흥원, 해외물류비 지원 3차 기업 모집 실시 - 웹이코노미",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5QZzMwREtFNW9jZnRncDlXTFREUlpsS2xjYXd4VndsME0tRHdFdVJOQ2FYbndQVEt1WEFNWUNpUld6RnFWcGVVRmItMTI0YTdTZG1vR3VCUFNuTG5UNXF3TVloVThWVXo5Nk9tODY5Zi1Ydw?oc=5",
-      "pubDate": "2026-10-06T02:29:02.000Z",
-      "source": "Google 뉴스: 지원사업 공고/모집",
-      "category": "정부지원정책"
-    },
-    {
-      "title": "“비번 같은걸로 돌려쓰면 망해요”…금융권 해킹 2차 피해 막으려면",
-      "link": "https://www.mk.co.kr/news/economy/12169087",
-      "pubDate": "2026-10-06T02:23:47.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "There’s now a monthly virtual support group for creators struggling with their mental health",
-      "link": "https://www.tubefilter.com/2026/10/05/creators-4-mental-health-the-check-in/",
-      "pubDate": "2026-10-06T02:22:01.000Z",
-      "source": "Tubefilter",
-      "category": "수익화/크리에이터 이코노미"
-    },
-    {
-      "title": "“제발 해킹 좀 막아주세요”…금융권 ‘AI 보안 고수’ 모시기 전쟁",
-      "link": "https://www.mk.co.kr/news/economy/12169086",
-      "pubDate": "2026-10-06T02:21:37.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "원프레딕트, 국가 피지컬AI 사업서 ‘제조 AI 공통 프레임워크’ 개발 맡는다",
-      "link": "https://platum.kr/archives/295738?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%259b%2590%25ed%2594%2584%25eb%25a0%2588%25eb%2594%2595%25ed%258a%25b8-%25ea%25b5%25ad%25ea%25b0%2580-%25ed%2594%25bc%25ec%25a7%2580%25ec%25bb%25acai-%25ec%2582%25ac%25ec%2597%2585%25ec%2584%259c-%25ec%25a0%259c%25ec%25a1%25b0-ai-%25ea%25b3%25b5%25ed%2586%25b5-%25ed%2594%2584%25eb%25a0%2588%25ec%259e%2584",
-      "pubDate": "2026-10-06T02:13:27.000Z",
-      "source": "플래텀",
-      "category": "창업"
-    },
-    {
-      "title": "내게 맞는 정책 · 지원 - 지원사업 - 2026년 인천콘텐츠기업지원센터 제4차 입주기업 모집공고 - 인천광역시",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZUJtdWlOZE5DMXpUYjVWNHhVZnlDaEJ5ajhiTjFCZENsYzIyM0ltdDZDV0lOQ1k3elo5c2VoamF3M3c1b0RRMUdsbXBXbnlYTUlXcXduR1Z6NVVxMFpmTU9TNjRUS2Z6RjlQLUtnT3dBLXJzQUllYUNPbHVERlE1MUdaVnJlV1ZjWGVsVTBoSQ?oc=5",
-      "pubDate": "2026-10-06T02:03:08.000Z",
-      "source": "Google 뉴스: 지원사업 공고/모집",
-      "category": "정부지원정책"
-    },
-    {
-      "title": "“다들 주가 떨어져 울상인데”…석 달 새 1조 넘게 불어난 ‘이 사람’ 무슨 일?",
-      "link": "https://www.mk.co.kr/news/economy/12169058",
-      "pubDate": "2026-10-06T02:00:00.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "수상한 전화 받으면 은행도 바로 안다…LG유플러스, 우리은행과 보이스피싱 대응 나서",
-      "link": "https://www.mk.co.kr/news/economy/12169053",
-      "pubDate": "2026-10-06T01:50:56.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "이형일 부총리 “물가안정·양극화 완화에 총력…성장세 확대 촉진할 것”",
-      "link": "https://www.mk.co.kr/news/economy/12169037",
-      "pubDate": "2026-10-06T01:41:34.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "Top 5 Branded Videos of the Week: Flippin’ robotics",
-      "link": "https://www.tubefilter.com/2026/10/05/top-5-branded-videos-msnewslady-veritasium-pewdiepie/",
-      "pubDate": "2026-10-06T01:27:35.000Z",
-      "source": "Tubefilter",
-      "category": "수익화/크리에이터 이코노미"
-    },
-    {
-      "title": "결제부터 금융까지… KB·네이버페이 손잡고 소상공인 지원",
-      "link": "https://www.mk.co.kr/news/economy/12169013",
-      "pubDate": "2026-10-06T01:22:43.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "용인시산업진흥원, 해외물류비 지원 ‘올해 마지막’ 3차 기업 모집 - 일간투데이",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5zX3FGaGJ4bjhiaDJnOEdFU05vSkhaaTdiVUpVWTRId1R1MnJ1aE5wNGo1THV0SUZiQVNIZVloSzdNcDE4eGVpdkxNVVVfc1R3aksxYVk2aS1fa1RJZ1JIUER0YjN2TFllckxv?oc=5",
-      "pubDate": "2026-10-06T01:12:25.000Z",
-      "source": "Google 뉴스: 지원사업 공고/모집",
-      "category": "정부지원정책"
-    },
-    {
-      "title": "“갑자기 통장에 꽂힌 2억, 신고해야 돼요?”...들쭉날쭉 원천징수, 재검토 목소리",
-      "link": "https://www.mk.co.kr/news/economy/12169004",
-      "pubDate": "2026-10-06T01:07:09.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "“정부, 美원전사업에 14조 백지수표 써줬다”…국힘 임이자 의혹제기",
-      "link": "https://www.mk.co.kr/news/economy/12169003",
-      "pubDate": "2026-10-06T01:06:48.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "[이달의 TIPS] 피매치, 코로로직, 로소타, 마젠트, 세미파워, 토스터즈, 무아행, 씨아이피에너지, 이소다",
-      "link": "https://platum.kr/archives/295560?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%259d%25b4%25eb%258b%25ac%25ec%259d%2598-tips-%25ed%2594%25bc%25eb%25a7%25a4%25ec%25b9%2598-%25ec%25bd%2594%25eb%25a1%259c%25eb%25a1%259c%25ec%25a7%2581-%25eb%25a1%259c%25ec%2586%258c%25ed%2583%2580-%25eb%25a7%2588%25ec%25a0%25a0%25ed%258a%25b8-%25ec%2584%25b8%25eb%25af%25b8%25ed%258c%258c%25ec%259b%258c",
-      "pubDate": "2026-10-06T01:00:00.000Z",
-      "source": "플래텀",
-      "category": "창업"
-    },
-    {
-      "title": "구미시, 청년월세 지원사업 참가자 추가 모집 - 뉴데일리 대구경북",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4tMDZoT3hfVDI5TlNuRmxUTHN0T2V5aXU0cV9kVDQyY1ptYll2c1ZxQWtYQ1J4S2pfOU9ueFRITnFpWWNBR1llMzZGbTl5aElETEw1QTV2TXFVV2d6Y2NjWmJ5aGN3WldnZTRxSGMwUEc5Tm0xeUZGeHJpbUptV1HSAX9BVV95cUxOLTA2aE94X1QyOU5TbkZsVExzdE9leWl1NHFfZFQ0MmNabWJZdnNWcUFrWENSeEtqXzlPbnhUSE5xaVljQUdZZTM2Rm05eWhJRExMNUE1dk1xVVdnemNjY1pieWhjd1pXZ2U0cUhjMFBHOU5tMXlGRnhyaW1KbVdR?oc=5",
-      "pubDate": "2026-10-06T00:49:43.000Z",
-      "source": "Google 뉴스: 지원사업 공고/모집",
-      "category": "정부지원정책"
-    },
-    {
-      "title": "구미시, 청년월세 지원사업 참가자 추가 모집 - 뉴데일리 대구경북",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5FZE9rdVRQV21KVVBXWjFsN2tLUGYzYmRQcEZqY281X1R5WFRNYlM4S1Z6b2NiOWVuaWZFWGdHQzlIVWJ4Q1RsQnYxTDhINW1mYTlJd3pyWXVPRmxCa3d4dXpsSWtLLXR0WkE1cmhmRGlOY2FSYUtQa0Zn0gF_QVVfeXFMTi0wNmhPeF9UMjlOU25GbFRMc3RPZXlpdTRxX2RUNDJjWm1iWXZzVnFBa1hDUnhLal85T254VEhOcWlZY0FHWWUzNkZtOXloSURMTDVBNXZNcVVXZ3pjY2NaYnloY3daV2dlNHFIYzBQRzlObTF5RkZ4cmltSm1XUQ?oc=5",
-      "pubDate": "2026-10-06T00:49:43.000Z",
-      "source": "Google 뉴스: 지원사업 공고/모집",
-      "category": "정부지원정책"
-    },
-    {
-      "title": "용인시산업진흥원, 해외물류비 지원사업 3차 참여기업 13일부터 모집 - gukjenews.com",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAyT2YyUTMwN1BuQzdVZUFvTEx3VFNjcmQtdkc5Q0x2cjBDNDJEOUhmSTVVdnlrdXNLaFdPblRWekxSOWtyaFdpV01qV2E3cThuYjJhdmF6T3JHc1I2ZEVTd3BSa0IybXB5QzdnMjl3?oc=5",
-      "pubDate": "2026-10-06T00:46:49.000Z",
-      "source": "Google 뉴스: 지원사업 공고/모집",
-      "category": "정부지원정책"
-    },
-    {
-      "title": "“퇴직금 불려보려다 피눈물 난다”…밤잠 설치는 직장인들, 대체 무슨 일",
-      "link": "https://www.mk.co.kr/news/economy/12168943",
-      "pubDate": "2026-10-06T00:28:32.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "“20대女 인스타용 식사 아니었어?”…30대男도 몰려든다는 샐러드 가맹점",
-      "link": "https://www.mk.co.kr/news/economy/12168900",
-      "pubDate": "2026-10-06T00:22:52.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "Top 50 Most Subscribed YouTube Channels Worldwide • Week Of 10/04/2026",
-      "link": "https://www.tubefilter.com/2026/10/05/top-50-most-subscribed-youtube-channels-week-of-10-04-2026/",
-      "pubDate": "2026-10-05T23:37:12.000Z",
-      "source": "Tubefilter",
-      "category": "수익화/크리에이터 이코노미"
-    },
-    {
-      "title": "Top 50 Most Viewed YouTube Channels Worldwide • Week Of 10/04/2026",
-      "link": "https://www.tubefilter.com/2026/10/05/top-50-most-viewed-youtube-channels-week-of-10-04-2026/",
-      "pubDate": "2026-10-05T22:45:51.000Z",
-      "source": "Tubefilter",
-      "category": "수익화/크리에이터 이코노미"
-    },
-    {
-      "title": "‘구미형 청년월세’ 추가 모집…월 최대 10만원 지원 - 뉴시스",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5UckxLUG92cVMxMnJiT3lKZkdYMm8wU0JSQmhIcGJzZVFfdnczbk5SZmUzV0lHOFJTT0pQNV96d1UtTk1ITWlmTlRVX1lBX2hLTzFubFlCeFd6VzdaTXhsZdIBeEFVX3lxTE9rQS1iWDhoZ1RWQ0pfZmVqX0N3RmhnNThyeVNWTVdBN1B1U0FyYmlUNGVPUnVVMTBNZWZxeGZ4VmJpYTViQ3d2aDc3bVdzcndKalJBNGdIZWpkWGppWXppcUg5aHFndHFSX0F6WTczOFZwcDNoY1dRRw?oc=5",
-      "pubDate": "2026-10-05T22:41:14.000Z",
-      "source": "Google 뉴스: 지원사업 공고/모집",
-      "category": "정부지원정책"
-    },
-    {
-      "title": "스치기만 해도 침맞고 부항 뜬다…보험사 적자 키운 공포의 ‘세트 진료’",
-      "link": "https://www.mk.co.kr/news/economy/12168815",
-      "pubDate": "2026-10-05T21:36:42.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "TikTok’s 2025 economic impact included support for 410,000 jobs in the U.S.",
-      "link": "https://www.tubefilter.com/2026/10/05/tiktok-us-economic-impact-report-2025/",
-      "pubDate": "2026-10-05T21:05:00.000Z",
-      "source": "Tubefilter",
-      "category": "수익화/크리에이터 이코노미"
-    },
-    {
-      "title": "구글, 'AI 프로' 국내 한정 40% 할인...연간 구독권 프로모션 진행",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215976",
-      "pubDate": "2026-10-05T21:01:19.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "클로드, 18개 분야 36편 논문 원고 작성… 앤트로픽이 조명한 AI 과학 연구",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215979",
-      "pubDate": "2026-10-05T20:48:07.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "Federal Reserve Board announces approval of application by Isabella Bank Corporation",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261005a.htm",
-      "pubDate": "2026-10-05T20:30:00.000Z",
-      "source": "미 연준 보도자료",
-      "category": "경제"
-    },
-    {
-      "title": "앤트로픽, 10월6일까지 '음성 인터뷰어' 가동…대화록 공개·음성 학습 수집 결합",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215978",
-      "pubDate": "2026-10-05T20:20:00.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "뉴럴링크, 5만시간 뇌 데이터 사전학습…BCI도 '파운데이션 모델' 시대 열렸다",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215977",
-      "pubDate": "2026-10-05T19:48:15.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "'인간 vs 로봇' 케이지 파이트, 캘리포니아서 ‘중단 명령’ 받았다",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215975",
-      "pubDate": "2026-10-05T19:19:04.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "KAIST, 데이터 변화해도 검색 정확도 유지하는 ‘CONDA’ 기술 개발",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215974",
-      "pubDate": "2026-10-05T19:05:00.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "a16z \"미국 가구 2.2%만 AI 유료 구독…기술이 경기 순환 핵심 주도\"",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215973",
-      "pubDate": "2026-10-05T18:58:47.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "GPT-6 아스트라, 217년 된 나폴레옹 암호 6시간 만에 해독",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215961",
-      "pubDate": "2026-10-05T18:00:44.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "MIT·사카나, 자가 진화 AI 에이전트 'SIFT' 발표...'검증 비용 병목' 해결",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215967",
-      "pubDate": "2026-10-05T17:33:42.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "아마존, 11조 규모 AI 칩 투자자에 매각 후 리스…재무 부담 낮춘다",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215966",
-      "pubDate": "2026-10-05T16:38:20.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "AI가 쏟아낸 '엉터리 제보'에... 구글, 오픈소스 버그 바운티 일시 중단",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215972",
-      "pubDate": "2026-10-05T16:22:36.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "챗GPT서 옷 입어보고 쇼핑한다... 오픈AI, '가상 착용' 도입",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215969",
-      "pubDate": "2026-10-05T16:10:56.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "브로드컴, 앤트로픽에 80조 대출 보증…칩 판매 위해 금융 지원",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215971",
-      "pubDate": "2026-10-05T15:38:48.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "\"전직 미국 관료 사칭\"…중국 해커, AI 정책 전문가 계정 노렸다",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215963",
-      "pubDate": "2026-10-05T15:20:52.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "네덜란드 대형 안경 체인, 몰래 촬영 우려로 메타 스마트 안경 판매 중단",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215962",
-      "pubDate": "2026-10-05T15:09:06.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "Our approach to EU text provenance rules",
-      "link": "https://openai.com/index/eu-text-provenance",
-      "pubDate": "2026-10-05T15:00:00.000Z",
-      "source": "OpenAI",
-      "category": "AI"
     }
   ]
 }
