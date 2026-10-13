@@ -1,7 +1,35 @@
 {
-  "lastUpdated": "2026-10-13T15:43:01.146Z",
+  "lastUpdated": "2026-10-13T21:03:51.271Z",
   "count": 500,
   "items": [
+    {
+      "title": "구글, ‘제미나이 4 아르곤’ 본격 상용화…실무 성과·제품 생태계로 승부",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216220",
+      "pubDate": "2026-10-14T05:01:14.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "“지갑사정 나만 힘든가요?”…IMF, 한국 경제성장률 3.3%로 확 올렸다",
+      "link": "https://www.mk.co.kr/news/economy/12175070",
+      "pubDate": "2026-10-13T20:43:17.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "공동명의가 불리할 수도 있다? … 세금폭탄 피하는 1주택자 ‘꿀팁’",
+      "link": "https://www.mk.co.kr/news/economy/12174610",
+      "pubDate": "2026-10-13T19:30:00.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "Minutes of the Board's discount rate meetings on August 17, September 9, and September 16, 2026",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261013a.htm",
+      "pubDate": "2026-10-13T18:00:00.000Z",
+      "source": "미 연준 보도자료",
+      "category": "경제"
+    },
     {
       "title": "\"오퍼스 5.5 넘었다\"...앤트로픽, 차세대 모델 실전 라우팅 테스트 중",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=216200",
@@ -78,6 +106,13 @@
       "pubDate": "2026-10-13T15:53:57.000Z",
       "source": "AI타임스",
       "category": "AI"
+    },
+    {
+      "title": "중기부, 해외규격인증획득 지원사업 3차 참여기업 모집 - 글로벌뉴스통신GNA",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE44bEE5ZmFEWFU5RW91SVJvSlhKSXYxaE9tMzZFZjJEN3dtdUV5YnozZnF0WVJIOVRXMXZSWERuZ0lrTE1ta2JRUkIwWjA4OWF1cDREUENJU0tQa1E1dVZmRUt5SjZ1aTk1RDhvcWRMY0h6Yk1w?oc=5",
+      "pubDate": "2026-10-13T15:45:24.000Z",
+      "source": "Google 뉴스: 지원사업 공고/모집",
+      "category": "정부지원정책"
     },
     {
       "title": "MS 사장 \"세탁기·우유보다 못한 AI 규제…이제 법적 의무화 나설 때\"",
@@ -175,6 +210,13 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=216189",
       "pubDate": "2026-10-13T13:00:45.000Z",
       "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "Higgsfield takes AI video from 1 minute to over 10",
+      "link": "https://openai.com/index/higgsfield-longer-videos-voice",
+      "pubDate": "2026-10-13T12:00:00.000Z",
+      "source": "OpenAI",
       "category": "AI"
     },
     {
@@ -3457,48 +3499,6 @@
       "title": "이형일 \"잠재성장률 높일것\"… 경제계 \"유연한 재고용 필요\"",
       "link": "https://www.mk.co.kr/news/economy/12170709",
       "pubDate": "2026-10-07T08:43:15.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "\"핵심기술 해외유출 꼼짝 마\"… 산업부, 불법수익 환수 강화",
-      "link": "https://www.mk.co.kr/news/economy/12170705",
-      "pubDate": "2026-10-07T08:43:14.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "'선박왕' 밀린 세금 4000억 결국 받아냈다",
-      "link": "https://www.mk.co.kr/news/economy/12170706",
-      "pubDate": "2026-10-07T08:43:14.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "올 국내 외국인투자 149억弗 … 1년새 30% 늘어 사상 최대",
-      "link": "https://www.mk.co.kr/news/economy/12170703",
-      "pubDate": "2026-10-07T08:43:13.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "취약층 전기료 왜 지원? … 미래기금 사용처 논란",
-      "link": "https://www.mk.co.kr/news/economy/12170704",
-      "pubDate": "2026-10-07T08:43:13.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "기업 여유자금 46조 늘 때…가계는 18조 '뚝'",
-      "link": "https://www.mk.co.kr/news/economy/12170702",
-      "pubDate": "2026-10-07T08:43:12.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "한성숙 “대통령이 대법원장 제청 거부 못하면 임명권 무의미”",
-      "link": "https://www.mk.co.kr/news/politics/12170683",
-      "pubDate": "2026-10-07T08:37:26.000Z",
       "source": "매일경제 경제",
       "category": "경제"
     }
