@@ -1,7 +1,35 @@
 {
-  "lastUpdated": "2026-10-15T19:45:37.692Z",
+  "lastUpdated": "2026-10-15T22:57:18.129Z",
   "count": 500,
   "items": [
+    {
+      "title": "[10월15일] AI 수학 능력 급발전의 파장…과학 연구부터 인터넷 보안까지",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216279",
+      "pubDate": "2026-10-16T07:00:00.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "메타, ‘뮤즈 스파크 오픈’ 공개…맥 2대로 구동·미국 최고 성능 내세워",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216309",
+      "pubDate": "2026-10-16T06:17:00.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "“노후자금 5억이 1.2억으로 증발”…은퇴 3년전 ‘이것’ 모르면 수억 날린다",
+      "link": "https://www.mk.co.kr/news/economy/12176998",
+      "pubDate": "2026-10-15T20:40:00.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "Bringing GPT-Rosalind to academic research labs",
+      "link": "https://openai.com/index/introducing-the-rosalind-academic-plan",
+      "pubDate": "2026-10-15T19:00:00.000Z",
+      "source": "OpenAI",
+      "category": "AI"
+    },
     {
       "title": "스페이스XSI, 최고 성능 '그록 보이스 3.0' 공개...\"실무 현장서 압도적 성능\"",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=216297",
@@ -3471,34 +3499,6 @@
       "title": "“잘못 낸 건보료 455억 찾아가세요”…이달부터 환급, 신청 방법은",
       "link": "https://www.mk.co.kr/news/economy/12172869",
       "pubDate": "2026-10-11T01:09:46.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "“결국 빚 안 갚은 사람만 신났나”…부실채권 소각에 성실 채무자 ‘허탈’ [금융가 톺아보기]",
-      "link": "https://www.mk.co.kr/news/economy/12172848",
-      "pubDate": "2026-10-11T00:06:29.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "“내년엔 1200원대도 가능”…‘반도체 달러’ 덕에 원화 강세 계속될까",
-      "link": "https://www.mk.co.kr/news/economy/12172825",
-      "pubDate": "2026-10-10T22:33:46.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "엔비디아, AI 추론 칩 d-매트릭스에 투자 계획…GPU 중심 생태계 확장",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=216122",
-      "pubDate": "2026-10-10T20:35:00.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "총 1억 3500만 원 납입한 일반 계좌 vs. IRP 계좌 … 15년 후 자산 차이는?",
-      "link": "https://www.mk.co.kr/news/economy/12172448",
-      "pubDate": "2026-10-10T20:30:00.000Z",
       "source": "매일경제 경제",
       "category": "경제"
     }
