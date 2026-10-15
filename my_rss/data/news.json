@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-15T14:45:36.251Z",
+  "lastUpdated": "2026-10-15T19:45:37.692Z",
   "count": 500,
   "items": [
     {
@@ -2243,6 +2243,13 @@
       "category": "정부지원정책"
     },
     {
+      "title": "중기부, 해외규격인증획득 지원사업 공모…최대 1억원 지원 - 연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE50NzdCSEJxQ2ZFZ0lzbHdGcTR1UC1BX0h2R0xVc19Na29KbFdHQUVpanExSGc1MmlmQTdPUW9hNGxtRUtpM3NGejllVnc4ZzFMVVJaRGxQdnBZZW_SAWBBVV95cUxNcHJtdHU4eF9Ga3MwNGFkWXdoZzRmTEpyNTVTZk54cC1rOTIxYlhQZGFlQlFIcEJIQkNDdDV4ZHh2bVY4UWt6dWI2cHFFOW1QUlFJcFFQQjFxT09scEU0T00?oc=5",
+      "pubDate": "2026-10-13T03:00:03.000Z",
+      "source": "Google 뉴스: 지원사업 공고/모집",
+      "category": "정부지원정책"
+    },
+    {
       "title": "중기부, 해외규격인증획득 지원사업(3차) 참여기업 모집 - 아시아투데이",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5DbllTLTdQbm1HcEgxbklFRHppbURSS2lvUUJmb0dOeEZBVVo1UGdnQ0FCQ0RpRHdCT3JINWZRbFdyRzcyOThuUF9sQlJJRVF3Rkt4YTFlTEVBenB1Q3lfZWl0WGJNdmg0ekF3QXRn?oc=5",
       "pubDate": "2026-10-13T03:00:00.000Z",
@@ -3494,13 +3501,6 @@
       "pubDate": "2026-10-10T20:30:00.000Z",
       "source": "매일경제 경제",
       "category": "경제"
-    },
-    {
-      "title": "MS, 에이전트 의사결정 특화 모델 ‘디시전-1’ 공개…오픈AI도 API 정식 출시",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=216107",
-      "pubDate": "2026-10-10T18:53:43.000Z",
-      "source": "AI타임스",
-      "category": "AI"
     }
   ]
 }
