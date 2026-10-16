@@ -1,7 +1,35 @@
 {
-  "lastUpdated": "2026-10-16T08:52:10.434Z",
+  "lastUpdated": "2026-10-16T14:40:06.634Z",
   "count": 500,
   "items": [
+    {
+      "title": "타입세이프 AI, 의사결정 모델 '제브'에 멀티모달 등 기능 확장",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216327",
+      "pubDate": "2026-10-16T18:20:42.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "MS, 정식 출시 앞서 2.8조 매개변수 모델 공개…‘오픈AI 의존 줄일 독자 역량’ 부각",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216337",
+      "pubDate": "2026-10-16T18:08:58.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "구글 창립자 “플래시부터 AI가 후속 모델 개발 참여…RSI 궤도 진입”",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216350",
+      "pubDate": "2026-10-16T18:00:00.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "아마존, 일상 대화 기억·요약하는 개인용 AI 웨어러블 '비' 시리즈 공개",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216332",
+      "pubDate": "2026-10-16T17:49:55.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
     {
       "title": "TSMC, 머스크의 '테라팹' 협의 확인...\"운영권은 반드시 우리가 가져야\"",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=216330",
@@ -136,11 +164,46 @@
       "category": "AI"
     },
     {
+      "title": "[포토] 한미 재무·통화당국 첫 '2+2 회동'",
+      "link": "https://www.mk.co.kr/news/economy/12178211",
+      "pubDate": "2026-10-16T10:41:03.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "“여보, 애들 학원 좀 줄이자”…주담대 변동금리 줄줄이 6% 돌파",
+      "link": "https://www.mk.co.kr/news/economy/12178167",
+      "pubDate": "2026-10-16T09:46:26.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "한미 재무·통화당국 사상 첫 2+2 면담…“금융충격 시 긴밀한 공조”",
+      "link": "https://www.mk.co.kr/news/economy/12178138",
+      "pubDate": "2026-10-16T09:21:12.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "또 묶인 기름값…'7조 손실' 정유업계 냉가슴",
+      "link": "https://www.mk.co.kr/news/economy/12178126",
+      "pubDate": "2026-10-16T09:03:37.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
       "title": "[AI리더의 서가] 벡터 데이터베이스",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=216146",
       "pubDate": "2026-10-16T09:00:00.000Z",
       "source": "AI타임스",
       "category": "AI"
+    },
+    {
+      "title": "남양주시, 고립 청년 지원 ‘청년, 김치로 무르잇다’ 참여자 모집 - 웹이코노미",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1xbVRDQlk2aFRVM1BtUG0zYV95X1lpbEExVm93b0VSTlBpVmI4QUU2Z3ZsWHh0ZjcyTE9EUTNEZ1hFTEoya1lMUE5oRW0zMmlEM0NEMHMtX0VJQXNyWXU2Q1NMbGMxZEE3SVlTRUdhZzkwZw?oc=5",
+      "pubDate": "2026-10-16T08:58:36.000Z",
+      "source": "Google 뉴스: 지원사업 공고/모집",
+      "category": "정부지원정책"
     },
     {
       "title": "산업통상부 차관 박동일, 금융위 부위원장 신진창",
@@ -202,6 +265,13 @@
       "title": "남양주시, 고립 청년 지원사업 ‘청년, 김치로 무르잇다’ 참여자 모집 - 뉴스Q",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9IdzBST0pQRXpHSTQtLWNKWTZEaGdIcHIzVzdydVJYWUZyUW42QXVtVldOWXVPWHJ6R1ZIWXRIQXN3eGo3bDZCNVdfbEtkRDFZZ3BxbnFONDFnaXZSUUZjOFc4bnA?oc=5",
       "pubDate": "2026-10-16T07:10:19.000Z",
+      "source": "Google 뉴스: 지원사업 공고/모집",
+      "category": "정부지원정책"
+    },
+    {
+      "title": "남양주시, 고립 청년 지원사업 ‘청년, 김치로 무르잇다’ 참여자 모집 - 경기평화신문",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1OUWNLT2hkTU9tSkhGc1I1TkpHY2FrSUJUMHVVLVhXWHBobUxSS0h6NE9HeUM2N1lMQVlEc0YzblNWc0lFYWloM0dR?oc=5",
+      "pubDate": "2026-10-16T07:10:00.000Z",
       "source": "Google 뉴스: 지원사업 공고/모집",
       "category": "정부지원정책"
     },
@@ -1014,6 +1084,13 @@
       "title": "2026년 '평택청년 취업성공 지원사업' 3기 참여자 모집 - 코리아타임뉴스",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1kelJQNUpUSDNWUENlS05JRl9ocldwcXNzZDdUWV9TZGxtZGJJTDZ6YkNvWlVURlR2TWlXblY2UHg2MXpaR3FlMFcyOTRBc1hIRGVMeHpSQXo0RUszalpPTDZObWFhYjFmNEE?oc=5",
       "pubDate": "2026-10-15T04:30:47.000Z",
+      "source": "Google 뉴스: 지원사업 공고/모집",
+      "category": "정부지원정책"
+    },
+    {
+      "title": "2026년 '평택청년 취업성공 지원사업' 3기 참여자 모집 - 중부시사신문",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBaOTdNT0kyLTVhNTZUVWpwZkgyLWxKRzBxeFdHNnJ2c3JxaFFRVWVndUlnUTZnUnoxd1BUUUV1dTR0MlZzUHU0TmxncDIyNjlhdUJuN0RleFNCZTlUQS1CQ0l2TQ?oc=5",
+      "pubDate": "2026-10-15T04:30:30.000Z",
       "source": "Google 뉴스: 지원사업 공고/모집",
       "category": "정부지원정책"
     },
@@ -3422,83 +3499,6 @@
       "title": "양산시, 제조업 디지털·AI 전환 지원…최대 6000만원 지원 - 아시아투데이",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9LQU45YjZXb1VUcGhhcXpDTXBFTHFmM3FjUzVUQWoySVJINFBYeG51dDJCcFNwVTlDU2dLaTRhUWIyVTdteU9TRGx5aXRjcEpwaEpaVTJlZ2U4Slg0M2NYVUJlNTkzMHpBQ3d0Tkd3?oc=5",
       "pubDate": "2026-10-12T05:21:14.000Z",
-      "source": "Google 뉴스: 지원사업 공고/모집",
-      "category": "정부지원정책"
-    },
-    {
-      "title": "스마트공장 구축지원사업 참여하세요…양산시, 기업모집 - 뉴시스",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0zSEMxdzlCWnNUQlhuTWtudTF5SXRCRHY3LWQ3VktnNmdpWGlwZDRfVEpHMjhiT1dvTWJCUEsyN3ZCdnZDSzVkUnVLLUJJVXhaeHJvRDFiOXlLWG1YaVJWN9IBeEFVX3lxTFBrOTBkVDFHTDN4UEYwZHBpYmlfd2s1dzlRQl9MbEY3UDR6WU1TZjBPQmxnc1RtNldPZVBOWFFBSlRLQnpLcXdWY3V1OHN5ZE5acnRRNFJlVzM4UXFzT3lVVTJMRXVmYWlQRGNNMzBNQWhvMmpqaG5NMA?oc=5",
-      "pubDate": "2026-10-12T05:15:24.000Z",
-      "source": "Google 뉴스: 지원사업 공고/모집",
-      "category": "정부지원정책"
-    },
-    {
-      "title": "[양산 24시] 양산시, 스마트공장·제조AI 지원기업 모집…최대 7200만원 지원 - 시사저널",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBCYm1zYVkxQjdWaGNWVjZQVEtudFlEcFZ3NDZBV1VtUFVDX19mS0NJUnZfdTdCd3JyVlUzTl80QWltOXJvS1FNNkxldURPYmdqMzcxSEtQMEgyRlJxQ1EwamFMUGlUTl9nc2N6d1ZranJRLVHSAXNBVV95cUxQQmJtc2FZMUI3VmhjVlY2UFRLbnRZRHBWdzQ2QVdVbVBVQ19fZktDSVJ2X3U3QndyclZVM05fNEFpbTlyb0tRTTZMZXVET2JnajM3MUhLUDBIMkZScUNRMGphTFBpVE5fZ3NjendWa2pyUS1R?oc=5",
-      "pubDate": "2026-10-12T05:13:05.000Z",
-      "source": "Google 뉴스: 지원사업 공고/모집",
-      "category": "정부지원정책"
-    },
-    {
-      "title": "[양산 24시] 양산시, 스마트공장·제조AI 지원기업 모집…최대 7200만원 지원 - 시사저널",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9jUDJkNldmN3YzWDZ0cEFhNHpTSjNFRWpoTEpNNlUwaWJzWGJhVFNzbU4zUTBLbGlBUlNMQXZtNTFsYzQwa3B6MGR0Ylk3Ulp2MThmMUlGSGh6ekZfRmxFLXlpZ3FMNWJPZS0yOWVQa9IBc0FVX3lxTFBCYm1zYVkxQjdWaGNWVjZQVEtudFlEcFZ3NDZBV1VtUFVDX19mS0NJUnZfdTdCd3JyVlUzTl80QWltOXJvS1FNNkxldURPYmdqMzcxSEtQMEgyRlJxQ1EwamFMUGlUTl9nc2N6d1ZranJRLVE?oc=5",
-      "pubDate": "2026-10-12T05:05:00.000Z",
-      "source": "Google 뉴스: 지원사업 공고/모집",
-      "category": "정부지원정책"
-    },
-    {
-      "title": "양산시, 「경남 스마트공장 구축지원」 참여기업 모집 - 양산타임스",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9sOHlsSGV2OTB2dF9pRjJMTEVCRmtpNl91ZjVaY21UM0NPOUpBOW8ybkVzc2dRdGh4dm1QUHp1ZTlKOFFyWjBucjBxY0FXVUFkaVlKTkFpZ0JCM3Qxbm9ETHBpUGlibURC?oc=5",
-      "pubDate": "2026-10-12T04:46:22.000Z",
-      "source": "Google 뉴스: 지원사업 공고/모집",
-      "category": "정부지원정책"
-    },
-    {
-      "title": "영암군, 신혼부부·다자녀가정 주거비 부담 던다…‘이자안심 지원사업’ 참여자 모집 - 뉴스21 통신",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB0eWRRb05aLVlqdXhYejVSOXFwUy11dHg2emgwT05uM3I3ZHVNUm5MUTBUZnhhMEdDUGRlUW1WdTNlTHdtUHVDbzBEWFVVd2o4dTB3ZlFR?oc=5",
-      "pubDate": "2026-10-12T04:44:21.000Z",
-      "source": "Google 뉴스: 지원사업 공고/모집",
-      "category": "정부지원정책"
-    },
-    {
-      "title": "모두의 창업 1차, 멘토 대신 투자자가 평가하는 지역 오디션 시작",
-      "link": "https://platum.kr/archives/296039?utm_source=rss&utm_medium=rss&utm_campaign=%25eb%25aa%25a8%25eb%2591%2590%25ec%259d%2598-%25ec%25b0%25bd%25ec%2597%2585-1%25ec%25b0%25a8-%25eb%25a9%2598%25ed%2586%25a0-%25eb%258c%2580%25ec%258b%25a0-%25ed%2588%25ac%25ec%259e%2590%25ec%259e%2590%25ea%25b0%2580-%25ed%258f%2589%25ea%25b0%2580%25ed%2595%2598%25eb%258a%2594-%25ec%25a7%2580%25ec%2597%25ad-%25ec%2598%25a4",
-      "pubDate": "2026-10-12T04:40:46.000Z",
-      "source": "플래텀",
-      "category": "창업"
-    },
-    {
-      "title": "“단일종목 레버리지 ETF, 경고 충분치 못했다”…한은 총재 국감서 사과",
-      "link": "https://www.mk.co.kr/news/economy/12173521",
-      "pubDate": "2026-10-12T04:32:02.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "“모바일 통장 개설, 참 쉽~죠?”…220만 외국인고객 확보 나선 ‘인뱅’",
-      "link": "https://www.mk.co.kr/news/economy/12173507",
-      "pubDate": "2026-10-12T04:19:38.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "레진엔터테인먼트, 웹툰 캐릭터와 대화하는 AI 캐릭터챗 ‘티즈’ 선보인다",
-      "link": "https://platum.kr/archives/296033?utm_source=rss&utm_medium=rss&utm_campaign=%25eb%25a0%2588%25ec%25a7%2584%25ec%2597%2594%25ed%2584%25b0%25ed%2585%258c%25ec%259d%25b8%25eb%25a8%25bc%25ed%258a%25b8-%25ec%259b%25b9%25ed%2588%25b0-%25ec%25ba%2590%25eb%25a6%25ad%25ed%2584%25b0%25ec%2599%2580-%25eb%258c%2580%25ed%2599%2594%25ed%2595%2598%25eb%258a%2594-ai-%25ec%25ba%2590%25eb%25a6%25ad%25ed%2584%25b0",
-      "pubDate": "2026-10-12T04:08:20.000Z",
-      "source": "플래텀",
-      "category": "창업"
-    },
-    {
-      "title": "[단독] 마음이 아프니까 청춘이다?…‘정신질병 산재’ 42%는 2030",
-      "link": "https://www.mk.co.kr/news/economy/12173451",
-      "pubDate": "2026-10-12T02:37:10.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "심심이, AI로 공공사업 공고 찾아준다…협력사 검색·일정 관리까지 - 이데일리",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMEMxTDdNTjFhakFCWk5VRndEaGFRWjRZUEZ0T0RfOWg2MWVvbjl3QzhUUU9Qam9xUl8yZHE3MlI1OXZabDZoYTZHUkU0S1BCU0M3X21tNmJyckhyZVk0bUdvNExfUDZxdGZ5d0p0ci1CMnlpbmVxdHJhZmc3OFJibw?oc=5",
-      "pubDate": "2026-10-12T02:33:52.000Z",
       "source": "Google 뉴스: 지원사업 공고/모집",
       "category": "정부지원정책"
     }
