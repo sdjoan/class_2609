@@ -1,7 +1,28 @@
 {
-  "lastUpdated": "2026-10-17T03:40:02.588Z",
+  "lastUpdated": "2026-10-17T08:22:41.689Z",
   "count": 500,
   "items": [
+    {
+      "title": "전 오픈AI 연구원 “AI 내부 읽을 수 있다” 주장…기대·반론 엇갈려",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216364",
+      "pubDate": "2026-10-17T17:02:23.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "오픈AI, 크롬용 '챗GPT' 확장 기능 강화...\"열린 탭 분석하고 직접 제어\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216360",
+      "pubDate": "2026-10-17T15:40:58.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "[AI 이슈트렌드] 삼전 최대 실적에도 코스피 붕괴…쿠팡 먹통·인천 흉기난동 등 주목",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216363",
+      "pubDate": "2026-10-17T15:17:31.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
     {
       "title": "앤트로픽, 미 의회에 자체 AI 안전 법안 제안…\"정부 개입 제한·일부 주법 대체\"",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=216352",
@@ -106,6 +127,13 @@
       "pubDate": "2026-10-17T09:25:00.000Z",
       "source": "AI타임스",
       "category": "AI"
+    },
+    {
+      "title": "“주식 팔아 빚 갚으려 했는데”…급락 후 반등에도 대출이자 ‘이중고’",
+      "link": "https://www.mk.co.kr/news/economy/12178547",
+      "pubDate": "2026-10-17T08:19:28.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
     },
     {
       "title": "[10월16일] AI 수요는 넘치는데 채권은 급락…코어위브가 드러낸 '부채 위험'",
@@ -472,6 +500,13 @@
       "category": "정부지원정책"
     },
     {
+      "title": "남양주시, 고립 청년 지원사업 ‘청년, 김치로 무르잇다’ 참여자 모집 - 미디어투데이",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1saWM0WGtuUmpxN3kwRTh5VENUUklST2JOWkdsZTVPNVo0VU5Wd00ya3FCVUdjVXVHUGxtZld6aVpmd25EX1l2bjB3?oc=5",
+      "pubDate": "2026-10-16T07:10:00.000Z",
+      "source": "Google 뉴스: 지원사업 공고/모집",
+      "category": "정부지원정책"
+    },
+    {
       "title": "강호동 농협중앙회장 “외부 감사기구 신설...독립성 훼손 우려”",
       "link": "https://www.mk.co.kr/news/economy/12177904",
       "pubDate": "2026-10-16T07:03:48.000Z",
@@ -712,6 +747,13 @@
     {
       "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
       "link": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+      "pubDate": "2026-10-16T00:00:00.000Z",
+      "source": "OpenAI",
+      "category": "AI"
+    },
+    {
+      "title": "Benefit Street Partners answers questions faster with Codex",
+      "link": "https://openai.com/index/benefit-street-partners",
       "pubDate": "2026-10-16T00:00:00.000Z",
       "source": "OpenAI",
       "category": "AI"
@@ -3457,48 +3499,6 @@
       "title": "LH 사장 “집값 급락 가능성 많아…지금 사지 않아도 손해 보지 않아”",
       "link": "https://www.mk.co.kr/news/economy/12173966",
       "pubDate": "2026-10-12T08:59:06.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "박홍근 “서민금융 이자부담 경감 추가지원 검토”",
-      "link": "https://www.mk.co.kr/news/economy/12173959",
-      "pubDate": "2026-10-12T08:45:35.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "[표] 외국환율고시표",
-      "link": "https://www.mk.co.kr/news/economy/12173942",
-      "pubDate": "2026-10-12T08:38:16.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "고령층 비은행권 대출 늘어 '비상'",
-      "link": "https://www.mk.co.kr/news/economy/12173944",
-      "pubDate": "2026-10-12T08:38:16.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "\"환차익 기회\" 돈 몰리는 외화예금",
-      "link": "https://www.mk.co.kr/news/economy/12173945",
-      "pubDate": "2026-10-12T08:38:16.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "\"물가 상당기간 목표 웃돌 것\"… 한은총재 금리인상 시사",
-      "link": "https://www.mk.co.kr/news/economy/12173940",
-      "pubDate": "2026-10-12T08:38:15.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "전북은행, 비트코인 담보 첫 대출",
-      "link": "https://www.mk.co.kr/news/economy/12173941",
-      "pubDate": "2026-10-12T08:38:15.000Z",
       "source": "매일경제 경제",
       "category": "경제"
     }
