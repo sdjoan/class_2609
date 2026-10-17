@@ -1,7 +1,35 @@
 {
-  "lastUpdated": "2026-10-17T08:22:41.689Z",
+  "lastUpdated": "2026-10-17T13:31:36.276Z",
   "count": 500,
   "items": [
+    {
+      "title": "[AI 모델 신작] BFL ‘플럭스 3 이미지 클라인’ 등 5종",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216368",
+      "pubDate": "2026-10-17T19:47:45.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "AI 코딩도 LLM만으론 부족…레플릿, ‘결정론적 시뮬레이터’로 검증",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216367",
+      "pubDate": "2026-10-17T19:27:01.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "오픈AI 도청 사건에 드러난 AI 첩보전…기업들은 이미 ‘스파이 경계’",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216366",
+      "pubDate": "2026-10-17T18:45:28.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "GPT-6 아스트라, 미공개 물리 문제 98% 해결…전문가 오류도 발견",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216365",
+      "pubDate": "2026-10-17T18:06:23.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
     {
       "title": "전 오픈AI 연구원 “AI 내부 읽을 수 있다” 주장…기대·반론 엇갈려",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=216364",
@@ -29,6 +57,13 @@
       "pubDate": "2026-10-17T12:05:55.000Z",
       "source": "AI타임스",
       "category": "AI"
+    },
+    {
+      "title": "“보험 어디서 들까?” 물어보니…AI가 꼽은 ‘1등 금융사’는 어디",
+      "link": "https://www.mk.co.kr/news/economy/12178581",
+      "pubDate": "2026-10-17T11:51:08.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
     },
     {
       "title": "인도에서도 AI 에이전트 무단 침입 발생…\"개발사가 피해 기업에 보고\"",
@@ -71,6 +106,13 @@
       "pubDate": "2026-10-17T10:27:56.000Z",
       "source": "AI타임스",
       "category": "AI"
+    },
+    {
+      "title": "“실손보험료 낮춰 볼까”…할인형 특약과 세대 전환 다음 달 도입 앞둬",
+      "link": "https://www.mk.co.kr/news/economy/12178564",
+      "pubDate": "2026-10-17T10:24:14.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
     },
     {
       "title": "[내면 지도 그리기] 38 Inner Mapping: 나를 찾는 지도",
@@ -757,6 +799,13 @@
       "pubDate": "2026-10-16T00:00:00.000Z",
       "source": "OpenAI",
       "category": "AI"
+    },
+    {
+      "title": "[지원사업] 테크노파크 장비 고도화 공고, 실무에 미치는 영향 점검 - willawip.com",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOODZDNi1jR3lhZXlfb29tckpsaVA5dmZ1Y21OSURQTzZJOEdCOGNhUThHNEhOakdQRGQ2VHF5NGtWR2lrMVBZcDE4TXF6UGhmd3hfdzZxVzRoN09JeHZqU0pHaXk0RTM3SUgwMExYc0xDQjdXN2JaUm5CdUZXamtOUGd6QWI5QWFCNE5fUmd6YWE?oc=5",
+      "pubDate": "2026-10-16T00:00:00.000Z",
+      "source": "Google 뉴스: 지원사업 공고/모집",
+      "category": "정부지원정책"
     },
     {
       "title": "농협 퇴직자 모임에 6년간 12억 지원…“조합원 자금 전관예우 낭비”",
@@ -3452,55 +3501,6 @@
       "pubDate": "2026-10-12T11:30:00.000Z",
       "source": "AI타임스",
       "category": "AI"
-    },
-    {
-      "title": "한전KDN, 태양광 원격제어에 국정원 검증 암호모듈 도입…사이버 안보 강화",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=216137",
-      "pubDate": "2026-10-12T11:20:00.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "호주, ‘태양광 주택 3억가구’ 글로벌 선언 지지…2030년까지 두 배로",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=216142",
-      "pubDate": "2026-10-12T11:15:00.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "경남TP, 중소·중견기업 스마트공장 기초구축 추가 모집 - 경남일보",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1MZy1fLTE1U0JFcnp0cDVHQ3FySnhXNUNlZC1rdjN0YmtFWFNzeFh1SFRYYlNRWlBrN1dUT3NnQ1Y2V2xtcDBsZmpZakptNjNvTlQ0WEtGTldpWjhuZ29tbXE5b2RoTE9meFU0?oc=5",
-      "pubDate": "2026-10-12T09:24:57.000Z",
-      "source": "Google 뉴스: 지원사업 공고/모집",
-      "category": "정부지원정책"
-    },
-    {
-      "title": "양산시, 스마트공장 구축·제조AI 지원사업 참여기업 모집 - 더쎈뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1FSlIzNG9YMVFfb1JWVmNCbld1blRqa1FGaEo1U2hEc0twSXJ1V0FPcTZlWXEzdU1nd0NUNjNQanZrY1YxTlFsZVIxdk9ROGt5VU5wOENkTVNaWjZiX1labXR6VWNfak0?oc=5",
-      "pubDate": "2026-10-12T09:05:16.000Z",
-      "source": "Google 뉴스: 지원사업 공고/모집",
-      "category": "정부지원정책"
-    },
-    {
-      "title": "양산시, 스마트공장 구축·제조AI 지원사업 참여기업 모집 - 더쎈뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE82aWplMUdRbDBGUXo0NGdHM1JySkxTSlRVNlJncFNlV19GYk9RTzdFeU1lU0VNNXhWa0lpNEg4SzJRcmtlSU50aHpBNTc5dmtvUExoVlJ2Q1JqcHhZY0toQklMU2dMMnNP?oc=5",
-      "pubDate": "2026-10-12T09:05:16.000Z",
-      "source": "Google 뉴스: 지원사업 공고/모집",
-      "category": "정부지원정책"
-    },
-    {
-      "title": "[AI리더의 서가] 핸즈온 머신러닝 with 사이킷런. 파이토치",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=216139",
-      "pubDate": "2026-10-12T09:03:08.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "LH 사장 “집값 급락 가능성 많아…지금 사지 않아도 손해 보지 않아”",
-      "link": "https://www.mk.co.kr/news/economy/12173966",
-      "pubDate": "2026-10-12T08:59:06.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
     }
   ]
 }
