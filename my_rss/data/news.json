@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-21T14:57:04.546Z",
+  "lastUpdated": "2026-10-21T19:58:22.375Z",
   "count": 500,
   "items": [
     {
@@ -63,6 +63,13 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=216489",
       "pubDate": "2026-10-21T17:00:00.000Z",
       "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "How AT&T is rethinking in-house legal work with OpenAI",
+      "link": "https://openai.com/index/att-legal",
+      "pubDate": "2026-10-21T17:00:00.000Z",
+      "source": "OpenAI",
       "category": "AI"
     },
     {
@@ -423,6 +430,13 @@
       "category": "AI"
     },
     {
+      "title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
+      "link": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
+      "pubDate": "2026-10-21T07:00:00.000Z",
+      "source": "OpenAI",
+      "category": "AI"
+    },
+    {
       "title": "박홍근 “소방재정 국비지원 확대 공감…국회 심의서 보완 검토”",
       "link": "https://www.mk.co.kr/news/economy/12181774",
       "pubDate": "2026-10-21T06:55:54.000Z",
@@ -452,6 +466,13 @@
     },
     {
       "title": "창원시, '2027년 농촌형 보육서비스 지원 사업' 모집 - 헬로tv뉴스",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBWdXRiMzlfNjVMOVpPUVVSOVplSUI4NE50OVBwcU5SV2lybWtzLWlKRlBudjdoaXNTbmRnZTRMemJFRjZOSzVhblhXZWJQcDFQQjlsT2hoc2JPcGloME9FQno1ZklVNFNMNkRRVDJoWjdiY2g0Q3fSAXZBVV95cUxQVnV0YjM5XzY1TDlaT1FVUjlaZUlCODROdDlQcHFOUldpcm1rcy1pSkZQbnY3aGlzU25kZ2U0THpiRUY2Tks1YW5YV2ViUHAxUEI5bE9oaHNiT3BpaDBPRUJ6NWZJVTRTTDZEUVQyaFo3YmNoNEN3?oc=5",
+      "pubDate": "2026-10-21T06:17:46.000Z",
+      "source": "Google 뉴스: 지원사업 공고/모집",
+      "category": "정부지원정책"
+    },
+    {
+      "title": "창원시, '2027년 농촌형 보육서비스 지원 사업' 모집 - 헬로tv뉴스",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9JeU80Mmt0QmJRLWUwZDF5UjNBRnZ4STNoOGpsYzlXWi1wUEtjSUJzQ2pZLWFsNl8tQXQyTDBHZTdST0lldEJBUWo3djBXbDd2V1VkdE40ODQweFptclJ2QVJvNUxac3p3YWRJNkkwWGNiVzjSAXZBVV95cUxQVnV0YjM5XzY1TDlaT1FVUjlaZUlCODROdDlQcHFOUldpcm1rcy1pSkZQbnY3aGlzU25kZ2U0THpiRUY2Tks1YW5YV2ViUHAxUEI5bE9oaHNiT3BpaDBPRUJ6NWZJVTRTTDZEUVQyaFo3YmNoNEN3?oc=5",
       "pubDate": "2026-10-21T06:15:03.000Z",
       "source": "Google 뉴스: 지원사업 공고/모집",
@@ -463,6 +484,13 @@
       "pubDate": "2026-10-21T05:56:00.000Z",
       "source": "매일경제 경제",
       "category": "경제"
+    },
+    {
+      "title": "“창업 정보 한 눈에” 철원군 디지털 안내창구 신설 - 강원일보",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB2RnVmbW9UQmZxTVJuYWNzX1laMDRpa3F4RHZMbVZkVERGQVd2SGtoMWo0V2FCSmpJa0h2bm94ZmE2NEhUbzJlVHRoTHNNT1pUazlHdlNMLVMxZFk?oc=5",
+      "pubDate": "2026-10-21T05:26:55.000Z",
+      "source": "Google 뉴스: 지원사업 공고/모집",
+      "category": "정부지원정책"
     },
     {
       "title": "[단독] 서민 빚 일단 갚아줬더니…열에 여섯 ‘돌려받기 힘든 돈’이었다",
@@ -631,6 +659,13 @@
       "pubDate": "2026-10-21T00:06:08.000Z",
       "source": "매일경제 경제",
       "category": "경제"
+    },
+    {
+      "title": "Democratic governance of frontier AI, part II: Empowering cyber defenders",
+      "link": "https://openai.com/index/empowering-cyber-defenders",
+      "pubDate": "2026-10-21T00:00:00.000Z",
+      "source": "OpenAI",
+      "category": "AI"
     },
     {
       "title": "경과원, 중소기업 사이버보안 비용 360만 원 지원…11월까지 모집 - 글로벌이코노믹",
@@ -1438,6 +1473,13 @@
       "category": "정부지원정책"
     },
     {
+      "title": "진천군 청년센터, 지역 청년 위한 맞춤형 지원사업 참여자 모집 - 충남일보",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBKdWRYVEZxb182eUJoUUNGaW94UVBrNzhRYzV4VHlpSENoNnlLb2tfcGVwN0U0aTZTWEtlWFVkbThqLUYzYXRSWmxzLUhHSFpmQzBHTEZMYXF2LVNRZE40OFlzS3F5T0MxcC0yVFVSWE5TVmc?oc=5",
+      "pubDate": "2026-10-20T01:26:50.000Z",
+      "source": "Google 뉴스: 지원사업 공고/모집",
+      "category": "정부지원정책"
+    },
+    {
       "title": "2027년 전통시장 5개 지원사업 접수, 11월 16일 마감 - 비건뉴스",
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBGZE1RLTZ5T042NWExWjZuTndsaEFiaVdvT3M3S0hoeDNUTzFON2lvbmpuQk94cjlPN0VYX2J0aG5scnd0SXMzWVRlMjV1NjRDOG4wbFN4NHlYUHRkQ2x0UWpsUFQtdw?oc=5",
       "pubDate": "2026-10-20T01:07:43.000Z",
@@ -2050,6 +2092,13 @@
       "title": "중기부, 전통시장 지원사업 확대…문화관광형시장 최대 20억 원 지원 - 서울경제TV",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBWdmRKNmR0Z19qUjlQdFZGMGllODhac3JGTUd0MHNfbWtncUxsRFhhNTZSZDZUU2RFRWo2LVhUSzlRTDc1U0dSb0JfTllnNUtHU3lUUXZvN3lXbjkxbktFWGRfclU?oc=5",
       "pubDate": "2026-10-19T07:04:38.000Z",
+      "source": "Google 뉴스: 지원사업 공고/모집",
+      "category": "정부지원정책"
+    },
+    {
+      "title": "2026년 2차 중소기업 기술거래 기반조성사업 혁신중개 촉진 지원사업 시행계획 수정 공고 - 인천광역시",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPd3ZDaU56RXB1NWdVNV9BVGt5dkE3UHZhV3M5UW9TWHpNYzVWajN6TlZJRTF0TXlBeEdNWjhyRGhaeEg3MjFYRXZ0dU56bE1xMy1lY3k0dloyUDJ2Y2NFeThfSjIyRmNLeWdBOTJTc2pqTE9yWTUtTl9xMTBMZUNYcmdxV3gxRzE0Y2dQdnhEYw?oc=5",
+      "pubDate": "2026-10-19T07:00:00.000Z",
       "source": "Google 뉴스: 지원사업 공고/모집",
       "category": "정부지원정책"
     },
@@ -3452,55 +3501,6 @@
       "pubDate": "2026-10-16T05:36:24.000Z",
       "source": "Google 뉴스: 지원사업 공고/모집",
       "category": "정부지원정책"
-    },
-    {
-      "title": "청년 마음건강 심리상담, 좋아서 포럼도 다녀왔어요! (ft. 정보퐁퐁) - 서울특별시",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4tanU5TUM5Z21STFRfX1R3aldySEtEN2V3ZjNVWUhRZ2tQbGhYVEV1TXVtMk9BRGFwV0tfdi12bE5GOEctVHpaemo2clFpdFdhUUphOFk2Q1A?oc=5",
-      "pubDate": "2026-10-16T05:36:00.000Z",
-      "source": "Google 뉴스: 지원사업 공고/모집",
-      "category": "정부지원정책"
-    },
-    {
-      "title": "[스타트업 모닝커피 1417회] 에센트릭, 팬덤의 여행을 연결하는 성지순례 가이드 애니로드",
-      "link": "https://platum.kr/archives/296412?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%258a%25a4%25ed%2583%2580%25ed%258a%25b8%25ec%2597%2585-%25eb%25aa%25a8%25eb%258b%259d%25ec%25bb%25a4%25ed%2594%25bc-1417%25ed%259a%258c-%25ec%2597%2590%25ec%2584%25bc%25ed%258a%25b8%25eb%25a6%25ad-%25ed%258c%25ac%25eb%258d%25a4%25ec%259d%2598-%25ec%2597%25ac%25ed%2596%2589%25ec%259d%2584-%25ec%2597%25b0",
-      "pubDate": "2026-10-16T05:09:46.000Z",
-      "source": "플래텀",
-      "category": "창업"
-    },
-    {
-      "title": "충북과학기술혁신원 '글로벌 스케일업 지원사업' 참여기업 모집 - 뉴스1",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1Ba2x1SWJEcGdVeU9rVGctOFV0MU1SeWtwZmlCcHJXQ09FOF9sclNrYmZFZ0wySXV5RkpIa1hqS0dfWnJLZkFLNHplSWpxWUs5Z09HbTFIeG5aYndJTlVF?oc=5",
-      "pubDate": "2026-10-16T05:07:46.000Z",
-      "source": "Google 뉴스: 지원사업 공고/모집",
-      "category": "정부지원정책"
-    },
-    {
-      "title": "韓, 싱가포르와 국부펀드 협력 논의…獨과 피지컬AI 공조",
-      "link": "https://www.mk.co.kr/news/economy/12177768",
-      "pubDate": "2026-10-16T04:59:50.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "GPU 확보 자금, 증권사와 함께 조달한다…베슬AI·한국투자증권 ‘GPU 파이낸싱’ 협력",
-      "link": "https://platum.kr/archives/296415?utm_source=rss&utm_medium=rss&utm_campaign=gpu-%25ed%2599%2595%25eb%25b3%25b4-%25ec%259e%2590%25ea%25b8%2588-%25ec%25a6%259d%25ea%25b6%258c%25ec%2582%25ac%25ec%2599%2580-%25ed%2595%25a8%25ea%25bb%2598-%25ec%25a1%25b0%25eb%258b%25ac%25ed%2595%259c%25eb%258b%25a4%25eb%25b2%25a0%25ec%258a%25acai%25c2%25b7%25ed%2595%259c%25ea%25b5%25ad%25ed%2588%25ac",
-      "pubDate": "2026-10-16T04:59:36.000Z",
-      "source": "플래텀",
-      "category": "창업"
-    },
-    {
-      "title": "강원랜드, 폐광지역 이전 기업 3곳 모집…최대 10억 지원 - 뉴스1",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5BQ2l5RXhudU4ycGhEVERNcTV5UktzNWZId1htNC1FT09odElucjBXMlZlVVhGNzVfcVNtS3FhdkV6RTlyYzJNc21PQW5aa3JzbmRxYkZDMlNPZ1BkTUhjVQ?oc=5",
-      "pubDate": "2026-10-16T04:48:06.000Z",
-      "source": "Google 뉴스: 지원사업 공고/모집",
-      "category": "정부지원정책"
-    },
-    {
-      "title": "휴대폰 주고받는 대신 각자 화면으로, 링고라 메신저형 통역 앱 ‘xy’ 출시",
-      "link": "https://platum.kr/archives/296409?utm_source=rss&utm_medium=rss&utm_campaign=%25ed%259c%25b4%25eb%258c%2580%25ed%258f%25b0-%25ec%25a3%25bc%25ea%25b3%25a0%25eb%25b0%259b%25eb%258a%2594-%25eb%258c%2580%25ec%258b%25a0-%25ea%25b0%2581%25ec%259e%2590-%25ed%2599%2594%25eb%25a9%25b4%25ec%259c%25bc%25eb%25a1%259c-%25eb%25a7%2581%25ea%25b3%25a0%25eb%259d%25bc-%25eb%25a9%2594%25ec%258b%25a0%25ec%25a0%2580",
-      "pubDate": "2026-10-16T04:36:45.000Z",
-      "source": "플래텀",
-      "category": "창업"
     }
   ]
 }
