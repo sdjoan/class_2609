@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-21T09:16:30.166Z",
+  "lastUpdated": "2026-10-21T14:57:04.546Z",
   "count": 500,
   "items": [
     {
@@ -41,6 +41,13 @@
       "title": "아마존 이어 구글도 자체칩 생태계 확장...'토치TPU' 오픈소스 공개",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=216476",
       "pubDate": "2026-10-21T17:29:24.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "얼굴 나이 측정 넘어 암 환자 생존 위험 예측…하버드 연구진, 사진 분석 AI 개발",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216498",
+      "pubDate": "2026-10-21T17:20:00.000Z",
       "source": "AI타임스",
       "category": "AI"
     },
@@ -171,6 +178,13 @@
       "category": "AI"
     },
     {
+      "title": "“4700% 이런 이자 무효라면서요, 언제 돼요”…확인서 발급직원 단 4명뿐",
+      "link": "https://www.mk.co.kr/news/economy/12182233",
+      "pubDate": "2026-10-21T13:45:59.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
       "title": "이탈리아, 농업시설 태양광 7409건 선정…지원금 1조1450억 규모",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=216471",
       "pubDate": "2026-10-21T13:40:00.000Z",
@@ -185,11 +199,25 @@
       "category": "AI"
     },
     {
+      "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
+      "link": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
+      "pubDate": "2026-10-21T13:00:00.000Z",
+      "source": "OpenAI",
+      "category": "AI"
+    },
+    {
       "title": "AGI 선점해 경쟁사 GPU까지 파괴…알트먼 “끔찍한 시나리오”",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=216469",
       "pubDate": "2026-10-21T12:58:39.000Z",
       "source": "AI타임스",
       "category": "AI"
+    },
+    {
+      "title": "“병사 월급 더 주자고 한 거 누구죠?”…도박징계 늘고 대부업 대출 70배",
+      "link": "https://www.mk.co.kr/news/economy/12182205",
+      "pubDate": "2026-10-21T12:45:31.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
     },
     {
       "title": "대구 119구조견 기림비 건립...\"영웅들의 헌신과 희생 기린다\"",
@@ -204,6 +232,34 @@
       "pubDate": "2026-10-21T12:05:20.000Z",
       "source": "AI타임스",
       "category": "AI"
+    },
+    {
+      "title": "OpenAI models are coming to Google Cloud",
+      "link": "https://openai.com/index/openai-models-google-cloud",
+      "pubDate": "2026-10-21T12:00:00.000Z",
+      "source": "OpenAI",
+      "category": "AI"
+    },
+    {
+      "title": "국조실장 “가덕도신공항 공사비, 실무합의 근접”",
+      "link": "https://www.mk.co.kr/news/economy/12182146",
+      "pubDate": "2026-10-21T11:05:04.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "창원시, 2027년 농촌형보육서비스 지원사업 모집 - 경남도민신문",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1oYmRIYWNWS0hkVkhTbFpyNkliZTUwanlCLW5lRS1zak9MeXpsZ0NrcFljLWJfdzh3Ym9LX21TOUNzajByZUE3NDB2MDJxVjYyN3VvWnpwb0JPbnJBOTl3SlJoTWpYem80?oc=5",
+      "pubDate": "2026-10-21T10:43:16.000Z",
+      "source": "Google 뉴스: 지원사업 공고/모집",
+      "category": "정부지원정책"
+    },
+    {
+      "title": "정책평가연구원 “경영평가 등급 오른 공공기관 22곳 중 14곳은 점수 하락”",
+      "link": "https://www.mk.co.kr/news/economy/12182085",
+      "pubDate": "2026-10-21T09:32:11.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
     },
     {
       "title": "[AI리더의 서가] LLM을 활용한 데이터 분석",
@@ -360,6 +416,13 @@
       "category": "AI"
     },
     {
+      "title": "How we built ChatGPT’s novel ad stack for user trust and relevance",
+      "link": "https://openai.com/index/building-chatgpt-ad-stack",
+      "pubDate": "2026-10-21T07:00:00.000Z",
+      "source": "OpenAI",
+      "category": "AI"
+    },
+    {
       "title": "박홍근 “소방재정 국비지원 확대 공감…국회 심의서 보완 검토”",
       "link": "https://www.mk.co.kr/news/economy/12181774",
       "pubDate": "2026-10-21T06:55:54.000Z",
@@ -369,6 +432,13 @@
     {
       "title": "철원군, '창업지원' 원스톱 안내 창구 홈페이지 내 마련 - 매일경제 마켓",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5JUVp1WDh1ZDJQMkxrcktaeWhxR0g3UmZBODYxQnBJSng4VXRTYTNnWVc1aFluNVAtX1VQb3BabDB5TkxmNXJnbGVobkdkU3dwM3c?oc=5",
+      "pubDate": "2026-10-21T06:35:05.000Z",
+      "source": "Google 뉴스: 지원사업 공고/모집",
+      "category": "정부지원정책"
+    },
+    {
+      "title": "철원군, '창업지원' 원스톱 안내 창구 홈페이지 내 마련 - 연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5PNTBhcHRJcENZU1FwZU5hdnhhWXNxbG82cld3NmZYRGkta2M3VGNRTjV5QWZjODFOdFJjZFVrcDF0aEF6Q3hyQWZDMWtKNnNZMTZycXYzcGljMFk4dHZnMdIBYEFVX3lxTE5PNTBhcHRJcENZU1FwZU5hdnhhWXNxbG82cld3NmZYRGkta2M3VGNRTjV5QWZjODFOdFJjZFVrcDF0aEF6Q3hyQWZDMWtKNnNZMTZycXYzcGljMFk4dHZnMQ?oc=5",
       "pubDate": "2026-10-21T06:35:05.000Z",
       "source": "Google 뉴스: 지원사업 공고/모집",
       "category": "정부지원정책"
@@ -414,6 +484,13 @@
       "pubDate": "2026-10-21T05:05:39.000Z",
       "source": "매일경제 경제",
       "category": "경제"
+    },
+    {
+      "title": "Using thousands of AI agents to uncover new leads in biological data",
+      "link": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
+      "pubDate": "2026-10-21T04:50:00.000Z",
+      "source": "OpenAI",
+      "category": "AI"
     },
     {
       "title": "SKT, 금융기관 연락 오차단 줄인다…금감원과 보이스피싱 대응",
@@ -1758,6 +1835,13 @@
       "pubDate": "2026-10-19T10:08:21.000Z",
       "source": "매일경제 경제",
       "category": "경제"
+    },
+    {
+      "title": "나주시, “나주형 청년 취업자 주거비 지원사업’ 3차 대상자” 모집 - 무등뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBXZnVQQmNIczg0Y2tiZ3ZFYWFwWkZ3UjJaNmxJSFF6cFRVejBTREFYNnY1MkpyNmFWaEM0RFZsaVB5X09PczVjb3d5TEEwOUEwclNYOHFQZ3lULTJpajNtMHNHSENHREE?oc=5",
+      "pubDate": "2026-10-19T09:43:47.000Z",
+      "source": "Google 뉴스: 지원사업 공고/모집",
+      "category": "정부지원정책"
     },
     {
       "title": "“월급 이체도 카드 실적도 필요 없다”…1억원까지 연 3.3% 주는 통장",
@@ -3417,90 +3501,6 @@
       "pubDate": "2026-10-16T04:36:45.000Z",
       "source": "플래텀",
       "category": "창업"
-    },
-    {
-      "title": "강원랜드, ‘석탄산업전환지역 기업이전 사업’ 참여기업 모집...기업당 10억원 지원 - 주간한국",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBNNmR3ell2X3dhZENpalZqaDBwdmxldTBORHZXZ2VvRUJaQjdodnBhR1RPMFJuMFRtWF90OTdJUHJ3TktIaG1Zd1Z3c05URkhkWGswTXVtQWNJWnRaVHFiSWEwYXRwT3VESDNoMUdyd2bSAXRBVV95cUxPMDl6UTFETWtucGFTOWpqTk9kR3QyZXU4ZzBRQ2RaRGlUc2s4d2J6NzdqQlFFV0xDZmtKWkY2TnpycC1XSF81RHhBMmVUZVRVeEFmbUVTc1pDS3FKOF9Xdi1hM0pNaTZSQmlXcmtDYzNjdDRxaA?oc=5",
-      "pubDate": "2026-10-16T04:35:28.000Z",
-      "source": "Google 뉴스: 지원사업 공고/모집",
-      "category": "정부지원정책"
-    },
-    {
-      "title": "“소득 높을수록 타인에 배타적”...학계 연구에 관심 ‘쑥’",
-      "link": "https://www.mk.co.kr/news/economy/12177646",
-      "pubDate": "2026-10-16T02:11:12.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "[단독] 3년 연속 영업적자 농협경제지주…대표 성과급은 ‘펑펑’",
-      "link": "https://www.mk.co.kr/news/economy/12177645",
-      "pubDate": "2026-10-16T02:10:54.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "제주시, 2026년 농촌주택개량사업 6동 추가 모집 - DWBNEWS",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9PbGFhdWJzR3JYMENFdE9NZlBIQ2VCMkVMODEtS1YzMVdOWE5URV9mWFlnR29UTlJPSk9jYjhCazVOeUc1ZVJBTEtSZlhSS1BUMkhiTEhTWjFfQkRxVzR4ay1BQ3ZQendq?oc=5",
-      "pubDate": "2026-10-16T02:02:44.000Z",
-      "source": "Google 뉴스: 지원사업 공고/모집",
-      "category": "정부지원정책"
-    },
-    {
-      "title": "[단독] 인력난에 허덕이는 노동감독관.. 휴직·퇴직 급증",
-      "link": "https://www.mk.co.kr/news/economy/12177638",
-      "pubDate": "2026-10-16T02:02:32.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "[단독] 매년 1조씩 쓰는데…농협 ‘임대 농기계’ 관리 모르쇠",
-      "link": "https://www.mk.co.kr/news/economy/12177636",
-      "pubDate": "2026-10-16T02:01:50.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "“시중은행도 못막는데 2금융권은 안봐도”…AI해킹에 10만건 털렸다",
-      "link": "https://www.mk.co.kr/news/economy/12177619",
-      "pubDate": "2026-10-16T01:48:43.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "“그의 말이 시장을 움직인다”…노벨경제학상이 재조명한 ‘중앙은행의 소통법’ [기자24시]",
-      "link": "https://www.mk.co.kr/news/economy/12177601",
-      "pubDate": "2026-10-16T01:37:45.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "강원랜드, 석탄산업전환지역 기업이전 사업 3개사 모집 - 강원도민일보",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1UdFN0c3otRXBPejhucE53WkdfVFJxaWNncnpLZXZneUphUnBjUl9VSTV2WHhLZGloc2Fzb3JUcHA4UlJub0Q2Q3BiZHM1MldUajdGMkhKU2dqMTFNMHZINV8zOG5WSVU?oc=5",
-      "pubDate": "2026-10-16T01:29:42.000Z",
-      "source": "Google 뉴스: 지원사업 공고/모집",
-      "category": "정부지원정책"
-    },
-    {
-      "title": "강원랜드, 석탄산업전환지역 이전기업 3곳 모집 - 뉴시스",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1Ja0d1TWE5YmVEZnVic3NQZy1DLWZrOUh4dnJCYzh5WnVHeFFULWp6VVRNZ2ppZmpTNF9PdEVUOFNIQ1BUQUJiM3pDT3lVS3dIVDZ2cEE1dDdVOVJYbjYxetIBeEFVX3lxTE1CTjJhOGpVUERxdjBnTHJWNk5XMHhsZnp6Q01palp4N01fVFA2aWZuTlk3MktvczU3WTNhRnZTQTJUWHhyZEI4MXNsSUhqZnB3WVdMWDZXcVV3aTJ2VWVKUVFJbnMzWUJNNHl0RVpZTE40MVUwSEExMQ?oc=5",
-      "pubDate": "2026-10-16T01:20:40.000Z",
-      "source": "Google 뉴스: 지원사업 공고/모집",
-      "category": "정부지원정책"
-    },
-    {
-      "title": "KOBACO 방송광고 지원사업, 왜 4곳 중 1곳이 중도포기했나…6년간 111개사 이탈 - 창업일보",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9lekZoMjdxVDM3WnN5STdLbnJSVzgxSVJacFpSNFhPU093RV90ZElwak84WGwwWFpIaERXbWhSYUhVeVBvRkJHQ1c3YUxSMHNoU0Q4T3dpZjNCcHFwaXRxVm96ZFNPMG1a?oc=5",
-      "pubDate": "2026-10-16T00:53:46.000Z",
-      "source": "Google 뉴스: 지원사업 공고/모집",
-      "category": "정부지원정책"
-    },
-    {
-      "title": "LH ‘닥공’ 속도전…서울 도심 3곳에 5032가구",
-      "link": "https://www.mk.co.kr/news/economy/12177513",
-      "pubDate": "2026-10-16T00:48:25.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
     }
   ]
 }
