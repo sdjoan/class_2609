@@ -1,7 +1,14 @@
 {
-  "lastUpdated": "2026-10-23T16:44:30.345Z",
+  "lastUpdated": "2026-10-23T21:10:44.238Z",
   "count": 500,
   "items": [
+    {
+      "title": "Change.org has a new look that uses AI to turn TikTok posts into tools for local activism",
+      "link": "https://www.tubefilter.com/2026/10/23/change-org-petition-redesign-ai-tiktok-posts/",
+      "pubDate": "2026-10-23T20:30:29.000Z",
+      "source": "Tubefilter",
+      "category": "수익화/크리에이터 이코노미"
+    },
     {
       "title": "오픈AI, 분류·선택 특화 ‘디시전스 API’ 정식 출시…최대 10배 빠르게",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=216581",
@@ -231,6 +238,13 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=216504",
       "pubDate": "2026-10-23T11:10:00.000Z",
       "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "Securing our frontier model training environment",
+      "link": "https://openai.com/index/securing-our-frontier-model-training-environment",
+      "pubDate": "2026-10-23T10:00:00.000Z",
+      "source": "OpenAI",
       "category": "AI"
     },
     {
@@ -3485,20 +3499,6 @@
       "title": "5대은행장 '해킹 국감' 출석 …\"추가피해땐 전액보상\"",
       "link": "https://www.mk.co.kr/news/economy/12179837",
       "pubDate": "2026-10-19T08:32:44.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "[표] 외국환율고시표",
-      "link": "https://www.mk.co.kr/news/economy/12179832",
-      "pubDate": "2026-10-19T08:32:43.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "맞벌이 아내 가사노동, 남편의 1.8배",
-      "link": "https://www.mk.co.kr/news/economy/12179834",
-      "pubDate": "2026-10-19T08:32:43.000Z",
       "source": "매일경제 경제",
       "category": "경제"
     }
