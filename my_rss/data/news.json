@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-23T11:15:37.047Z",
+  "lastUpdated": "2026-10-23T16:44:30.345Z",
   "count": 500,
   "items": [
     {
@@ -94,6 +94,13 @@
       "category": "AI"
     },
     {
+      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+      "link": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
+      "pubDate": "2026-10-23T17:00:00.000Z",
+      "source": "OpenAI",
+      "category": "AI"
+    },
+    {
       "title": "일본 향하는 K-AI... 의료·법률부터 문서 전자화까지",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=216592",
       "pubDate": "2026-10-23T16:49:16.000Z",
@@ -157,6 +164,13 @@
       "category": "AI"
     },
     {
+      "title": "영광군, LPG 소형저장탱크 지원 3가구 추가 모집 - 팍스경제TV",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE54bHMyaGJmVFZPMjNCNUlvYjhFeUgxYWUxWldELW9kVVk5TC14MjZiTC1qYjgzNzhHb3BYVV9SRnNOLW5IeXRNc2Z2Q2xfNzlGMjEyNmswM05TdjdWdVFTREFjdmNTTWc?oc=5",
+      "pubDate": "2026-10-23T13:53:54.000Z",
+      "source": "Google 뉴스: 지원사업 공고/모집",
+      "category": "정부지원정책"
+    },
+    {
       "title": "에임인텔리전스, 오픈AI 연계 앱 보안 평가 서비스 출시",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=216562",
       "pubDate": "2026-10-23T13:36:52.000Z",
@@ -197,6 +211,13 @@
       "pubDate": "2026-10-23T11:45:00.000Z",
       "source": "AI타임스",
       "category": "AI"
+    },
+    {
+      "title": "3회 연속 금리 인상에 부담느낀 신 총재…‘매파본색’은 계속된다 [BOK WATCHER]",
+      "link": "https://www.mk.co.kr/news/economy/12184526",
+      "pubDate": "2026-10-23T11:30:33.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
     },
     {
       "title": "중국 사막 태양광발전소, 토양 탄소 함량 주변보다 125.9% 높아",
@@ -3480,27 +3501,6 @@
       "pubDate": "2026-10-19T08:32:43.000Z",
       "source": "매일경제 경제",
       "category": "경제"
-    },
-    {
-      "title": "나주시, ‘나주형 청년 취업자 주거비 지원사업’ 3차 대상자 모집 - 시사코리아",
-      "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE90SDVWMlBmbmk1QVpLbnk4ZWtVemwwVllMM2Y3Q0pka2c4UWhlNGlQMlQ1TGlnMlo4U0dOdWxJWGdNNG1M?oc=5",
-      "pubDate": "2026-10-19T08:22:00.000Z",
-      "source": "Google 뉴스: 지원사업 공고/모집",
-      "category": "정부지원정책"
-    },
-    {
-      "title": "중기부, 2027년도 상점가 활성화 지원사업 공고 - 글로벌뉴스통신GNA",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE40ZWFtbjJGRHVuYWVrdmxnaDl1UThMRmJSVmhkUGEtSm92Y0lscnpKcDFLVEhxeXQ4RUF1UUJYM3doOXZ0WVphR3JZU1dJanFSNFdYVlBfUnZTdDZTSndPLVpBOEpvN2t4Z1FuQWtmTE5jWU5Y?oc=5",
-      "pubDate": "2026-10-19T08:07:00.000Z",
-      "source": "Google 뉴스: 지원사업 공고/모집",
-      "category": "정부지원정책"
-    },
-    {
-      "title": "중기부, 2027년 전통시장 지원사업 모집…최대 20억원 지원 - 푸드투데이",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4zSGM4SzJsVkktMDdvMllUUWNja3JNTlNHQW95Vkc1TndEUkxmVmdvRlVLZUJCUnFTZGVvczhHZnNmVjBJX2JndVZLYXFmOFZlanN2TkxQM05fMHpSYU1pZUtZbV9lUQ?oc=5",
-      "pubDate": "2026-10-19T07:53:06.000Z",
-      "source": "Google 뉴스: 지원사업 공고/모집",
-      "category": "정부지원정책"
     }
   ]
 }
