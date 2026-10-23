@@ -1,13 +1,97 @@
 {
-  "lastUpdated": "2026-10-22T23:04:20.348Z",
+  "lastUpdated": "2026-10-23T04:00:26.010Z",
   "count": 500,
   "items": [
+    {
+      "title": "딥시크, IPO 앞두고 20조 대규모 투자 유치...상하이 증시 상장 가속",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216571",
+      "pubDate": "2026-10-23T12:39:20.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "오픈AI, 투자 열기 주춤하자 목표 기업가치 200조 낮춰",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216570",
+      "pubDate": "2026-10-23T12:22:03.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "[AI리더의 서가] 클로드 코드로 완성하는 에이전틱 코딩 자동화",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216346",
+      "pubDate": "2026-10-23T09:00:00.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
     {
       "title": "[10월22일] 테슬라·스페이스X 합병, 최강 ‘통합 AI 기업’ 탄생할까",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=216515",
       "pubDate": "2026-10-23T07:00:00.000Z",
       "source": "AI타임스",
       "category": "AI"
+    },
+    {
+      "title": "세계에서 한국 경제만 잘 나간다고?…위기는 순식간 [기자24시]",
+      "link": "https://www.mk.co.kr/news/economy/12183951",
+      "pubDate": "2026-10-23T02:16:48.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "어린이 경제박사 되세요…31일 경제교실 개최",
+      "link": "https://www.mk.co.kr/news/economy/12183945",
+      "pubDate": "2026-10-23T02:14:32.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "부실채권 정리 속도내는 신협…자산관리회사 설립 본격화",
+      "link": "https://www.mk.co.kr/news/economy/12183940",
+      "pubDate": "2026-10-23T02:12:24.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "‘피카츄’가 내 카드에…IBK기업은행, ‘I-포켓몬 신용카드’ 출시",
+      "link": "https://www.mk.co.kr/news/economy/12183930",
+      "pubDate": "2026-10-23T02:02:59.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "“희망퇴직에 150명 또 손들었다”…신한카드 인력 구조조정 속도",
+      "link": "https://www.mk.co.kr/news/economy/12183847",
+      "pubDate": "2026-10-23T00:52:54.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "[단독] “한국인도 내집 없는데”…중국인 소유 주택 1만6550채 늘었다",
+      "link": "https://www.mk.co.kr/news/economy/12183825",
+      "pubDate": "2026-10-23T00:35:34.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "새로 정 붙인 동네 가게, 또 사라진다...5년 생존율 36%, 그럼에도 ‘역대 최고’",
+      "link": "https://www.mk.co.kr/news/economy/12183816",
+      "pubDate": "2026-10-23T00:29:08.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "아산시, 녹색건축물 지원사업 마무리…내년도 참여자 12월 모집 - 뉴스파고",
+      "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE84NFVNUksyS0c3bVA0MzVpaTBWTEsyZXpINS1wUDBKOVlpRjZGNnlsa2YxR0ZRZDJ0blJ4SFI3MDRfbklt?oc=5",
+      "pubDate": "2026-10-23T00:15:00.000Z",
+      "source": "Google 뉴스: 지원사업 공고/모집",
+      "category": "정부지원정책"
+    },
+    {
+      "title": "[단독] 은행 포용금융 성적따라 출연금 20% 가감…과징금 감경도",
+      "link": "https://www.mk.co.kr/news/economy/12183784",
+      "pubDate": "2026-10-22T23:47:37.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
     },
     {
       "title": "YouTube now gets twice as much watch time on U.S. TVs as any other platform",
@@ -3415,90 +3499,6 @@
       "title": "오픈AI, ‘GPT-6 아스트라 프로’ 업그레이드...에이전트 병렬 실행 지원",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=216375",
       "pubDate": "2026-10-18T17:51:14.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "리퀴드 AI, 제브 성능 앞선 멀티모달 의사결정 모델 ‘d1-울트라’ 공개",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=216371",
-      "pubDate": "2026-10-18T17:13:21.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "[AI 모델 신작] 영상 생성 ‘클링 4.0’·감정 조절 음성 ‘드라마 3’ 등 6종",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=216369",
-      "pubDate": "2026-10-18T16:50:00.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "구글, 양자컴퓨터 핵심 오류 40분의 1로 줄여…실용화 걸림돌 해결 실마리",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=216374",
-      "pubDate": "2026-10-18T16:40:31.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "오픈AI 도청 혐의 직원, 보석 신청…“사우디행 편도 항공권, 도주 목적 아냐”",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=216377",
-      "pubDate": "2026-10-18T16:05:27.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "메타, 언론사 콘텐츠 AI 학습 논란에 약관 수정…자동 수집 권한은 유지",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=216372",
-      "pubDate": "2026-10-18T15:34:38.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "사람 대신 흥정하는 AI 에이전트, 협상 규칙은 변호사에게 묻는다",
-      "link": "https://platum.kr/archives/296488?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%2582%25ac%25eb%259e%258c-%25eb%258c%2580%25ec%258b%25a0-%25ed%259d%25a5%25ec%25a0%2595%25ed%2595%2598%25eb%258a%2594-ai-%25ec%2597%2590%25ec%259d%25b4%25ec%25a0%2584%25ed%258a%25b8-%25ed%2598%2591%25ec%2583%2581-%25ea%25b7%259c%25ec%25b9%2599%25ec%259d%2580-%25eb%25b3%2580%25ed%2598%25b8%25ec%2582%25ac%25ec%2597%2590",
-      "pubDate": "2026-10-18T14:34:30.000Z",
-      "source": "플래텀",
-      "category": "창업"
-    },
-    {
-      "title": "“곰돌이 푸 탄생 100주년인 줄 알았나”…도서관에 들어온 진짜 곰, 꿀통 털었다",
-      "link": "https://www.mk.co.kr/news/economy/12179113",
-      "pubDate": "2026-10-18T11:58:03.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "앤트로픽, 캐나다 첫 데이터센터 계약…일본서도 건설 협상 막바지",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=216378",
-      "pubDate": "2026-10-18T11:42:17.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "앤트로픽 ‘미소스 5’, 양자회로 설계 개선…53시간 만에 새 계산법 발견",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=216376",
-      "pubDate": "2026-10-18T11:11:42.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "순천만천문대 ‘밤새워 내 별 찾기’…초등교사 2년 연속 참여",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=216316",
-      "pubDate": "2026-10-18T09:50:00.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "여수 국동항서 ‘한밤의 피크닉’…주말 버스킹·먹거리 운영",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=216317",
-      "pubDate": "2026-10-18T09:45:00.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "미국 은행들, 메타 ‘뮤즈’ 계좌 접근 차단…“AI가 옮긴 돈, 누가 책임지나”",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=216373",
-      "pubDate": "2026-10-18T09:41:18.000Z",
       "source": "AI타임스",
       "category": "AI"
     }
