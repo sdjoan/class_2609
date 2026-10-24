@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-24T17:15:56.808Z",
+  "lastUpdated": "2026-10-24T20:28:01.758Z",
   "count": 500,
   "items": [
     {
@@ -8,6 +8,13 @@
       "pubDate": "2026-10-24T20:38:59.000Z",
       "source": "AI타임스",
       "category": "AI"
+    },
+    {
+      "title": "유가는 치솟는데 … 내 원유선물 ETN, 뭐가 문제죠?",
+      "link": "https://www.mk.co.kr/news/economy/12184266",
+      "pubDate": "2026-10-24T20:00:00.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
     },
     {
       "title": "오픈AI 연구원 3명 해고, ‘순환 추론’ 유출 조사서 비롯…시그널 대화 쟁점",
@@ -3494,13 +3501,6 @@
       "pubDate": "2026-10-19T13:43:17.000Z",
       "source": "AI타임스",
       "category": "AI"
-    },
-    {
-      "title": "기술유출 걸리면 개발비부터 전부 배상…산업스파이 처벌수위 확 높이기로",
-      "link": "https://www.mk.co.kr/news/economy/12180077",
-      "pubDate": "2026-10-19T13:35:53.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
     }
   ]
 }
