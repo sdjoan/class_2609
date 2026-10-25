@@ -1,7 +1,63 @@
 {
-  "lastUpdated": "2026-10-25T07:25:08.499Z",
+  "lastUpdated": "2026-10-25T13:03:21.166Z",
   "count": 500,
   "items": [
+    {
+      "title": "가상 섬에 홀로 둔 AI, 스스로 놀이 만들고 개발자도 몰랐던 기술 발견",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216631",
+      "pubDate": "2026-10-25T19:33:16.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "'클로드'가 그림에 숨긴 문장, '아스트라'가 풀었다…암호 규칙 없이 88% 해독",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216630",
+      "pubDate": "2026-10-25T18:57:13.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "[AI 모델 신작] 텐센트 월드 모델부터 잭 도시의 음성 AI까지 9종",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216628",
+      "pubDate": "2026-10-25T18:32:30.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "멜론 3위 오른 AI 노래, 어떻게 만들었나…‘머무르’ 제작팀 인터뷰",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216553",
+      "pubDate": "2026-10-25T17:37:08.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "아마존, AI 수요 폭증에 내년 컴퓨팅 용량 완판...2028년 예약도 몰려",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216620",
+      "pubDate": "2026-10-25T17:10:30.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "엔비디아, 로컬 에이전트·로봇 겨냥 4GB 모델 '네모트론 3.5 볼트' 출시",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216625",
+      "pubDate": "2026-10-25T16:50:23.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "리퀴드 AI, 실시간 추론 엔진 ‘RIPL’ 출시...AI 응답 지연 50ms 미만 겨냥",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216627",
+      "pubDate": "2026-10-25T16:32:11.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "오픈AI 회의실 도청 사태, 사우디 연루 '경제 간첩' 수사로 확대",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216621",
+      "pubDate": "2026-10-25T16:05:16.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
     {
       "title": "선거 후보 선택 강요하자...그록은 공화당, 오픈AI 모델은 민주당 선택",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=216623",
@@ -38,6 +94,13 @@
       "category": "AI"
     },
     {
+      "title": "이 대통령 “밀물 들어오면 모든 배 뜬다…성장 과실, 국민 삶 바꿔야”",
+      "link": "https://www.mk.co.kr/news/economy/12185279",
+      "pubDate": "2026-10-25T09:28:26.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
       "title": "목포, 도서지역 산불·소나무재선충병 예방활동 추진",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=216540",
       "pubDate": "2026-10-25T09:25:00.000Z",
@@ -64,6 +127,76 @@
       "pubDate": "2026-10-25T09:02:24.000Z",
       "source": "AI타임스",
       "category": "AI"
+    },
+    {
+      "title": "'농협회장 직선제' 농협법 27일 국회서 재심사 돌입",
+      "link": "https://www.mk.co.kr/news/economy/12185245",
+      "pubDate": "2026-10-25T08:34:34.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "공정위원장 \"조사거부 기업에 매출1% 과징금\"",
+      "link": "https://www.mk.co.kr/news/economy/12185246",
+      "pubDate": "2026-10-25T08:34:34.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "한국 '獨+日'도 제쳤다 … 경상흑자 세계 2위로",
+      "link": "https://www.mk.co.kr/news/economy/12185244",
+      "pubDate": "2026-10-25T08:34:33.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "[포토] 우리금융, 취약계층 보일러 교체 지원",
+      "link": "https://www.mk.co.kr/news/economy/12185223",
+      "pubDate": "2026-10-25T08:31:58.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "[표] 외국환율고시표",
+      "link": "https://www.mk.co.kr/news/economy/12185224",
+      "pubDate": "2026-10-25T08:31:58.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "산은·기은, 국내 첫 무위험 지표금리 대출",
+      "link": "https://www.mk.co.kr/news/economy/12185221",
+      "pubDate": "2026-10-25T08:31:57.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "배달 오토바이 살 돈도 대출 … 금융권 '미소금융' 판 커진다",
+      "link": "https://www.mk.co.kr/news/economy/12185222",
+      "pubDate": "2026-10-25T08:31:57.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "89주째 집값상승…고심 깊어진 금융당국",
+      "link": "https://www.mk.co.kr/news/economy/12185219",
+      "pubDate": "2026-10-25T08:31:56.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "신한카드, 실손청구 서비스 결제내역 기반 업계 첫 출시",
+      "link": "https://www.mk.co.kr/news/economy/12185220",
+      "pubDate": "2026-10-25T08:31:56.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "\"챗GPT 선생님, 저 왜 아프죠?\" 성인 46% AI에 건강 질문",
+      "link": "https://www.mk.co.kr/news/economy/12185204",
+      "pubDate": "2026-10-25T08:28:15.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
     },
     {
       "title": "종부세 올리면 세입자 부담…국회 “임대료 떠넘기기 우려”",
@@ -778,6 +911,13 @@
       "pubDate": "2026-10-23T06:31:18.000Z",
       "source": "플래텀",
       "category": "창업"
+    },
+    {
+      "title": "2026년 재외동포 지역정착 지원사업-동포와 함께하는 우리들의 군산 1박2일 참여자 모집 - 군산시 누리집",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9LakNtY2hBUE9QODJ3c2NzaGVHajVYUEFUdTZtWW1idFpLV3dlWUxBWXV4VnJxVUFGelo3ZGlmRTFEcE80UVlUX0FEX0g2d0lpenZaZTU4WnZKWUk?oc=5",
+      "pubDate": "2026-10-23T06:23:17.000Z",
+      "source": "Google 뉴스: 지원사업 공고/모집",
+      "category": "정부지원정책"
     },
     {
       "title": "“해양·산업금융 경쟁력 강화”…부산은행 창립 59주년 기념식",
@@ -3361,146 +3501,6 @@
       "pubDate": "2026-10-20T01:48:27.000Z",
       "source": "Google 뉴스: 지원사업 공고/모집",
       "category": "정부지원정책"
-    },
-    {
-      "title": "나주시, 청년 취업자 주거비 지원 3차 모집 - https://www.theleader.co.kr/",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1CWmc1V1FVVXNIcVBia3kyWUg4cEtvaWoxaGlPdzlqMFplMFVBeC1ZTUpTT2VEQUpUQmlUXzZ4TnpKNVNQZ08zOGpSX0Mta1Ruc3RxSW9tYWczUTJFLVZ3N1N1QzdzT2RvTXE3WQ?oc=5",
-      "pubDate": "2026-10-20T01:37:58.000Z",
-      "source": "Google 뉴스: 지원사업 공고/모집",
-      "category": "정부지원정책"
-    },
-    {
-      "title": "김해 청년 근로소득 지원 기업 모집…29일 접수 마감 - 비건뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE42dVowODI1X0xzbjJFYjF5WEk2YWhBcnZKYkhNZTNIdklhSG9DdkdJWEtIVTVfMjQ1Nm94eWZPbXFWZFJ3MzlYN3JtUkVSS1MyTFpxN3lzOEY2b3RKYUJnRGxpdlhBZw?oc=5",
-      "pubDate": "2026-10-20T01:33:23.000Z",
-      "source": "Google 뉴스: 지원사업 공고/모집",
-      "category": "정부지원정책"
-    },
-    {
-      "title": "진천군 청년센터, 지역 청년 위한 맞춤형 지원사업 참여자 모집 - 충남일보",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBKdWRYVEZxb182eUJoUUNGaW94UVBrNzhRYzV4VHlpSENoNnlLb2tfcGVwN0U0aTZTWEtlWFVkbThqLUYzYXRSWmxzLUhHSFpmQzBHTEZMYXF2LVNRZE40OFlzS3F5T0MxcC0yVFVSWE5TVmc?oc=5",
-      "pubDate": "2026-10-20T01:26:50.000Z",
-      "source": "Google 뉴스: 지원사업 공고/모집",
-      "category": "정부지원정책"
-    },
-    {
-      "title": "2027년 전통시장 5개 지원사업 접수, 11월 16일 마감 - 비건뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBGZE1RLTZ5T042NWExWjZuTndsaEFiaVdvT3M3S0hoeDNUTzFON2lvbmpuQk94cjlPN0VYX2J0aG5scnd0SXMzWVRlMjV1NjRDOG4wbFN4NHlYUHRkQ2x0UWpsUFQtdw?oc=5",
-      "pubDate": "2026-10-20T01:07:43.000Z",
-      "source": "Google 뉴스: 지원사업 공고/모집",
-      "category": "정부지원정책"
-    },
-    {
-      "title": "함평군, ‘지역자원 연계 청년창업 지원사업’ 참여자 모집 - 서울뉴스통신",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9BWEk3dlR0N0pTaUNONDY4N05raHluMVJoRVpVNVdjTjc1N1FsaHBZbGwzNkMwNkZ3MG5lZEZoUUVLaFktX2JlLUNDVFd2ZXI3S0ZYWTQwanhUYVB3bDJPdEhxVHJaYzRzR05j?oc=5",
-      "pubDate": "2026-10-20T01:06:42.000Z",
-      "source": "Google 뉴스: 지원사업 공고/모집",
-      "category": "정부지원정책"
-    },
-    {
-      "title": "한국국제물류협회, ‘4차 미래내일 일경험’ 참여기업 모집 - 물류신문",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9jWFNHYUhSQmNRM3dTY2lTNXloZDF3bEkxYTkwS3NrUENKWXFzMVVvVFY2R1FmWFJmR0VCVUNzaHREcmFIYVJVanhKV3laRG1aSXlscjNlMzdoLV9iRmNQdkJkdjgyQWNmM1pj?oc=5",
-      "pubDate": "2026-10-20T01:03:50.000Z",
-      "source": "Google 뉴스: 지원사업 공고/모집",
-      "category": "정부지원정책"
-    },
-    {
-      "title": "차지훈 대사, 유엔 AI 글로벌 논의 이끈다",
-      "link": "https://www.mk.co.kr/news/economy/12180316",
-      "pubDate": "2026-10-20T01:01:57.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "“신청 시기에 따라 대출 갈린다”…논란 키우는 서민금융 ‘꼼수’ 심사, 왜?",
-      "link": "https://www.mk.co.kr/news/economy/12180311",
-      "pubDate": "2026-10-20T00:53:33.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "[단독] ‘LH투기’ 정부가 발표한 직원 77명, LH는 5년째 몰랐다",
-      "link": "https://www.mk.co.kr/news/economy/12180286",
-      "pubDate": "2026-10-20T00:21:41.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "“불법 투자로 돈 벌다가, 퇴사하면 그만?”…증권가 주식투자의 민낯",
-      "link": "https://www.mk.co.kr/news/economy/12180261",
-      "pubDate": "2026-10-20T00:07:05.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "중기부, 2027년 전통시장 활성화 지원사업 참여 대상 모집 - 서남투데이",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1xWThaNGwteVlyTHc0N0RfV2pSRFdiZFhGWHg4aU5WWDRjMkRVTkJrVnJkOHFYajJlaWVOOUJ6eTlucDB6SVN6MzJGYUh6Q05JYXFxd3pfblFOZw?oc=5",
-      "pubDate": "2026-10-20T00:05:36.000Z",
-      "source": "Google 뉴스: 지원사업 공고/모집",
-      "category": "정부지원정책"
-    },
-    {
-      "title": "중기부, 2027년 전통시장 활성화 지원사업 참여 대상 모집 - 서남투데이",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5Vb1hvZjdodnJLNXZKU1JPd1N3UUZJcnA3dWtUVzV5clZhNE01OUEyc0Fkdm94ZW91bWhuckhxYkstcWlzRUZnSFJ1WXB4Y0JBVy02US1SVl9yNnM?oc=5",
-      "pubDate": "2026-10-20T00:05:36.000Z",
-      "source": "Google 뉴스: 지원사업 공고/모집",
-      "category": "정부지원정책"
-    },
-    {
-      "title": "“코인으로 계산할게요”…비자·마스터카드도 움직인다",
-      "link": "https://www.mk.co.kr/news/economy/12180258",
-      "pubDate": "2026-10-20T00:02:53.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "OpenAI acquires Orchestra Bio",
-      "link": "https://openai.com/index/openai-to-acquire-orchestra-bio",
-      "pubDate": "2026-10-20T00:00:00.000Z",
-      "source": "OpenAI",
-      "category": "AI"
-    },
-    {
-      "title": "[지원사업] 연구인력파견 8월 공고, 매칭부터 신청까지 절차 정리 - willawip.com",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNENOby1RWTBSZVZWa0d6VTFuclBwZXlRamlqeVVGek9tT2dmdkk0dndOOTROYlRKWVo4VnRDejR4WF8zZDBMWk1UbjgzWTFtTlliXzl0SHJrWmpPakNlNVFEM3hfR2ZQZG5TbV9HMVBpbm9NRzZyaVN5V2tPUHdwYkFQMXdhNjBhV1pYUU1MaFJaRXIwNVZHNTdMYjFDTnA4Ri1V?oc=5",
-      "pubDate": "2026-10-20T00:00:00.000Z",
-      "source": "Google 뉴스: 지원사업 공고/모집",
-      "category": "정부지원정책"
-    },
-    {
-      "title": "진천군청년센터, 청년 맞춤형 지원사업 참여자 상시 모집 - 국제뉴스",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB5akRibTdPLVZ2WHBZYlVKdDJYazB5UjI1NDJoWHJjcV9PQzV5UWE2VkctUmwxSGNGLWtQeEJ0azRRdGRGMVhTSDc4NXRhOFcwaS1OVW5nSEVwU096WExUQ0JPakRRb1MxZ2Q1NF9n?oc=5",
-      "pubDate": "2026-10-19T23:58:58.000Z",
-      "source": "Google 뉴스: 지원사업 공고/모집",
-      "category": "정부지원정책"
-    },
-    {
-      "title": "[단독] 노후 임대주택 고칠 돈으로 ‘빚투’...758억원 까먹은 LH",
-      "link": "https://www.mk.co.kr/news/economy/12179552",
-      "pubDate": "2026-10-19T22:00:00.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "Top 50 Most Subscribed YouTube Channels Worldwide • Week Of 10/18/2026",
-      "link": "https://www.tubefilter.com/2026/10/19/top-50-most-subscribed-youtube-channels-week-of-10-18-2026/",
-      "pubDate": "2026-10-19T21:02:19.000Z",
-      "source": "Tubefilter",
-      "category": "수익화/크리에이터 이코노미"
-    },
-    {
-      "title": "Top 50 Most Viewed YouTube Channels Worldwide • Week Of 10/18/2026",
-      "link": "https://www.tubefilter.com/2026/10/19/top-50-most-viewed-youtube-channels-week-of-10-18-2026/",
-      "pubDate": "2026-10-19T20:24:55.000Z",
-      "source": "Tubefilter",
-      "category": "수익화/크리에이터 이코노미"
-    },
-    {
-      "title": "The new class for Alex Cooper’s Unwell University is matriculating across the continent",
-      "link": "https://www.tubefilter.com/2026/10/19/alex-cooper-unwell-university-2026-network-class/",
-      "pubDate": "2026-10-19T19:20:51.000Z",
-      "source": "Tubefilter",
-      "category": "수익화/크리에이터 이코노미"
     }
   ]
 }
