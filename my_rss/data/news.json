@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-27T11:49:47.917Z",
+  "lastUpdated": "2026-10-27T17:43:47.377Z",
   "count": 500,
   "items": [
     {
@@ -155,6 +155,13 @@
       "pubDate": "2026-10-27T14:24:46.000Z",
       "source": "AI타임스",
       "category": "AI"
+    },
+    {
+      "title": "NH투자증권, IMA 중기형 4호 1200억원 모집…거창군에 냉장고 40대 지원 - 웹이코노미",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE05UnhhSlFVNkhCTlIwVTBraFZrUmo2aGQ0aTZRSC1hZWNGeHhSck5HZXFoMGplenpSTXF1dS1rOVR3NmVPam9rMkRQVUVYYUZvbWQzcG45NVdwU0p0bkdqWXZJSWpUYmdwZzY3bEVnX0UwUQ?oc=5",
+      "pubDate": "2026-10-27T14:23:26.000Z",
+      "source": "Google 뉴스: 지원사업 공고/모집",
+      "category": "정부지원정책"
     },
     {
       "title": "애플의 폴더블 '아이폰 듀오', 힌지 결함 문제로 초기부터 불만 제기",
@@ -371,6 +378,13 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=216649",
       "pubDate": "2026-10-27T07:00:00.000Z",
       "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
+      "link": "https://openai.com/index/oracle-apps-in-chatgpt",
+      "pubDate": "2026-10-27T07:00:00.000Z",
+      "source": "OpenAI",
       "category": "AI"
     },
     {
@@ -2481,6 +2495,13 @@
       "category": "AI"
     },
     {
+      "title": "Anima helps clinics cut call waits by 75% with GPT-6 and GPT-Live",
+      "link": "https://openai.com/index/anima",
+      "pubDate": "2026-10-23T00:00:00.000Z",
+      "source": "OpenAI",
+      "category": "AI"
+    },
+    {
       "title": "아산시, 노후주택 17가구 '녹색건축물 조성' 지원 - 연합뉴스",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1KT3o4bldOd0N4cGlXZURud0dqd3M2MnhJVmpQQk5TZk8wRnh0bHBfVE5zMGlRQi1NT3NZVHp6M3RvblBVdjdiQkVONFIzT0RqMnFsQzIyTzZiWUHSAWBBVV95cUxPaGdMVXdINGVsdnlDZUw4MVFCVUlUdVp6VTU4NlFFWlIyb3pOaTdIZUk4Z3ltVTk4Ym1XSnNYVzVXVGlQMGk1NnJjUXE3ZURwQ1JYZVNDcGRzWG1oTExxbW8?oc=5",
       "pubDate": "2026-10-22T23:54:29.000Z",
@@ -3480,27 +3501,6 @@
       "pubDate": "2026-10-21T15:55:41.000Z",
       "source": "AI타임스",
       "category": "AI"
-    },
-    {
-      "title": "메타, '뮤즈' 학습한 데이터센터 공개…GPU 100만까지 늘린다",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=216481",
-      "pubDate": "2026-10-21T15:25:56.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "스페인, 올리브밭에 3.65MWp 태양광…농사 유지하며 전력 생산 추진",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=216478",
-      "pubDate": "2026-10-21T15:25:00.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "[중기부] '2027년 전통시장 및 상점가 활성화 지원사업' 공고… 문화관광형·안전관리 지원 대폭 강화 - 커넥트이천",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB0cEZac24xNzFoMmg1QkZOTlVORy1iMjZNZndJNW5NdUYzSkxyeG5EVW9sRmk4NGZNRWZyWDBRdHNOdXp6X3dJUUMtODVKNXJDZTBnaC1RTDQ3SUg1UUE?oc=5",
-      "pubDate": "2026-10-21T15:06:07.000Z",
-      "source": "Google 뉴스: 지원사업 공고/모집",
-      "category": "정부지원정책"
     }
   ]
 }
