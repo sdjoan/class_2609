@@ -1,7 +1,35 @@
 {
-  "lastUpdated": "2026-10-27T17:43:47.377Z",
+  "lastUpdated": "2026-10-27T21:58:01.133Z",
   "count": 500,
   "items": [
+    {
+      "title": "“반도체 호황도 못 살렸다”…기업 경기전망 2개월째 ‘부정적’",
+      "link": "https://www.mk.co.kr/news/economy/12187984",
+      "pubDate": "2026-10-27T21:20:38.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "Tubi reveals ten shows led by TikTok stars as part of incubator program",
+      "link": "https://www.tubefilter.com/2026/10/27/tubi-tiktok-creatorverse-incubator-program-original-slate/",
+      "pubDate": "2026-10-27T21:15:42.000Z",
+      "source": "Tubefilter",
+      "category": "수익화/크리에이터 이코노미"
+    },
+    {
+      "title": "“세금도 카드값도 최대한 미뤄야죠”…팍팍해진 가계 ‘버티기 결제’ 늘었다",
+      "link": "https://www.mk.co.kr/news/economy/12187972",
+      "pubDate": "2026-10-27T21:09:55.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "“2억1700만원까지는 그냥 받아도 된다?” … 헷갈리는 부모 무상증여",
+      "link": "https://www.mk.co.kr/news/economy/12187375",
+      "pubDate": "2026-10-27T19:30:00.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
     {
       "title": "\"성능은 그대로, 비용은 최대 3배\"…에이전트 가로막는 '복잡한 하네스'",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=216712",
@@ -619,6 +647,13 @@
       "category": "정부지원정책"
     },
     {
+      "title": "서귀포시, 2027년 노인일자리.사회활동 지원사업 수행기관 모집 - 헤드라인제주",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5kTXZvTG5kR2VTTi1hbk9MMWR5OEtpM04yeExzLXRpMzlLOW9FQmw5bDNMRGNfMFdHRnlNeWpoZVg2TGJGTzlmMGdhNk1RTE5ZRFM3YXh3Vi1sSEwza3BEdWJqaFdCdGlOaC0tdDJ2VHUzdw?oc=5",
+      "pubDate": "2026-10-27T01:11:13.000Z",
+      "source": "Google 뉴스: 지원사업 공고/모집",
+      "category": "정부지원정책"
+    },
+    {
       "title": "해킹피해 발표는 119명, 실제 2210명…KB국민은행, 예금잔액·대출내역도 샜다",
       "link": "https://www.mk.co.kr/news/economy/12186713",
       "pubDate": "2026-10-27T01:09:18.000Z",
@@ -652,6 +687,13 @@
       "pubDate": "2026-10-27T00:00:32.000Z",
       "source": "매일경제 경제",
       "category": "경제"
+    },
+    {
+      "title": "How Check Point accelerates vulnerability research with Daybreak",
+      "link": "https://openai.com/index/check-point-daybreak",
+      "pubDate": "2026-10-27T00:00:00.000Z",
+      "source": "OpenAI",
+      "category": "AI"
     },
     {
       "title": "“어제 받은 월급, 어디로 사라졌나요”…한달 뒤면 잔액 3%만 남아",
@@ -3457,48 +3499,6 @@
       "title": "오픈AI, 신약 개발 관리 플랫폼 '오케스트라 바이오' 인수",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=216485",
       "pubDate": "2026-10-21T16:50:46.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "중국, AI 데이터 자원 통합 운영할 '국가데이터그룹' 출범",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=216477",
-      "pubDate": "2026-10-21T16:41:33.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "“식물 전기 신호로 건강 상태 읽는다”…‘식물 AI’ 봄바딜 공개",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=216490",
-      "pubDate": "2026-10-21T16:32:52.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "이스트소프트, 제주국제자유도시개발센터 ‘사내 생성 AI 언어모델 구축 사업’ 수주",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=216484",
-      "pubDate": "2026-10-21T16:20:00.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "자체 감시 기능 무력화한 오픈AI 에이전트…'회피 성향' 조사",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=216468",
-      "pubDate": "2026-10-21T16:09:55.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "시냅틱스, 구글 '코랄' 기반 엣지 AI 칩 공개...웨어러블·산업용 기기 겨냥",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=216493",
-      "pubDate": "2026-10-21T16:05:00.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "가트너, 기업이 주목해야 할 '2027년 10대 전략기술' 발표",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=216475",
-      "pubDate": "2026-10-21T15:55:41.000Z",
       "source": "AI타임스",
       "category": "AI"
     }
