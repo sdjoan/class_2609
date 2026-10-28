@@ -1,7 +1,70 @@
 {
-  "lastUpdated": "2026-10-27T21:58:01.133Z",
+  "lastUpdated": "2026-10-28T01:09:01.695Z",
   "count": 500,
   "items": [
+    {
+      "title": "[AI리더의 서가] 머신러닝 플랫폼 엔지니어링",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216583",
+      "pubDate": "2026-10-28T09:00:00.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "구글, 음성·실시간 편집 갖춘 월드모델 '지니 4' 공개",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216731",
+      "pubDate": "2026-10-28T07:17:10.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "[10월27일] 앤트로픽 IPO에 걸린 건 '거의 모든 것'...AI 붐의 미래 가른다",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216703",
+      "pubDate": "2026-10-28T07:00:00.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "“주식·코인·보험도 털렸다”…금융권 해킹 줄줄이 추가 확인",
+      "link": "https://www.mk.co.kr/news/economy/12188131",
+      "pubDate": "2026-10-28T00:45:46.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "대구시, '스마트시티 혁신기술 실증 지원' 참여기업 모집 - 뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE05RDJzT1ZFaEc2VzJocGxrY3JmTXJiYng3ZG1vM0dKYmlZY2lEOGJzNWdsY1RzWWxqY1dTSlppYWs0UjZIRUhpdUt3cDBSWm50Z1MwRjJBaGZWWDNoam9V?oc=5",
+      "pubDate": "2026-10-28T00:40:20.000Z",
+      "source": "Google 뉴스: 지원사업 공고/모집",
+      "category": "정부지원정책"
+    },
+    {
+      "title": "신한금융, 은행장 후보군 1차 압축…은행 이사회 추천권 강화",
+      "link": "https://www.mk.co.kr/news/economy/12188098",
+      "pubDate": "2026-10-28T00:39:46.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "“과세 인프라 미비·청년 우려”…與, 가상자산 과세 추가 유예 무게",
+      "link": "https://www.mk.co.kr/news/economy/12188027",
+      "pubDate": "2026-10-27T23:50:20.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "“은행 업무 봐야하는데 또 안 되네”…절반이 프로그램 오류, 배상액 보니 ‘맙소사’",
+      "link": "https://www.mk.co.kr/news/economy/12188022",
+      "pubDate": "2026-10-27T23:46:05.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "서귀포시, 2027년 노인일자리사업 수행기관 공개모집 - 채널제주",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5mU3MzNFFqV3Azb0o0Y3g2SzREbEdlWXdoZG9MQzVnSU5IMGRLeGptZXpVTXlyYnN2VW9mMkZEcmtOeTAxMmpELTE5MTZoYk94Vk93ME9wMFVTSm9fTzRtQXJTdW8tTV9xUkExalo1Yw?oc=5",
+      "pubDate": "2026-10-27T22:05:09.000Z",
+      "source": "Google 뉴스: 지원사업 공고/모집",
+      "category": "정부지원정책"
+    },
     {
       "title": "“반도체 호황도 못 살렸다”…기업 경기전망 2개월째 ‘부정적’",
       "link": "https://www.mk.co.kr/news/economy/12187984",
@@ -62,6 +125,13 @@
       "title": "“GPU 시장 감가상각 안 통한다”...출시 6년 차 A100도 임대료 역주행",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=216717",
       "pubDate": "2026-10-27T17:36:59.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "구석기 역사공원 리모델링 조성사업, 선사시대 흔적 담은 체험형 역사문화공간 조성",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216730",
+      "pubDate": "2026-10-27T17:35:00.000Z",
       "source": "AI타임스",
       "category": "AI"
     },
@@ -168,6 +238,13 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=216704",
       "pubDate": "2026-10-27T15:01:04.000Z",
       "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "Retell uses OpenAI models to help power 100M monthly calls",
+      "link": "https://openai.com/index/retell-ai",
+      "pubDate": "2026-10-27T15:00:00.000Z",
+      "source": "OpenAI",
       "category": "AI"
     },
     {
@@ -3422,83 +3499,6 @@
       "title": "오픈AI, 챗GPT에 사적 대화 숨기는 '채팅 잠금' 기능 도입",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=216470",
       "pubDate": "2026-10-21T17:57:53.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "광양, 가족 문화공연 ‘샌드매직쇼’…유아·보호자 200여명 참여",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=216488",
-      "pubDate": "2026-10-21T17:53:42.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "광주 도시농부 축제 23일 개막…반려식물·어린이 농부학교 운영",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=216486",
-      "pubDate": "2026-10-21T17:52:54.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "전남광주경자청, 미래모빌리티 엑스포 참가…기업 투자상담 운영",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=216482",
-      "pubDate": "2026-10-21T17:52:24.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "인셉션, 최고 성능 dLLM '머큐리 3' 공개...\"오픈AI·앤트로픽 맞먹어\"",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=216483",
-      "pubDate": "2026-10-21T17:51:10.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "아마존 이어 구글도 자체칩 생태계 확장...'토치TPU' 오픈소스 공개",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=216476",
-      "pubDate": "2026-10-21T17:29:24.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "얼굴 나이 측정 넘어 암 환자 생존 위험 예측…하버드 연구진, 사진 분석 AI 개발",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=216498",
-      "pubDate": "2026-10-21T17:20:00.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "fal, '시댄스 2.5'보다 22배 빠른 비디오 모델 '플럭스 3 맥스' 출시",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=216487",
-      "pubDate": "2026-10-21T17:10:27.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "[게시판] 플렉스, 한국MS와 기업용 AI 협력 등 단신",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=216489",
-      "pubDate": "2026-10-21T17:00:00.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "How AT&T is rethinking in-house legal work with OpenAI",
-      "link": "https://openai.com/index/att-legal",
-      "pubDate": "2026-10-21T17:00:00.000Z",
-      "source": "OpenAI",
-      "category": "AI"
-    },
-    {
-      "title": "메타 '뮤즈', 출시 40일 만에 미국 다운로드 1000만건 돌파...역대 12번째 기록",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=216479",
-      "pubDate": "2026-10-21T16:58:39.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "오픈AI, 신약 개발 관리 플랫폼 '오케스트라 바이오' 인수",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=216485",
-      "pubDate": "2026-10-21T16:50:46.000Z",
       "source": "AI타임스",
       "category": "AI"
     }
