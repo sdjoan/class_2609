@@ -1,7 +1,63 @@
 {
-  "lastUpdated": "2026-10-28T16:29:42.848Z",
+  "lastUpdated": "2026-10-28T22:22:02.816Z",
   "count": 500,
   "items": [
+    {
+      "title": "[10월28일] AI가 던진 근본적인 질문 \"인간이란 무엇인가\"…존재 가치 논쟁 잇따라",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216742",
+      "pubDate": "2026-10-29T07:00:00.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "애플, 16년 만에 터치스크린 맥북 출시…스티브 잡스의 원칙 뒤집었다",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216769",
+      "pubDate": "2026-10-29T06:09:36.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "구글, 1년 만에 AI 성능 평가 1위 탈환…'제미나이 4 카본' 출시",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216768",
+      "pubDate": "2026-10-29T05:22:15.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "Don’t worry, Discord isn’t going to put your spicy e-kitten chats on Google Search",
+      "link": "https://www.tubefilter.com/2026/10/28/discord-google-search-discoverable-servers-public-results-reddit/",
+      "pubDate": "2026-10-28T22:01:56.000Z",
+      "source": "Tubefilter",
+      "category": "수익화/크리에이터 이코노미"
+    },
+    {
+      "title": "Reddit splits its home feed in two with a TikTok-inspired update",
+      "link": "https://www.tubefilter.com/2026/10/28/reddit-for-you-following-split-homepage-feeds/",
+      "pubDate": "2026-10-28T21:47:18.000Z",
+      "source": "Tubefilter",
+      "category": "수익화/크리에이터 이코노미"
+    },
+    {
+      "title": "자가 거주 가구주 47% “소득 부족”…“여유 있다”는 18%",
+      "link": "https://www.mk.co.kr/news/economy/12189411",
+      "pubDate": "2026-10-28T21:18:36.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "“전력망 건설속도 6배 끌어올려야”…경제자문회의 부의장이 경고한 이유",
+      "link": "https://www.mk.co.kr/news/economy/12189346",
+      "pubDate": "2026-10-28T20:50:15.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "“가진 자산이 얼마나 되시나요?”…진짜 부자는 ‘은행 비밀공간’으로 간다",
+      "link": "https://www.mk.co.kr/news/economy/12189197",
+      "pubDate": "2026-10-28T19:18:28.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
     {
       "title": "“앤트로픽, 내년 여름부터 AI가 AI 개발”…전문 평가업체 전망",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=216767",
@@ -10,11 +66,25 @@
       "category": "AI"
     },
     {
+      "title": "YouTube tests reduced payout thresholds to aid creators in developing economies",
+      "link": "https://www.tubefilter.com/2026/10/28/youtube-partner-program-lower-payout-threshold-test/",
+      "pubDate": "2026-10-28T18:31:03.000Z",
+      "source": "Tubefilter",
+      "category": "수익화/크리에이터 이코노미"
+    },
+    {
       "title": "'딥시크-V4.1 플래시', 독립 테스트서 통제 상실·안전성 허점 드러내",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=216738",
       "pubDate": "2026-10-28T18:17:34.000Z",
       "source": "AI타임스",
       "category": "AI"
+    },
+    {
+      "title": "Federal Reserve issues FOMC statement",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm",
+      "pubDate": "2026-10-28T18:00:00.000Z",
+      "source": "미 연준 보도자료",
+      "category": "경제"
     },
     {
       "title": "리퀴드 AI, 온디바이스 AI 모델 'LFM3' 공개...브라우저·음성·이미지 처리 지원",
@@ -122,6 +192,13 @@
       "category": "AI"
     },
     {
+      "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+      "link": "https://openai.com/index/openai-servicenow-partnership-expansion",
+      "pubDate": "2026-10-28T13:15:00.000Z",
+      "source": "OpenAI",
+      "category": "AI"
+    },
+    {
       "title": "중국 AI 거품 붕괴 가속…기술주 시총 640조 증발",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=216748",
       "pubDate": "2026-10-28T13:12:01.000Z",
@@ -210,6 +287,13 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=216692",
       "pubDate": "2026-10-28T11:10:00.000Z",
       "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "The future of the firm",
+      "link": "https://openai.com/index/the-future-of-the-firm",
+      "pubDate": "2026-10-28T10:00:00.000Z",
+      "source": "OpenAI",
       "category": "AI"
     },
     {
@@ -3415,90 +3499,6 @@
       "title": "순천만국가정원, 3년 연속 관람객 300만명 돌파",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=216506",
       "pubDate": "2026-10-22T17:01:46.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "[게시판] 모빌린트, LG전자와 휴머노이드용 NPU 플랫폼 개발 등 단신",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=216533",
-      "pubDate": "2026-10-22T17:00:00.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "클로드·그록으로 무장한 해커들, 중남미 은행 400여곳 사이버 공격 자동화",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=216541",
-      "pubDate": "2026-10-22T16:58:45.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "여수 ‘2026 문화의 달’ 마무리…도심·해양공원·섬서 문화행사",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=216495",
-      "pubDate": "2026-10-22T16:50:00.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "나주, 치매안심돌봄학교서 가을소풍…숲길 걷기·문화공연 진행",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=216492",
-      "pubDate": "2026-10-22T16:45:00.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "“느려진 TV, 클로드에게 맡겨볼까”…광고 덜고 속도 높이는 AI 활용법",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=216547",
-      "pubDate": "2026-10-22T16:34:10.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "[AI 모델 신작] 시계열 예측 ‘타임스트랄’·영상 효과음 ‘SFX 2.0’ 등 5종",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=216545",
-      "pubDate": "2026-10-22T16:08:22.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "\"챗GPT로 글 쓴 거 티 나요\"...’AI 말투' 지워주는 교정 도구 뜬다",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=216480",
-      "pubDate": "2026-10-22T15:46:57.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "충남교육청기록원, 10월31일 첫 기록의 날 ‘더: 아카이브’ 개최",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=216543",
-      "pubDate": "2026-10-22T15:43:33.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "트럼프 \"데이터센터 건설 기업, 지역사회에 '배당금' 지급해야\"",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=216535",
-      "pubDate": "2026-10-22T15:38:27.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "위플로, 드론 검사·정비용 AI 솔루션 '플로원 AI 스위트' 출시",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=216531",
-      "pubDate": "2026-10-22T15:34:36.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "세계 최대 월마트도 AI 에이전트 쇼핑 본격화…전용 플랫폼까지 공개",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=216536",
-      "pubDate": "2026-10-22T15:15:11.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "광양경자청, 이차전지·미래 모빌리티 기업 대상 투자 홍보",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=216534",
-      "pubDate": "2026-10-22T15:00:01.000Z",
       "source": "AI타임스",
       "category": "AI"
     }
