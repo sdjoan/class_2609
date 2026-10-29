@@ -1,7 +1,63 @@
 {
-  "lastUpdated": "2026-10-28T22:22:02.816Z",
+  "lastUpdated": "2026-10-29T05:00:01.785Z",
   "count": 500,
   "items": [
+    {
+      "title": "미 법무부, 엔비디아의 허깅페이스 인수 조사...AI 모델 유통망 장악 가능성 검토",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216777",
+      "pubDate": "2026-10-29T13:02:52.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "구글, AI로 검색량 급증했지만 광고 매출은 둔화...주가 10% 급락",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216774",
+      "pubDate": "2026-10-29T12:51:17.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "퓨리오사AI, 8200억 규모 투자 유치...기업가치 3.8조원 돌파",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216770",
+      "pubDate": "2026-10-29T12:40:49.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "MS, 10분기 연속 최대 매출...AI 투자 지연에 네오클라우드 주가 하락",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216773",
+      "pubDate": "2026-10-29T12:39:22.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "오픈AI, 구글 TPU 직접 구매 추진...엔비디아 의존도 줄인다",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216771",
+      "pubDate": "2026-10-29T12:29:25.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "SK AX, AI 기반 역량진단 솔루션 ‘지핏 스튜디오’ 출시...AI 인재 선발 지원",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216775",
+      "pubDate": "2026-10-29T12:20:50.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "삼성전자, 분기 영업익 100조 시대 열어...글로벌 테크기업 중 최초",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216772",
+      "pubDate": "2026-10-29T11:59:34.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "[AI리더의 서가] 하네스 엔지니어링으로 완성하는 에이전틱 AI",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216584",
+      "pubDate": "2026-10-29T09:00:00.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
     {
       "title": "[10월28일] AI가 던진 근본적인 질문 \"인간이란 무엇인가\"…존재 가치 논쟁 잇따라",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=216742",
@@ -22,6 +78,69 @@
       "pubDate": "2026-10-29T05:22:15.000Z",
       "source": "AI타임스",
       "category": "AI"
+    },
+    {
+      "title": "대전창조경제혁신센터, ‘웰컴 스테이 지원사업’ 모집 - 충남일보",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9BbHFmR3VYVG5LdDZmeG1oYlBrMDVVQk56R2JhTkpkTy1xczdYdjQ1b3c2a1I4UU1mR1Yzc1RyUWVFMjQyMXRCLXVHUWpxQmFtcHF4MzRoOVQxSEZyVi1qUE1OTHpIeVFhWkdYOTBTZ3Y1TE0?oc=5",
+      "pubDate": "2026-10-29T02:32:45.000Z",
+      "source": "Google 뉴스: 지원사업 공고/모집",
+      "category": "정부지원정책"
+    },
+    {
+      "title": "대전혁신센터, 대전 이전·창업기업 대상 '웰컴 스테이 지원사업' 참여기업 모집 - 보도자료 | 기사 - 더팩트",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5TUmpJZFR4ZURtM0w2T09vbVMzNU5RaTZueDBsTklMRzlncTUyMkxhTjdsS2cybXMtZDRzeENhajM0dUItUjFub1FEWlYxcEMyNUo0b3YtZWU1c20wM0Rz?oc=5",
+      "pubDate": "2026-10-29T02:27:18.000Z",
+      "source": "Google 뉴스: 지원사업 공고/모집",
+      "category": "정부지원정책"
+    },
+    {
+      "title": "KOSA, AI 기업 미국 진출 돕는다…뉴욕대 연계 지원사업 사전 접수 - 뉴시스",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5HQzZoZkRkdm5CMS1XSHE0SWhjejd6NUN3T2N5OEJ0ZVRwVkpiaDJNUnNIS3F1ZG5zdmNhNFR0c0QwbUNLa3gyY0JOeDV4SXBvbEtEQXpCSTBKeVh4Z1Y2S9IBeEFVX3lxTE5FejV6UmZtem1GV1p1cy0tVlk0NEFzOUthM3BuMXdiNGxOQy1TVlpjNFpzSEt0MUJtTEtQVEItSkJmZVd0ZTlsd01vTjMxWElSQ0F4TFVVd3ZoWmUzVXV3WjBiWjZGNlhxZWhVUktIeFFkSi1xSzRKeQ?oc=5",
+      "pubDate": "2026-10-29T01:12:58.000Z",
+      "source": "Google 뉴스: 지원사업 공고/모집",
+      "category": "정부지원정책"
+    },
+    {
+      "title": "“이번이 정말 마지막” 중고거래에 눈물 흘리던 남편…정부, 가이드라인 마련",
+      "link": "https://www.mk.co.kr/news/economy/12189529",
+      "pubDate": "2026-10-29T00:22:30.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "“수출 잘된다더니 우리 공장은 왜”…중소기업 경기 ‘온도차’",
+      "link": "https://www.mk.co.kr/news/economy/12189495",
+      "pubDate": "2026-10-29T00:00:53.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "2030년부터 모든 사업장 퇴직급여 사외적립 의무화…‘기금형 퇴직연금’ 전면 도입",
+      "link": "https://www.mk.co.kr/news/economy/12189457",
+      "pubDate": "2026-10-29T00:00:00.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "Creator horror is everywhere this October, but Curry Barker is reminding us that YouTube still matters",
+      "link": "https://www.tubefilter.com/2026/10/28/horror-creator-spooky-season-curry-barker-mama-bear/",
+      "pubDate": "2026-10-28T23:03:43.000Z",
+      "source": "Tubefilter",
+      "category": "수익화/크리에이터 이코노미"
+    },
+    {
+      "title": "YouTube’s living room TV viewership now brings in one-third of its ad revenue",
+      "link": "https://www.tubefilter.com/2026/10/28/youtube-living-room-tv-ad-revenue-q3-2026-earnings/",
+      "pubDate": "2026-10-28T23:02:50.000Z",
+      "source": "Tubefilter",
+      "category": "수익화/크리에이터 이코노미"
+    },
+    {
+      "title": "오라클 주가 급등 VS 구글 주가 급락... 시장 눈높이는 어디에 있나",
+      "link": "https://www.mk.co.kr/news/economy/12189463",
+      "pubDate": "2026-10-28T22:59:20.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
     },
     {
       "title": "Don’t worry, Discord isn’t going to put your spicy e-kitten chats on Google Search",
@@ -311,6 +430,13 @@
       "category": "AI"
     },
     {
+      "title": "전북특별자치도 ‘2027 지역산업맞춤형 일자리지원사업 통합 설명회’개최 - 전북중앙",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1iMllnWmdZOXRsZ0haclAwTVRxLWRSUXFwS2pWY0Q4YzVRZlZvdGJwZm1HMzRpN2ZSNWNHUTRjc0tjZU5iWjNDQWFaYmNoT3ZfNjFuYmMzR2hXWXZ4X1JBalZPOXZWVEHSAWtBVV95cUxORW1fMXQ1SHFEdXJZRE8zOUJWQmZNVTlfQWpKLUhnbkpjTklIY1VBWXlHM2V6dVlUNTBhQkJuNU9QdVpuTFJpaXRSakZFRjVFMXpIWWdCWEZ4MFdpV0NfYVFMV1NzR2hvSmZfNA?oc=5",
+      "pubDate": "2026-10-28T09:13:44.000Z",
+      "source": "Google 뉴스: 지원사업 공고/모집",
+      "category": "정부지원정책"
+    },
+    {
       "title": "[AI리더의 서가] 머신러닝 플랫폼 엔지니어링",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=216583",
       "pubDate": "2026-10-28T09:00:00.000Z",
@@ -544,6 +670,13 @@
     {
       "title": "서울 난임부부 지원사업 참여자 모집…최대 100만원 시술비 지원 - 연합뉴스",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0xbFh0cmgxMnBwYkVTTWpMUW5CNkI0QTB6ZVNEeUdPTW1Fc0l6QjhHN2RweDJ4eWZ1cDhLSkhwLWZxV0tyTF9WSG1OeFZiZVZ1NzlEd0FnQUhtOTDSAWBBVV95cUxOT2xyLTZHT2MtNWZyV2d1bHVVOGVhY2tRa1hfNmZVekV2cUNxOV90WGV4UmM2Zjd0RGRWRDF0U2NZMlliOTQ1c2FDU3k4cG5NcjQ2ZVl2YUMzM1BEd09lQnM?oc=5",
+      "pubDate": "2026-10-28T06:33:32.000Z",
+      "source": "Google 뉴스: 지원사업 공고/모집",
+      "category": "정부지원정책"
+    },
+    {
+      "title": "서울 난임부부 지원사업 참여자 모집…최대 100만원 시술비 지원 - 연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5PbHItNkdPYy01ZnJXZ3VsdVU4ZWFja1FrWF82ZlV6RXZxQ3E5X3RYZXhSYzZmN3REZFZEMXRTY1kyWWI5NDVzYUNTeThwbk1yNDZlWXZhQzMzUER3T2VCc9IBYEFVX3lxTE5PbHItNkdPYy01ZnJXZ3VsdVU4ZWFja1FrWF82ZlV6RXZxQ3E5X3RYZXhSYzZmN3REZFZEMXRTY1kyWWI5NDVzYUNTeThwbk1yNDZlWXZhQzMzUER3T2VCcw?oc=5",
       "pubDate": "2026-10-28T06:33:32.000Z",
       "source": "Google 뉴스: 지원사업 공고/모집",
       "category": "정부지원정책"
@@ -3368,139 +3501,6 @@
       "pubDate": "2026-10-22T23:47:37.000Z",
       "source": "매일경제 경제",
       "category": "경제"
-    },
-    {
-      "title": "YouTube now gets twice as much watch time on U.S. TVs as any other platform",
-      "link": "https://www.tubefilter.com/2026/10/22/nielsen-the-gauge-youtube-record-watch-time-share-us-tv/",
-      "pubDate": "2026-10-22T22:42:34.000Z",
-      "source": "Tubefilter",
-      "category": "수익화/크리에이터 이코노미"
-    },
-    {
-      "title": "BookTok smash hit Heated Rivalry is headed to theaters–a year after its finale aired",
-      "link": "https://www.tubefilter.com/2026/10/22/heated-rivalry-regal-theaters-showings-booktok/",
-      "pubDate": "2026-10-22T22:08:40.000Z",
-      "source": "Tubefilter",
-      "category": "수익화/크리에이터 이코노미"
-    },
-    {
-      "title": "YouTube publishes study to show that creators love using AI, actually",
-      "link": "https://www.tubefilter.com/2026/10/22/youtube-culture-and-trends-nrg-survey-generative-ai/",
-      "pubDate": "2026-10-22T21:35:48.000Z",
-      "source": "Tubefilter",
-      "category": "수익화/크리에이터 이코노미"
-    },
-    {
-      "title": "남편 연금만 믿어야 하는 전업주부, 사라진다…1가구 아닌 ‘1인 1연금’ 추진",
-      "link": "https://www.mk.co.kr/news/economy/12183701",
-      "pubDate": "2026-10-22T20:50:57.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "[단독] “지방 전기료 깎겠다며 손실 6500억은 우리한테?”…발전사들 소송 검토",
-      "link": "https://www.mk.co.kr/news/economy/12183697",
-      "pubDate": "2026-10-22T20:49:23.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "못쓰고 사라진 카드포인트 3조원인데…금융권 낙전수익 비상걸린 이유",
-      "link": "https://www.mk.co.kr/news/economy/12183695",
-      "pubDate": "2026-10-22T20:48:41.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "AI 쇼크에 너도나도 국채로...나스닥 2.6% 급락 [월가월부]",
-      "link": "https://www.mk.co.kr/news/economy/12183693",
-      "pubDate": "2026-10-22T20:46:11.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "Netflix fired its Chief Content Officer and says it’s doubling down on premium originals. Will that save its stock?",
-      "link": "https://www.tubefilter.com/2026/10/22/netflix-fired-its-chief-content-officer-and-says-its-doubling-down-on-premium-originals-will-that-save-its-stock/",
-      "pubDate": "2026-10-22T20:41:50.000Z",
-      "source": "Tubefilter",
-      "category": "수익화/크리에이터 이코노미"
-    },
-    {
-      "title": "3회 연속 금리 인상에 부담느낀 신 총재 ... ‘매파본색’은 계속된다",
-      "link": "https://www.mk.co.kr/news/economy/12183249",
-      "pubDate": "2026-10-22T20:00:00.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "Can a Twitch hit work on Netflix? Ibai will put that theory to the test with ‘La Velada del Año’",
-      "link": "https://www.tubefilter.com/2026/10/22/ibai-llanos-la-velada-del-ano-influencer-boxing-netflix/",
-      "pubDate": "2026-10-22T19:42:58.000Z",
-      "source": "Tubefilter",
-      "category": "수익화/크리에이터 이코노미"
-    },
-    {
-      "title": "Build more responsive apps with the Decisions API",
-      "link": "https://openai.com/index/decisions-api",
-      "pubDate": "2026-10-22T19:00:00.000Z",
-      "source": "OpenAI",
-      "category": "AI"
-    },
-    {
-      "title": "학술 논문 읽고 코드 수정하는 자가 진화 에이전트 '스칼라이볼브' 등장",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=216552",
-      "pubDate": "2026-10-22T17:55:05.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "리커시브, AI 주도 개발로 완성한 온디바이스 코딩 모델 '플린트' 공개",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=216516",
-      "pubDate": "2026-10-22T17:48:26.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "엔비디아, 로봇 데이터 수집 비용 125배 낮추는 모델 '플로라' 공개",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=216528",
-      "pubDate": "2026-10-22T17:40:06.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "미스트랄, 실시간 음성 에이전트 지원 '복스트랄 3' 제품군 공개",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=216544",
-      "pubDate": "2026-10-22T17:30:49.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "중국 빅테크, 엔비디아 그래픽카드 46조원 주문…첨단 AI 칩 막히자 대체품 확보",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=216548",
-      "pubDate": "2026-10-22T17:23:51.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "앤트로픽, 기업용 AI 보안 분석 도구 ‘클로드 시큐리티’ 출시",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=216549",
-      "pubDate": "2026-10-22T17:12:39.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "오픈AI, 챗GPT 광고 서비스 26개국 추가... 전 세계 89개국으로 확대",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=216539",
-      "pubDate": "2026-10-22T17:05:22.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "순천만국가정원, 3년 연속 관람객 300만명 돌파",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=216506",
-      "pubDate": "2026-10-22T17:01:46.000Z",
-      "source": "AI타임스",
-      "category": "AI"
     }
   ]
 }
