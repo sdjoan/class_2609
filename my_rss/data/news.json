@@ -1,7 +1,119 @@
 {
-  "lastUpdated": "2026-10-29T19:27:27.339Z",
+  "lastUpdated": "2026-10-29T23:51:06.073Z",
   "count": 500,
   "items": [
+    {
+      "title": "앤트로픽, '클로드' 자기 대화 감시 기술 도입…유해 사용 78% 탐지",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216824",
+      "pubDate": "2026-10-30T07:21:59.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "오픈AI, 프로·기업용 AI 사용량 최대 2배 확대…연속 업데이트 막바지",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216823",
+      "pubDate": "2026-10-30T06:52:24.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "앤트로픽, 스페이스X 매출 34.5% 차지…미 정부 넘어 최대 고객",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216822",
+      "pubDate": "2026-10-30T06:29:38.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "미스트랄, '라지 4' 가중치 공개로 정식 출시…유럽 사이버보안 시장 공략",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216821",
+      "pubDate": "2026-10-30T06:16:49.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "[10월29일] 자신을 AI로 복제한 '특이점' 예언자…'또 다른 나'는 나와 같은 인물인가",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216776",
+      "pubDate": "2026-10-30T06:00:00.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "딥시크·문샷 AI, 앤트로픽 방어 강화로 'GPT-6 아스트라' 집중 증류",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216820",
+      "pubDate": "2026-10-30T05:51:03.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "오픈AI, 에이전트 시대 맞춰 행동 원칙 개편…\"인간 의도 이해가 핵심\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216819",
+      "pubDate": "2026-10-30T05:29:29.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "미 정보당국 \"젠슨 황과 접촉한 중국 사업가는 스파이\"…엔비디아 반박",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216818",
+      "pubDate": "2026-10-30T05:06:36.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "연 25만명 오던 곳에 100만명 몰려…지방 소도시 하나 살린 영화 한 편",
+      "link": "https://www.mk.co.kr/news/economy/12191147",
+      "pubDate": "2026-10-29T23:17:20.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "[속보] 9월 생산 3.0%↑, 소비 3.6%↑, 투자 5.3%↑…트리플 증가",
+      "link": "https://www.mk.co.kr/news/economy/12191140",
+      "pubDate": "2026-10-29T23:03:45.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "“차이나머니 못이긴다? 미국은 4배 더 투자”…美주식 60% 담으라는데",
+      "link": "https://www.mk.co.kr/news/economy/12191119",
+      "pubDate": "2026-10-29T22:04:37.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "Pornhub is calling on its community to upload safe-for-work content (and get paid for it)",
+      "link": "https://www.tubefilter.com/2026/10/29/pornhub-campaign-safe-for-work-content/",
+      "pubDate": "2026-10-29T21:47:28.000Z",
+      "source": "Tubefilter",
+      "category": "수익화/크리에이터 이코노미"
+    },
+    {
+      "title": "‘흙수저’ 바꿔 들기 점점 어려워진다…소득 계층 오른 사람, 열에 둘도 안돼",
+      "link": "https://www.mk.co.kr/news/economy/12191075",
+      "pubDate": "2026-10-29T21:03:47.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "The magic (and brands) of Disney are coming to TikTok Shop this holiday season",
+      "link": "https://www.tubefilter.com/2026/10/29/disney-tiktok-shop-super-brand-days-holiday-season/",
+      "pubDate": "2026-10-29T20:46:17.000Z",
+      "source": "Tubefilter",
+      "category": "수익화/크리에이터 이코노미"
+    },
+    {
+      "title": "Federal Reserve Board announces approval of application by The Bank of Nova Scotia",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261029a.htm",
+      "pubDate": "2026-10-29T20:30:00.000Z",
+      "source": "미 연준 보도자료",
+      "category": "경제"
+    },
+    {
+      "title": "“30% 예상했는데 50%나 깎인다고?” … 국민연금 신청자의 ‘착각’",
+      "link": "https://www.mk.co.kr/news/economy/12190022",
+      "pubDate": "2026-10-29T19:40:00.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
     {
       "title": "앤트로픽, 1인 신약 개발사 인수...클로드로 직접 치료제 개발",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=216778",
@@ -3389,118 +3501,6 @@
       "pubDate": "2026-10-24T03:53:52.000Z",
       "source": "매일경제 경제",
       "category": "경제"
-    },
-    {
-      "title": "“일본여행 환전 더 기다려, 말아?”…日 금리 인상만 봐선 안 되는 이유",
-      "link": "https://www.mk.co.kr/news/economy/12184761",
-      "pubDate": "2026-10-24T02:09:44.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "Have you heard? PlaqueBoyMax vs. Trump, a ‘Cheese Tax’ lawsuit, and a subscriber guessing game.",
-      "link": "https://www.tubefilter.com/2026/10/23/have-you-heard-plaque-boy-max-trump-cheese-tax-puppy-songs/",
-      "pubDate": "2026-10-23T23:17:18.000Z",
-      "source": "Tubefilter",
-      "category": "수익화/크리에이터 이코노미"
-    },
-    {
-      "title": "Consistency is key: A YouTube Shorts bonus program rewards creators who upload at regular intervals",
-      "link": "https://www.tubefilter.com/2026/10/23/youtube-shorts-pilot-program-consistency-bonus-test/",
-      "pubDate": "2026-10-23T22:09:34.000Z",
-      "source": "Tubefilter",
-      "category": "수익화/크리에이터 이코노미"
-    },
-    {
-      "title": "한 판 4만4000원씩 주고 수입했는데…석달새 계란값 23% 급락, 이유는",
-      "link": "https://www.mk.co.kr/news/economy/12184706",
-      "pubDate": "2026-10-23T21:12:57.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "Change.org has a new look that uses AI to turn TikTok posts into tools for local activism",
-      "link": "https://www.tubefilter.com/2026/10/23/change-org-petition-redesign-ai-tiktok-posts/",
-      "pubDate": "2026-10-23T20:30:29.000Z",
-      "source": "Tubefilter",
-      "category": "수익화/크리에이터 이코노미"
-    },
-    {
-      "title": "오픈AI, 분류·선택 특화 ‘디시전스 API’ 정식 출시…최대 10배 빠르게",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=216581",
-      "pubDate": "2026-10-23T18:59:59.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "스페이스X, 엔비디아 등 130여개사와 기업 AI 공략…그록 도입·연동 지원",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=216585",
-      "pubDate": "2026-10-23T18:51:55.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "오픈AI 전 과학 책임자, 신약 개발 ‘완전 자동화 연구소’ 구축 나서",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=216573",
-      "pubDate": "2026-10-23T18:44:11.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "유니트리, 흉기 막고 차량 들어 올리는 ‘수호 로봇’ 공개…자율 작동 여부는 미공개",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=216594",
-      "pubDate": "2026-10-23T18:26:15.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "앤트로픽, 클로드 ‘오토 모드’ 기본 적용…사용자 승인 절차 줄인다",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=216579",
-      "pubDate": "2026-10-23T18:10:28.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "캔바, 프론티어급 이미지 모델 '크래프트' 공개…디자인 아레나 4위 올라",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=216589",
-      "pubDate": "2026-10-23T17:51:35.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "AWS, GPU 관리 없이 맞춤형 AI 학습하는 새 기능 공개",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=216591",
-      "pubDate": "2026-10-23T17:36:44.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "NC AI, '풀스택 피지컬 AI'로 산업 AX 공략… 제조·조선·국방으로 협력 확대",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=216602",
-      "pubDate": "2026-10-23T17:30:14.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "우버, 업계 최초 전 직원 3만명에 '챗GPT 워크' 도입",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=216597",
-      "pubDate": "2026-10-23T17:24:40.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "제2우주센터, 사전 검토부터 고흥·제주 경쟁까지…연내 선정",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=216599",
-      "pubDate": "2026-10-23T17:18:10.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "SK하이닉스, 미국 손자회사 솔리다임 IPO 검토 중단",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=216601",
-      "pubDate": "2026-10-23T17:16:12.000Z",
-      "source": "AI타임스",
-      "category": "AI"
     }
   ]
 }
