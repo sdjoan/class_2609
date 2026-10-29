@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-29T12:33:49.191Z",
+  "lastUpdated": "2026-10-29T19:27:27.339Z",
   "count": 500,
   "items": [
     {
@@ -49,6 +49,13 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=216803",
       "pubDate": "2026-10-29T17:01:55.000Z",
       "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "An updated Model Spec for more capable and beneficial AI",
+      "link": "https://openai.com/index/updated-model-spec",
+      "pubDate": "2026-10-29T17:00:00.000Z",
+      "source": "OpenAI",
       "category": "AI"
     },
     {
@@ -106,6 +113,13 @@
       "pubDate": "2026-10-29T16:05:00.000Z",
       "source": "AI타임스",
       "category": "AI"
+    },
+    {
+      "title": "1차 국민참여펀드 수익률 0.5%…금융위 “성과까지 상당 기간 소요”",
+      "link": "https://www.mk.co.kr/news/economy/12190837",
+      "pubDate": "2026-10-29T15:45:12.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
     },
     {
       "title": "\"챗GPT 조언 따라 간질약 줄이다 사망\"…31세 여성 유족, 오픈AI 제소",
@@ -252,6 +266,13 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=216584",
       "pubDate": "2026-10-29T09:00:00.000Z",
       "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "How we detect frontier model misalignment",
+      "link": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
+      "pubDate": "2026-10-29T09:00:00.000Z",
+      "source": "OpenAI",
       "category": "AI"
     },
     {
@@ -409,6 +430,13 @@
       "category": "AI"
     },
     {
+      "title": "How Ropes & Gray is developing AI for transactional diligence",
+      "link": "https://openai.com/index/ropes-gray-ai-diligence",
+      "pubDate": "2026-10-29T07:00:00.000Z",
+      "source": "OpenAI",
+      "category": "AI"
+    },
+    {
       "title": "현대카드, 3분기 순익 906억…수익·건전성 동반 개선",
       "link": "https://www.mk.co.kr/news/economy/12189930",
       "pubDate": "2026-10-29T06:46:15.000Z",
@@ -451,6 +479,13 @@
       "category": "경제"
     },
     {
+      "title": "여주시가족센터, 2027년 다문화가족 자녀 기초학습 지원사업 ‘작은학교’ 신입생 모집 - 미디어투데이",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBHSlBDVHV2Wl8weTJMcU1oUS1DZDJHUW9ud1hIRzIwZ3Q4bEZPS0xSODdDcFBYUUxBTmtYNkZhdkF5cUpMOTNId3ZB?oc=5",
+      "pubDate": "2026-10-29T05:39:00.000Z",
+      "source": "Google 뉴스: 지원사업 공고/모집",
+      "category": "정부지원정책"
+    },
+    {
       "title": "“1년간 빚 갚으면 이자 일부 돌려드려요”…햇살론 ‘성실상환자 페이백’ 사업 확대",
       "link": "https://www.mk.co.kr/news/economy/12189829",
       "pubDate": "2026-10-29T05:38:39.000Z",
@@ -477,6 +512,13 @@
       "pubDate": "2026-10-29T05:20:06.000Z",
       "source": "매일경제 경제",
       "category": "경제"
+    },
+    {
+      "title": "여주시가족센터, 2027년 다문화가족 자녀 기초학습 지원사업 ‘작은학교’ 신입생 모집 - 서프라이즈뉴스",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5iRVJDSDFRc2tUcEZsUjBKNHpYOURDc3VJRUJIeVduXzdvU3NtWC1OMW51QlJUNExYWUljeG1saVAwNUQzdEdIVFBxeU5rejFLZVhCWmxFS0QycVBIbWRhNngyeTFYSm9OdGM4SjRR?oc=5",
+      "pubDate": "2026-10-29T05:01:59.000Z",
+      "source": "Google 뉴스: 지원사업 공고/모집",
+      "category": "정부지원정책"
     },
     {
       "title": "아이즈엔터테인먼트, 카카오게임즈·크래프톤서 200억 원 투자 유치",
@@ -3457,48 +3499,6 @@
       "title": "SK하이닉스, 미국 손자회사 솔리다임 IPO 검토 중단",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=216601",
       "pubDate": "2026-10-23T17:16:12.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "전남 체류인구 2.3% 줄었지만…숙박 인구는 5.4% 늘었다",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=216596",
-      "pubDate": "2026-10-23T17:07:50.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "전남광주소방, 구급대원 스마트의료지도 교육 마무리",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=216507",
-      "pubDate": "2026-10-23T17:05:00.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
-      "link": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
-      "pubDate": "2026-10-23T17:00:00.000Z",
-      "source": "OpenAI",
-      "category": "AI"
-    },
-    {
-      "title": "일본 향하는 K-AI... 의료·법률부터 문서 전자화까지",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=216592",
-      "pubDate": "2026-10-23T16:49:16.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "MS 의료 AI, 고난도 진단서 의사 두 배 정확도…실제 병원서 검증 나선다",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=216575",
-      "pubDate": "2026-10-23T16:44:09.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "순천 서면서 어린이 가족캠프…은어잡기·전통놀이 진행",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=216514",
-      "pubDate": "2026-10-23T16:05:00.000Z",
       "source": "AI타임스",
       "category": "AI"
     }
