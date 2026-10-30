@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-30T12:25:24.575Z",
+  "lastUpdated": "2026-10-30T19:03:48.336Z",
   "count": 500,
   "items": [
     {
@@ -15,6 +15,20 @@
       "pubDate": "2026-10-30T12:47:16.000Z",
       "source": "AI타임스",
       "category": "AI"
+    },
+    {
+      "title": "“1.5조나 팔았는데 왜 우리 몫 없나”…마사회 “레저세 일부 돌려달라”",
+      "link": "https://www.mk.co.kr/news/economy/12192091",
+      "pubDate": "2026-10-30T12:45:34.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "재단 하나 세우는데도 공무원 허락 있어야…공익법인 옥죄는 1912년 규제",
+      "link": "https://www.mk.co.kr/news/economy/12192089",
+      "pubDate": "2026-10-30T12:45:23.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
     },
     {
       "title": "한국딥러닝, AI로 IBK기업은행 보이스피싱 업무 자동화",
@@ -45,6 +59,13 @@
       "category": "경제"
     },
     {
+      "title": "Making it easier for websites to express AI training preferences",
+      "link": "https://openai.com/index/helping-websites-express-ai-training-preferences",
+      "pubDate": "2026-10-30T09:30:00.000Z",
+      "source": "OpenAI",
+      "category": "AI"
+    },
+    {
       "title": "내년 장기요양보험료율 5.78% 인상",
       "link": "https://www.mk.co.kr/news/economy/12191841",
       "pubDate": "2026-10-30T09:19:53.000Z",
@@ -63,6 +84,13 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=216586",
       "pubDate": "2026-10-30T09:00:00.000Z",
       "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "Community safety report and new protections for teens",
+      "link": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
+      "pubDate": "2026-10-30T09:00:00.000Z",
+      "source": "OpenAI",
       "category": "AI"
     },
     {
@@ -1170,6 +1198,13 @@
       "pubDate": "2026-10-29T00:00:00.000Z",
       "source": "매일경제 경제",
       "category": "경제"
+    },
+    {
+      "title": "Credit Saison achieves 954% ROI in a ChatGPT Enterprise pilot",
+      "link": "https://openai.com/index/credit-saison",
+      "pubDate": "2026-10-29T00:00:00.000Z",
+      "source": "OpenAI",
+      "category": "AI"
     },
     {
       "title": "Creator horror is everywhere this October, but Curry Barker is reminding us that YouTube still matters",
@@ -3466,41 +3501,6 @@
       "pubDate": "2026-10-25T17:10:30.000Z",
       "source": "AI타임스",
       "category": "AI"
-    },
-    {
-      "title": "엔비디아, 로컬 에이전트·로봇 겨냥 4GB 모델 '네모트론 3.5 볼트' 출시",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=216625",
-      "pubDate": "2026-10-25T16:50:23.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "리퀴드 AI, 실시간 추론 엔진 ‘RIPL’ 출시...AI 응답 지연 50ms 미만 겨냥",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=216627",
-      "pubDate": "2026-10-25T16:32:11.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "오픈AI 회의실 도청 사태, 사우디 연루 '경제 간첩' 수사로 확대",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=216621",
-      "pubDate": "2026-10-25T16:05:16.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "선거 후보 선택 강요하자...그록은 공화당, 오픈AI 모델은 민주당 선택",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=216623",
-      "pubDate": "2026-10-25T11:17:24.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "10년 묵은 PHP 결함, AI가 공격 가능성 입증",
-      "link": "https://platum.kr/archives/296965?utm_source=rss&utm_medium=rss&utm_campaign=10%25eb%2585%2584-%25eb%25ac%25b5%25ec%259d%2580-php-%25ea%25b2%25b0%25ed%2595%25a8-ai%25ea%25b0%2580-%25ea%25b3%25b5%25ea%25b2%25a9-%25ea%25b0%2580%25eb%258a%25a5%25ec%2584%25b1-%25ec%259e%2585%25ec%25a6%259d",
-      "pubDate": "2026-10-25T10:55:39.000Z",
-      "source": "플래텀",
-      "category": "창업"
     }
   ]
 }
