@@ -1,11 +1,46 @@
 {
-  "lastUpdated": "2026-10-30T19:03:48.336Z",
+  "lastUpdated": "2026-10-30T23:31:20.733Z",
   "count": 500,
   "items": [
+    {
+      "title": "Have you heard? ‘Chicken Shop Date’ in theaters, Hasan Piker in court, and CaylusBlox on shelves.",
+      "link": "https://www.tubefilter.com/2026/10/30/have-you-heard-amelia-dimoldenberg-chicken-shop-date-hasan-piker-caylus-blox/",
+      "pubDate": "2026-10-30T23:01:18.000Z",
+      "source": "Tubefilter",
+      "category": "수익화/크리에이터 이코노미"
+    },
+    {
+      "title": "Jubilee Media is capping off its most active election year with a live midterm special",
+      "link": "https://www.tubefilter.com/2026/10/30/jubilee-media-the-split-midterm-election-live-special/",
+      "pubDate": "2026-10-30T21:37:59.000Z",
+      "source": "Tubefilter",
+      "category": "수익화/크리에이터 이코노미"
+    },
+    {
+      "title": "“빚내 뛰어든 증시, 이젠 돈 갚고 싶어”…빚투 열기 식자 개인 신용대출 ‘뚝’",
+      "link": "https://www.mk.co.kr/news/economy/12192326",
+      "pubDate": "2026-10-30T21:14:25.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "Meta’s new app lets AI plan your outfit of the day",
+      "link": "https://www.tubefilter.com/2026/10/30/meta-app-style-sketch-ai-powered-southeast-asia/",
+      "pubDate": "2026-10-30T19:47:30.000Z",
+      "source": "Tubefilter",
+      "category": "수익화/크리에이터 이코노미"
+    },
     {
       "title": "엔비디아, 네이버 3대 주주로…1.3조 다음 달 6일 납입",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=216835",
       "pubDate": "2026-10-30T19:36:17.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "광양경자청, 2026 GFEZ 전문가그룹 간담회 개최",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216836",
+      "pubDate": "2026-10-30T15:45:00.000Z",
       "source": "AI타임스",
       "category": "AI"
     },
@@ -484,6 +519,13 @@
       "pubDate": "2026-10-30T00:19:00.000Z",
       "source": "Google 뉴스: 지원사업 공고/모집",
       "category": "정부지원정책"
+    },
+    {
+      "title": "Fair use benefits everyone",
+      "link": "https://openai.com/index/fair-use-benefits-everyone",
+      "pubDate": "2026-10-30T00:00:00.000Z",
+      "source": "OpenAI",
+      "category": "AI"
     },
     {
       "title": "Instagram is offering YouTubers up to $500,000 to post with its new horizontal format",
@@ -3459,48 +3501,6 @@
       "pubDate": "2026-10-25T21:08:24.000Z",
       "source": "매일경제 경제",
       "category": "경제"
-    },
-    {
-      "title": "조여도 89주째 오른 집값…가계대출 완화 당분간 어려울듯",
-      "link": "https://www.mk.co.kr/news/economy/12185326",
-      "pubDate": "2026-10-25T21:07:22.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "가상 섬에 홀로 둔 AI, 스스로 놀이 만들고 개발자도 몰랐던 기술 발견",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=216631",
-      "pubDate": "2026-10-25T19:33:16.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "'클로드'가 그림에 숨긴 문장, '아스트라'가 풀었다…암호 규칙 없이 88% 해독",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=216630",
-      "pubDate": "2026-10-25T18:57:13.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "[AI 모델 신작] 텐센트 월드 모델부터 잭 도시의 음성 AI까지 9종",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=216628",
-      "pubDate": "2026-10-25T18:32:30.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "멜론 3위 오른 AI 노래, 어떻게 만들었나…‘머무르’ 제작팀 인터뷰",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=216553",
-      "pubDate": "2026-10-25T17:37:08.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "아마존, AI 수요 폭증에 내년 컴퓨팅 용량 완판...2028년 예약도 몰려",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=216620",
-      "pubDate": "2026-10-25T17:10:30.000Z",
-      "source": "AI타임스",
-      "category": "AI"
     }
   ]
 }
