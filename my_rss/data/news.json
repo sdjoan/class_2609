@@ -1,7 +1,70 @@
 {
-  "lastUpdated": "2026-10-31T04:47:02.422Z",
+  "lastUpdated": "2026-10-31T11:55:24.695Z",
   "count": 500,
   "items": [
+    {
+      "title": "머스크, 놀란에 맞서 AI판 '오디세이' 공개…평가 엇갈려",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216851",
+      "pubDate": "2026-10-31T19:58:00.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "알트먼 \"AI 수학 연구에 수억달러 투입…공개 안 한 성과도 많아\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216850",
+      "pubDate": "2026-10-31T18:53:02.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "한국인 챗GPT 활용, 문서 편집 1위 유지…시각 자료 제작 1년 새 2배",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216834",
+      "pubDate": "2026-10-31T18:16:47.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "구글, 우주 데이터센터 위성에서 첫 AI 추론 성공…시 생성해 지구 전송",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216837",
+      "pubDate": "2026-10-31T18:05:26.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "구글, 인터넷 없이 작동하는 '제미나이 라이브' 개발…온디바이스 AI 활용 전망",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216841",
+      "pubDate": "2026-10-31T17:55:40.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "구글, 제미나이 채팅에서 문서·PDF 직접 편집 기능 추가",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216845",
+      "pubDate": "2026-10-31T17:38:01.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "독일 엔비전, 유기 분자로 양자 컴퓨팅 칩 개발…OLED 제조 기술 활용",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216849",
+      "pubDate": "2026-10-31T17:29:54.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "오픈AI, 청소년 챗GPT 무기 정보 제한...폭력 징후 땐 대화 중단",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216847",
+      "pubDate": "2026-10-31T17:09:05.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "중국 GPU, 엔비디아 H200과 성능 대등 주장…AI 추론서 일부 앞서",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216844",
+      "pubDate": "2026-10-31T17:01:47.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
     {
       "title": "[AI 이슈트렌드] 미·이란 전쟁 위기 1위…코스피 급락·구룡마을 화재 주목",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=216848",
@@ -71,6 +134,13 @@
       "pubDate": "2026-10-31T09:15:00.000Z",
       "source": "AI타임스",
       "category": "AI"
+    },
+    {
+      "title": "“급하게 목돈 필요했는데”…소득 없어도 가능, ‘저리대출’ 더 나온다는데",
+      "link": "https://www.mk.co.kr/news/economy/12192462",
+      "pubDate": "2026-10-31T08:59:02.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
     },
     {
       "title": "[단독] “SKY 학벌 중시하는 서울, 삶의 질은 세계 113위”…해외평가 보니",
@@ -3429,76 +3499,6 @@
       "title": "삼성화재, AI 기반 영업지원 시스템 도입…맞춤형 고객 상담 지원",
       "link": "https://www.mk.co.kr/news/economy/12185826",
       "pubDate": "2026-10-26T06:22:26.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "[BLT칼럼]  ‘마데카’는 지켰고 ‘그립톡’은 잃었다",
-      "link": "https://platum.kr/archives/297040?utm_source=rss&utm_medium=rss&utm_campaign=blt%25ec%25b9%25bc%25eb%259f%25bc-%25eb%25a7%2588%25eb%258d%25b0%25ec%25b9%25b4%25eb%258a%2594-%25ec%25a7%2580%25ec%25bc%25b0%25ea%25b3%25a0-%25ea%25b7%25b8%25eb%25a6%25bd%25ed%2586%25a1%25ec%259d%2580-%25ec%259e%2583%25ec%2597%2588%25eb%258b%25a4",
-      "pubDate": "2026-10-26T06:18:48.000Z",
-      "source": "플래텀",
-      "category": "창업"
-    },
-    {
-      "title": "온라인서 출발한 패션·뷰티 브랜드사 이스트엔드, 코넥스 상장",
-      "link": "https://platum.kr/archives/297035?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%2598%25a8%25eb%259d%25bc%25ec%259d%25b8%25ec%2584%259c-%25ec%25b6%259c%25eb%25b0%259c%25ed%2595%259c-%25ed%258c%25a8%25ec%2585%2598%25c2%25b7%25eb%25b7%25b0%25ed%258b%25b0-%25eb%25b8%258c%25eb%259e%259c%25eb%2593%259c%25ec%2582%25ac-%25ec%259d%25b4%25ec%258a%25a4%25ed%258a%25b8%25ec%2597%2594%25eb%2593%259c",
-      "pubDate": "2026-10-26T06:14:40.000Z",
-      "source": "플래텀",
-      "category": "창업"
-    },
-    {
-      "title": "병원 보험사기 늘자…금감원, 간호조무사 22만명 예방 교육 나선다",
-      "link": "https://www.mk.co.kr/news/economy/12185810",
-      "pubDate": "2026-10-26T06:12:48.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "질문 난이도 보고 AI 모델 골라 준다, 셀렉트스타 판단 특화 모델 ‘다비’ 공개",
-      "link": "https://platum.kr/archives/297026?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%25a7%2588%25eb%25ac%25b8-%25eb%2582%259c%25ec%259d%25b4%25eb%258f%2584-%25eb%25b3%25b4%25ea%25b3%25a0-ai-%25eb%25aa%25a8%25eb%258d%25b8-%25ea%25b3%25a8%25eb%259d%25bc-%25ec%25a4%2580%25eb%258b%25a4-%25ec%2585%2580%25eb%25a0%2589%25ed%258a%25b8%25ec%258a%25a4%25ed%2583%2580-%25ed%258c%2590%25eb%258b%25a8",
-      "pubDate": "2026-10-26T06:05:33.000Z",
-      "source": "플래텀",
-      "category": "창업"
-    },
-    {
-      "title": "농어촌민박 바가지요금 제재 강화된다",
-      "link": "https://www.mk.co.kr/news/economy/12185800",
-      "pubDate": "2026-10-26T06:04:55.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "[단독] 암 치료법마다 쪼개던 보험 특약…금융당국, 개발 기준 강화",
-      "link": "https://www.mk.co.kr/news/economy/12185766",
-      "pubDate": "2026-10-26T05:46:20.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "투자 50억 넘긴 AI 기업 위한 성장 공간, 서울 AI 허브 ‘베이비유니콘센터’ 추진",
-      "link": "https://platum.kr/archives/297032?utm_source=rss&utm_medium=rss&utm_campaign=%25ed%2588%25ac%25ec%259e%2590-50%25ec%2596%25b5-%25eb%2584%2598%25ea%25b8%25b4-ai-%25ea%25b8%25b0%25ec%2597%2585-%25ec%259c%2584%25ed%2595%259c-%25ec%2584%25b1%25ec%259e%25a5-%25ea%25b3%25b5%25ea%25b0%2584-%25ec%2584%259c%25ec%259a%25b8-ai-%25ed%2597%2588%25eb%25b8%258c-%25eb%25b2%25a0%25ec%259d%25b4%25eb%25b9%2584",
-      "pubDate": "2026-10-26T05:41:49.000Z",
-      "source": "플래텀",
-      "category": "창업"
-    },
-    {
-      "title": "두바이몰 영화관이 로봇 공연장으로, 갤럭시코퍼레이션 중동에 로봇 아레나 열어",
-      "link": "https://platum.kr/archives/297029?utm_source=rss&utm_medium=rss&utm_campaign=%25eb%2591%2590%25eb%25b0%2594%25ec%259d%25b4%25eb%25aa%25b0-%25ec%2598%2581%25ed%2599%2594%25ea%25b4%2580%25ec%259d%25b4-%25eb%25a1%259c%25eb%25b4%2587-%25ea%25b3%25b5%25ec%2597%25b0%25ec%259e%25a5%25ec%259c%25bc%25eb%25a1%259c-%25ea%25b0%25a4%25eb%259f%25ad%25ec%258b%259c%25ec%25bd%2594%25ed%258d%25bc%25eb%25a0%2588",
-      "pubDate": "2026-10-26T05:32:17.000Z",
-      "source": "플래텀",
-      "category": "창업"
-    },
-    {
-      "title": "큐블랙에이아이 시드 투자 유치, 카메라 없이 비전 AI 조합 검증하는 시뮬레이션 개발",
-      "link": "https://platum.kr/archives/297025?utm_source=rss&utm_medium=rss&utm_campaign=%25ed%2581%2590%25eb%25b8%2594%25eb%259e%2599%25ec%2597%2590%25ec%259d%25b4%25ec%2595%2584%25ec%259d%25b4-%25ec%258b%259c%25eb%2593%259c-%25ed%2588%25ac%25ec%259e%2590-%25ec%259c%25a0%25ec%25b9%2598-%25ec%25b9%25b4%25eb%25a9%2594%25eb%259d%25bc-%25ec%2597%2586%25ec%259d%25b4-%25eb%25b9%2584%25ec%25a0%2584-ai-%25ec%25a1%25b0",
-      "pubDate": "2026-10-26T05:01:38.000Z",
-      "source": "플래텀",
-      "category": "창업"
-    },
-    {
-      "title": "“월급 깎자”는 합의안 거부한 다음날…10여 명에 정리해고 통보",
-      "link": "https://www.mk.co.kr/news/economy/12185667",
-      "pubDate": "2026-10-26T04:48:28.000Z",
       "source": "매일경제 경제",
       "category": "경제"
     }
