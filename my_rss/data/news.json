@@ -1,7 +1,14 @@
 {
-  "lastUpdated": "2026-11-01T08:54:52.388Z",
+  "lastUpdated": "2026-11-01T16:39:35.144Z",
   "count": 500,
   "items": [
+    {
+      "title": "딥시크, 코딩 '슈퍼 에이전트' 공개…6개월 만에 추격 기반 구축",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216865",
+      "pubDate": "2026-11-01T20:11:03.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
     {
       "title": "핀란드, 구글  데이터센터 환경 훼손 의혹 수사…나무 40만그루 벌채 논란",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=216864",
@@ -38,6 +45,20 @@
       "category": "AI"
     },
     {
+      "title": "스마트공장 지원사업 2027 통합공고, 작년 3월이던 제조AI특화 접수가 이번엔 11월에 열립니다 — 제조로봇 191과제·피지컬AI 실증 363과제 일정표 - 티스토리",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBya3pBb21NaDlpRi1GdmZUQm1qOWxZN0IyTTdJcFJoQzhKZS05N3ZQMnZDOXNwNVAzQnY2ajM3Z0dFN19kT3RCeFdWX2d6QUtXUEE?oc=5",
+      "pubDate": "2026-11-01T13:46:57.000Z",
+      "source": "Google 뉴스: 지원사업 공고/모집",
+      "category": "정부지원정책"
+    },
+    {
+      "title": "유리지갑 직장인만 강제로 모범납세자…사업자 소득 10조 뒷북확인",
+      "link": "https://www.mk.co.kr/news/economy/12193032",
+      "pubDate": "2026-11-01T13:20:39.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
       "title": "젠슨 황 주변 중국 스파이 의혹, 싱가포르·대만까지 번져",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=216858",
       "pubDate": "2026-11-01T12:16:28.000Z",
@@ -71,6 +92,13 @@
       "pubDate": "2026-11-01T10:03:10.000Z",
       "source": "AI타임스",
       "category": "AI"
+    },
+    {
+      "title": "[단독] 석화 구조조정 한파에...근로자 55%만 재취업",
+      "link": "https://www.mk.co.kr/news/economy/12192973",
+      "pubDate": "2026-11-01T09:45:27.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
     },
     {
       "title": "블랙스톤 \"앤트로픽, 상장 후에도 투자적격 등급 확보 어려워\"",
@@ -253,6 +281,13 @@
       "pubDate": "2026-11-01T05:10:51.000Z",
       "source": "AI타임스",
       "category": "AI"
+    },
+    {
+      "title": "진주시, '청년 중개보수비' 첫 지원…최대 10만원 - 뉴시스",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9KNWstY2loZ3h1MDdfX0Q3ODVJMG83R2JIZGZpaHJiZE9LRUZGWnBhMGpZaGxTVXBBcEIzNDJaRmkyT2IxOExOdHZ6Qk54blJlXzAwMTFfYW1LTG16LTdXeNIBeEFVX3lxTE13YkQtY21VbFV2azNLREd3Y0trLWhubENfWVVkUHFSQ0FSTUpQRFE4ZjJxTWdHcjFnblNZQVFVVU9pQ0x6Q0EtcmV1MDI0YXc0MnFaZkNSRTFOejNCNkFQa1UwaDJKeTRubjVrLXV4SS05RklmdVZhbQ?oc=5",
+      "pubDate": "2026-11-01T02:25:50.000Z",
+      "source": "Google 뉴스: 지원사업 공고/모집",
+      "category": "정부지원정책"
     },
     {
       "title": "“보험은 소비자의 미래 지키는 역할”…가입 전 확인 사항은 [인터뷰]",
@@ -3465,41 +3500,6 @@
       "link": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
       "pubDate": "2026-10-26T13:45:00.000Z",
       "source": "OpenAI",
-      "category": "AI"
-    },
-    {
-      "title": "클로드, 선거 앞두고 조지아주 유권자 데이터 무단 접근 논란",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=216638",
-      "pubDate": "2026-10-26T13:12:52.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "플래티어, 사내 폐쇄망 대응 AI 테스트 관리 솔루션 ‘XGEN TMS’ 출시",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=216647",
-      "pubDate": "2026-10-26T13:01:28.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "서울 AI 허브, AI 기업 스케일업 위한 '베이비유니콘센터' 조성 추진",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=216651",
-      "pubDate": "2026-10-26T12:59:53.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "금감원, AI로 불법사금융 신고 통합 분석...'몸통'까지 추적",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=216643",
-      "pubDate": "2026-10-26T12:58:49.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "엔비디아, GPU당 연간 2000달러 SW 구독제 구상...생태계 '락인' 가속",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=216646",
-      "pubDate": "2026-10-26T12:56:50.000Z",
-      "source": "AI타임스",
       "category": "AI"
     }
   ]
