@@ -1,7 +1,35 @@
 {
-  "lastUpdated": "2026-11-01T16:39:35.144Z",
+  "lastUpdated": "2026-11-01T21:50:37.073Z",
   "count": 500,
   "items": [
+    {
+      "title": "수출 1조시대, 알고보니 49%가 반도체…삐끗하면 나라 흔들린다",
+      "link": "https://www.mk.co.kr/news/economy/12193048",
+      "pubDate": "2026-11-01T21:10:56.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "“주식만 믿었다간 벼락거지 못면한다”…한달새 50조 몰린 이 상품",
+      "link": "https://www.mk.co.kr/news/economy/12193047",
+      "pubDate": "2026-11-01T21:10:25.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "7-Eleven made a micro-K-drama to promote its new noms",
+      "link": "https://www.tubefilter.com/2026/11/01/7-eleven-a-convenient-love-k-drama-micro-drama/",
+      "pubDate": "2026-11-01T20:53:09.000Z",
+      "source": "Tubefilter",
+      "category": "수익화/크리에이터 이코노미"
+    },
+    {
+      "title": "A new California law lets children of family vloggers make their parents take down all footage of them",
+      "link": "https://www.tubefilter.com/2026/11/01/california-senate-bill-1247-children-family-vlogger-protection/",
+      "pubDate": "2026-11-01T20:14:52.000Z",
+      "source": "Tubefilter",
+      "category": "수익화/크리에이터 이코노미"
+    },
     {
       "title": "딥시크, 코딩 '슈퍼 에이전트' 공개…6개월 만에 추격 기반 구축",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=216865",
@@ -365,6 +393,13 @@
       "pubDate": "2026-10-31T17:09:05.000Z",
       "source": "AI타임스",
       "category": "AI"
+    },
+    {
+      "title": "“이 메일은 AI 에이전트가 썼습니다”, 편집부 메일함에 닿은 글로벌 PR의 새 문법",
+      "link": "https://platum.kr/archives/297502?utm_source=rss&utm_medium=rss&utm_campaign=ai%25ea%25b0%2580-%25eb%25b3%25b4%25eb%258f%2584%25ec%259e%2590%25eb%25a3%258c-%25ec%2593%25b0%25ea%25b3%25a0-%25ea%25b8%25b0%25ec%259e%2590%25ea%25b9%258c%25ec%25a7%2580-%25ec%25b0%25be%25eb%258a%2594%25eb%258b%25a4%25ed%2595%25b4%25ec%2599%25b8-%25ec%258a%25a4%25ed%2583%2580%25ed%258a%25b8%25ec%2597%2585",
+      "pubDate": "2026-10-31T17:05:34.000Z",
+      "source": "플래텀",
+      "category": "창업"
     },
     {
       "title": "중국 GPU, 엔비디아 H200과 성능 대등 주장…AI 추론서 일부 앞서",
@@ -3465,41 +3500,6 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=216652",
       "pubDate": "2026-10-26T15:54:22.000Z",
       "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "알트먼 “수학계, AI에 ‘우린 끝났다’ 절망하다 닷새 만에 수용”",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=216670",
-      "pubDate": "2026-10-26T15:28:26.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "셀렉트스타, 의사결정 AI '다비' 출시...판단 능력 높이고 비용 줄여",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=216645",
-      "pubDate": "2026-10-26T15:00:06.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "Working with academic communities to build scientific understanding",
-      "link": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
-      "pubDate": "2026-10-26T14:30:00.000Z",
-      "source": "OpenAI",
-      "category": "AI"
-    },
-    {
-      "title": "문샷, 인플루언서에 “광고 표시 빼라” 지침 의혹…'키미' 신작 홍보 역풍",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=216657",
-      "pubDate": "2026-10-26T13:47:39.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
-      "link": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
-      "pubDate": "2026-10-26T13:45:00.000Z",
-      "source": "OpenAI",
       "category": "AI"
     }
   ]
