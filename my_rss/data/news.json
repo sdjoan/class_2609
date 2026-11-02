@@ -1,7 +1,42 @@
 {
-  "lastUpdated": "2026-11-01T21:50:37.073Z",
+  "lastUpdated": "2026-11-02T01:21:15.889Z",
   "count": 500,
   "items": [
+    {
+      "title": "[AI리더의 서가] 문제 해결을 위한 AI 에이전트 설계",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216785",
+      "pubDate": "2026-11-02T09:00:00.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "잘못 보낸 돈 찾아주는 예보 서비스, ‘세계 최초’ 혁신사례 선정",
+      "link": "https://www.mk.co.kr/news/economy/12193167",
+      "pubDate": "2026-11-02T00:52:17.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "현대해상, 美재보험 영토 넓힌다…글로벌 중개사와 인수업무 계약",
+      "link": "https://www.mk.co.kr/news/economy/12193151",
+      "pubDate": "2026-11-02T00:41:51.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "“먹고살려고 신용대출 받았다”…담보 없는 서민 ‘생계형 빚’ 역대 최대",
+      "link": "https://www.mk.co.kr/news/economy/12193099",
+      "pubDate": "2026-11-01T23:58:25.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "“연금 받으려면 3년 남았는데 이거라도”…‘소득 절벽’에 시간제·임시직 취업↑",
+      "link": "https://www.mk.co.kr/news/economy/12193094",
+      "pubDate": "2026-11-01T23:51:02.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
     {
       "title": "수출 1조시대, 알고보니 49%가 반도체…삐끗하면 나라 흔들린다",
       "link": "https://www.mk.co.kr/news/economy/12193048",
@@ -3464,41 +3499,6 @@
       "title": "경북, 퓨리오사AI와 지역 AI 반도체 산업 생태계 조성 나서",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=216678",
       "pubDate": "2026-10-26T16:35:00.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "두나무앤파트너스, 미국 우주 데이터센터 기업 스타클라우드에 투자",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=216664",
-      "pubDate": "2026-10-26T16:31:11.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "엘비스 노래 274곡 무단 학습... 앤트로픽, 540억원대 저작권 소송 피소",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=216650",
-      "pubDate": "2026-10-26T16:27:25.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "제논, 기업용 AI 가드레일 솔루션 '젠가드' 출시",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=216665",
-      "pubDate": "2026-10-26T16:21:46.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "중국 AI 컴퓨팅 내년 두 배로…65%는 미국산 칩에 의존",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=216673",
-      "pubDate": "2026-10-26T16:20:17.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "영국, '세계 최초' AI 생물보안 연구소 설립...1770억 투자",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=216652",
-      "pubDate": "2026-10-26T15:54:22.000Z",
       "source": "AI타임스",
       "category": "AI"
     }
