@@ -1,13 +1,195 @@
 {
-  "lastUpdated": "2026-11-02T20:05:40.355Z",
+  "lastUpdated": "2026-11-03T03:22:17.176Z",
   "count": 500,
   "items": [
+    {
+      "title": "오픈AI, UAE 석유·정부·투자 업무에 AI 에이전트 도입…4건 협약",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216939",
+      "pubDate": "2026-11-03T11:55:04.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "앤트로픽, 매출 급증에도 영업적자…AI 인프라 투자 부담",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216932",
+      "pubDate": "2026-11-03T11:40:26.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "오픈AI, 12월부터 챗GPT·코덱스 사용량 통합…기존 앱 1월 종료",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216934",
+      "pubDate": "2026-11-03T11:27:55.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "업스테이지 '솔라 프로 4', 범정부 행정망 도입…공무원 모델 선택권 확대",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216931",
+      "pubDate": "2026-11-03T11:09:58.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "비드래프트, AI가 스스로 해제 못 하는 '킬스위치' 개발…보안 OS 공개",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216938",
+      "pubDate": "2026-11-03T11:05:39.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "[AI리더의 서가] 온톨로지 비법노트",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216786",
+      "pubDate": "2026-11-03T09:00:00.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "[11월2일] AI가 분석하고 내가 결정했다…그 판단은 누구의 것일까",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216890",
+      "pubDate": "2026-11-03T07:00:00.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
     {
       "title": "119만 유튜버 긱블, 캐릭터 로봇 시장 출사표…“월 매출 10억 목표”",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=216922",
       "pubDate": "2026-11-03T03:45:00.000Z",
       "source": "AI타임스",
       "category": "AI"
+    },
+    {
+      "title": "노벨경제학상 노드하우스 별세",
+      "link": "https://www.mk.co.kr/news/economy/12194576",
+      "pubDate": "2026-11-03T02:39:46.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "외국인 단기근로자 국내서 얼마나 벌까?…임금 지급 역대 최대",
+      "link": "https://www.mk.co.kr/news/economy/12194521",
+      "pubDate": "2026-11-03T02:21:46.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "‘농협회장 직선제’ 법안...野 퇴장 속 농해수위 소위 통과",
+      "link": "https://www.mk.co.kr/news/economy/12194518",
+      "pubDate": "2026-11-03T02:21:15.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "내년 나올 청년 전월세대출, 지방엔 금리혜택 1%P 더 준다",
+      "link": "https://www.mk.co.kr/news/economy/12194497",
+      "pubDate": "2026-11-03T02:14:25.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "‘착한 정책’이 세금도둑 된다?…‘깐깐함’이 필요한 이유 [이재철 칼럼]",
+      "link": "https://www.mk.co.kr/news/economy/12194486",
+      "pubDate": "2026-11-03T02:11:47.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "“물건 납품 전 발주만 받아도 대출”…우리은행, 중소기업에 2000억원 지원",
+      "link": "https://www.mk.co.kr/news/economy/12194468",
+      "pubDate": "2026-11-03T01:57:11.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "한국경영개발원, 제조기업 대상 설비투자 지원사업 참여기업 모집 - 이데일리",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZnhPaDVta3ZnZzl3MkZlMXEzVnVCZUZpb1BiandPZHF1OTFFbTdON2s5VVBtVDVMaXNIZEMyWTBjUmEtbFRGS1U1OVM3SGRWakQyUEVQRW9KSWdXM3RoVkhPS2ViYl90NVZmRlVqMm1QdlFnVXpEMUlENWV3RnJsTw?oc=5",
+      "pubDate": "2026-11-03T01:26:02.000Z",
+      "source": "Google 뉴스: 지원사업 공고/모집",
+      "category": "정부지원정책"
+    },
+    {
+      "title": "한국경영개발원, ‘제64차 제조혁신 설비도입 지원사업’ 참여기업 모집 - 서울경제TV",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1Ja21vOTJHcDRzSTU3SlNBTldOcFhhVXJtTmZOUEQxNF8zNHVpQjVvT2FIYXh5blBLaE5IdVpyMzFsREtkcXhHZ2JRMmYtLUthZjlvQzdDQnpxNVdHQndSbEhNTzE?oc=5",
+      "pubDate": "2026-11-03T01:23:55.000Z",
+      "source": "Google 뉴스: 지원사업 공고/모집",
+      "category": "정부지원정책"
+    },
+    {
+      "title": "정부 “체감 물가 여전히 높아”…김장철 640억원 투입해 장바구니 부담 낮춘다",
+      "link": "https://www.mk.co.kr/news/economy/12194408",
+      "pubDate": "2026-11-03T00:49:30.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "회사엔 빌려주고 가게는 안 빌려준다…기업대출 9조 늘 때 자영업자는 4000억",
+      "link": "https://www.mk.co.kr/news/economy/12194392",
+      "pubDate": "2026-11-03T00:33:08.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "취약계층 위한 7%대 적금 나온다…신협, 총 2만계좌 한정판매 [알쓸금잡]",
+      "link": "https://www.mk.co.kr/news/economy/12194384",
+      "pubDate": "2026-11-03T00:28:06.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "“주가 내리고 이자 부담은 껑충”…성장률 올랐다는데 내 지갑은 ‘꽁꽁’",
+      "link": "https://www.mk.co.kr/news/economy/12194336",
+      "pubDate": "2026-11-02T23:57:00.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "Do videos with excessive motion help kids pay attention, or are they just distractions?",
+      "link": "https://www.tubefilter.com/2026/11/02/do-videos-with-excessive-motion-help-kids-pay-attention-or-are-they-just-distractions/",
+      "pubDate": "2026-11-02T23:56:50.000Z",
+      "source": "Tubefilter",
+      "category": "수익화/크리에이터 이코노미"
+    },
+    {
+      "title": "“꼬박꼬박 국민연금 낸 우린 뭔가”…국민연금 가입자 10년 부었더니 ‘맙소사’",
+      "link": "https://www.mk.co.kr/news/economy/12194311",
+      "pubDate": "2026-11-02T23:17:02.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "[속보] 10월 소비자물가 2.8% 상승…두 달 연속 2%대 후반",
+      "link": "https://www.mk.co.kr/news/economy/12194306",
+      "pubDate": "2026-11-02T23:03:08.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "Top 50 Most Subscribed YouTube Channels Worldwide • Week Of 11/01/2026",
+      "link": "https://www.tubefilter.com/2026/11/02/top-50-most-subscribed-youtube-channels-worldwide-week-of-11-01-2026/",
+      "pubDate": "2026-11-02T22:40:15.000Z",
+      "source": "Tubefilter",
+      "category": "수익화/크리에이터 이코노미"
+    },
+    {
+      "title": "Top 50 Most Viewed YouTube Channels Worldwide • Week Of 11/01/2026",
+      "link": "https://www.tubefilter.com/2026/11/02/top-50-most-viewed-youtube-channels-worldwide-week-of-11-01-2026/",
+      "pubDate": "2026-11-02T21:33:41.000Z",
+      "source": "Tubefilter",
+      "category": "수익화/크리에이터 이코노미"
+    },
+    {
+      "title": "죽은 뒤 1억원 주면 무슨 소용있나…고령화에 종신보험 바뀐다 [금융 라운지]",
+      "link": "https://www.mk.co.kr/news/economy/12194100",
+      "pubDate": "2026-11-02T20:53:08.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "So you’re a creator, and you want to know: When is the magic moment to sign with a manager? We have your answer, straight from Viral Nation’s Head of Creator Relations.",
+      "link": "https://www.tubefilter.com/2026/11/02/chloe-morris-viral-nation-when-should-a-creator-sign-with-a-talent-manager/",
+      "pubDate": "2026-11-02T20:29:15.000Z",
+      "source": "Tubefilter",
+      "category": "수익화/크리에이터 이코노미"
     },
     {
       "title": "Top 5 Branded Videos of the Week: Keeping cash",
@@ -42,6 +224,20 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=216913",
       "pubDate": "2026-11-02T18:00:00.000Z",
       "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "Rewarding defenders with bigger bug bounties",
+      "link": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+      "pubDate": "2026-11-02T18:00:00.000Z",
+      "source": "OpenAI",
+      "category": "AI"
+    },
+    {
+      "title": "Preparing our next security sprint to harden OpenAI",
+      "link": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+      "pubDate": "2026-11-02T18:00:00.000Z",
+      "source": "OpenAI",
       "category": "AI"
     },
     {
@@ -147,6 +343,13 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=216920",
       "pubDate": "2026-11-02T15:50:00.000Z",
       "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "Scaling Git at OpenAI",
+      "link": "https://openai.com/index/scaling-git-at-openai",
+      "pubDate": "2026-11-02T15:30:00.000Z",
+      "source": "OpenAI",
       "category": "AI"
     },
     {
@@ -600,6 +803,13 @@
     {
       "title": "Qodo builds context into AI code review with Codex",
       "link": "https://openai.com/index/qodo-codex-plugin",
+      "pubDate": "2026-11-02T00:00:00.000Z",
+      "source": "OpenAI",
+      "category": "AI"
+    },
+    {
+      "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
+      "link": "https://openai.com/index/dan-driscoll-joins-openai",
       "pubDate": "2026-11-02T00:00:00.000Z",
       "source": "OpenAI",
       "category": "AI"
@@ -3291,216 +3501,6 @@
       "pubDate": "2026-10-27T17:16:00.000Z",
       "source": "AI타임스",
       "category": "AI"
-    },
-    {
-      "title": "[게시판] 삼쩜삼, 사내 AI 통합 플랫폼 '카터'로 운영비 45% 절감 등 단신",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=216708",
-      "pubDate": "2026-10-27T17:00:00.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "AI 많이 쓰는 ‘토큰맥싱’도 대표 사례…딕셔너리닷컴, 올해의 단어 ‘맥싱’ 선정",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=216715",
-      "pubDate": "2026-10-27T16:58:45.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "한은 \"AI 순환금융, 닷컴버블과 다르지만 네오클라우드 위험 주시해야\"",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=216720",
-      "pubDate": "2026-10-27T16:38:30.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "케이던스, 엔비디아 기반 반도체 설계 AI '마에스트로' 공개…자체 데이터 학습 지원",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=216719",
-      "pubDate": "2026-10-27T16:31:02.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "알리바바 큐원, 보안 테스트 중 베이징 서버로 무단 전송 시도",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=216702",
-      "pubDate": "2026-10-27T16:22:39.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "애플, OLED 아이패드 미니 공개…“AI 성능 최대 4.5배”",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=216710",
-      "pubDate": "2026-10-27T15:59:30.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "KT, AI 모델 500개 통합 ‘토큰팩토리’ 출시…토큰 최대 25% 절감",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=216709",
-      "pubDate": "2026-10-27T15:48:31.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "애플, '시리 AI' 한국어 서비스 개시...iOS27.2 업데이트 배포",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=216713",
-      "pubDate": "2026-10-27T15:45:46.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "월가, 앤트로픽 AI 칩 확보에 83조 금융 지원…브로드컴 장비 사서 임대",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=216705",
-      "pubDate": "2026-10-27T15:44:27.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "머스크가 “400억달러 조달 완료” 밝힌 거래, 아폴로 GPU 리스로 확인",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=216718",
-      "pubDate": "2026-10-27T15:33:58.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "메타, AI 인프라 투자에 역대 최대 126조 외부 조달 나선다",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=216704",
-      "pubDate": "2026-10-27T15:01:04.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "Retell uses OpenAI models to help power 100M monthly calls",
-      "link": "https://openai.com/index/retell-ai",
-      "pubDate": "2026-10-27T15:00:00.000Z",
-      "source": "OpenAI",
-      "category": "AI"
-    },
-    {
-      "title": "앤트로픽도 뚫렸다...캐서드럴, 에이전트로 12시간 만에 내부망 침투",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=216701",
-      "pubDate": "2026-10-27T14:42:24.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "하이퍼엑셀, 삼성증권 출신 김준연 CFO 영입",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=216699",
-      "pubDate": "2026-10-27T14:24:46.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "NH투자증권, IMA 중기형 4호 1200억원 모집…거창군에 냉장고 40대 지원 - 웹이코노미",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE05UnhhSlFVNkhCTlIwVTBraFZrUmo2aGQ0aTZRSC1hZWNGeHhSck5HZXFoMGplenpSTXF1dS1rOVR3NmVPam9rMkRQVUVYYUZvbWQzcG45NVdwU0p0bkdqWXZJSWpUYmdwZzY3bEVnX0UwUQ?oc=5",
-      "pubDate": "2026-10-27T14:23:26.000Z",
-      "source": "Google 뉴스: 지원사업 공고/모집",
-      "category": "정부지원정책"
-    },
-    {
-      "title": "애플의 폴더블 '아이폰 듀오', 힌지 결함 문제로 초기부터 불만 제기",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=216707",
-      "pubDate": "2026-10-27T14:13:50.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "목포, 28일 해수면 높이 4.92m 이상 예보…해안 저지대 침수 대비",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=216656",
-      "pubDate": "2026-10-27T13:33:00.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "전남광주서 28~29일 국제광융합엑스포…80여개사·109개 부스 참여",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=216654",
-      "pubDate": "2026-10-27T13:17:00.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "오픈AI, AI가 풀어낸 난제 학계와 검증…수학·물리학 등 연구 협력",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=216695",
-      "pubDate": "2026-10-27T12:57:54.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "2026년 남동발전 상생형 창업벤처기업 지원사업 참가기업 모집공고(연장) - 벤처스퀘어",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1fRUo4SGcwYnR6UHFnX2VhV3VES0FfUUVSRVpjMkVBOWJoSHJoekFKclhZb2loZ0lEUFJLclJEMW1wNHBNLXBPU1NwOTN3RjhWbmU1XzNhLWk3Mk9ZbW9Z?oc=5",
-      "pubDate": "2026-10-27T12:57:46.000Z",
-      "source": "Google 뉴스: 지원사업 공고/모집",
-      "category": "정부지원정책"
-    },
-    {
-      "title": "래블업, 공모가 1만9000원 확정...11월3일 코스닥 데뷔",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=216696",
-      "pubDate": "2026-10-27T12:38:19.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "MS, 비용 효율화·AI 투자 위해 전 세계 임직원 4분의 1 명예퇴직 시작",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=216700",
-      "pubDate": "2026-10-27T12:16:19.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "스페인 카스티야이레온, 지상형 태양광에 면적별 과세 추진…업계 반발",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=216634",
-      "pubDate": "2026-10-27T11:25:00.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "이라크, 태양광 수입관세 철폐 결정…전력망 연계 규정도 정비",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=216633",
-      "pubDate": "2026-10-27T11:15:00.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "서귀포시, 노인 일자리 사업 수행 기관 모집 - 제주일보",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBBZ0ptY1BLMnczRUNhRWx0cW1FOTJ6dzIzanlPQkw0THBYVFBLLU1WY3VTdVFlUzFaWmlOYWFIc0tJTUxBcWhhMl9iUV9KNVVJSGY1VFB3Q3BNRFptdlRkZE5qV054NWhaTVFjag?oc=5",
-      "pubDate": "2026-10-27T10:11:54.000Z",
-      "source": "Google 뉴스: 지원사업 공고/모집",
-      "category": "정부지원정책"
-    },
-    {
-      "title": "[AI리더의 서가] 테디노트의 LangGraph 에이전트 비법노트",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=216582",
-      "pubDate": "2026-10-27T09:00:00.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "내년 민간보조금·R&D 실집행 관리체계 신설…분기별 점검",
-      "link": "https://www.mk.co.kr/news/economy/12187435",
-      "pubDate": "2026-10-27T08:46:23.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "3분기 GDP 1% '깜짝성장' … 한국은행 \"올 4%도 가능\"",
-      "link": "https://www.mk.co.kr/news/economy/12187424",
-      "pubDate": "2026-10-27T08:43:45.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "반도체·설비투자가 이끈 '1% 성장'… 소비자는 지갑 더 닫았다",
-      "link": "https://www.mk.co.kr/news/economy/12187413",
-      "pubDate": "2026-10-27T08:43:25.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "이형일 \"올해 국민소득 4만달러 진입\"",
-      "link": "https://www.mk.co.kr/news/economy/12187412",
-      "pubDate": "2026-10-27T08:43:24.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
     }
   ]
 }
