@@ -1,7 +1,84 @@
 {
-  "lastUpdated": "2026-11-03T19:16:09.901Z",
+  "lastUpdated": "2026-11-04T00:29:11.386Z",
   "count": 500,
   "items": [
+    {
+      "title": "[AI리더의 서가] 원하는 대로 튜닝하는 나만의 sLLM",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216788",
+      "pubDate": "2026-11-04T09:00:00.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "[11월3일] \"AI 성능 높아도 실무는 별개\"…새 벤치마크서 최고 12%에 그쳐",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216936",
+      "pubDate": "2026-11-04T07:00:00.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "YouTube enlists educational creators to show the value of its interactive gaming hub",
+      "link": "https://www.tubefilter.com/2026/11/03/youtube-educational-games-playables-veritasium/",
+      "pubDate": "2026-11-04T00:14:22.000Z",
+      "source": "Tubefilter",
+      "category": "수익화/크리에이터 이코노미"
+    },
+    {
+      "title": "카뱅, 3분기 누적 순익 4698억원…올해 늘어난 대출 58%는 개인사업자 몫",
+      "link": "https://www.mk.co.kr/news/economy/12195970",
+      "pubDate": "2026-11-04T00:03:55.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "“사적연금·ISA·배당 소득자 등 건보료 부과 추진”…건보료 체계 ‘확’ 바뀔듯",
+      "link": "https://www.mk.co.kr/news/economy/12195963",
+      "pubDate": "2026-11-03T23:54:02.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "韓 외환보유액 다시 증가…4년5개월만에 최대",
+      "link": "https://www.mk.co.kr/news/economy/12195941",
+      "pubDate": "2026-11-03T23:20:01.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "X, like YouTube, is offering bonuses to creators who consistently upload new videos",
+      "link": "https://www.tubefilter.com/2026/11/03/x-video-kickstart-program-creator-bonus-monetization/",
+      "pubDate": "2026-11-03T22:57:13.000Z",
+      "source": "Tubefilter",
+      "category": "수익화/크리에이터 이코노미"
+    },
+    {
+      "title": "YouTube is giving some creators a 30-day fix-it period before terminating their channels",
+      "link": "https://www.tubefilter.com/2026/11/03/youtube-spam-policy-content-violation-grace-period-appeals/",
+      "pubDate": "2026-11-03T22:39:12.000Z",
+      "source": "Tubefilter",
+      "category": "수익화/크리에이터 이코노미"
+    },
+    {
+      "title": "동두천시 2027년도 1단계 공공근로사업 참여자 모집 - 경기평화신문",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFAyMEk2ZmFLdlRfZkl0ck8yekhLd0lQLXRoSVAwQjRfckh0U1IxTkJDWC04T1JvRXBXcEY3UThjbWxONFBXdWtqaFFn?oc=5",
+      "pubDate": "2026-11-03T22:29:00.000Z",
+      "source": "Google 뉴스: 지원사업 공고/모집",
+      "category": "정부지원정책"
+    },
+    {
+      "title": "Druski is one of Netflix’s biggest creator signings. What can he do with a multi-year deal?",
+      "link": "https://www.tubefilter.com/2026/11/03/druski-netflix-multi-year-deal-praise-and-collect/",
+      "pubDate": "2026-11-03T21:37:17.000Z",
+      "source": "Tubefilter",
+      "category": "수익화/크리에이터 이코노미"
+    },
+    {
+      "title": "“국내서만 41만명이 직장 잃을 수도”…車부품망 무너뜨리는 중국 전기차",
+      "link": "https://www.mk.co.kr/news/economy/12195667",
+      "pubDate": "2026-11-03T21:04:15.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
     {
       "title": "머스크 \"그록 봇 운영 비용 감당 어려워\"...AI 에이전트 사용량 제한",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=216942",
@@ -34,6 +111,13 @@
       "title": "딥 프린시플, 일부 과학 평가서 GPT-6 아스트라 앞선 '하이드로젠' 공개",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=216967",
       "pubDate": "2026-11-03T17:30:16.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "[AI 모델 신작] 사람처럼 대화하는 '프리즘'부터 로봇 제어 AI까지 6종",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216963",
+      "pubDate": "2026-11-03T17:20:00.000Z",
       "source": "AI타임스",
       "category": "AI"
     },
@@ -111,13 +195,6 @@
       "title": "래블업, 상장 첫날 급등 후 급락…AI 인프라주 '호된 신고식'",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=216962",
       "pubDate": "2026-11-03T16:17:54.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "[AI 모델 신작] 사람처럼 대화하는 '프리즘'부터 로봇 제어 AI까지 6종",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=216963",
-      "pubDate": "2026-11-03T16:12:07.000Z",
       "source": "AI타임스",
       "category": "AI"
     },
@@ -332,6 +409,13 @@
       "category": "정부지원정책"
     },
     {
+      "title": "나주시, 청년도전지원사업으로 구직 청년 재도약 지원 - 일등방송",
+      "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBCYUNVbmVaR19KYW9fMjZuZkd4WGl0Z3JIX2ZYOU05aVhZQjQ4LWJoUnFaMHc5cmVfSkgtdG5DeXlPWEoy?oc=5",
+      "pubDate": "2026-11-03T09:26:00.000Z",
+      "source": "Google 뉴스: 지원사업 공고/모집",
+      "category": "정부지원정책"
+    },
+    {
       "title": "[AI리더의 서가] 온톨로지 비법노트",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=216786",
       "pubDate": "2026-11-03T09:00:00.000Z",
@@ -418,6 +502,13 @@
     {
       "title": "Heimstaden is changing residential real estate management with AI",
       "link": "https://openai.com/index/heimstaden",
+      "pubDate": "2026-11-03T08:00:00.000Z",
+      "source": "OpenAI",
+      "category": "AI"
+    },
+    {
+      "title": "How Cisco defends at machine speed with OpenAI",
+      "link": "https://openai.com/index/cisco-cyber",
       "pubDate": "2026-11-03T08:00:00.000Z",
       "source": "OpenAI",
       "category": "AI"
@@ -638,6 +729,13 @@
       "pubDate": "2026-11-03T00:28:06.000Z",
       "source": "매일경제 경제",
       "category": "경제"
+    },
+    {
+      "title": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
+      "link": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer",
+      "pubDate": "2026-11-03T00:00:00.000Z",
+      "source": "OpenAI",
+      "category": "AI"
     },
     {
       "title": "“주가 내리고 이자 부담은 껑충”…성장률 올랐다는데 내 지갑은 ‘꽁꽁’",
@@ -3181,6 +3279,13 @@
       "category": "경제"
     },
     {
+      "title": "Evernote turns AI-driven discovery into paid subscriptions",
+      "link": "https://openai.com/ads/customers/evernote",
+      "pubDate": "2026-10-28T19:40:49.000Z",
+      "source": "OpenAI",
+      "category": "AI"
+    },
+    {
       "title": "“가진 자산이 얼마나 되시나요?”…진짜 부자는 ‘은행 비밀공간’으로 간다",
       "link": "https://www.mk.co.kr/news/economy/12189197",
       "pubDate": "2026-10-28T19:18:28.000Z",
@@ -3396,111 +3501,6 @@
       "pubDate": "2026-10-28T11:59:21.000Z",
       "source": "AI타임스",
       "category": "AI"
-    },
-    {
-      "title": "LGU+, 한국이콜랩과 데이터센터 액체냉각 운영표준 개발",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=216733",
-      "pubDate": "2026-10-28T11:56:43.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "세계 태양광 발전량, 원전 추월…최근 12개월간 13% 앞서",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=216691",
-      "pubDate": "2026-10-28T11:35:00.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "베트남, 가정용 태양광 지원책 12월까지 마련 지시…ESS 보급도 확대",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=216692",
-      "pubDate": "2026-10-28T11:10:00.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "The future of the firm",
-      "link": "https://openai.com/index/the-future-of-the-firm",
-      "pubDate": "2026-10-28T10:00:00.000Z",
-      "source": "OpenAI",
-      "category": "AI"
-    },
-    {
-      "title": "Legora is building the agentic operating system for legal work",
-      "link": "https://openai.com/index/legora-agentic-operating-system-for-legal-work",
-      "pubDate": "2026-10-28T09:30:00.000Z",
-      "source": "OpenAI",
-      "category": "AI"
-    },
-    {
-      "title": "Legora is building the agentic operating system for legal work",
-      "link": "https://openai.com/index/legora",
-      "pubDate": "2026-10-28T09:30:00.000Z",
-      "source": "OpenAI",
-      "category": "AI"
-    },
-    {
-      "title": "전북특별자치도 ‘2027 지역산업맞춤형 일자리지원사업 통합 설명회’개최 - 전북중앙",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1iMllnWmdZOXRsZ0haclAwTVRxLWRSUXFwS2pWY0Q4YzVRZlZvdGJwZm1HMzRpN2ZSNWNHUTRjc0tjZU5iWjNDQWFaYmNoT3ZfNjFuYmMzR2hXWXZ4X1JBalZPOXZWVEHSAWtBVV95cUxORW1fMXQ1SHFEdXJZRE8zOUJWQmZNVTlfQWpKLUhnbkpjTklIY1VBWXlHM2V6dVlUNTBhQkJuNU9QdVpuTFJpaXRSakZFRjVFMXpIWWdCWEZ4MFdpV0NfYVFMV1NzR2hvSmZfNA?oc=5",
-      "pubDate": "2026-10-28T09:13:44.000Z",
-      "source": "Google 뉴스: 지원사업 공고/모집",
-      "category": "정부지원정책"
-    },
-    {
-      "title": "[AI리더의 서가] 머신러닝 플랫폼 엔지니어링",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=216583",
-      "pubDate": "2026-10-28T09:00:00.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "北 IP서 해킹 시도…코인탈취 노렸나 靑, 전방위 해킹 사고에 긴급점검회의",
-      "link": "https://www.mk.co.kr/news/economy/12188755",
-      "pubDate": "2026-10-28T08:45:35.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "[단독] 해외 큰 손들, 이제 韓 채권에 눈독...블룸버그도 ‘선진국’ 승격 추진",
-      "link": "https://www.mk.co.kr/news/economy/12188743",
-      "pubDate": "2026-10-28T08:44:30.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "中은 수소에 60조원 투자할때…韓日 수소 투자액 10조원 그쳐",
-      "link": "https://www.mk.co.kr/news/economy/12188724",
-      "pubDate": "2026-10-28T08:41:37.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "\"과학·경제 정책은 한몸\" … 7대 미래산업 육성 맞손",
-      "link": "https://www.mk.co.kr/news/economy/12188708",
-      "pubDate": "2026-10-28T08:39:17.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "고용·투자 늘린 中企, 세무조사 빼준다",
-      "link": "https://www.mk.co.kr/news/economy/12188709",
-      "pubDate": "2026-10-28T08:39:17.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "韓, 블룸버그 채권지수서 '선진국' 대우받나",
-      "link": "https://www.mk.co.kr/news/economy/12188706",
-      "pubDate": "2026-10-28T08:39:15.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "투자 유튜브 즐겨보는 개미들도 \"경제신문 가장 신뢰\"",
-      "link": "https://www.mk.co.kr/news/economy/12188690",
-      "pubDate": "2026-10-28T08:38:47.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
     }
   ]
 }
