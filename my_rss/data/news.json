@@ -1,7 +1,35 @@
 {
-  "lastUpdated": "2026-11-04T08:47:48.977Z",
+  "lastUpdated": "2026-11-04T17:50:57.438Z",
   "count": 500,
   "items": [
+    {
+      "title": "앤트로픽 \"RSI 가속에 AI 안전 대책 뒤처질 수도\"…통제 강화 검토",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216984",
+      "pubDate": "2026-11-04T18:24:21.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "오픈AI, AI로 하드웨어 설계 일주일 만에 완료…실제 시제품 제작",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216989",
+      "pubDate": "2026-11-04T18:07:03.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "\"AI에 일 맡길수록 감독 능력도 퇴화\"…앤트로픽 엔지니어 경고",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217019",
+      "pubDate": "2026-11-04T18:00:00.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "\"AI 초장문 처리 속도 최대 35배 높인다\"…자이프라, 새 어텐션 기술 공개",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217008",
+      "pubDate": "2026-11-04T17:54:42.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
     {
       "title": "\"AI 현장 엔지니어 연봉 최대 19억원\"...기업들 FDE 확보 총력",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=217007",
@@ -157,6 +185,13 @@
       "category": "AI"
     },
     {
+      "title": "OpenAI to acquire Pierre Computer Company, Inc.",
+      "link": "https://openai.com/index/openai-to-acquire-pierre",
+      "pubDate": "2026-11-04T14:30:00.000Z",
+      "source": "OpenAI",
+      "category": "AI"
+    },
+    {
       "title": "AMD, 퓨리오사·망고부스트와 공조...내년 봄 이기종 AI 실증 인프라 구축",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=216979",
       "pubDate": "2026-11-04T14:18:36.000Z",
@@ -192,6 +227,13 @@
       "category": "AI"
     },
     {
+      "title": "경남테크노파크, 동계 현장실습 참여기업 모집…최대 240만 원 지원 - 더쎈뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBJTmdGSkw1bTFqblFtS0FfNzFOa09xWGFIdzZlMml1eDVjTGQyWTBJb3JKQlhlZkd2MzF1MzVuTkY1MFk2TzRxTlpDcWw1eklQZ2FGaTlWLXRxY2NnaVd4WkZTcFk4S1Nj?oc=5",
+      "pubDate": "2026-11-04T13:02:44.000Z",
+      "source": "Google 뉴스: 지원사업 공고/모집",
+      "category": "정부지원정책"
+    },
+    {
       "title": "\"저가 칩에 HBM 숨겨 중국으로\"...삼성·SK 메모리 밀반입 수법 드러나",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=216978",
       "pubDate": "2026-11-04T12:44:15.000Z",
@@ -220,11 +262,46 @@
       "category": "AI"
     },
     {
+      "title": "[영상] 2026 연금 개정, 연금소득 상위 1%를 위한 연금 세팅! 이것만은 꼭!",
+      "link": "https://www.mk.co.kr/news/economy/12196915",
+      "pubDate": "2026-11-04T11:57:41.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
       "title": "정부 주도 ‘휴머노이드 데이터 팩토리’ 개소…로봇 12대 가동",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=216973",
       "pubDate": "2026-11-04T11:56:44.000Z",
       "source": "AI타임스",
       "category": "AI"
+    },
+    {
+      "title": "[영상] 전쟁은 에너지를, 인플레이션은 금융, AI는 산업 금속을 깨운다! 원자재 실전투자",
+      "link": "https://www.mk.co.kr/news/economy/12196914",
+      "pubDate": "2026-11-04T11:56:13.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "[영상] AI붐에 올라탄 한국경제, 한국과 세계 시장 꿰뚫는 법",
+      "link": "https://www.mk.co.kr/news/economy/12196911",
+      "pubDate": "2026-11-04T11:54:59.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "리센느 뜨기전 투자한 ‘신의 촉’…33억 넣어 600억 회수 대박도 터트렸다",
+      "link": "https://www.mk.co.kr/news/economy/12196893",
+      "pubDate": "2026-11-04T11:48:17.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "급등과 급락 반복한 코스피…무엇이 흔들었나 [Visual]",
+      "link": "https://www.mk.co.kr/news/stock/12196891",
+      "pubDate": "2026-11-04T11:46:56.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
     },
     {
       "title": "가정용 태양광·ESS, 그리드포밍 적용 시 주파수 변화율 66% 감소",
@@ -241,11 +318,46 @@
       "category": "AI"
     },
     {
+      "title": "화순군, 지역자원 연계 청년창업 지원사업 추가 모집 - 웹이코노미",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9IVUMxSnFIMnFGYXlwMU8zb2lvU0pFOERpeFFUQWV3QmZDUUxCTjRiNFJ2VVIzN1lienlyVmlTM2Z2YlpWVVVJb0kzb01tUUZYU1dZVDBlSHRHc1dkaEx1NDBINDNoYUVUZC1xZkN0WkJGdw?oc=5",
+      "pubDate": "2026-11-04T11:09:12.000Z",
+      "source": "Google 뉴스: 지원사업 공고/모집",
+      "category": "정부지원정책"
+    },
+    {
+      "title": "화순군, 지역자원 연계형 청년창업 지원사업 참여자 추가 모집 - 투데이광주전남",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8wbk9rOXlmeW5GVmRfeDl0V0JtQWVDaU1OamdGUFBFMWIwQTFXeGZVRUcxQ0FsY09hYVlRdm1JdXJoMm1aYWFZM1dycVoyRk5ubHlMT09JeXdfOEJZOWljS0poM1hyLXFiR2ZyRDkwaUw?oc=5",
+      "pubDate": "2026-11-04T10:41:34.000Z",
+      "source": "Google 뉴스: 지원사업 공고/모집",
+      "category": "정부지원정책"
+    },
+    {
+      "title": "임실군보건의료원, 난임 지원사업 상시 모집…최대 200만원까지 - 한국사회복지저널",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1OU2VUTHBPS3kzckM4WmJodm8ydVEzVTFXdmRHdENjZjM4QmdWdnVEVU5jRzh2LW1VTzREbko3anBNUW5iR3RKcEJHdXU4SGczTzFSTmlQNlVIZ2U4OXA3OVFwMlNFQmJGRWF6ZA?oc=5",
+      "pubDate": "2026-11-04T10:14:38.000Z",
+      "source": "Google 뉴스: 지원사업 공고/모집",
+      "category": "정부지원정책"
+    },
+    {
+      "title": "[속보] 경찰, 강호동 농협중앙회장 구속영장 신청…금품수수 등 혐의",
+      "link": "https://www.mk.co.kr/news/economy/12196740",
+      "pubDate": "2026-11-04T09:18:38.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
       "title": "[AI리더의 서가] 원하는 대로 튜닝하는 나만의 sLLM",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=216788",
       "pubDate": "2026-11-04T09:00:00.000Z",
       "source": "AI타임스",
       "category": "AI"
+    },
+    {
+      "title": "[단독] 26만 간병인 산재보험 품는다…보험료 최대 80% 정부 지원 검토",
+      "link": "https://www.mk.co.kr/news/economy/12196722",
+      "pubDate": "2026-11-04T08:59:27.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
     },
     {
       "title": "넘치는 삼전닉스 돈 … 기업예금 1천조 돌파",
@@ -374,6 +486,13 @@
       "category": "경제"
     },
     {
+      "title": "화순군, 청년창업 지원사업 참여자 추가 모집 - 화순매일신문",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBzSnNmdm14NGdBcjlrSkRIMzB0eXN5UnUzdEdWcHc1NEdtSWFwdjdUNUVfdk1BNGlWR0kyZzNoVmVaQVRJb3c?oc=5",
+      "pubDate": "2026-11-04T07:29:00.000Z",
+      "source": "Google 뉴스: 지원사업 공고/모집",
+      "category": "정부지원정책"
+    },
+    {
       "title": "“내부통제서 AI 윤리까지”…금융인재개발원, 맞춤형 금융교육 콘텐츠 공개",
       "link": "https://www.mk.co.kr/news/economy/12196502",
       "pubDate": "2026-11-04T07:21:43.000Z",
@@ -406,6 +525,13 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=216936",
       "pubDate": "2026-11-04T07:00:00.000Z",
       "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
+      "link": "https://openai.com/index/daybreak-red-aws-govcloud",
+      "pubDate": "2026-11-04T07:00:00.000Z",
+      "source": "OpenAI",
       "category": "AI"
     },
     {
@@ -458,6 +584,20 @@
       "category": "정부지원정책"
     },
     {
+      "title": "지오코칭, 폐업 소상공인 재취업 지원 심화과정 교육생 모집 - 파이낸셜리뷰",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9yVnczQkxDRzNBSjBjWW5ZS0xTOGZVaUtXOUFQdjlBd3F4anY1cFdtcnNsVTRXT2w2azBOUUNienFOeHZCQVZCbkUxZC1paHl0c0JjekNHcGxXNzJHdHU5T3Rwc2NLVnRRR1dKMlNjMGNmZm9q?oc=5",
+      "pubDate": "2026-11-04T05:49:20.000Z",
+      "source": "Google 뉴스: 지원사업 공고/모집",
+      "category": "정부지원정책"
+    },
+    {
+      "title": "인천시·인천지식재산경영인협의회, 관내 중소기업 대상 '지식재산 기반 기술경쟁력 강화 통합지원사업' 참여 기업 모집 - 뉴뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE56VC1IYjRLalMzZV83MFdRbnUtWnpwQ1RmUzgtdnRLdkNSNEVzbTlnUjFUbjZLNzB3ZEw2VURvNGU1SHVDNG54QThGbk1CRE80dFpkRmJqQk96SEZ1c01USGZaMWs5dw?oc=5",
+      "pubDate": "2026-11-04T05:42:45.000Z",
+      "source": "Google 뉴스: 지원사업 공고/모집",
+      "category": "정부지원정책"
+    },
+    {
       "title": "인천 검단구, 2026년 중소기업 외국어 통번역 지원사업 참여기업 모집 - 뉴뉴스",
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE02T0ZESTlRcDAxZXRDU2lheUNRYmlzd1RTazEzMExqQVhMUGZockhsaEw3WnlqQXJ5MWViR19UX2tpblAxZ1RqX3cxUEczRkNnMldxRERVQTNpcjVjN05rZ2ZDVXk4QQ?oc=5",
       "pubDate": "2026-11-04T05:41:39.000Z",
@@ -468,6 +608,13 @@
       "title": "지오코칭, 폐업 소상공인 재취업 지원…심화교육생 130명 모집 - 마이데일리",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE04Y2FiSk40Sm9zb2pWaWxKU01VSnJHWlVqdWN5NG5pRjdlZC0yREw3WGxFUjlGeV9GNTcydnBpQmJzVUQ2UlRYYUZMSkhDbmhvcFMwSlZ6ZDFVdHEzUENPaw?oc=5",
       "pubDate": "2026-11-04T05:26:14.000Z",
+      "source": "Google 뉴스: 지원사업 공고/모집",
+      "category": "정부지원정책"
+    },
+    {
+      "title": "지오코칭, 폐업 소상공인 재취업 돕는다…희망리턴패키지 교육생 모집 - PRESS9",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9qX2Z0ZkVCaW5vaHhrYlZwRmUyTV9QblZNLXhHbkZHOGh6Zl9QbVRMbEFlV2VTV1R6NDM3d2lValpqMWRIcVFwc21UZUx0MWEzNEdJb2pXeVNUZFA1MzRHaHNaWUg?oc=5",
+      "pubDate": "2026-11-04T05:14:47.000Z",
       "source": "Google 뉴스: 지원사업 공고/모집",
       "category": "정부지원정책"
     },
@@ -3354,153 +3501,6 @@
       "pubDate": "2026-10-29T14:58:00.000Z",
       "source": "AI타임스",
       "category": "AI"
-    },
-    {
-      "title": "한컴, ‘AI 팀' 노마디안으로 미국 SMB 공략...에이전트포스·뮤즈에 도전",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=216782",
-      "pubDate": "2026-10-29T14:48:16.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "구글, 기업용 '제미나이 에이전트' 연내 일반 이용자에 제공",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=216787",
-      "pubDate": "2026-10-29T14:31:50.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "삼성SDS, 3분기 매출 3조7725억원 두자릿수 성장세… 피지컬 AI 실증 본격화",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=216781",
-      "pubDate": "2026-10-29T14:11:41.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "세일즈포스 이어 오라클도 AI에 통합…기업용 소프트웨어 판도 변화",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=216783",
-      "pubDate": "2026-10-29T14:04:29.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "미 법무부, 엔비디아의 허깅페이스 인수 조사...AI 모델 유통망 장악 가능성 검토",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=216777",
-      "pubDate": "2026-10-29T13:02:52.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "구글, AI로 검색량 급증했지만 광고 매출은 둔화...주가 10% 급락",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=216774",
-      "pubDate": "2026-10-29T12:51:17.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "퓨리오사AI, 8200억 규모 투자 유치...기업가치 3.8조원 돌파",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=216770",
-      "pubDate": "2026-10-29T12:40:49.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "MS, 10분기 연속 최대 매출...AI 투자 지연에 네오클라우드 주가 하락",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=216773",
-      "pubDate": "2026-10-29T12:39:22.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "오픈AI, 구글 TPU 직접 구매 추진...엔비디아 의존도 줄인다",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=216771",
-      "pubDate": "2026-10-29T12:29:25.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "SK AX, AI 기반 역량진단 솔루션 ‘지핏 스튜디오’ 출시...AI 인재 선발 지원",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=216775",
-      "pubDate": "2026-10-29T12:20:50.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "삼성전자, 분기 영업익 100조 시대 열어...글로벌 테크기업 중 최초",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=216772",
-      "pubDate": "2026-10-29T11:59:34.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "싱가포르, 태양광 설치 목표 4GWp로 확대…건물 외벽·주차장까지 활용",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=216796",
-      "pubDate": "2026-10-29T11:50:00.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "미국, 콘센트형 태양광 규제 완화 법안 발의…최대 1000달러 지원 추진",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=216694",
-      "pubDate": "2026-10-29T11:50:00.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "이탈리아, 태양광 4.83GW 신규 연결…대형 발전소 비중 46%",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=216693",
-      "pubDate": "2026-10-29T11:40:00.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "미국 AI 데이터센터 확충에 전력부문 탄소배출 42% 증가 우려",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=216799",
-      "pubDate": "2026-10-29T11:20:00.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "“이자 장사로 40조 긁어모았다”…5대 금융지주, 올해 순익 20조 ‘역대 최대’",
-      "link": "https://www.mk.co.kr/news/economy/12190290",
-      "pubDate": "2026-10-29T09:57:37.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "[AI리더의 서가] 하네스 엔지니어링으로 완성하는 에이전틱 AI",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=216584",
-      "pubDate": "2026-10-29T09:00:00.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "How we detect frontier model misalignment",
-      "link": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
-      "pubDate": "2026-10-29T09:00:00.000Z",
-      "source": "OpenAI",
-      "category": "AI"
-    },
-    {
-      "title": "[대전창조경제혁신센터] 2026년 웰컴 스테이 지원사업 참여기업 모집 재공고 - 벤처스퀘어",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1ka1k1dHhYUGQ1QUZqZWtTcDdHMm1UVDZLSUZ5OUZGU0FoTUhIN21TUXhicWtybUx1Q3BoYm5UM1N6dWY1cWxNUlktYUdLeGp4c1VSdDlLMlNlejM1cExn?oc=5",
-      "pubDate": "2026-10-29T08:57:11.000Z",
-      "source": "Google 뉴스: 지원사업 공고/모집",
-      "category": "정부지원정책"
-    },
-    {
-      "title": "27조 체코원전 따낸 '팀코리아'가 갈라섰다",
-      "link": "https://www.mk.co.kr/news/economy/12190224",
-      "pubDate": "2026-10-29T08:51:26.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "주식 60%·채권 40% 황금 비율 … 평생 버틸 수 있는 '경제적 방주'",
-      "link": "https://www.mk.co.kr/news/economy/12190204",
-      "pubDate": "2026-10-29T08:47:17.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
     }
   ]
 }
