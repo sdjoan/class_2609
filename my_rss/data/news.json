@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-06T11:55:44.114Z",
+  "lastUpdated": "2026-11-06T19:08:15.851Z",
   "count": 500,
   "items": [
     {
@@ -141,6 +141,13 @@
       "pubDate": "2026-11-06T13:10:00.000Z",
       "source": "AI타임스",
       "category": "AI"
+    },
+    {
+      "title": "다카이치 “日銀 ETF 매각 이익으로 반도체·AI 투자”",
+      "link": "https://www.mk.co.kr/news/world/12200962",
+      "pubDate": "2026-11-06T12:44:44.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
     },
     {
       "title": "메타 \"중간선거 이후 미국 데이터센터 건설 어려워져\"...해외 투자 검토",
@@ -304,6 +311,13 @@
       "category": "정부지원정책"
     },
     {
+      "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+      "link": "https://openai.com/index/partnering-with-hacktron",
+      "pubDate": "2026-11-06T08:00:00.000Z",
+      "source": "OpenAI",
+      "category": "AI"
+    },
+    {
       "title": "토스인슈어런스, 대구 진출…6대 광역시 거점 구축",
       "link": "https://www.mk.co.kr/news/economy/12200598",
       "pubDate": "2026-11-06T07:52:54.000Z",
@@ -370,6 +384,13 @@
       "title": "거제시, 외국인노동자지원센터 수탁기관 공개 모집 - 코리아투데이뉴스",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5BSzlKWUFCQV9FRjJ2TUVCaVJMdmtMWTlfek5XaktUdEFaQkhudDlLZzgtWnZ5RENFa055TzF2RHctMjB6ZHdz?oc=5",
       "pubDate": "2026-11-06T03:38:00.000Z",
+      "source": "Google 뉴스: 지원사업 공고/모집",
+      "category": "정부지원정책"
+    },
+    {
+      "title": "거제시, 외국인노동자지원센터 운영 수탁기관 공개 모집 - 거제뉴스광장",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5vcTcwaFR6RVBJSDlFUl94ZV9US0NySmVNNWlIYXpTekF6RFN5LWp0Qlc1b0dXeDdkRHZBYk5xQk9nVUlld0tFRnhSUjRMQXZJVkJnME5ScWlTMTZrSjlkTjFzZ0NEZnI0WXBDTzNR?oc=5",
+      "pubDate": "2026-11-06T03:26:38.000Z",
       "source": "Google 뉴스: 지원사업 공고/모집",
       "category": "정부지원정책"
     },
@@ -3480,27 +3501,6 @@
       "pubDate": "2026-11-02T04:53:52.000Z",
       "source": "매일경제 경제",
       "category": "경제"
-    },
-    {
-      "title": "부모 車운전한 경력도 인정…청년 자동차보험료 아끼는 법은",
-      "link": "https://www.mk.co.kr/news/economy/12193431",
-      "pubDate": "2026-11-02T04:51:33.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "홍지선 “3조 신전략펀드 조성, 해외건설 진출 맞춤형 지원”",
-      "link": "https://www.mk.co.kr/news/economy/12193417",
-      "pubDate": "2026-11-02T04:26:02.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "긱블, 로봇 회사로 전환…기체 대신 ‘캐릭터 소프트웨어’에 건다",
-      "link": "https://platum.kr/archives/297575?utm_source=rss&utm_medium=rss&utm_campaign=%25ea%25b8%25b1%25eb%25b8%2594-%25eb%25a1%259c%25eb%25b4%2587-%25ed%259a%258c%25ec%2582%25ac%25eb%25a1%259c-%25ec%25a0%2584%25ed%2599%2598%25ea%25b8%25b0%25ec%25b2%25b4-%25eb%258c%2580%25ec%258b%25a0-%25ec%25ba%2590%25eb%25a6%25ad%25ed%2584%25b0-%25ec%2586%258c%25ed%2594%2584%25ed%258a%25b8%25ec%259b%25a8",
-      "pubDate": "2026-11-02T04:02:50.000Z",
-      "source": "플래텀",
-      "category": "창업"
     }
   ]
 }
