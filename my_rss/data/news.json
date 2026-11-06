@@ -1,13 +1,139 @@
 {
-  "lastUpdated": "2026-11-05T21:50:26.295Z",
+  "lastUpdated": "2026-11-06T02:05:22.031Z",
   "count": 500,
   "items": [
+    {
+      "title": "[AI리더의 서가] 실전 AX 리포트",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=216791",
+      "pubDate": "2026-11-06T09:00:00.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "[11월5일] 주민투표 '39대 1'...미국 유권자들, AI 데이터센터에 압도적 반대",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217042",
+      "pubDate": "2026-11-06T07:00:00.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
     {
       "title": "오픈AI, 'GPT-6 사이버' 출시…취약점 공격 성공률 51% 향상",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=217074",
       "pubDate": "2026-11-06T06:05:26.000Z",
       "source": "AI타임스",
       "category": "AI"
+    },
+    {
+      "title": "폭락장 속 나홀로 플러스 … 파킹 ETF에 한달새 2조2천억 몰렸다",
+      "link": "https://www.mk.co.kr/news/economy/12200306",
+      "pubDate": "2026-11-06T01:58:49.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "어린이 경제박사 되세요... 14일 경제교실 개최",
+      "link": "https://www.mk.co.kr/news/economy/12200301",
+      "pubDate": "2026-11-06T01:52:35.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "홍콩ELS 과징금 환입 2800억…KB·신한 ‘리딩뱅크’ 경쟁 변수",
+      "link": "https://www.mk.co.kr/news/economy/12200300",
+      "pubDate": "2026-11-06T01:52:24.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "케이뱅크 ‘이자 먼저 받는 예금’ 한달만에 1조 돌파",
+      "link": "https://www.mk.co.kr/news/economy/12200287",
+      "pubDate": "2026-11-06T01:34:42.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "집 안가보고 잡던 원베일리도 14.5억 ‘뚝’, 강남 아파트 시련의 계절 왔다",
+      "link": "https://www.mk.co.kr/news/economy/12200273",
+      "pubDate": "2026-11-06T01:28:42.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "거제시, 외국인노동자지원센터 수탁기관 공개 모집 - 새거제신문",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1ILWNFaUpBU0d5djRUTWk1SUtpcTBsejFVZF9mNUF0MXppQkk2MlhaTVRSTWMzU2xyWDRFNG9yNlFoc0hYTEI2ODdGaVJoT0lOMWF4VGFKNGlVelZOdnpHX25xRnV6X0JadHlz?oc=5",
+      "pubDate": "2026-11-06T01:20:42.000Z",
+      "source": "Google 뉴스: 지원사업 공고/모집",
+      "category": "정부지원정책"
+    },
+    {
+      "title": "광양시, ‘청년 취업자 주거비 지원사업’ 3차 추가모집 > 뉴스 - 더코리아",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5rQ2VRcjBYVFQ2UUtnQUtUMGEzOTRuTkFVRE94Z0JieTlmcHRKa01zY3ZFeWZmSDJ6Vnc2NndsUmhHNnFJRmxfVl9uQkpxRHF2NzdPWWFzWXFEVHhZUjBZWXVoR0o2bG5abUZkZUs1U1pMQQ?oc=5",
+      "pubDate": "2026-11-06T01:08:00.000Z",
+      "source": "Google 뉴스: 지원사업 공고/모집",
+      "category": "정부지원정책"
+    },
+    {
+      "title": "여수시, ‘2027년 청년어촌정착 지원사업’ 참여자 모집 - 농수축산신문",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9LcmJUaENmUEJ4S1ZsTTVmelNjTXpIaVQ5amRFdFlpa2dzSTktOHNSd3NqUE5PVFEtZU8ta0F4d0xoclBmMVdPSi1xM0p3ZTVJY2x5a3RDUms5UXFMcGd5WHlPZnU5VjlHLTdEcw?oc=5",
+      "pubDate": "2026-11-06T01:07:40.000Z",
+      "source": "Google 뉴스: 지원사업 공고/모집",
+      "category": "정부지원정책"
+    },
+    {
+      "title": "Google, TikTok, and Meta are suing California to stop a law that bans “psychologically exploitative features” for kids under 16",
+      "link": "https://www.tubefilter.com/2026/11/05/google-meta-tiktok-california-lawsuit-ab-1709/",
+      "pubDate": "2026-11-06T01:05:08.000Z",
+      "source": "Tubefilter",
+      "category": "수익화/크리에이터 이코노미"
+    },
+    {
+      "title": "“노후자금까지 주식에 넣었는데”...코스피 급락하자 다시 예금으로",
+      "link": "https://www.mk.co.kr/news/economy/12200227",
+      "pubDate": "2026-11-06T00:59:47.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "울산 남구, 내년도 스포츠 강좌 이용권 지원 대상자 모집 - 울산종합일보",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE41M2RnRmtpZm5Fb0ZpT0FYNjhTT2R6all4em9LYVhfY0FWWFo2a1JwVWJyZk03NjhwUzdJM2pCNFRLZVA4ZGJiQldzT0RWcjdvcmZub0JxT2dIZ195WUhyNDJMREZfMWo5QnZaclhR?oc=5",
+      "pubDate": "2026-11-06T00:58:31.000Z",
+      "source": "Google 뉴스: 지원사업 공고/모집",
+      "category": "정부지원정책"
+    },
+    {
+      "title": "채무조정하면 은행도 부담 던다…금융당국 자본 규제완화 추진",
+      "link": "https://www.mk.co.kr/news/economy/12200226",
+      "pubDate": "2026-11-06T00:56:56.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "남구, 2027년 스포츠 강좌 이용권 사업 대상자 모집 - 행정신문",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA1aDhQSlhBbFp3UElLOUtOUkJCaUotZU9wU1hlMEhvcWtoQ24tTkhjNFdDTFBQZ010MXpiSWNTYk80VWVid2VFU0ZUUkwyMWw1X3BuaG9BdEtsRzB2VlRxc0FCVnI2QmtkMGlkRQ?oc=5",
+      "pubDate": "2026-11-06T00:55:36.000Z",
+      "source": "Google 뉴스: 지원사업 공고/모집",
+      "category": "정부지원정책"
+    },
+    {
+      "title": "YouTube’s biggest creators join forces to support the Susan Wojcicki Foundation’s critical mission: changing the conversation about lung cancer",
+      "link": "https://www.tubefilter.com/2026/11/05/youtube-creators-susan-wojcicki-foundation-youtube-channel-launch-lung-cancer-research/",
+      "pubDate": "2026-11-06T00:16:33.000Z",
+      "source": "Tubefilter",
+      "category": "수익화/크리에이터 이코노미"
+    },
+    {
+      "title": "TikTok Shop now has a standalone app in four Southeast Asian markets",
+      "link": "https://www.tubefilter.com/2026/11/05/tiktok-shop-standalone-app-southeast-asia-ecommerce/",
+      "pubDate": "2026-11-05T23:26:25.000Z",
+      "source": "Tubefilter",
+      "category": "수익화/크리에이터 이코노미"
+    },
+    {
+      "title": "Stream, meet sea: Carnival is integrating Twitch into its cruises",
+      "link": "https://www.tubefilter.com/2026/11/05/play-carnival-celebration-cruise-ijustine-twitch/",
+      "pubDate": "2026-11-05T22:59:57.000Z",
+      "source": "Tubefilter",
+      "category": "수익화/크리에이터 이코노미"
     },
     {
       "title": "Some students watch thousands of irrelevant videos during class. Can YouTube solve that problem?",
@@ -22,6 +148,13 @@
       "pubDate": "2026-11-05T20:58:15.000Z",
       "source": "매일경제 경제",
       "category": "경제"
+    },
+    {
+      "title": "Cult.fit builds operational muscle with Codex",
+      "link": "https://openai.com/index/cultfit-builds-with-codex",
+      "pubDate": "2026-11-05T20:00:00.000Z",
+      "source": "OpenAI",
+      "category": "AI"
     },
     {
       "title": "앤트로픽, AI 모델 '신원 확인' 기술 공개...클로드가 개발 과정 주도",
@@ -395,6 +528,13 @@
       "category": "경제"
     },
     {
+      "title": "Merge builds product and business tools with OpenAI technology",
+      "link": "https://openai.com/index/merge-builds-with-openai",
+      "pubDate": "2026-11-05T08:00:00.000Z",
+      "source": "OpenAI",
+      "category": "AI"
+    },
+    {
       "title": "여수시, 2027년 청년어촌정착 지원사업 참여자 모집 - 웹이코노미",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1haVZlZmNsQjFTOWNkamNWNnItazJVNjI5MnNyVWRacElPSk00YlBQVi1IVGZfVHd5ckVwR3lCU19FMUs0bnZQLXA5ejNFRmlhcXRjRU5GWFFWckhGbF9pSFh1cFlYTUFSc1paaGpYTmt5QQ?oc=5",
       "pubDate": "2026-11-05T07:22:29.000Z",
@@ -654,6 +794,13 @@
       "category": "경제"
     },
     {
+      "title": "Flipsnack grows product signups with conversion optimization",
+      "link": "https://openai.com/ads/customers/flipsnack",
+      "pubDate": "2026-11-05T00:45:15.000Z",
+      "source": "OpenAI",
+      "category": "AI"
+    },
+    {
       "title": "“성인엔 푼돈이지만 10대엔 도박 신호”…케이뱅크, AI로 청소년 이상거래 잡아낸다",
       "link": "https://www.mk.co.kr/news/economy/12198048",
       "pubDate": "2026-11-05T00:44:18.000Z",
@@ -680,6 +827,13 @@
       "pubDate": "2026-11-05T00:07:28.000Z",
       "source": "Google 뉴스: 지원사업 공고/모집",
       "category": "정부지원정책"
+    },
+    {
+      "title": "Franklin Templeton uses OpenAI to support investment research",
+      "link": "https://openai.com/index/franklin-templeton",
+      "pubDate": "2026-11-05T00:00:00.000Z",
+      "source": "OpenAI",
+      "category": "AI"
     },
     {
       "title": "Are Reddit’s new search ads just an answer engine optimization play?",
@@ -3347,160 +3501,6 @@
       "pubDate": "2026-11-01T00:05:53.000Z",
       "source": "매일경제 경제",
       "category": "경제"
-    },
-    {
-      "title": "“넷플릭스, 그 돈 다 내고 보면 어떡해”…아는 사람만 안다는 ‘반값 할인’",
-      "link": "https://www.mk.co.kr/news/economy/12192550",
-      "pubDate": "2026-10-31T23:55:01.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "머스크, 놀란에 맞서 AI판 '오디세이' 공개…평가 엇갈려",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=216851",
-      "pubDate": "2026-10-31T19:58:00.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "알트먼 \"AI 수학 연구에 수억달러 투입…공개 안 한 성과도 많아\"",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=216850",
-      "pubDate": "2026-10-31T18:53:02.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "한국인 챗GPT 활용, 문서 편집 1위 유지…시각 자료 제작 1년 새 2배",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=216834",
-      "pubDate": "2026-10-31T18:16:47.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "구글, 우주 데이터센터 위성에서 첫 AI 추론 성공…시 생성해 지구 전송",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=216837",
-      "pubDate": "2026-10-31T18:05:26.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "구글, 인터넷 없이 작동하는 '제미나이 라이브' 개발…온디바이스 AI 활용 전망",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=216841",
-      "pubDate": "2026-10-31T17:55:40.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "구글, 제미나이 채팅에서 문서·PDF 직접 편집 기능 추가",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=216845",
-      "pubDate": "2026-10-31T17:38:01.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "독일 엔비전, 유기 분자로 양자 컴퓨팅 칩 개발…OLED 제조 기술 활용",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=216849",
-      "pubDate": "2026-10-31T17:29:54.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "오픈AI, 청소년 챗GPT 무기 정보 제한...폭력 징후 땐 대화 중단",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=216847",
-      "pubDate": "2026-10-31T17:09:05.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "“이 메일은 AI 에이전트가 썼습니다”, 편집부 메일함에 닿은 글로벌 PR의 새 문법",
-      "link": "https://platum.kr/archives/297502?utm_source=rss&utm_medium=rss&utm_campaign=ai%25ea%25b0%2580-%25eb%25b3%25b4%25eb%258f%2584%25ec%259e%2590%25eb%25a3%258c-%25ec%2593%25b0%25ea%25b3%25a0-%25ea%25b8%25b0%25ec%259e%2590%25ea%25b9%258c%25ec%25a7%2580-%25ec%25b0%25be%25eb%258a%2594%25eb%258b%25a4%25ed%2595%25b4%25ec%2599%25b8-%25ec%258a%25a4%25ed%2583%2580%25ed%258a%25b8%25ec%2597%2585",
-      "pubDate": "2026-10-31T17:05:34.000Z",
-      "source": "플래텀",
-      "category": "창업"
-    },
-    {
-      "title": "중국 GPU, 엔비디아 H200과 성능 대등 주장…AI 추론서 일부 앞서",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=216844",
-      "pubDate": "2026-10-31T17:01:47.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "‘월 3000만원 따박따박’ 공정위 전관 변호사…기업 승소율은 되레 낮아",
-      "link": "https://www.mk.co.kr/news/economy/12192512",
-      "pubDate": "2026-10-31T13:41:44.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "[AI 이슈트렌드] 미·이란 전쟁 위기 1위…코스피 급락·구룡마을 화재 주목",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=216848",
-      "pubDate": "2026-10-31T12:26:43.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "엔비디아, 엔스케일 자금난에 지원 검토…앤트로픽 60조 데이터센터 신용 보증",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=216838",
-      "pubDate": "2026-10-31T10:48:02.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "앤트로픽, '20배 사용량' 혼선에 요금제 개편…5시간 제한 폐지",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=216846",
-      "pubDate": "2026-10-31T10:33:14.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "[내면 지도 그리기] 40 Inner Mapping: 나를 찾는 지도",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=216839",
-      "pubDate": "2026-10-31T10:04:59.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "[AI카툰] Bob, Senior IT guy - 밥, AI 수용 단계",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=216842",
-      "pubDate": "2026-10-31T10:00:00.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "구글, AI 검색에 광고 수익성 타격…시총 5000억달러 증발",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=216843",
-      "pubDate": "2026-10-31T09:57:25.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "AI 거품 붕괴 조짐에 미 기술주 급락…10월 시총 2조달러 증발",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=216840",
-      "pubDate": "2026-10-31T09:39:15.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "미국 메릴랜드, 태양광·ESS 보조금 입찰 시작…2년간 최대 2억달러 추진",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=216801",
-      "pubDate": "2026-10-31T09:30:00.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "순천, 불법 옥외광고물 정비…50여명 합동 캠페인",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=216667",
-      "pubDate": "2026-10-31T09:30:00.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "기후변화로 스웨덴 태양광 발전량 5% 증가 전망…봄철 적설 감소 영향",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=216806",
-      "pubDate": "2026-10-31T09:15:00.000Z",
-      "source": "AI타임스",
-      "category": "AI"
     }
   ]
 }
