@@ -1,7 +1,147 @@
 {
-  "lastUpdated": "2026-11-07T23:30:46.857Z",
+  "lastUpdated": "2026-11-08T05:15:19.729Z",
   "count": 500,
   "items": [
+    {
+      "title": "앤트로픽, 클로드로 40년 미스터리 단백질 연구 돌파구…3D 구조 첫 규명",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217145",
+      "pubDate": "2026-11-08T12:08:58.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "AWS, 여러 AI 에이전트 지휘하는 '키로 봇' 출시…반복 업무까지 자동화",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217141",
+      "pubDate": "2026-11-08T11:48:25.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "구글, 퀄컴 지분 7400억원 확보…AI 반도체 기업 인수로 주식 취득",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217144",
+      "pubDate": "2026-11-08T11:26:48.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "아마존, 앱 없이 문자로 쇼핑 끝낸다…AI '알렉사' 문자 쇼핑 서비스 출시",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217142",
+      "pubDate": "2026-11-08T11:01:12.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "오픈AI 도청 혐의 사우디 엔지니어, 법정서 무죄 주장",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217138",
+      "pubDate": "2026-11-08T10:45:54.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "엔비디아, 동남아 판매 칩 위치 추적 강화로 밀수 차단 나선다",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217139",
+      "pubDate": "2026-11-08T10:37:23.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "독일 노동시장 전문가 \"AI에 안전한 직업 찾지 마라…미래 일자리 준비해야\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217143",
+      "pubDate": "2026-11-08T10:27:21.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "오픈AI, '이미지 2.6' 프롬프트 가이드 공개…\"바꿀 것과 유지할 것 구분하라\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217140",
+      "pubDate": "2026-11-08T09:51:29.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "무안공항 운항 중단에 수익 82% 감소…위탁인력 줄어도 용역비 3억 증가",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217110",
+      "pubDate": "2026-11-08T09:20:00.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "소프트뱅크·ABB, 54억달러 로봇 인수 살리려 중국 사업부 분리 검토",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217137",
+      "pubDate": "2026-11-08T09:14:31.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "말레이시아, 데이터센터용 태양광 500MW·ESS 1GWh 개발…21년 전력 공급",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217083",
+      "pubDate": "2026-11-08T09:10:00.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "콜롬비아 태양광 상업운전 용량 2.59GW…3분기 신규 발전용량 87% 차지",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217079",
+      "pubDate": "2026-11-08T09:05:00.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "TSMC, '3D D램' 개발설 사실상 부인…상용화도 먼 길",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217136",
+      "pubDate": "2026-11-08T09:03:39.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "FT \"미 정보당국, 젠슨 황 CEO와 중국 스파이 의심 인물 연인 관계로 판단\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217135",
+      "pubDate": "2026-11-08T08:52:25.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "“금리 1%P 오르면 생명보험사 자본 8조 감소”…보험연구원 발표 ‘주목’",
+      "link": "https://www.mk.co.kr/news/economy/12201658",
+      "pubDate": "2026-11-08T04:04:44.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "“AI가 바꾸는 금융의 미래는?”…25일 코리아 핀테크 위크 개막",
+      "link": "https://www.mk.co.kr/news/economy/12201628",
+      "pubDate": "2026-11-08T03:00:00.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "지금이 강남 입성할 기회?…“생판 모르는 집주인이 24억 빌려줬어요”",
+      "link": "https://www.mk.co.kr/news/realestate/12201619",
+      "pubDate": "2026-11-08T02:07:12.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "우리은행, 대한천일은행 학술대회...근대 금융사 연구 조명",
+      "link": "https://www.mk.co.kr/news/economy/12201615",
+      "pubDate": "2026-11-08T01:50:54.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "올거나이즈의 일본 상장, 투자사가 꼽은 최대 난관은 세무·법무",
+      "link": "https://platum.kr/archives/298007?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%2598%25ac%25ea%25b1%25b0%25eb%2582%2598%25ec%259d%25b4%25ec%25a6%2588%25ec%259d%2598-%25ec%259d%25bc%25eb%25b3%25b8-%25ec%2583%2581%25ec%259e%25a5-%25ed%2588%25ac%25ec%259e%2590%25ec%2582%25ac%25ea%25b0%2580-%25ea%25bc%25bd%25ec%259d%2580-%25ec%25b5%259c%25eb%258c%2580-%25eb%2582%259c%25ea%25b4%2580%25ec%259d%2580",
+      "pubDate": "2026-11-08T01:26:38.000Z",
+      "source": "플래텀",
+      "category": "창업"
+    },
+    {
+      "title": "“고객이 말할 수 없어도 우린 다 압니다”…‘댕댕이 보험’ 만드는 계리사들",
+      "link": "https://www.mk.co.kr/news/economy/12201596",
+      "pubDate": "2026-11-08T00:53:00.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
     {
       "title": "매월 56만원 대출이자 vs 56만원 ‘따박따박’ 저축 … 5년 후 자산 차이는?",
       "link": "https://www.mk.co.kr/news/economy/12200763",
@@ -591,6 +731,13 @@
       "category": "경제"
     },
     {
+      "title": "칩 보안 모빌위더스·건보 채권 금융 라젠카에이아이, G밸리 창업경진대회 공동 대상",
+      "link": "https://platum.kr/archives/297997?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%25b9%25a9-%25eb%25b3%25b4%25ec%2595%2588-%25eb%25aa%25a8%25eb%25b9%258c%25ec%259c%2584%25eb%258d%2594%25ec%258a%25a4%25c2%25b7%25ea%25b1%25b4%25eb%25b3%25b4-%25ec%25b1%2584%25ea%25b6%258c-%25ea%25b8%2588%25ec%259c%25b5-%25eb%259d%25bc%25ec%25a0%25a0%25ec%25b9%25b4%25ec%2597%2590%25ec%259d%25b4%25ec%2595%2584%25ec%259d%25b4",
+      "pubDate": "2026-11-06T08:34:13.000Z",
+      "source": "플래텀",
+      "category": "창업"
+    },
+    {
       "title": "“변동성 확대시 추가조치” F4회의 이어 ‘내수 촉진’ 현장 찾은 이형일",
       "link": "https://www.mk.co.kr/news/economy/12200611",
       "pubDate": "2026-11-06T08:07:24.000Z",
@@ -619,11 +766,25 @@
       "category": "경제"
     },
     {
+      "title": "리얼월드, 움직이는 컨베이어 위 물건 집는 다섯 손가락 로봇 상하이서 시연",
+      "link": "https://platum.kr/archives/297990?utm_source=rss&utm_medium=rss&utm_campaign=%25eb%25a6%25ac%25ec%2596%25bc%25ec%259b%2594%25eb%2593%259c-%25ec%259b%2580%25ec%25a7%2581%25ec%259d%25b4%25eb%258a%2594-%25ec%25bb%25a8%25eb%25b2%25a0%25ec%259d%25b4%25ec%2596%25b4-%25ec%259c%2584-%25eb%25ac%25bc%25ea%25b1%25b4-%25ec%25a7%2591%25eb%258a%2594-%25eb%258b%25a4%25ec%2584%25af-%25ec%2586%2590%25ea%25b0%2580",
+      "pubDate": "2026-11-06T07:10:18.000Z",
+      "source": "플래텀",
+      "category": "창업"
+    },
+    {
       "title": "[11월5일] 주민투표 '39대 1'...미국 유권자들, AI 데이터센터에 압도적 반대",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=217042",
       "pubDate": "2026-11-06T07:00:00.000Z",
       "source": "AI타임스",
       "category": "AI"
+    },
+    {
+      "title": "씨이랩, 국민성장펀드 등에서 100억 원 조달…AI 데이터센터 사업 키운다",
+      "link": "https://platum.kr/archives/297977?utm_source=rss&utm_medium=rss&utm_campaign=%25eb%25a7%2588%25eb%258a%2598-%25ec%259c%25a0%25ed%2586%25b5%25eb%25b6%2580%25ed%2584%25b0-%25ea%25b3%25bc%25ec%25b1%2584-%25eb%25b6%2580%25ec%2582%25b0%25eb%25ac%25bc-%25ea%25b0%2580%25ec%25a3%25bd%25ea%25b9%258c%25ec%25a7%2580-%25eb%2586%258d%25ec%2582%25b0%25ec%2597%2585-%25ec%258a%25a4%25ed%2583%2580%25ed%258a%25b8",
+      "pubDate": "2026-11-06T06:55:34.000Z",
+      "source": "플래텀",
+      "category": "창업"
     },
     {
       "title": "오픈AI, 'GPT-6 사이버' 출시…취약점 공격 성공률 51% 향상",
@@ -3338,167 +3499,6 @@
       "title": "\"빨간 하트 하나에 코딩 방식 바뀐다\"…AI의 숨겨진 시각적 영향 확인",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=216913",
       "pubDate": "2026-11-02T18:00:00.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "Rewarding defenders with bigger bug bounties",
-      "link": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
-      "pubDate": "2026-11-02T18:00:00.000Z",
-      "source": "OpenAI",
-      "category": "AI"
-    },
-    {
-      "title": "Preparing our next security sprint to harden OpenAI",
-      "link": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
-      "pubDate": "2026-11-02T18:00:00.000Z",
-      "source": "OpenAI",
-      "category": "AI"
-    },
-    {
-      "title": "앤트로픽, 코딩 다음은 신약 개발…IPO 앞두고 생명과학 투자 확대",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=216907",
-      "pubDate": "2026-11-02T17:57:10.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "MS, AI 코딩 비용 최대 31% 줄이는 도구 공개…작업 성공률은 유지",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=216915",
-      "pubDate": "2026-11-02T17:41:15.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "\"AI를 통제하라\"…국내 솔루션 기업, AI 가드레일 시장 잰걸음",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=216914",
-      "pubDate": "2026-11-02T17:14:55.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "\"코딩은 AI에 맡겨라\"…프로톤, 개발 속도 압박에 보안 논란",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=216910",
-      "pubDate": "2026-11-02T17:12:34.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "시스코, 27세 엔지니어에게 AI 토큰 무제한 제공…2년 내 기존 코드 98% 재작성",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=216918",
-      "pubDate": "2026-11-02T17:03:00.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "[게시판] 네이버클라우드, 육군 군수사령부와 ‘실전용 AI 에이전트‘ 개발 등 단신",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=216917",
-      "pubDate": "2026-11-02T17:00:00.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "커서에서 '클로드 코드' 사칭 악성 프로그램 유포…최대 5000명 영향",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=216919",
-      "pubDate": "2026-11-02T16:57:58.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "\"개인정보 훔쳐 AI로 피해자 가치 평가\"…클로드 거부하면 다른 모델로 전환",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=216895",
-      "pubDate": "2026-11-02T16:51:23.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "삼성SDS, 구미 AI 데이터센터 착공…삼성 영남권 60조 투자 시동",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=216906",
-      "pubDate": "2026-11-02T16:35:00.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "뉴럴링크, 실명 치료용 뇌 임플란트 ‘블라인드사이트’ 규제 승인 대기 중",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=216903",
-      "pubDate": "2026-11-02T16:34:18.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "엔비디아, 잡음·울림 제거하는 초경량 음성 복원 AI 공개…대형 모델 능가",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=216899",
-      "pubDate": "2026-11-02T16:29:08.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "롯데이노베이트, 3분기 영업익 88% 증가…내년 AI·데이터센터 힘준다",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=216901",
-      "pubDate": "2026-11-02T15:56:20.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "과기정통부, 국민 AI 서비스 혁신추진단장에 김세웅 전 카카오 부사장 선임",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=216898",
-      "pubDate": "2026-11-02T15:55:11.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "\"코딩 AI, 시키는 일은 잘하지만 숨은 요구는 놓쳐\"…최고 모델도 45.5%",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=216916",
-      "pubDate": "2026-11-02T15:51:37.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "팔레트AI, 한국어 맥락 이해 앞세운 'K-AI' 선언…대국민 캠페인 시작",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=216920",
-      "pubDate": "2026-11-02T15:50:00.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "Scaling Git at OpenAI",
-      "link": "https://openai.com/index/scaling-git-at-openai",
-      "pubDate": "2026-11-02T15:30:00.000Z",
-      "source": "OpenAI",
-      "category": "AI"
-    },
-    {
-      "title": "Introducing the Grid Protectors Program",
-      "link": "https://openai.com/index/grid-protectors-program",
-      "pubDate": "2026-11-02T15:00:00.000Z",
-      "source": "OpenAI",
-      "category": "AI"
-    },
-    {
-      "title": "\"AI끼리 약속 없이 통했다\"…로봇 몸짓으로 비밀 메시지 전달",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=216904",
-      "pubDate": "2026-11-02T14:47:54.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "\"AI 에이전트, 외계 신호 찾는 전파망원경 조종…초당 테라비트 분석\"",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=216897",
-      "pubDate": "2026-11-02T14:28:18.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "구글 \"우주 데이터센터, 지구보다 구축 비용 최대 100배 비싸\"",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=216889",
-      "pubDate": "2026-11-02T14:16:56.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "애플 CEO \"AI를 위한 AI는 출시 안 해\"…제품 중심 전략 고수",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=216900",
-      "pubDate": "2026-11-02T14:10:13.000Z",
       "source": "AI타임스",
       "category": "AI"
     }
