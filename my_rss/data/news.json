@@ -1,7 +1,21 @@
 {
-  "lastUpdated": "2026-11-08T05:15:19.729Z",
+  "lastUpdated": "2026-11-08T12:58:45.079Z",
   "count": 500,
   "items": [
+    {
+      "title": "과학자들은 AI를 어떻게 쓸까…앤트로픽 \"데이터 분석 1위, 가설 생성 4%\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217147",
+      "pubDate": "2026-11-08T18:14:24.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "앤트그룹, '링 3.2 플래시' 공개…시각 이해 평가서 클로드 오퍼스 5 앞서",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217146",
+      "pubDate": "2026-11-08T16:59:00.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
     {
       "title": "앤트로픽, 클로드로 40년 미스터리 단백질 연구 돌파구…3D 구조 첫 규명",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=217145",
@@ -29,6 +43,13 @@
       "pubDate": "2026-11-08T11:01:12.000Z",
       "source": "AI타임스",
       "category": "AI"
+    },
+    {
+      "title": "카뱅·토뱅도 애플페이 … 현대카드 독점 깨진다",
+      "link": "https://www.mk.co.kr/news/economy/12201942",
+      "pubDate": "2026-11-08T10:49:14.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
     },
     {
       "title": "오픈AI 도청 혐의 사우디 엔지니어, 법정서 무죄 주장",
@@ -99,6 +120,104 @@
       "pubDate": "2026-11-08T08:52:25.000Z",
       "source": "AI타임스",
       "category": "AI"
+    },
+    {
+      "title": "[단독] 국세청 \"직원 검진비에 과세\"… 삼성 \"불복\"",
+      "link": "https://www.mk.co.kr/news/economy/12201896",
+      "pubDate": "2026-11-08T08:41:56.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "저리 5억 사내대출 받을 때 아낀 이자비용은 과세 대상",
+      "link": "https://www.mk.co.kr/news/economy/12201879",
+      "pubDate": "2026-11-08T08:39:48.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "[단독] 근로소득이냐 복지혜택이냐 … 건강검진 지원금 '뜨거운 감자'",
+      "link": "https://www.mk.co.kr/news/economy/12201878",
+      "pubDate": "2026-11-08T08:39:48.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "[포토] 배추값 진정되나",
+      "link": "https://www.mk.co.kr/news/economy/12201865",
+      "pubDate": "2026-11-08T08:37:12.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "내년 초등 입학생 첫 30만명 아래로",
+      "link": "https://www.mk.co.kr/news/economy/12201863",
+      "pubDate": "2026-11-08T08:37:10.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "은행법학회 신임 회장에 송창영 변호사",
+      "link": "https://www.mk.co.kr/news/economy/12201856",
+      "pubDate": "2026-11-08T08:36:32.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "[금융 라운지] 당국 소비자보호 강화에 … 은행 CCO 입김 세져",
+      "link": "https://www.mk.co.kr/news/economy/12201849",
+      "pubDate": "2026-11-08T08:35:04.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "[포토] 카카오뱅크, '기부 마라톤' 개최",
+      "link": "https://www.mk.co.kr/news/economy/12201850",
+      "pubDate": "2026-11-08T08:35:04.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "이달 디지털자산법 정부안, 대주주 지분제한 유예 유력",
+      "link": "https://www.mk.co.kr/news/economy/12201848",
+      "pubDate": "2026-11-08T08:35:03.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "[표] 외국환율고시표",
+      "link": "https://www.mk.co.kr/news/economy/12201845",
+      "pubDate": "2026-11-08T08:35:02.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "4대 금융지주 주주환원율 50% 시대로",
+      "link": "https://www.mk.co.kr/news/economy/12201846",
+      "pubDate": "2026-11-08T08:35:02.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "[단독] “현실 반영해 세금 떼야”...직장인 연봉 11% 오를때 소득세 17% 뛰어",
+      "link": "https://www.mk.co.kr/news/economy/12201761",
+      "pubDate": "2026-11-08T07:45:59.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "내년 초등 입학생 첫 30만명 붕괴…미래 부양부담은 OECD 최고",
+      "link": "https://www.mk.co.kr/news/economy/12201756",
+      "pubDate": "2026-11-08T07:39:42.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "“적게 빌렸는데 이자는 더 비싸?”…대출금액보다 더 무섭다는 ‘이것’ 격차",
+      "link": "https://www.mk.co.kr/news/economy/12201702",
+      "pubDate": "2026-11-08T06:32:16.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
     },
     {
       "title": "“금리 1%P 오르면 생명보험사 자본 8조 감소”…보험연구원 발표 ‘주목’",
@@ -3382,125 +3501,6 @@
       "pubDate": "2026-11-03T00:28:06.000Z",
       "source": "매일경제 경제",
       "category": "경제"
-    },
-    {
-      "title": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
-      "link": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer",
-      "pubDate": "2026-11-03T00:00:00.000Z",
-      "source": "OpenAI",
-      "category": "AI"
-    },
-    {
-      "title": "“주가 내리고 이자 부담은 껑충”…성장률 올랐다는데 내 지갑은 ‘꽁꽁’",
-      "link": "https://www.mk.co.kr/news/economy/12194336",
-      "pubDate": "2026-11-02T23:57:00.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "Do videos with excessive motion help kids pay attention, or are they just distractions?",
-      "link": "https://www.tubefilter.com/2026/11/02/do-videos-with-excessive-motion-help-kids-pay-attention-or-are-they-just-distractions/",
-      "pubDate": "2026-11-02T23:56:50.000Z",
-      "source": "Tubefilter",
-      "category": "수익화/크리에이터 이코노미"
-    },
-    {
-      "title": "내게 맞는 정책 · 지원 - 지원사업 - 2026년 중소기업육성자금 구조고도화자금(기계공장확보자금) 지원 공고(8차) - 인천광역시",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSFhia00teTVxT3dQTVp4TnZaV3prbmlrNmpWTV9MT05zZWJMNWdMNGtJWWxPS2xkT0lHb2FaeUxxRzc5VG9DZ0pCTG9hd0ZjQ0R0U0lON3R3anBFemdwbmxZZHd2M25lQ3JiUXF3a3U2MDQwTUZsdF8zZk1sS0JINTdxTVMyd1NOem9vUnlWOA?oc=5",
-      "pubDate": "2026-11-02T23:54:57.000Z",
-      "source": "Google 뉴스: 지원사업 공고/모집",
-      "category": "정부지원정책"
-    },
-    {
-      "title": "“꼬박꼬박 국민연금 낸 우린 뭔가”…국민연금 가입자 10년 부었더니 ‘맙소사’",
-      "link": "https://www.mk.co.kr/news/economy/12194311",
-      "pubDate": "2026-11-02T23:17:02.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "[속보] 10월 소비자물가 2.8% 상승…두 달 연속 2%대 후반",
-      "link": "https://www.mk.co.kr/news/economy/12194306",
-      "pubDate": "2026-11-02T23:03:08.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "Top 50 Most Subscribed YouTube Channels Worldwide • Week Of 11/01/2026",
-      "link": "https://www.tubefilter.com/2026/11/02/top-50-most-subscribed-youtube-channels-worldwide-week-of-11-01-2026/",
-      "pubDate": "2026-11-02T22:40:15.000Z",
-      "source": "Tubefilter",
-      "category": "수익화/크리에이터 이코노미"
-    },
-    {
-      "title": "내게 맞는 정책 · 지원 - 지원사업 - 2026년 희망나눔 자립지원 프로그램 취약계층 고용 우수기업 선정 모집 공고 - 인천광역시",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQeG56aEFRbjZUM2Q4d2xVZF9TOHBYZjVFdGFUWHU1azNwRWg0MlhaUGpIQTlMTlZHcFFQSEdCTDRoZ1NCU2p5VmZYTlhLdjhmSEVyVWlpNDBNdUxacm5CUEgycHFyM09QLWV2RnlQVVVOVWlaMnhocU1HVFBONUtZdWZwbnZBS1R4NFVJVk5Saw?oc=5",
-      "pubDate": "2026-11-02T21:48:30.000Z",
-      "source": "Google 뉴스: 지원사업 공고/모집",
-      "category": "정부지원정책"
-    },
-    {
-      "title": "Top 50 Most Viewed YouTube Channels Worldwide • Week Of 11/01/2026",
-      "link": "https://www.tubefilter.com/2026/11/02/top-50-most-viewed-youtube-channels-worldwide-week-of-11-01-2026/",
-      "pubDate": "2026-11-02T21:33:41.000Z",
-      "source": "Tubefilter",
-      "category": "수익화/크리에이터 이코노미"
-    },
-    {
-      "title": "죽은 뒤 1억원 주면 무슨 소용있나…고령화에 종신보험 바뀐다 [금융 라운지]",
-      "link": "https://www.mk.co.kr/news/economy/12194100",
-      "pubDate": "2026-11-02T20:53:08.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "So you’re a creator, and you want to know: When is the magic moment to sign with a manager? We have your answer, straight from Viral Nation’s Head of Creator Relations.",
-      "link": "https://www.tubefilter.com/2026/11/02/chloe-morris-viral-nation-when-should-a-creator-sign-with-a-talent-manager/",
-      "pubDate": "2026-11-02T20:29:15.000Z",
-      "source": "Tubefilter",
-      "category": "수익화/크리에이터 이코노미"
-    },
-    {
-      "title": "2026 인천시 해외전시회 개별참가 지원사업 참여기업 추가모집 공고(시·구 통합) - 인천광역시",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOQUdVYk4yTDQ4M0p0cU42Mmp3RDExaUNnLVBuT0JGRGhUMEJFUFl4Q1QzeVYwaUN2aTJ0eGN6aVA0TDdHU0xtSXRwX3hKS1hxMFZsUHY1VFM4a2dVZWlhT2xNMkVGalpIZE9oYU16MzBTTjAzdlRQU0hoR1BIQzVjbWtPU2Z5UnFBWmdJaDB6Zw?oc=5",
-      "pubDate": "2026-11-02T20:19:57.000Z",
-      "source": "Google 뉴스: 지원사업 공고/모집",
-      "category": "정부지원정책"
-    },
-    {
-      "title": "Top 5 Branded Videos of the Week: Keeping cash",
-      "link": "https://www.tubefilter.com/2026/11/02/top-5-branded-videos-mrbeast-veritasium-civil-rights-lawyer-2/",
-      "pubDate": "2026-11-02T19:23:06.000Z",
-      "source": "Tubefilter",
-      "category": "수익화/크리에이터 이코노미"
-    },
-    {
-      "title": "광주 백화점 판매 4.6% 늘었지만…대형마트는 8.6% 감소",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=216912",
-      "pubDate": "2026-11-02T18:28:59.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "\"AI 50개 모아 문명 건설 시켰더니 관료주의에 빠져 실패\"",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=216893",
-      "pubDate": "2026-11-02T18:24:54.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "앤트로픽, 내부 AI 토큰 비용이 직원 급여 추월…9개월 새 사용량 250배 급증",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=216891",
-      "pubDate": "2026-11-02T18:06:49.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "\"빨간 하트 하나에 코딩 방식 바뀐다\"…AI의 숨겨진 시각적 영향 확인",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=216913",
-      "pubDate": "2026-11-02T18:00:00.000Z",
-      "source": "AI타임스",
-      "category": "AI"
     }
   ]
 }
