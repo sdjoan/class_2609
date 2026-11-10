@@ -1,7 +1,56 @@
 {
-  "lastUpdated": "2026-11-10T17:33:35.204Z",
+  "lastUpdated": "2026-11-10T22:59:00.099Z",
   "count": 500,
   "items": [
+    {
+      "title": "[11월10일] 젠슨 황 불륜 스캔들 뒤에 가려진 'AI 스파이 전쟁'",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217207",
+      "pubDate": "2026-11-11T07:00:00.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "앤트로픽, 기업가치 1.4조달러로 IPO 추진…644억달러 조달",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217248",
+      "pubDate": "2026-11-11T06:59:21.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "사고현장 출동한 변호사 든든했는데…변협 “불법알선 보험 멈춰라”",
+      "link": "https://www.mk.co.kr/news/society/12204901",
+      "pubDate": "2026-11-10T22:21:06.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "The Met Opera is using YouTube to look for a new generation of fans",
+      "link": "https://www.tubefilter.com/2026/11/10/metropolitan-met-opera-lincoln-in-the-bardo-youtube/",
+      "pubDate": "2026-11-10T22:16:24.000Z",
+      "source": "Tubefilter",
+      "category": "수익화/크리에이터 이코노미"
+    },
+    {
+      "title": "The Hot 100 flows through social media, so Billboard is bringing YouTube data back into its charts",
+      "link": "https://www.tubefilter.com/2026/11/10/billboard-youtube-returns-to-hot-100-chart/",
+      "pubDate": "2026-11-10T20:59:08.000Z",
+      "source": "Tubefilter",
+      "category": "수익화/크리에이터 이코노미"
+    },
+    {
+      "title": "“자리잡으면 결혼하자” 하더니 ‘노산’ 됐다…이 보험 하나로 다 대비",
+      "link": "https://www.mk.co.kr/news/economy/12204683",
+      "pubDate": "2026-11-10T20:59:01.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "“당장 안 팔면 ‘폭탄’ 맞나요? … 상속받은 농지, 전수조사에 ‘고민’",
+      "link": "https://www.mk.co.kr/news/economy/12204059",
+      "pubDate": "2026-11-10T19:30:00.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
     {
       "title": "챗GPT, 주요 AI 챗봇 이용량 81% 차지…클로드 급성장에도 독주",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=217239",
@@ -266,6 +315,13 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=217154",
       "pubDate": "2026-11-10T10:08:00.000Z",
       "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "Introducing Businesses in ChatGPT",
+      "link": "https://openai.com/index/introducing-businesses-chatgpt",
+      "pubDate": "2026-11-10T10:00:00.000Z",
+      "source": "OpenAI",
       "category": "AI"
     },
     {
@@ -3443,62 +3499,6 @@
       "title": "EU 최고법원 법무관 \"AI 기사 무단 요약은 저작권 침해\"...구글 제미나이 소송 주목",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=217014",
       "pubDate": "2026-11-04T17:24:28.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "전남광주, 축사 1362농가 화재 점검…전기 요인 48.8%",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=217020",
-      "pubDate": "2026-11-04T17:21:05.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "“건강을 디자인하다”… 계양구보건소, 석재 아트월로 공공의료 공간에 새로운 활력",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=217021",
-      "pubDate": "2026-11-04T17:19:54.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "여수세계섬박람회 61일 마무리…폐막 전날 250만명, 섬 관광 가능성 남겨",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=217016",
-      "pubDate": "2026-11-04T17:13:26.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "현대제철, 사내 생성 AI 통합 플랫폼 '스틸-X' 가동...전사 AX 페달링",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=217017",
-      "pubDate": "2026-11-04T17:05:31.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "에이티넘인베 투자기업 올거나이즈, 일본 증시 상장",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=217013",
-      "pubDate": "2026-11-04T17:04:33.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "[게시판] 넘즈에이아이, 20억 프리시드 2차 투자 유치 등 단신",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=217018",
-      "pubDate": "2026-11-04T17:00:00.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "화순군, 최대 5000만원 지급 '청년 로컬 창업지원' 추가 모집 - 진일보 | 전남일보",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9LdkRmLVdybURuZWsyQkdlT2J0dGIxck1qc1AwWi1uQmJIWnFmLUNucjlvMWUzenhWbkUxRG0tdDhqTUFURDMzTnNjYW1mUFhrWmdLcUdCX0xaRk1GdUItbU9LMUZXT3FCTk5MWlRXbw?oc=5",
-      "pubDate": "2026-11-04T17:00:00.000Z",
-      "source": "Google 뉴스: 지원사업 공고/모집",
-      "category": "정부지원정책"
-    },
-    {
-      "title": "광양경자청, 율촌제1산단 한화에어로스페이스 순천사업장 준공",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=217022",
-      "pubDate": "2026-11-04T16:45:00.000Z",
       "source": "AI타임스",
       "category": "AI"
     }
