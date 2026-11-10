@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-10T09:28:04.405Z",
+  "lastUpdated": "2026-11-10T17:33:35.204Z",
   "count": 500,
   "items": [
     {
@@ -101,6 +101,13 @@
       "category": "AI"
     },
     {
+      "title": "물가불안에 빅스텝까지...연준 월러 “12월 0.5%p 인상”",
+      "link": "https://www.mk.co.kr/news/economy/12204627",
+      "pubDate": "2026-11-10T16:19:56.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
       "title": "바이두, AI 연구 자동화하는 '어니 이볼브' 공개…추론 속도 6배 개선",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=217240",
       "pubDate": "2026-11-10T16:15:00.000Z",
@@ -150,6 +157,13 @@
       "category": "AI"
     },
     {
+      "title": "60세에 퇴직, 65세부터 연금수령 “5년간 뭐먹고 살라고”…공무원 92%가 걱정",
+      "link": "https://www.mk.co.kr/news/economy/12204444",
+      "pubDate": "2026-11-10T12:51:51.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
       "title": "오픈메이드컨설팅, AI 기반 SQL 자동 튜닝 솔루션 '쿼리메딕 2.0' 출시",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=217212",
       "pubDate": "2026-11-10T12:19:49.000Z",
@@ -161,6 +175,13 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=217210",
       "pubDate": "2026-11-10T12:16:17.000Z",
       "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "Helping caregivers use AI in everyday life",
+      "link": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
+      "pubDate": "2026-11-10T12:00:00.000Z",
+      "source": "OpenAI",
       "category": "AI"
     },
     {
@@ -225,6 +246,20 @@
       "pubDate": "2026-11-10T11:05:00.000Z",
       "source": "AI타임스",
       "category": "AI"
+    },
+    {
+      "title": "이형일 \"종부세 실거주 우대 원칙 지켜야\"",
+      "link": "https://www.mk.co.kr/news/economy/12204287",
+      "pubDate": "2026-11-10T11:00:26.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "[속보] ‘금융보안 문지기’ 금융보안원도 해킹으로 정보유출",
+      "link": "https://www.mk.co.kr/news/economy/12204282",
+      "pubDate": "2026-11-10T10:47:18.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
     },
     {
       "title": "도쿄 고층빌딩, 태양광으로 수소 생산·저장…2027년 설비 도입",
@@ -420,6 +455,13 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=217162",
       "pubDate": "2026-11-10T07:00:00.000Z",
       "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "Work at the Frontier: AI’s effect on freelance work",
+      "link": "https://openai.com/index/ai-effect-on-freelance-work",
+      "pubDate": "2026-11-10T07:00:00.000Z",
+      "source": "OpenAI",
       "category": "AI"
     },
     {
@@ -3457,48 +3499,6 @@
       "title": "광양경자청, 율촌제1산단 한화에어로스페이스 순천사업장 준공",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=217022",
       "pubDate": "2026-11-04T16:45:00.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "\"오픈AI, 수년간 내부 보안 취약점 경고 무시\"...개발 속도 우선에 기밀 유출 위험",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=217011",
-      "pubDate": "2026-11-04T16:30:09.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "에스엘즈, 실리콘밸리 VC 주관 스타트업 경연대회서 글로벌 결선 진출",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=217009",
-      "pubDate": "2026-11-04T16:25:20.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "전남 국립의대 36년 만에 순천대로 확정…정원 60명 배정",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=217010",
-      "pubDate": "2026-11-04T16:23:01.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "\"중국 AI 위협 과장됐나\"…성능 격차 확대에 벤치마크 신뢰성 논쟁",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=217012",
-      "pubDate": "2026-11-04T16:18:22.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "구글 \"학교에서 AI 끄려면 검색도 포기해야\"...교육용 AI 제한 놓고 논란",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=216998",
-      "pubDate": "2026-11-04T15:47:06.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "오픈AI, 일상 업무 AI 평가 '라이프밸' 공개...개인 비서 성능 1년 새 49%→81%",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=216996",
-      "pubDate": "2026-11-04T15:41:07.000Z",
       "source": "AI타임스",
       "category": "AI"
     }
