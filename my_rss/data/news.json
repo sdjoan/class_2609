@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-11T13:49:41.222Z",
+  "lastUpdated": "2026-11-11T21:07:34.330Z",
   "count": 500,
   "items": [
     {
@@ -603,6 +603,13 @@
       "pubDate": "2026-11-11T00:04:20.000Z",
       "source": "매일경제 경제",
       "category": "경제"
+    },
+    {
+      "title": "JioStar’s chief architect on AI discovery at 500M-user scale",
+      "link": "https://openai.com/index/jiostar-vijay-seshadri",
+      "pubDate": "2026-11-11T00:00:00.000Z",
+      "source": "OpenAI",
+      "category": "AI"
     },
     {
       "title": "TikTok Shop Plus is a subscription tier that unlocks shopping perks for $9.99 per month",
@@ -3494,13 +3501,6 @@
       "pubDate": "2026-11-05T16:00:00.000Z",
       "source": "미 연준 보도자료",
       "category": "경제"
-    },
-    {
-      "title": "SKT, AI로 부산불꽃축제 '통신망 체감품질 만족’ 높인다",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=217059",
-      "pubDate": "2026-11-05T15:52:42.000Z",
-      "source": "AI타임스",
-      "category": "AI"
     }
   ]
 }
