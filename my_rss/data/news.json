@@ -1,7 +1,56 @@
 {
-  "lastUpdated": "2026-11-12T12:21:55.980Z",
+  "lastUpdated": "2026-11-12T21:21:59.046Z",
   "count": 500,
   "items": [
+    {
+      "title": "젠슨 황 떠난 엔비디아, '실질적 2인자' 크레스가 임시 CEO 맡아",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217350",
+      "pubDate": "2026-11-13T05:56:23.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "젠슨 황 사임 후폭풍…백악관, 상무장관 경질 논의",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217349",
+      "pubDate": "2026-11-13T05:36:17.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "젠슨 황, 엔비디아 CEO 사임…주가 14% 급락·후임 선정 착수",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217348",
+      "pubDate": "2026-11-13T04:47:53.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "구글·삼성, AI 안경 시장 출사표… 12월10일 메타와 정식 격돌",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217346",
+      "pubDate": "2026-11-12T23:00:00.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+      "link": "https://openai.com/index/amplitude",
+      "pubDate": "2026-11-12T20:00:00.000Z",
+      "source": "OpenAI",
+      "category": "AI"
+    },
+    {
+      "title": "“이러다 노후 자금 다 날리겠어” … 5060 폐업 급증에 찾아낸 생존법",
+      "link": "https://www.mk.co.kr/news/economy/12206515",
+      "pubDate": "2026-11-12T20:00:00.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "Federal Reserve Board announces pricing, effective January 1, 2027, for payment services the Federal Reserve Banks provide to banks and credit unions, and changes to streamline and adjust their check services",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/other20261112a.htm",
+      "pubDate": "2026-11-12T18:30:00.000Z",
+      "source": "미 연준 보도자료",
+      "category": "경제"
+    },
     {
       "title": "구글 '알파게놈 2', 유전자 변이 영향 세포별 예측…원인 변이 2배 찾아",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=217309",
@@ -29,6 +78,13 @@
       "pubDate": "2026-11-12T17:49:47.000Z",
       "source": "AI타임스",
       "category": "AI"
+    },
+    {
+      "title": "Federal Reserve announces revised tentative schedule of Federal Open Market Committee meetings in 2027",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261112a.htm",
+      "pubDate": "2026-11-12T17:45:00.000Z",
+      "source": "미 연준 보도자료",
+      "category": "경제"
     },
     {
       "title": "배추값 42% 폭락…전남광주, 과잉 물량 3만톤 격리에 58억 투입",
@@ -115,6 +171,13 @@
       "category": "AI"
     },
     {
+      "title": "Federal Reserve Board issues enforcement action with former employee of United Community Bank",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261112a.htm",
+      "pubDate": "2026-11-12T16:00:00.000Z",
+      "source": "미 연준 보도자료",
+      "category": "경제"
+    },
+    {
       "title": "한컴, AI 매출 전체 30% 돌파…노마디안 등 미국 시장 공략 가속",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=217328",
       "pubDate": "2026-11-12T15:56:05.000Z",
@@ -157,6 +220,13 @@
       "category": "AI"
     },
     {
+      "title": "“통역 없어도” 안경 쓰니 일본인과 한국어로 대화 술술",
+      "link": "https://www.mk.co.kr/news/economy/12207244",
+      "pubDate": "2026-11-12T15:11:18.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
       "title": "EU, AI 챗봇 '대화 중독'도 규제 추진…SNS·온라인 쇼핑까지 확대",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=217318",
       "pubDate": "2026-11-12T15:05:09.000Z",
@@ -192,6 +262,13 @@
       "category": "AI"
     },
     {
+      "title": "특례시 시장들 “규모에 걸맞는 실질적 권한 부여해야” 한목소리",
+      "link": "https://www.mk.co.kr/news/economy/12207183",
+      "pubDate": "2026-11-12T14:26:18.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
       "title": "알리바바, '큐원4' 첫 모델 공개…가중치·성능 평가 없이 프리뷰 출시",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=217313",
       "pubDate": "2026-11-12T12:56:00.000Z",
@@ -204,6 +281,13 @@
       "pubDate": "2026-11-12T12:45:08.000Z",
       "source": "AI타임스",
       "category": "AI"
+    },
+    {
+      "title": "경기도, 제6기 공익사업선정위원 11명 공개 모집 - 서남투데이",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAxbWhUODBGYXdzVEt0dHNILWxOdUtsNHctMFNWOGNTd090RHp2LTRSc2s0dWxqUTZrMzk3U0V6YUtFRGM0a3ctSnM4bU1WNGg0Z1dLVURiV3plZw?oc=5",
+      "pubDate": "2026-11-12T12:23:03.000Z",
+      "source": "Google 뉴스: 지원사업 공고/모집",
+      "category": "정부지원정책"
     },
     {
       "title": "구글, 차세대 경량 모델 '하이드로젠' 테스트…출시 임박 관측",
@@ -239,6 +323,13 @@
       "pubDate": "2026-11-12T11:30:00.000Z",
       "source": "AI타임스",
       "category": "AI"
+    },
+    {
+      "title": "대전시장애인체육회, 2027년 장애인 생활체육 지원사업 참여기관 모집 - 코리아플러스",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1xVEpfMnVZeWhzMmFUWlN0S3NaeEktRDhXV3VGMEVTY253QXV1Znh4MlRVZjhUN3V0c01BNG1zZ2tMZUY4aXdaeE5lQmd5U2w0VWlYamtoQ0NLUGUwR2dQNTVxeVNtUQ?oc=5",
+      "pubDate": "2026-11-12T11:00:54.000Z",
+      "source": "Google 뉴스: 지원사업 공고/모집",
+      "category": "정부지원정책"
     },
     {
       "title": "국토장관 \"재초환, 재산권 침해 여지\"",
@@ -650,6 +741,13 @@
       "title": "삼척시, 2027년 청년 스타트업 창업 지원사업 참여자 모집 - 웹이코노미",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1FdGtCWUNlMnVWQUp0Qk8ybmZrMDUtN1JDaF9RSUlqemYzbnVrTTA4b3piVHpHczNkemlXVlZKbmRsc1RDdWhhRmNEc0RIcDFGQ2hTMWpRUXM0SzBtLU5yRUk5Q2pEVUhQOURoVFNwYllVQQ?oc=5",
       "pubDate": "2026-11-12T01:13:26.000Z",
+      "source": "Google 뉴스: 지원사업 공고/모집",
+      "category": "정부지원정책"
+    },
+    {
+      "title": "경기도, 공익사업선정위원 11명 공개 모집 - 경인미래신문",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1NV3BTcW1jUVZvSU84cHI0bWx4YWxpRFAyeVZyRG0xel9zdFMzSTZYUlUxQUJhQTlGdXhHbHlrVFlkUEh4c2RJb2ZYVHFxSmQya0JoYlM4T3h6R0Z2VmFOTXB3?oc=5",
+      "pubDate": "2026-11-12T01:07:35.000Z",
       "source": "Google 뉴스: 지원사업 공고/모집",
       "category": "정부지원정책"
     },
@@ -3403,104 +3501,6 @@
       "pubDate": "2026-11-07T06:04:38.000Z",
       "source": "매일경제 경제",
       "category": "경제"
-    },
-    {
-      "title": "조작기소특검법, 진보의 ‘마진콜’이 되지 않기를 [논설실 Pick]",
-      "link": "https://www.mk.co.kr/news/economy/12201441",
-      "pubDate": "2026-11-07T04:05:24.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "강남 급매물 35억 ‘뚝’ 떨어졌는데…집값 3.5억 ‘껑충’ 뛰는 곳 보니",
-      "link": "https://www.mk.co.kr/news/realestate/12201431",
-      "pubDate": "2026-11-07T02:04:10.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "“美 중간선거 후폭풍, 데이터센터 제동에”…13.6조 원전 ‘선급금’ 논란",
-      "link": "https://www.mk.co.kr/news/economy/12201386",
-      "pubDate": "2026-11-07T00:13:19.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "[단독] 은행, 반도체·배터리 기업 재무평가 우대한다",
-      "link": "https://www.mk.co.kr/news/economy/12201384",
-      "pubDate": "2026-11-07T00:01:37.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "Have you heard? Ethan and Hila’s divorce, Harvard’s creator summit, and Brandon Herrera’s defeat.",
-      "link": "https://www.tubefilter.com/2026/11/06/have-you-heard-ethan-hila-klein-harvard-creator-brandon-herrera/",
-      "pubDate": "2026-11-06T23:55:11.000Z",
-      "source": "Tubefilter",
-      "category": "수익화/크리에이터 이코노미"
-    },
-    {
-      "title": "UTA, FaZe vets launch ISO as a “new partner for talent”",
-      "link": "https://www.tubefilter.com/2026/11/06/iso-new-talent-management-agency-faze-uta-execs/",
-      "pubDate": "2026-11-06T22:50:16.000Z",
-      "source": "Tubefilter",
-      "category": "수익화/크리에이터 이코노미"
-    },
-    {
-      "title": "[속보] 미래에셋증권도 해킹 당해…“고객·임직원 정보 일부 유출”",
-      "link": "https://www.mk.co.kr/news/economy/12201367",
-      "pubDate": "2026-11-06T22:42:58.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "HUG, 중소기업 전문가 상담·자문 참여기업 모집 - 글로벌뉴스통신GNA",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE55NlVXNHVOOE5jeG1VZFdLNEdPZjUzM1RwSEpISUszUVpFQWs5LWlMSm5HWVNZZ1c1OUxUVE1vUXMwQlZ3UF9nRm5melZoQlYwUkNFaDVqSkIxaDJXcEN1TlBhRkRCc09jdXo4SldscWUzZnY1?oc=5",
-      "pubDate": "2026-11-06T21:40:31.000Z",
-      "source": "Google 뉴스: 지원사업 공고/모집",
-      "category": "정부지원정책"
-    },
-    {
-      "title": "The E.U. wants a new For You Page so that its citizens don’t get stuck in TikTok rabbit holes",
-      "link": "https://www.tubefilter.com/2026/11/06/european-union-eu-digital-services-act-tiktok-for-you-page-fyp/",
-      "pubDate": "2026-11-06T21:22:20.000Z",
-      "source": "Tubefilter",
-      "category": "수익화/크리에이터 이코노미"
-    },
-    {
-      "title": "Will AI slop overwhelm creators? Mark Rober isn’t worried–but his team is using AI as a “thought partner” in production",
-      "link": "https://www.tubefilter.com/2026/11/06/mark-rober-youtuber-content-creator-crunchlabs-gen-ai/",
-      "pubDate": "2026-11-06T21:05:23.000Z",
-      "source": "Tubefilter",
-      "category": "수익화/크리에이터 이코노미"
-    },
-    {
-      "title": "“혼자 늙는 것도 서러운데, 다 가져가야만 했냐”…고령 1인가구 보험료 ‘쑥’",
-      "link": "https://www.mk.co.kr/news/economy/12201283",
-      "pubDate": "2026-11-06T20:59:47.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "“고객님, 원가 너무 올라서” 하며 가격 올리더니…재료값 떨어져도 그대로?",
-      "link": "https://www.mk.co.kr/news/economy/12201282",
-      "pubDate": "2026-11-06T20:59:27.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "구글 출신 연구진, 65B 모델로 8배 큰 AI 코딩 성능 추월…개발비도 10분의 1",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=217107",
-      "pubDate": "2026-11-06T17:44:08.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "엔비디아, 미국 노후 전화국 130곳 AI 데이터센터로 전환 추진",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=217096",
-      "pubDate": "2026-11-06T17:25:00.000Z",
-      "source": "AI타임스",
-      "category": "AI"
     }
   ]
 }
