@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-13T11:58:18.725Z",
+  "lastUpdated": "2026-11-13T19:31:58.203Z",
   "count": 500,
   "items": [
     {
@@ -112,6 +112,13 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=217378",
       "pubDate": "2026-11-13T15:21:16.000Z",
       "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "Introducing ChatGPT Wallet",
+      "link": "https://openai.com/index/introducing-chatgpt-wallet",
+      "pubDate": "2026-11-13T15:00:00.000Z",
+      "source": "OpenAI",
       "category": "AI"
     },
     {
@@ -1504,6 +1511,13 @@
       "title": "경기도, 공익사업선정위원 11명 공개 모집…25일까지 접수 - 경기일보",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9DdzJxSmUxZVJCSnliREVBZnFiODhCNEFrTC0welJKNEFoaWVMbldwRGRxNUl5ZVdBWnllVkRlWWI3X1IzZ1ROeHlZMFd4SGxzYklTeUNJaUtTYlE?oc=5",
       "pubDate": "2026-11-11T23:17:37.000Z",
+      "source": "Google 뉴스: 지원사업 공고/모집",
+      "category": "정부지원정책"
+    },
+    {
+      "title": "강원문화재단, 2027년도 강원문화예술지원사업 개방형 심의위원 후보군 공개모집 - 누리일보",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9EaWVSS3VqOGs2U2VxenM3YXBwVlFfYVFLNi1LUnBkdV9mSTN1bkYxcnMwX0lrRjF6eG9VVE15ZUJ1NU9ZWFdzUS1YSzlhU0k1LWtabnFCcTdSM3Y4?oc=5",
+      "pubDate": "2026-11-11T23:10:20.000Z",
       "source": "Google 뉴스: 지원사업 공고/모집",
       "category": "정부지원정책"
     },
@@ -3485,20 +3499,6 @@
       "title": "여수시, 2027년 어선 장비 지원사업 신청자 모집 - 웹이코노미",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9PTDVUall0b0M1ZENPYzhvZHphSXBVODV5OTAtMjEyS0hiWmZrZ0dEN3IwRkItV1JacFFkeTBZZGJpbXc0eHl5SURBRlZBTXJPTDJzRGJqMHY4ZHU5OUVHMGNkcERSLW9VZVphZXZWNXV1dw?oc=5",
       "pubDate": "2026-11-09T05:31:46.000Z",
-      "source": "Google 뉴스: 지원사업 공고/모집",
-      "category": "정부지원정책"
-    },
-    {
-      "title": "정태영 현대카드 부회장, 뉴욕현대미술관 명예이사 선임",
-      "link": "https://www.mk.co.kr/news/economy/12202367",
-      "pubDate": "2026-11-09T05:14:48.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "횡성군, ‘반값 임업용자재 지원 사업’ 참여업체 모집…27일까지 접수 - 농수축산신문",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE93RTVpWVA1MUdVMVVqeEQ0WXgyQktvLXYwQ0JKYU1iUE5raGZMbllxb3JMdnJZbFdfNGotb1BmX3oyTkNuWFNOUlZETzRXenRldXdWeTFsbE1WLVFHY0Y0M3VnYVZtMG16MW52Mw?oc=5",
-      "pubDate": "2026-11-09T04:35:42.000Z",
       "source": "Google 뉴스: 지원사업 공고/모집",
       "category": "정부지원정책"
     }
