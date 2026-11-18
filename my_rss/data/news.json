@@ -1,7 +1,35 @@
 {
-  "lastUpdated": "2026-11-18T12:47:05.377Z",
+  "lastUpdated": "2026-11-18T21:44:39.397Z",
   "count": 500,
   "items": [
+    {
+      "title": "IShowSpeed is hitting the cover of LIFE Magazine on the 90th anniversary of its first issue",
+      "link": "https://www.tubefilter.com/2026/11/18/ishowspeed-is-hitting-the-cover-of-life-magazine/",
+      "pubDate": "2026-11-18T21:19:33.000Z",
+      "source": "Tubefilter",
+      "category": "수익화/크리에이터 이코노미"
+    },
+    {
+      "title": "내년 성장률 전망 2.2%→3.9% 상향했지만…마냥 기뻐할 일 아니라는데",
+      "link": "https://www.mk.co.kr/news/economy/12213127",
+      "pubDate": "2026-11-18T21:06:17.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "‘10년 실거주’ 버텼는데 되레 세금 폭탄 … 양도세 장특공 한도의 역설",
+      "link": "https://www.mk.co.kr/news/economy/12212512",
+      "pubDate": "2026-11-18T20:00:00.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "Minutes of the Federal Open Market Committee, October 27-28, 2026",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261118a.htm",
+      "pubDate": "2026-11-18T19:00:00.000Z",
+      "source": "미 연준 보도자료",
+      "category": "경제"
+    },
     {
       "title": "오픈AI \"사이버 보안, 코딩보다 큰 사업 될 것\"…신성장 동력 육성",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=217542",
@@ -108,6 +136,20 @@
       "category": "AI"
     },
     {
+      "title": "음성군, ‘2027년 영농부산물 안전처리 지원사업’ 보조사업자 모집 - 메가충청뉴스",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5qNVBZTklpV0lfR25MTU15ZF9FbC1EMmxDY29oTlc3QU1nUDVhbmctNGppMC1zMDdKbjctZDE1Z0kyZ21RSUNUcmpqOVVLeXMtUzQ1ZnlPMFF0YUFqOER3dEFWbV9jLTlwRG9GdQ?oc=5",
+      "pubDate": "2026-11-18T15:00:06.000Z",
+      "source": "Google 뉴스: 지원사업 공고/모집",
+      "category": "정부지원정책"
+    },
+    {
+      "title": "흩어진 정보 한곳에 ‘울산창업 통합포털’ 추진 - 경상일보",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBidE1xeFU4dnJDSV9LV1RQcXFCTmtRa3dRaHVMNmMwY1RJcEgtVjI2cEd6VE95UTVST3pQZGx5N1BUN01SUjNtUkc3NUYtdVNzdmlHeDhMSmJmVDI0al9xSHNMRnhKaV93NXczUA?oc=5",
+      "pubDate": "2026-11-18T15:00:03.000Z",
+      "source": "Google 뉴스: 지원사업 공고/모집",
+      "category": "정부지원정책"
+    },
+    {
       "title": "여수 AI 재난안전 진단 2만7000명 참여…지난해 기초진단 이어 영상교육 운영",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=217516",
       "pubDate": "2026-11-18T14:56:23.000Z",
@@ -206,6 +248,13 @@
       "category": "정부지원정책"
     },
     {
+      "title": "The Silent Consensus",
+      "link": "https://openai.com/index/the-silent-consensus",
+      "pubDate": "2026-11-18T10:00:00.000Z",
+      "source": "OpenAI",
+      "category": "AI"
+    },
+    {
       "title": "[AI리더의 서가]  VLA 로보틱스 입문",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=217283",
       "pubDate": "2026-11-18T09:00:00.000Z",
@@ -290,6 +339,13 @@
       "category": "경제"
     },
     {
+      "title": "Inside the Codex sandbox",
+      "link": "https://openai.com/index/inside-the-codex-sandbox",
+      "pubDate": "2026-11-18T08:00:00.000Z",
+      "source": "OpenAI",
+      "category": "AI"
+    },
+    {
       "title": "슈퍼카 타고 도슨트 해설 듣고 … 은행 VIP 서비스 진화",
       "link": "https://www.mk.co.kr/news/economy/12212622",
       "pubDate": "2026-11-18T07:42:51.000Z",
@@ -351,6 +407,13 @@
       "pubDate": "2026-11-18T06:06:17.000Z",
       "source": "매일경제 경제",
       "category": "경제"
+    },
+    {
+      "title": "Managing frontier AI risk: From training to deployment",
+      "link": "https://openai.com/index/managing-frontier-ai-risk",
+      "pubDate": "2026-11-18T06:00:00.000Z",
+      "source": "OpenAI",
+      "category": "AI"
     },
     {
       "title": "PFCT·카카오뱅크, 금융 특화 AI 기술로 국제학회서 논문 채택",
@@ -481,6 +544,13 @@
     {
       "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
       "link": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
+      "pubDate": "2026-11-18T00:00:00.000Z",
+      "source": "OpenAI",
+      "category": "AI"
+    },
+    {
+      "title": "Advancing chip design with OpenAI models",
+      "link": "https://openai.com/index/advancing-chip-design-with-our-models",
       "pubDate": "2026-11-18T00:00:00.000Z",
       "source": "OpenAI",
       "category": "AI"
@@ -1149,6 +1219,13 @@
       "pubDate": "2026-11-17T04:36:07.000Z",
       "source": "플래텀",
       "category": "창업"
+    },
+    {
+      "title": "고양시, 2027년 노인일자리 및 사회활동 지원사업 참여자 모집 - 더 데일리가드",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE90WlN2WElSY3ZOZEoyc2V3c3VkQUZwUmtKWHJrcWN0RkthU29VMUdzZzJaek5yMVk2aU5JczZIbVdFUk9hVzd2V2R4Mk5sNkNxTG4tUnh4eWNEdFZFaXphdDB4Y0YtMnFLZHY4QVlUQ04?oc=5",
+      "pubDate": "2026-11-17T04:18:59.000Z",
+      "source": "Google 뉴스: 지원사업 공고/모집",
+      "category": "정부지원정책"
     },
     {
       "title": "고양시, 2027년 노인일자리 및 사회활동 지원사업 참여자 모집 - 경기평화신문",
@@ -3424,83 +3501,6 @@
       "pubDate": "2026-11-12T23:18:51.000Z",
       "source": "Tubefilter",
       "category": "수익화/크리에이터 이코노미"
-    },
-    {
-      "title": "구글·삼성, AI 안경 시장 출사표… 12월10일 메타와 정식 격돌",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=217346",
-      "pubDate": "2026-11-12T23:00:00.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "유가 하락에 수입물가 1.8%↓…수출물량 증가율은 역대 최고",
-      "link": "https://www.mk.co.kr/news/economy/12207612",
-      "pubDate": "2026-11-12T22:58:54.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "Mark Vins’ ‘Reef to Ridge’ premiered at TIFF. Now pocket.watch is on board as its distributor.",
-      "link": "https://www.tubefilter.com/2026/11/12/reef-to-ridge-mark-vins-brave-wilderness-pocket-watch/",
-      "pubDate": "2026-11-12T22:32:48.000Z",
-      "source": "Tubefilter",
-      "category": "수익화/크리에이터 이코노미"
-    },
-    {
-      "title": "금융지주 회장 연임 문턱 높여도…10명 중 8명은 가볍게 넘는다",
-      "link": "https://www.mk.co.kr/news/economy/12207590",
-      "pubDate": "2026-11-12T22:29:12.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "4년내 ‘토종 AI칩’ 8개 만든다…민관 손잡고 자동차·로봇두뇌 총력전",
-      "link": "https://www.mk.co.kr/news/economy/12207589",
-      "pubDate": "2026-11-12T22:28:52.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "홍성군, ‘2027년 청년어촌정착지원사업’ 참여 청년 모집 - 메가충청뉴스",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9jMFcxM3ZQQ0FUNGZ4TG15SUxQLS1wbjJweVBVcFotaXhRV3VLOTYtQnNUajY0Vk5jTjVLNUJmTzUxcTBxYkdjWmtDSDFZR2l4T1pQX3EyVTZCUkg0b1haSmVxbjlVcFhjRl9XVw?oc=5",
-      "pubDate": "2026-11-12T22:13:49.000Z",
-      "source": "Google 뉴스: 지원사업 공고/모집",
-      "category": "정부지원정책"
-    },
-    {
-      "title": "젠슨황 쇼크에 美증시 하락...엔비디아 급락, AMD는 반사이익 [월가월부]",
-      "link": "https://www.mk.co.kr/news/economy/12207457",
-      "pubDate": "2026-11-12T21:39:11.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "With music sharing app, Samsung subsidiary Drops into the social media landscape",
-      "link": "https://www.tubefilter.com/2026/11/12/samsung-drops-music-sharing-social-media-app/",
-      "pubDate": "2026-11-12T21:20:57.000Z",
-      "source": "Tubefilter",
-      "category": "수익화/크리에이터 이코노미"
-    },
-    {
-      "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
-      "link": "https://openai.com/index/amplitude",
-      "pubDate": "2026-11-12T20:00:00.000Z",
-      "source": "OpenAI",
-      "category": "AI"
-    },
-    {
-      "title": "“이러다 노후 자금 다 날리겠어” … 5060 폐업 급증에 찾아낸 생존법",
-      "link": "https://www.mk.co.kr/news/economy/12206515",
-      "pubDate": "2026-11-12T20:00:00.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
-      "link": "https://openai.com/business/customer-stories/amplitude",
-      "pubDate": "2026-11-12T20:00:00.000Z",
-      "source": "OpenAI",
-      "category": "AI"
     }
   ]
 }
