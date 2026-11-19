@@ -1,7 +1,56 @@
 {
-  "lastUpdated": "2026-11-19T12:38:20.406Z",
+  "lastUpdated": "2026-11-19T22:00:30.452Z",
   "count": 500,
   "items": [
+    {
+      "title": "미국, 중국 반도체 수출 허가 강화…삼성·TSMC 일부 출하 중단",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217595",
+      "pubDate": "2026-11-20T06:23:17.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "앤트로픽, 나스닥 상장 첫날 기업가치 2조달러…스페이스X 추월",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217594",
+      "pubDate": "2026-11-20T05:25:23.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "TikTok’s next microdrama is an 81-episode musical series from Barlow & Bear",
+      "link": "https://www.tubefilter.com/2026/11/19/tiktok-microdrama-musical-series-from-barlow-bear/",
+      "pubDate": "2026-11-19T21:54:16.000Z",
+      "source": "Tubefilter",
+      "category": "수익화/크리에이터 이코노미"
+    },
+    {
+      "title": "복지포인트 내로남불…직장인은 과세, 공무원은 비과세 이유 ‘황당’",
+      "link": "https://www.mk.co.kr/news/economy/12214136",
+      "pubDate": "2026-11-19T20:37:41.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "택배박스 같은데 손이 벌벌 떨리네…‘한박스에 10억’ 뭐가 들었길래",
+      "link": "https://www.mk.co.kr/news/economy/12214133",
+      "pubDate": "2026-11-19T20:32:17.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "Top 5 Branded Videos of the Week: Tech, physics, Christmas, oh my",
+      "link": "https://www.tubefilter.com/2026/11/19/top-5-branded-videos-veritasium-bikelife-mom-ryan-trahan-marques-brownlee/",
+      "pubDate": "2026-11-19T20:00:29.000Z",
+      "source": "Tubefilter",
+      "category": "수익화/크리에이터 이코노미"
+    },
+    {
+      "title": "“AI 붕괴 오면 고통스런 경기침체 이어질 것 … 한국 집값도 위험”",
+      "link": "https://www.mk.co.kr/news/economy/12213727",
+      "pubDate": "2026-11-19T20:00:00.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
     {
       "title": "오픈AI, AI로 AMD GPU 설계 개선…“5개월 만에 1년치 진전”",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=217562",
@@ -101,6 +150,13 @@
       "category": "AI"
     },
     {
+      "title": "Federal Reserve Board issues enforcement action with former employee of First Security Bancorp",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261119a.htm",
+      "pubDate": "2026-11-19T16:00:00.000Z",
+      "source": "미 연준 보도자료",
+      "category": "경제"
+    },
+    {
       "title": "구글 “AI 끄면 검색도 포기”…뉴욕·LA·시카고 교육구, 대체 검색 검토",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=217589",
       "pubDate": "2026-11-19T15:50:00.000Z",
@@ -155,6 +211,13 @@
       "pubDate": "2026-11-19T14:19:30.000Z",
       "source": "AI타임스",
       "category": "AI"
+    },
+    {
+      "title": "커닝 걸리면 국가자격시험 10년 못본다…수석·차석 점수도 공개",
+      "link": "https://www.mk.co.kr/news/economy/12214047",
+      "pubDate": "2026-11-19T14:05:22.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
     },
     {
       "title": "데이터메이커, AI 솔루션 '시냅스' 사업화 성과로 중기부 장관 표창",
@@ -330,6 +393,13 @@
       "pubDate": "2026-11-19T08:03:57.000Z",
       "source": "매일경제 경제",
       "category": "경제"
+    },
+    {
+      "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
+      "link": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
+      "pubDate": "2026-11-19T08:00:00.000Z",
+      "source": "OpenAI",
+      "category": "AI"
     },
     {
       "title": "예산정책처 “소방 인건비 부족분 국비로 메우면 연 최대 7조 더 들어”",
@@ -558,6 +628,13 @@
     {
       "title": "850여개 핀테크 지원사업 한눈에…AI가 맞춤사업 추천도 - 매일경제 마켓",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE45dG4xZkFKbUdIU29Cd2F0OVV1ZVJJRUhaVjljLVJtUVhpS2ZOVDAxR1R2V0kwV1AyY1E2cTRVRnRIaW1lLXNpUUx5dFQ3eEh2cXc?oc=5",
+      "pubDate": "2026-11-19T03:00:01.000Z",
+      "source": "Google 뉴스: 지원사업 공고/모집",
+      "category": "정부지원정책"
+    },
+    {
+      "title": "850여개 핀테크 지원사업 한눈에…AI가 맞춤사업 추천도 - 연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBKTjNMY2k3OWpmZm5ERml4U2E5VVpRMHZtQXE0TXlzemFnUEFDNjh4c09NTlFJY1hMMk9MUk1rQlJYMzUyS21wZEtuOWJrb19RUlc0SWY3dV9zMmvSAWBBVV95cUxPUTE0MjkySHBIRnZBaTZ4UlNIaHVESVZVV0JnQ09CbVk3ckItUVVrRW52bUZLUVlUX0xKQ1F2V2dlRUxseHN3eFRERWNuc0huOF82ZEdUMXV0RWZoYmdoSXo?oc=5",
       "pubDate": "2026-11-19T03:00:01.000Z",
       "source": "Google 뉴스: 지원사업 공고/모집",
       "category": "정부지원정책"
@@ -3422,83 +3499,6 @@
       "title": "미 재무장관, 메가스피드 제재 지연에 상무부 공개 비판…러트닉 경질론까지",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=217411",
       "pubDate": "2026-11-14T18:45:47.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "엔비디아 직원들 \"젠슨 황 복귀시켜라\"…사내 게시물에 댓글 1600개",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=217410",
-      "pubDate": "2026-11-14T17:56:54.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "머스크, 젠슨 황 퇴진에 영화로 경의…앞서 \"영입하면 영광\"",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=217409",
-      "pubDate": "2026-11-14T17:37:48.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "엔비디아, 차기 CEO로 Arm 하스 접촉설…이사회 \"공식 접촉 아직 없어\"",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=217407",
-      "pubDate": "2026-11-14T17:03:50.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "젠슨 황 투자에 제동 걸었던 CFO가 후임으로…엔비디아 전략 바뀌나",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=217406",
-      "pubDate": "2026-11-14T16:49:31.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "말레이시아, 메가스피드 AI 칩 재수출 의혹 조사 착수",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=217405",
-      "pubDate": "2026-11-14T15:53:09.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "해커블 - 해커톤·AI공모전·창업지원사업 공고를 매주 정리해 보여주는 서비스 - GeekNews",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBDS1BmSk02aWxKZUZ5RkQyMjJDR19SS0YwWUVreDFVM0k3THpEWHd4NjJlZmZZV2VhSkZONkNTR2NFVDNpVExHd1Rtbw?oc=5",
-      "pubDate": "2026-11-14T12:39:09.000Z",
-      "source": "Google 뉴스: 지원사업 공고/모집",
-      "category": "정부지원정책"
-    },
-    {
-      "title": "딥시크·문샷 등 중국 4개사, 수출 통제 '블랙웰' 사용 흔적 발견",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=217397",
-      "pubDate": "2026-11-14T11:18:31.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "[기고] AI 시대, ‘검색되는 브랜드’에서 ‘추천되는 브랜드’로",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=217392",
-      "pubDate": "2026-11-14T11:15:00.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "앤트로픽 IPO, 중국·홍콩 투자자 공모주 배정 제한…미국 안보 규제 영향",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=217402",
-      "pubDate": "2026-11-14T10:53:41.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "오픈AI, AI 에이전트가 대신 결제하는 '챗GPT 월렛' 출시",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=217400",
-      "pubDate": "2026-11-14T10:41:50.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "[AI 이슈트렌드] 젠슨 황 퇴진 쇼크 속 트럼프 행보·앤트로픽 개인정보 유출 등 화제",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=217404",
-      "pubDate": "2026-11-14T10:27:42.000Z",
       "source": "AI타임스",
       "category": "AI"
     }
