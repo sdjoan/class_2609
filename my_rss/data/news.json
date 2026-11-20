@@ -1,7 +1,49 @@
 {
-  "lastUpdated": "2026-11-20T16:48:55.235Z",
+  "lastUpdated": "2026-11-20T23:47:39.541Z",
   "count": 500,
   "items": [
+    {
+      "title": "앤트로픽 수학자 \"클로드로 167년 난제 리만 가설 증명\"...검증 착수",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217638",
+      "pubDate": "2026-11-21T08:36:00.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "[11월20일] 구글 \"AGI는 끝이 아니다\"…AGI 이후 4가지 발전 경로 제시",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217605",
+      "pubDate": "2026-11-21T07:00:00.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "YouTubers won big at the first Clio Creator Awards",
+      "link": "https://www.tubefilter.com/2026/11/20/youtubers-won-clio-creator-awards-2026-ishowspeed-michelle-khare-mrbeast-dhar-mann/",
+      "pubDate": "2026-11-20T23:41:44.000Z",
+      "source": "Tubefilter",
+      "category": "수익화/크리에이터 이코노미"
+    },
+    {
+      "title": "“여보, 퇴직금 5000만원 날릴 뻔했어”…임피 앞둔 직장인 꼭 확인할 ‘이것’",
+      "link": "https://www.mk.co.kr/news/economy/12215160",
+      "pubDate": "2026-11-20T23:03:41.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "YouTube bows out of World Cup rights race; Netflix might step up",
+      "link": "https://www.tubefilter.com/2026/11/20/youtube-fifa-world-cup-streaming-rights-netflix-bid/",
+      "pubDate": "2026-11-20T22:05:20.000Z",
+      "source": "Tubefilter",
+      "category": "수익화/크리에이터 이코노미"
+    },
+    {
+      "title": "Federal Reserve announces College Fed Challenge winners",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/other20261120b.htm",
+      "pubDate": "2026-11-20T21:15:00.000Z",
+      "source": "미 연준 보도자료",
+      "category": "경제"
+    },
     {
       "title": "구글, AI 모델 이름에 원소 주기율표 활용...다음은 '헬륨'?",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=217633",
@@ -227,6 +269,20 @@
       "category": "AI"
     },
     {
+      "title": "Combatting adversarial distillation",
+      "link": "https://openai.com/index/combatting-adversarial-distillation",
+      "pubDate": "2026-11-20T10:00:00.000Z",
+      "source": "OpenAI",
+      "category": "AI"
+    },
+    {
+      "title": "은행 두 곳과 연구개발특구가 함께 고른 서남권 스타트업, 광주서 투자 상담",
+      "link": "https://platum.kr/archives/299177?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%259d%2580%25ed%2596%2589-%25eb%2591%2590-%25ea%25b3%25b3%25ea%25b3%25bc-%25ec%2597%25b0%25ea%25b5%25ac%25ea%25b0%259c%25eb%25b0%259c%25ed%258a%25b9%25ea%25b5%25ac%25ea%25b0%2580-%25ed%2595%25a8%25ea%25bb%2598-%25ea%25b3%25a0%25eb%25a5%25b8-%25ec%2584%259c%25eb%2582%25a8%25ea%25b6%258c-%25ec%258a%25a4%25ed%2583%2580",
+      "pubDate": "2026-11-20T09:40:17.000Z",
+      "source": "플래텀",
+      "category": "창업"
+    },
+    {
       "title": "“AI 붕괴 오면 고통스런 경기침체 이어질 것…한국 집값도 위험” [딥머니 토크]",
       "link": "https://www.mk.co.kr/news/economy/12214904",
       "pubDate": "2026-11-20T09:19:21.000Z",
@@ -337,6 +393,20 @@
       "pubDate": "2026-11-20T08:29:05.000Z",
       "source": "매일경제 경제",
       "category": "경제"
+    },
+    {
+      "title": "APEC 무대에 휴머노이드 로봇을 세운 선전",
+      "link": "https://platum.kr/archives/299174?utm_source=rss&utm_medium=rss&utm_campaign=apec-%25eb%25ac%25b4%25eb%258c%2580%25ec%2597%2590-%25ed%259c%25b4%25eb%25a8%25b8%25eb%2585%25b8%25ec%259d%25b4%25eb%2593%259c-%25eb%25a1%259c%25eb%25b4%2587%25ec%259d%2584-%25ec%2584%25b8%25ec%259a%25b4-%25ec%2584%25a0%25ec%25a0%2584",
+      "pubDate": "2026-11-20T08:07:27.000Z",
+      "source": "플래텀",
+      "category": "창업"
+    },
+    {
+      "title": "생성형 AI 없이 만든 GTA 6, ‘AI 이전 마지막 대작’ 평가",
+      "link": "https://platum.kr/archives/299171?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%2583%259d%25ec%2584%25b1%25ed%2598%2595-ai-%25ec%2597%2586%25ec%259d%25b4-%25eb%25a7%258c%25eb%2593%25a0-gta-6-ai-%25ec%259d%25b4%25ec%25a0%2584-%25eb%25a7%2588%25ec%25a7%2580%25eb%25a7%2589-%25eb%258c%2580%25ec%259e%2591-%25ed%258f%2589%25ea%25b0%2580",
+      "pubDate": "2026-11-20T07:48:36.000Z",
+      "source": "플래텀",
+      "category": "창업"
     },
     {
       "title": "“EU 탄소·통상 빗장 뚫어라”… 韓-EU, 공급망·투자 원팀 짠다",
@@ -610,6 +680,20 @@
       "pubDate": "2026-11-20T00:02:05.000Z",
       "source": "플래텀",
       "category": "창업"
+    },
+    {
+      "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
+      "link": "https://openai.com/business/customer-stories/hebbia",
+      "pubDate": "2026-11-20T00:00:00.000Z",
+      "source": "OpenAI",
+      "category": "AI"
+    },
+    {
+      "title": "Can AI help scientists identify promising drug candidates?",
+      "link": "https://openai.com/index/introducing-medchembench",
+      "pubDate": "2026-11-20T00:00:00.000Z",
+      "source": "OpenAI",
+      "category": "AI"
     },
     {
       "title": "작은 모델이 먼저 짐작하고 큰 모델이 확인, 서비스하며 스스로 나아지는 AI 추론 기술",
@@ -3416,90 +3500,6 @@
       "link": "https://openai.com/index/science-at-the-frontier",
       "pubDate": "2026-11-16T12:00:00.000Z",
       "source": "OpenAI",
-      "category": "AI"
-    },
-    {
-      "title": "미국·한국 등 9개국, 중국 견제 AI 공급망 보호 공동 선언",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=217435",
-      "pubDate": "2026-11-16T11:49:52.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "포티넷코리아, 김종덕 신임 지사장 선임...20년만에 친정 복귀",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=217440",
-      "pubDate": "2026-11-16T11:43:29.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "SKT, 효성중공업과 AI 데이터센터 전력 인프라 맞손",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=217437",
-      "pubDate": "2026-11-16T11:42:40.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "메가스피드 \"앨리스 황 지난해 퇴사\"…중국 AI 칩 우회 공급 의혹도 부인",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=217436",
-      "pubDate": "2026-11-16T11:41:36.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "평창군, 반값 임업용 자재 사업 민간위탁 업체 24일까지 모집 - 국제뉴스",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9TV09CYW1MT1JHV1cxUU5DaEhFb1NQLWY3SmxGQ1FCMmFtR1lRbVRxajZ6T190YW9yTFJGcVlLRGdXTFFva2twbzJEZ1pRY1NfNS1mVnZWQ2xiUVF4bmJLWDFFZnZMLUVpUmo4b01n?oc=5",
-      "pubDate": "2026-11-16T11:39:14.000Z",
-      "source": "Google 뉴스: 지원사업 공고/모집",
-      "category": "정부지원정책"
-    },
-    {
-      "title": "태양광 혜택 사라지자… 네덜란드 가정용 배터리 설치 '폭증'",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=217300",
-      "pubDate": "2026-11-16T11:35:00.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "중국, 30시간 체공 태양광 무인기 시험비행…한국 기록은 170시간",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=217430",
-      "pubDate": "2026-11-16T11:25:00.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "사우디, 1.9GW 규모 태양광발전 사업 사전자격심사 착수",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=217431",
-      "pubDate": "2026-11-16T11:20:00.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "희토류 등 해외 핵심광물 투자 5년만에 재개",
-      "link": "https://www.mk.co.kr/news/economy/12210276",
-      "pubDate": "2026-11-16T10:52:21.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "[단독] “외노자 3년 일해도 이자 0원”...‘짠물’ 출국보험에 고용주 울상",
-      "link": "https://www.mk.co.kr/news/economy/12210263",
-      "pubDate": "2026-11-16T09:49:22.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "How Revolut raises ambition without lowering the bar",
-      "link": "https://openai.com/business/customer-stories/revolut",
-      "pubDate": "2026-11-16T09:30:00.000Z",
-      "source": "OpenAI",
-      "category": "AI"
-    },
-    {
-      "title": "[AI리더의 서가] AI 에이전트와 스프링 배치를 활용한 배치 엔지니어링",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=217277",
-      "pubDate": "2026-11-16T09:00:00.000Z",
-      "source": "AI타임스",
       "category": "AI"
     }
   ]
