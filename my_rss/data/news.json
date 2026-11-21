@@ -1,7 +1,28 @@
 {
-  "lastUpdated": "2026-11-21T06:18:26.286Z",
+  "lastUpdated": "2026-11-21T15:58:25.788Z",
   "count": 500,
   "items": [
+    {
+      "title": "머스크의 우주 데이터센터, 첫 금융 장벽…채권단 \"GPU 반입 제한\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217650",
+      "pubDate": "2026-11-21T18:55:59.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "AI 작업 능력, 6개월 만에 16시간→40시간…\"판단력 여전히 한계\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217649",
+      "pubDate": "2026-11-21T18:20:47.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "구글, 제미나이 앱에 GIF 생성 기능 출시…오픈AI 이어 도입",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217648",
+      "pubDate": "2026-11-21T16:39:48.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
     {
       "title": "젠슨 황, 20여년 전부터 직원들에게 폭언·위협…불만 제기 이어져",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=217644",
@@ -50,6 +71,20 @@
       "pubDate": "2026-11-21T10:32:11.000Z",
       "source": "AI타임스",
       "category": "AI"
+    },
+    {
+      "title": "“아픈 사람도 가입된다더니”…보험금 5500만원 주고 유족 고소한 보험사 [어쩌다 세상이]",
+      "link": "https://www.mk.co.kr/news/economy/12215323",
+      "pubDate": "2026-11-21T10:12:10.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "잘나가는 한국 보며 “상처에 소금을 뿌리는 듯한 고통”…씁쓸한 일본 왜?",
+      "link": "https://www.mk.co.kr/news/economy/12215318",
+      "pubDate": "2026-11-21T10:02:34.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
     },
     {
       "title": "[AI카툰] Bob, Senior IT guy - 밥, 코스모스의 시작",
@@ -108,11 +143,25 @@
       "category": "AI"
     },
     {
+      "title": "졸업 미루며 대기업만 노리는 청년들…“첫 단추 잘못 꿰면 인생 꼬일 수도”",
+      "link": "https://www.mk.co.kr/news/economy/12215302",
+      "pubDate": "2026-11-21T08:43:55.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
       "title": "앤트로픽 수학자 \"클로드로 167년 난제 리만 가설 증명\"...검증 착수",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=217638",
       "pubDate": "2026-11-21T08:36:00.000Z",
       "source": "AI타임스",
       "category": "AI"
+    },
+    {
+      "title": "“널 가족이라 생각하지만, 돈은 좀 아껴야겠어”…댕댕이 펫보험 ‘주목’",
+      "link": "https://www.mk.co.kr/news/economy/12215285",
+      "pubDate": "2026-11-21T07:42:53.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
     },
     {
       "title": "[11월20일] 구글 \"AGI는 끝이 아니다\"…AGI 이후 4가지 발전 경로 제시",
@@ -2453,6 +2502,13 @@
       "category": "AI"
     },
     {
+      "title": "고양시, 2027년 노인일자리 및 사회활동 지원사업 참여자 모집 - 사회적경제뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE5UTFF5UFZucTg1N2xZbVBQOXpGLUUyM3FHTm1oNi1tLXFjdTRBdG5EOEc0eklVS1lJamdGNnhQRQ?oc=5",
+      "pubDate": "2026-11-17T23:58:00.000Z",
+      "source": "Google 뉴스: 지원사업 공고/모집",
+      "category": "정부지원정책"
+    },
+    {
       "title": "“CCTV로 건강 체크하고 울음소리로 기침 추적”... 스마트축산 AI 경진대회",
       "link": "https://www.mk.co.kr/news/economy/12212004",
       "pubDate": "2026-11-17T23:56:40.000Z",
@@ -3444,62 +3500,6 @@
       "link": "https://www.aitimes.com/news/articleView.html?idxno=217465",
       "pubDate": "2026-11-16T18:06:58.000Z",
       "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "영상 생성 AI, 1년 만에 판도 역전…중국 모델이 상위권 장악",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=217463",
-      "pubDate": "2026-11-16T18:00:00.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "앤트그룹, 로봇에 '촉각' 더하는 AI 공개…물체 잡는 힘까지 판단",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=217455",
-      "pubDate": "2026-11-16T17:57:15.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "수주잔고 100배 폭증… 국내 AI 인프라 업계, 3분기 실적 '약진'",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=217462",
-      "pubDate": "2026-11-16T17:38:33.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "엔비디아 '그루트 2', 로봇 동작 넘어 미래 예측…시연 5회로 성공률 95%",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=217447",
-      "pubDate": "2026-11-16T17:18:33.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "같은 전남인데 저수율 52.5%p 차이…구례 33.5% 최저·여순광 86% 최고",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=217445",
-      "pubDate": "2026-11-16T17:10:00.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "전력난·주민 반발에 AI 데이터센터 바다로…파력 발전까지 추진",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=217459",
-      "pubDate": "2026-11-16T17:06:36.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "[게시판] 멋쟁이사자처럼 베트남에 '피지컬 AI 데이터랩' 개소 등 단신",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=217456",
-      "pubDate": "2026-11-16T17:00:00.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "Broadening access to AI for scientists",
-      "link": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
-      "pubDate": "2026-11-16T17:00:00.000Z",
-      "source": "OpenAI",
       "category": "AI"
     }
   ]
