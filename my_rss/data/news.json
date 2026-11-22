@@ -1,13 +1,48 @@
 {
-  "lastUpdated": "2026-11-21T21:35:17.048Z",
+  "lastUpdated": "2026-11-22T01:58:06.170Z",
   "count": 500,
   "items": [
+    {
+      "title": "챗GPT·클로드, 모바일 앱 나란히 개편…AI 에이전트 기능 전면에",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217654",
+      "pubDate": "2026-11-22T09:09:35.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "LGU+ 조직개편...\"AI 사업 성과 창출 가속\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217651",
+      "pubDate": "2026-11-22T09:00:00.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
     {
       "title": "손정의, SK하이닉스 1조달러 인수 검토…월가에 자금 조달 타진",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=217653",
       "pubDate": "2026-11-22T05:59:45.000Z",
       "source": "AI타임스",
       "category": "AI"
+    },
+    {
+      "title": "“공정성 집착과 AI발전 충돌”...이민진, 수능 사태에 일침",
+      "link": "https://www.mk.co.kr/news/economy/12215427",
+      "pubDate": "2026-11-22T01:12:26.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "정부가 ‘지방차등 전기료’ 모델 삼았는데…스웨덴, 공급부작용에 정책 유턴",
+      "link": "https://www.mk.co.kr/news/economy/12215394",
+      "pubDate": "2026-11-21T23:54:59.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "춘천시, 중소기업 근로자 임대보증금 지원사업 모집 연장 - 뉴스파이어",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1kQllVVENLbGVnNk9ENFdlVDdRVHVNbWVmd1FHRWQtRkNrYTFXcXVoZ1hLQjlfMk1RdlJXQ2RKWk5iWTVGQ2JlRzF5dnp6bWQxbjREUUhDM1FBSzhHOEVXcU5ycnVFQXdxSWM4MzgyVQ?oc=5",
+      "pubDate": "2026-11-21T23:14:49.000Z",
+      "source": "Google 뉴스: 지원사업 공고/모집",
+      "category": "정부지원정책"
     },
     {
       "title": "“주담대 금리 치솟아도 돈 빌릴 곳 없으니”…집단대출 늘며 잔액 증가폭 ‘쑥’",
@@ -3464,41 +3499,6 @@
       "title": "“모바일 뱅킹 쓴다지만 너무하네”…올해만 400대 폐쇄된 ATM, 신한은행 최다",
       "link": "https://www.mk.co.kr/news/economy/12210827",
       "pubDate": "2026-11-16T23:36:23.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "오픈 모델 도입 고민하는 기업들, 서울서 ‘선택권’과 실제 운영법 논의",
-      "link": "https://platum.kr/archives/298729?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%2598%25a4%25ed%2594%2588-%25eb%25aa%25a8%25eb%258d%25b8-%25eb%258f%2584%25ec%259e%2585-%25ea%25b3%25a0%25eb%25af%25bc%25ed%2595%2598%25eb%258a%2594-%25ea%25b8%25b0%25ec%2597%2585%25eb%2593%25a4-%25ec%2584%259c%25ec%259a%25b8%25ec%2584%259c-%25ec%2584%25a0%25ed%2583%259d%25ea%25b6%258c%25ea%25b3%25bc",
-      "pubDate": "2026-11-16T23:32:05.000Z",
-      "source": "플래텀",
-      "category": "창업"
-    },
-    {
-      "title": "Top 50 Most Viewed YouTube Channels Worldwide • Week Of 11/15/2026",
-      "link": "https://www.tubefilter.com/2026/11/16/top-50-most-viewed-youtube-channels-worldwide-week-of-11-15-2026/",
-      "pubDate": "2026-11-16T23:06:57.000Z",
-      "source": "Tubefilter",
-      "category": "수익화/크리에이터 이코노미"
-    },
-    {
-      "title": "Hearst is working with creators to execute original content and brand deals on the fly",
-      "link": "https://www.tubefilter.com/2026/11/16/hearst-magazines-communication-creator-program-brand-deals/",
-      "pubDate": "2026-11-16T21:25:23.000Z",
-      "source": "Tubefilter",
-      "category": "수익화/크리에이터 이코노미"
-    },
-    {
-      "title": "죽어라 공부해서 얻은 ‘사짜 직업’…“AI로 땄나?” 취급에 일자리도 전멸",
-      "link": "https://www.mk.co.kr/news/economy/12210643",
-      "pubDate": "2026-11-16T20:50:20.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "억지로 눌러놓은 기름값, 청구서 날아왔다…정유사 “손실, 정부 계산의 5배”",
-      "link": "https://www.mk.co.kr/news/economy/12210636",
-      "pubDate": "2026-11-16T20:38:31.000Z",
       "source": "매일경제 경제",
       "category": "경제"
     }
