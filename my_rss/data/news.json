@@ -1,13 +1,132 @@
 {
-  "lastUpdated": "2026-11-27T22:33:06.624Z",
+  "lastUpdated": "2026-11-28T06:59:23.261Z",
   "count": 500,
   "items": [
+    {
+      "title": "앨리스 황 관련 중국 데이터센터서 블랙웰 확인…일련번호까지 추적",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217891",
+      "pubDate": "2026-11-28T15:49:25.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "오픈AI, 애플에 맞소송…\"협력업체 압박해 AI 기기 생산 방해\"",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217889",
+      "pubDate": "2026-11-28T12:02:54.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "[AI카툰] Bob, Senior IT guy - 밥, 휴먼러닝하기",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217895",
+      "pubDate": "2026-11-28T10:00:00.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "[내면 지도 그리기] 44 Inner Mapping: 나를 찾는 지도",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217886",
+      "pubDate": "2026-11-28T10:00:00.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "창문으로 태양광 발전하고 AI로 발전량 예측…일본 간사이전력 실증 추진",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217830",
+      "pubDate": "2026-11-28T09:20:00.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "주택용 태양광, 폭염 사망 위험도 낮출 수 있다…일본 44개 지역 분석",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217836",
+      "pubDate": "2026-11-28T09:15:00.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "태양광 패널, 새 배설물로 성능 최대 11.4% 저하…빗물 세척에도 한계",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217832",
+      "pubDate": "2026-11-28T09:15:00.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "텐센트, AI로 비만·암 치료 후보물질 설계…네이처에 연구 성과",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217890",
+      "pubDate": "2026-11-28T09:11:38.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
+    {
+      "title": "미국·유럽 잇단 사이버 공격…AI 시대 디지털 인프라 취약성 드러나",
+      "link": "https://www.aitimes.com/news/articleView.html?idxno=217888",
+      "pubDate": "2026-11-28T08:22:12.000Z",
+      "source": "AI타임스",
+      "category": "AI"
+    },
     {
       "title": "[11월27일] 16세 고등학생도 AI로 수학 난제 해결 주장…이제는 검증이 문제",
       "link": "https://www.aitimes.com/news/articleView.html?idxno=217855",
       "pubDate": "2026-11-28T07:00:00.000Z",
       "source": "AI타임스",
       "category": "AI"
+    },
+    {
+      "title": "“내 아내는 9만5천원 받고 나는 왜 5만원?”…실손 세대 따라 보험금 달랐다",
+      "link": "https://www.mk.co.kr/news/economy/12220697",
+      "pubDate": "2026-11-28T05:33:34.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "“눈물 머금고 예금 깼는데 괜히 머금었습니다”…이자 손해 줄이는 방법",
+      "link": "https://www.mk.co.kr/news/economy/12220684",
+      "pubDate": "2026-11-28T04:28:01.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "대구 북구시니어클럽 '2027년 노인 일자리·사회활동 지원 사업' 참여자 모집 - OMATE 시니어",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9aeVJoZkVKVW9nUWxDSlc3d3hFYUZNS0Q3bGlKS2ZaaU5yeGkyZ3A3TFNpMlphRVhXbVdrUm43MjZQQXE0SFZwbHF2WnRmZ2dvTmJQSTJoOWxhNzJIME0wOXk2RTY?oc=5",
+      "pubDate": "2026-11-28T02:33:01.000Z",
+      "source": "Google 뉴스: 지원사업 공고/모집",
+      "category": "정부지원정책"
+    },
+    {
+      "title": "무안군, 2027년 노인 일자리 사업 참여자 3,271명 모집 > 뉴스 - 더코리아",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1SVTNhVmRQNFJ4R3JfVlg4MXNhQUJvNDNmVVNVSjRCSHdBM3lNZC1vYmk2anBqUUVsZ2hVR3dTVmxuSlJsQVozM04xRQ?oc=5",
+      "pubDate": "2026-11-28T01:34:26.000Z",
+      "source": "Google 뉴스: 지원사업 공고/모집",
+      "category": "정부지원정책"
+    },
+    {
+      "title": "“스미마셍, 엔화가 없는데요”…일본 라멘집서 원화코인 쓸 날 올까",
+      "link": "https://www.mk.co.kr/news/economy/12220665",
+      "pubDate": "2026-11-28T01:31:16.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "[단독] “동서울변환소 증설 성난 민심 달래자”…감일지구 가구당 年10만원 더 받는다",
+      "link": "https://www.mk.co.kr/news/economy/12220664",
+      "pubDate": "2026-11-28T01:24:39.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
+    },
+    {
+      "title": "제주시, 2027년 노인일자리 참여자 모집...1만 1997명 선발 - 헤드라인제주",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9hNjhRSnFlTC1oV3BGWEFXNjhWMjR1YnhjU1QzR3B2RUpoOHZIOG9BbVFBUXhwc2wybXpBT05TX19oUUtQOUMzQnkzSzE2OWdJUURuaTJ6OHBTR3U2bEtPNkc0czJhXzI5U0w3TVBqcHFrb1E?oc=5",
+      "pubDate": "2026-11-28T00:00:00.000Z",
+      "source": "Google 뉴스: 지원사업 공고/모집",
+      "category": "정부지원정책"
+    },
+    {
+      "title": "“한은 금리 인상, 이제 시작일 뿐?”…다시 빨라진 글로벌 ‘긴축 시계’",
+      "link": "https://www.mk.co.kr/news/world/12220621",
+      "pubDate": "2026-11-27T22:52:49.000Z",
+      "source": "매일경제 경제",
+      "category": "경제"
     },
     {
       "title": "서울시 영등포구, 어르신일자리 참여자 4384명 모집 - 국민뉴스",
@@ -3382,125 +3501,6 @@
       "pubDate": "2026-11-24T22:36:05.000Z",
       "source": "Google 뉴스: 지원사업 공고/모집",
       "category": "정부지원정책"
-    },
-    {
-      "title": "월 최대 110만원 지원…강릉 청년어업인 모집에 관심 집중 - http://www.reporternside.com/",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE8xZXJKcXdRNzBiV05fcGdZSDBSM05yZk14WmdoRlZDTkhtV2VrVXlZbVFCaHpPaGhXSDNpMUhuMzN6QkJqZmhGWTQxYXNNWlFyX2RPc2VqT3JLYXBTQlB1a2cxZkZyWWUwcU5ZVXJsbVlIZw?oc=5",
-      "pubDate": "2026-11-24T22:30:10.000Z",
-      "source": "Google 뉴스: 지원사업 공고/모집",
-      "category": "정부지원정책"
-    },
-    {
-      "title": "실제 고객 데이터로 상담 연습, 크디랩 금융권용 AI 상담 훈련 솔루션 출시",
-      "link": "https://platum.kr/archives/299439?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%258b%25a4%25ec%25a0%259c-%25ea%25b3%25a0%25ea%25b0%259d-%25eb%258d%25b0%25ec%259d%25b4%25ed%2584%25b0%25eb%25a1%259c-%25ec%2583%2581%25eb%258b%25b4-%25ec%2597%25b0%25ec%258a%25b5-%25ed%2581%25ac%25eb%2594%2594%25eb%259e%25a9-%25ea%25b8%2588%25ec%259c%25b5%25ea%25b6%258c%25ec%259a%25a9-ai-%25ec%2583%2581%25eb%258b%25b4",
-      "pubDate": "2026-11-24T22:25:00.000Z",
-      "source": "플래텀",
-      "category": "창업"
-    },
-    {
-      "title": "Roblox wants players to celebrate Thanksgiving by building a “ridiculously tall tower”",
-      "link": "https://www.tubefilter.com/2026/11/24/roblox-the-great-build-thanksgiving-event/",
-      "pubDate": "2026-11-24T22:13:48.000Z",
-      "source": "Tubefilter",
-      "category": "수익화/크리에이터 이코노미"
-    },
-    {
-      "title": "매달 해야 하는 AED 점검과 CPR 훈련 이력, 한 시스템에서 관리하는 기업용 응급 대응 서비스",
-      "link": "https://platum.kr/archives/299406?utm_source=rss&utm_medium=rss&utm_campaign=%25eb%25a7%25a4%25eb%258b%25ac-%25ed%2595%25b4%25ec%2595%25bc-%25ed%2595%2598%25eb%258a%2594-aed-%25ec%25a0%2590%25ea%25b2%2580%25ea%25b3%25bc-cpr-%25ed%259b%2588%25eb%25a0%25a8-%25ec%259d%25b4%25eb%25a0%25a5-%25ed%2595%259c-%25ec%258b%259c%25ec%258a%25a4%25ed%2585%259c%25ec%2597%2590%25ec%2584%259c-%25ea%25b4%2580",
-      "pubDate": "2026-11-24T22:11:00.000Z",
-      "source": "플래텀",
-      "category": "창업"
-    },
-    {
-      "title": "“중국 전기차랑 뭐로 싸우라고요”…국산차 세액공제 제동 건 재경부",
-      "link": "https://www.mk.co.kr/news/economy/12217683",
-      "pubDate": "2026-11-24T22:08:08.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "강동구 “2027년 어르신 일자리 총 4401명 모집” - 문화일보",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1HRjRNbGVfWnZWa011TDZPQlFsR01ab1BYV09VRkZLN0phNFVWdVpLckJHTVRLemUwdWJwckZOM3lsbjNqMm9HWDVOckFxZm1w?oc=5",
-      "pubDate": "2026-11-24T21:47:51.000Z",
-      "source": "Google 뉴스: 지원사업 공고/모집",
-      "category": "정부지원정책"
-    },
-    {
-      "title": "배민 배달로봇 딜리, 엘리베이터 타고 아파트 세대 앞까지 배달 추진",
-      "link": "https://platum.kr/archives/299422?utm_source=rss&utm_medium=rss&utm_campaign=%25eb%25b0%25b0%25eb%25af%25bc-%25eb%25b0%25b0%25eb%258b%25ac%25eb%25a1%259c%25eb%25b4%2587-%25eb%2594%259c%25eb%25a6%25ac-%25ec%2597%2598%25eb%25a6%25ac%25eb%25b2%25a0%25ec%259d%25b4%25ed%2584%25b0-%25ed%2583%2580%25ea%25b3%25a0-%25ec%2595%2584%25ed%258c%258c%25ed%258a%25b8-%25ec%2584%25b8%25eb%258c%2580-%25ec%2595%259e",
-      "pubDate": "2026-11-24T21:35:00.000Z",
-      "source": "플래텀",
-      "category": "창업"
-    },
-    {
-      "title": "젠슨황 약발 하루만에...나스닥 다시 급락 [월가월부]",
-      "link": "https://www.mk.co.kr/news/economy/12217655",
-      "pubDate": "2026-11-24T21:34:36.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "“노후자금으로 환경운동 마라”…퇴직연금서 ESG펀드 빼라는 트럼프",
-      "link": "https://www.mk.co.kr/news/economy/12217649",
-      "pubDate": "2026-11-24T21:31:43.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "PDF 보험 약관을 AI가 읽는 데이터로, 올거나이즈 손보사 약관 구조화 사업 마쳐",
-      "link": "https://platum.kr/archives/299412?utm_source=rss&utm_medium=rss&utm_campaign=pdf-%25eb%25b3%25b4%25ed%2597%2598-%25ec%2595%25bd%25ea%25b4%2580%25ec%259d%2584-ai%25ea%25b0%2580-%25ec%259d%25bd%25eb%258a%2594-%25eb%258d%25b0%25ec%259d%25b4%25ed%2584%25b0%25eb%25a1%259c-%25ec%2598%25ac%25ea%25b1%25b0%25eb%2582%2598%25ec%259d%25b4%25ec%25a6%2588-%25ec%2586%2590%25eb%25b3%25b4%25ec%2582%25ac",
-      "pubDate": "2026-11-24T21:05:00.000Z",
-      "source": "플래텀",
-      "category": "창업"
-    },
-    {
-      "title": "나랏돈으로 생계 유지합니다…보조금에 기대는 성인, 200만명 훌쩍",
-      "link": "https://www.mk.co.kr/news/economy/12217615",
-      "pubDate": "2026-11-24T20:43:42.000Z",
-      "source": "매일경제 경제",
-      "category": "경제"
-    },
-    {
-      "title": "양주시, 2027년 노인일자리 및 사회활동 지원사업 참여자 2,730명 모집 - 아시아뉴스통신",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBieEJNWWZfbmFqUW1IZ2M4TlJJMEJSdjFzSlR6bWhsaERjc01wR00wUXppSUoxZW5ZVm9lemZ3RjRhUUpaV0cxbUFFV3RHRmtOSjZPaHl5aDNUTDk1aUEycmFvVnN5aFU0aWtndXBGUWQxMVdF?oc=5",
-      "pubDate": "2026-11-24T20:04:23.000Z",
-      "source": "Google 뉴스: 지원사업 공고/모집",
-      "category": "정부지원정책"
-    },
-    {
-      "title": "Minutes of the Board's discount rate meetings on October 19 and October 28, 2026",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261124a.htm",
-      "pubDate": "2026-11-24T19:00:00.000Z",
-      "source": "미 연준 보도자료",
-      "category": "경제"
-    },
-    {
-      "title": "환경재단, ‘글로벌 시민사회 리더십 지원사업 3기’ 참가팀 모집 - 행정수도뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1QbzhrY3R5dFBHNENaX2pVRmJtVDZ5SHZPekVzSE1ORDNxVjVuX0t0NDB6V1BzRUR6djJDUmNtOFFTMFpzcGFLblg5MVhCLXhza0pwYjRlRmd3SVlHeDViOWswSVFVUQ?oc=5",
-      "pubDate": "2026-11-24T18:51:40.000Z",
-      "source": "Google 뉴스: 지원사업 공고/모집",
-      "category": "정부지원정책"
-    },
-    {
-      "title": "앤트로픽, ‘클로드 십’ 출시…AI가 코드 검토부터 수정·승인까지 자동화",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=217729",
-      "pubDate": "2026-11-24T18:28:58.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "내년 정부 AI 예산 1.6배 확대…풀스택 AX 수출 추진",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=217751",
-      "pubDate": "2026-11-24T18:17:40.000Z",
-      "source": "AI타임스",
-      "category": "AI"
-    },
-    {
-      "title": "Z.ai, ‘GLM-5.4’에 루프 트랜스포머 적용…오픈AI 이어 반복 연산 경쟁",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=217728",
-      "pubDate": "2026-11-24T18:15:58.000Z",
-      "source": "AI타임스",
-      "category": "AI"
     }
   ]
 }
